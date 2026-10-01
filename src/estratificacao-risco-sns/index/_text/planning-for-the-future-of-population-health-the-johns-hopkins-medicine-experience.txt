@@ -1,0 +1,217 @@
+# Fonte: Planning for the Future of Population Health The Johns Hopkins Medicine Experience.pdf
+# Páginas: 6
+
+=== PÁGINA 1 ===
+Planning for the Future of Population Health: The
+Johns Hopkins Medicine Experience
+Berkowitz, Scott A
+ProQuest document link
+ABSTRACT (ENGLISH)
+Am J Manag Care. 2023;29(7):e189-e191. https://doi.org/10.37765/ajmc.2023.89398 _____ Takeaway Points In this
+article, we review an evolution of population health management organization at Johns Hopkins Medicine with the
+purpose of establishing the following: * A new structural foundation to enable improved execution across clinical and
+administrative population health disciplines. * Initial priorities around high-risk patient management inclusive of care
+management with wraparound support services to help address social determinants of health. * A multiyear strategic
+plan with guiding stars focused on reducing avoidable utilization and health disparities and advancing strategies in
+data analytics, clinical services, value-based care, and health system coordination. _____ Johns Hopkins Medicine
+(JHM) recently underwent a significant evolution of its population health delivery with the introduction of a new Office
+of Population Health (OPH).1-3 A transition of various programs and functions from across JHM became housed
+within a centralized, provider-integrated office. [...]the analytics and evaluation pillar is multidisciplinary and insight
+driven, designed to surface new knowledge and advance solutions toward real-time analytics, inclusive of population
+segmentation, predictive risk, and the ability to evaluate impact and value generation. The Maryland Primary Care
+Program includes a Care Transformation Organization to provide value-added care transformation services to
+primary care practices.7 Initial Priorities and Strategic Planning OPH established initial priorities to meet enterprise
+needs, including (1) high-risk/high-utilization patient identification and connection to care management resources; (2)
+development of CFCT workflows; (3) collaboration with the Office of Diversity, Inclusion and Health Equity related to
+social determinants of health (SDOH) data collection and response; (4) BH intervention refinement; and (5) the
+development of a 3-year strategic plan. Core areas of focus for the strategic plan included the following areas, for
+which concrete tactics were developed: (1) creation and execution of an analytics road map so that data-driven
+capabilities drive the work, (2) clinical service delivery to enable advanced population management for priority
+populations, (3) engagement and performance on value-based care programs that improve health and catalyze the
+health system journey to value, and (4) aligning health system goals and financial models across JHM entities
+related to population health activities (Table).
+FULL TEXT
+ABSTRACT
+Johns Hopkins Medicine underwent a significant evolution with a new Office of Population Health (OPH), inclusive of
+a hybrid clinical and administrative structure, to optimally align expertise with care delivery functions. Initial priorities
+included identification of high-risk patients to receive care management, integrated behavioral health, and
+wraparound supports to address social determinants of health. A cross-functional care team provides
+multidisciplinary support for primary care practice patient needs, and efforts through the Baltimore Metropolitan
+Diabetes Regional Partnership have helped accelerate scaling of evidence-based diabetes prevention and
+management programs across the state. Through a multistakeholder process, OPH and partners developed a 3-
+year strategic plan, with guiding stars of reducing avoidable utilization and disparities in care. The plan prioritized (1)
+generation of a data and analytics road map, (2) advanced population management clinical services for priority
+populations, (3) improved performance on value-based care programming, and (4) enhanced health system
+coordination. With a new OPH, Johns Hopkins Medicine is better positioned to execute on value-based initiatives in
+
+=== PÁGINA 2 ===
+support of its patients.
+Am J Manag Care. 2023;29(7):e189-e191. https://doi.org/10.37765/ajmc.2023.89398
+_____
+Takeaway Points
+In this article, we review an evolution of population health management organization at Johns Hopkins Medicine with
+the purpose of establishing the following:
+* A new structural foundation to enable improved execution across clinical and administrative population health
+disciplines.
+* Initial priorities around high-risk patient management inclusive of care management with wraparound support
+services to help address social determinants of health.
+* A multiyear strategic plan with guiding stars focused on reducing avoidable utilization and health disparities and
+advancing strategies in data analytics, clinical services, value-based care, and health system coordination.
+_____
+Johns Hopkins Medicine (JHM) recently underwent a significant evolution of its population health delivery with the
+introduction of a new Office of Population Health (OPH).1-3 A transition of various programs and functions from
+across JHM became housed within a centralized, provider-integrated office. The principal goal was to improve
+coordination across the continuum of care and integration among physician groups, hospitals, home care, and other
+delivery and financing constructs of JHM. In doing so, OPH aligns longitudinal, measurement-based care that can
+ultimately serve all patients and payers in delivering a patient-centered care model as a population health services
+organization (PHSO) advances execution on health outcomes. There had been 3 stages: (1) building a hybrid
+clinical and administrative organizational structure; (2) establishing initial priorities for development, performance
+management, and execution; and (3) advancing a multistakeholder strategic planning process to formalize
+objectives for the next few years. As others around the country seek to look critically at their population health
+infrastructure and strategic development, we hope this approach may prove useful.
+Building the Foundation
+The vision for a new centralized OPH originated with JHM senior leadership to advance provider-based integration
+and performance. A search process identified a chief population health officer and vice president of population
+health, reporting to the health system president, with an understanding of the local Johns Hopkins and community
+landscape and with expertise on improving care coordination and value in care delivery. The reporting structure can
+be important in navigating the complexity of population health delivery and financing in an academic health system
+context.4,5 After reviewing various population health models around the country, this leader identified a hybrid
+structure of clinical and administrative disciplines. OPH established a provider-led senior leadership governance to
+hold it accountable and to provide insights and guidance. Executive directors for administration and for clinical
+services were identified through national search processes to oversee respective domains. Ambulatory care
+management and behavioral health (BH) resources, a project management team and supportive services from the
+health plan, and a cadre of community health workers (CHWs) supported through a Maryland job creation initiative
+were realigned within this emerging structure. Several existing initiatives were funded through the state of Maryland,
+and an incremental financing model spanning JHM entities enabled development of a foundation that could be
+scaled toward payer-agnostic capabilities.
+Establishing Clinical and Administrative Pillars
+The clinical services delivery aligns a cross-functional care team (CFCT) deployed to provide supportive services to
+high-risk/high-utilizing populations, development of a transitional-based care platform, and community health
+activities. The CFCT includes care management professionals, BH licensed clinical social workers with psychiatry
+oversight, pharmacists, and CHWs working as an interprofessional collaborative. OPH is engaged in operational
+redesign to optimize deployment and engagement of the CFCT model to outperform targets set forth on value-based
+care arrangements, as well as a more seamless postacute care transition. Within a community health pillar, OPH
+focuses on promoting health equity through social needs screening and referral, partnership with community-based
+
+=== PÁGINA 3 ===
+organizations, and a CHW team deployed through a whole-person care model. An administrative services pillar
+incorporates budgeting, financial accountability and sustainability, project and performance management, policies
+and procedures, and other support functions. Finally, the analytics and evaluation pillar is multidisciplinary and
+insight driven, designed to surface new knowledge and advance solutions toward real-time analytics, inclusive of
+population segmentation, predictive risk, and the ability to evaluate impact and value generation.
+OPH oversees various care transformation programs funded through the state of Maryland via its unique all-payer
+financing model and has incorporated these initiatives within a broader framework toward delivery of PHSO
+services. As an example, there is a $43 million 5-year partnership between Johns Hopkins Health System and the
+University of Maryland Medical Center to support improved diabetes prevention and management known as the
+Baltimore Metropolitan Diabetes Regional Partnership (BMDRP).6 The BMDRP is seeking to dramatically increase
+referrals and enrollment for both the CDC Diabetes Prevention Program and American Diabetes Association
+Diabetes Self-Management Training. Although there is focus on meeting scale target objectives, there is also
+interest in finding a mechanism to deliver these services beyond the Medicare population as they are beneficial
+universally. The Maryland Primary Care Program includes a Care Transformation Organization to provide value-
+added care transformation services to primary care practices.7
+Initial Priorities and Strategic Planning
+OPH established initial priorities to meet enterprise needs, including (1) high-risk/high-utilization patient identification
+and connection to care management resources; (2) development of CFCT workflows; (3) collaboration with the
+Office of Diversity, Inclusion and Health Equity related to social determinants of health (SDOH) data collection and
+response; (4) BH intervention refinement; and (5) the development of a 3-year strategic plan.
+Being able to identify newly high-risk/high-utilizing patients to provide timely and appropriate care management
+along with wraparound support resources was an initial priority. Identification of risk was both retrospective (2 or
+more hospitalizations or observation stays, or 3 or more emergency department visits in the last 6 months) and
+prospective (an ACG risk score of >0.5 for predicting hospitalization in the next 6 months), or by direct provider
+referrals. High-risk patient lists were generated every 2 weeks and shared with care management and other
+disciplines. To improve coordination, near-real-time patient lists were generated at the time of hospitalization to
+enable "in-reach" from ambulatory care teams to inpatient care teams. Clinical processes and workflow development
+also focused on interdisciplinary patient assessments and coordination among CFCT disciplines. Social needs
+screening leveraged the Epic SDOH wheel and the Findhelp (formerly Aunt Bertha) platform was selected to identify
+community resource support opportunities.
+OPH simultaneously advanced a strategic planning process with dozens of representatives from across the
+enterprise. "Bending the utilization curve" and "reducing health disparities" were identified by stakeholders as 2
+guiding stars for the process. Core areas of focus for the strategic plan included the following areas, for which
+concrete tactics were developed: (1) creation and execution of an analytics road map so that data-driven capabilities
+drive the work, (2) clinical service delivery to enable advanced population management for priority populations, (3)
+engagement and performance on value-based care programs that improve health and catalyze the health system
+journey to value, and (4) aligning health system goals and financial models across JHM entities related to population
+health activities (Table). In addition to these core areas of focus, the strategic planning process identified 4 priority
+areas that would require significant enterprise-wide collaboration to advance, inclusive of all-payer care delivery, BH
+expansion, a postacute care road map, and implementation of cross-continuum care pathways for chronic
+conditions.
+OPH now implements its strategic plan, following its analytics road map to identify priority populations and deploy its
+care model, while harmonizing population health activities across JHM and leveraging value-based care initiatives
+with a goal of improving health and optimizing performance. Within a complex and matrixed organization such as an
+academic health system, ensuring alignment with other centralized functions and individual delivery entities and
+departments can be challenging but, if prioritized and achieved, can dramatically improve synergies and reduce
+redundancy. This is particularly important at this time of financial challenge as health care emerges from the COVID-
+
+=== PÁGINA 4 ===
+19 pandemic and OPH continues to evolve its operating model to achieve impact and build the PHSO toward all-
+payer care delivery.
+Author Affiliations: Johns Hopkins Medicine (SAB, KWS), Baltimore, MD; Johns Hopkins University School of
+Medicine (SAB), Baltimore, MD; Johns Hopkins Health System (TN, KWS), Baltimore, MD.
+Source of Funding: None.
+Author Disclosures: Dr Berkowitz reports serving as a volunteer on the board of directors on multiple Johns Hopkins
+entities, including the Johns Hopkins Medicine Care Transformation Organization, Johns Hopkins Home Care
+Group, Johns Hopkins Clinical Alliance, and Howard County General Hospital; he also reports receiving an
+honorarium for serving on the advisory board for the National Institutes of Health (NIH)–funded award program
+"Development, Piloting and Dissemination of an Integrated Clinical and Social Multi-level Decision Support (CDS)
+Platform to Address Social Determinants of Health (SDOH) Among Minority Populations in Baltimore City" (principal
+investigator: Weiner/Hatef; R01MD015844; sponsor: NIH). Mr Sowers is employed by Johns Hopkins to advance
+population health strategy within the organization. Mr Norman reports no relationship or financial interest with any
+entity that would pose a conflict of interest with the subject matter of this article.
+Authorship Information: Concept and design (SAB, TN); drafting of the manuscript (SAB, TN, KWS); critical revision
+of the manuscript for important intellectual content (SAB, TN, KWS); administrative, technical, or logistic support
+(SAB, KWS); and supervision (SAB).
+Address Correspondence to: Scott A. Berkowitz, MD, MBA, Johns Hopkins Medicine Office of Population Health,
+5801 Smith Ave, Davis Bldg, Ste 210, Mt Washington Campus, Baltimore, MD 21209. Email: sberkow3@jhmi.edu.
+REFERENCES
+1. Berkowitz SA, Miller ED. Accountable care at academic medical centers—lessons from Johns Hopkins. N Engl J
+Med. 2011;364(7):e12. doi:10.1056/NEJMp1100076
+2. Berkowitz SA, Parashuram S, Rowan K, et al; Johns Hopkins Community Health Partnership (J-CHiP) Team.
+Association of a care coordination model with health care costs and utilization: the Johns Hopkins Community
+Health Partnership (J-CHiP). JAMA Netw Open. 2018;1(7):e184273. doi:10.1001/jamanetworkopen.2018.4273
+3. Johns Hopkins Medicine Office of Population Health. Accessed February 11, 2023.
+https://www.hopkinsmedicine.org/population-health/
+4. Stein D, Chen C, Ackerly DC. Disruptive innovation in academic medical centers: balancing accountable and
+academic care. Acad Med. 2015;90(5):594-598. doi:10.1097/ACM.0000000000000606
+5. Conway SJ, Berkowitz SA. Population health and academic medical centers: high cost meets high efficiency. Prim
+Care. 2019;46(4):631-640. doi:10.1016/j.pop.2019.07.010
+6. Johns Hopkins Medicine Diabetes Prevention and Education Program. Accessed February 11, 2023.
+https://www.hopkinsmedicine.org/population-health/dpep/about-us/
+7. Maryland Primary Care Program. Maryland Department of Health. Accessed February 11, 2023.
+https://health.maryland.gov/mdpcp/Pages/home.aspx
+https://cdn.sanity.io/images/0vv8moc6/ajmc/3b7019d5042b91776b91360c4a84fd2c5494840d-
+161x67.jpg?fit=crop&auto=format
+DETAILS
+Business indexing term: Subject: Strategic planning Performance management
+Subject: Ambulatory care; Patients; Diabetes; Medicine; Collaboration; Evolution; Teams;
+Value-based care; Primary care; Health disparities; Subacute care; Strategic planning;
+Performance management
+
+=== PÁGINA 5 ===
+Location: Baltimore Maryland; United States--US; Maryland
+Company / organization: Name: Johns Hopkins Medicine; NAICS: 611310, 622110
+Publication title: The American Journal of Managed Care; Jamesburg
+Volume: 29
+Issue: 7
+Publication year: 2023
+Publication date: Jul 2023
+Section: News
+Publisher: MultiMedia Healthcare Inc.
+Place of publication: Jamesburg
+Country of publication: United States, Jamesburg
+Publication subject: Medical Sciences
+ISSN: 10880224
+e-ISSN: 19362692
+Source type: Scholarly Journal
+Language of publication: English
+Document type: Journal Article
+ProQuest document ID: 2840541082
+Document URL: https://www.proquest.com/scholarly-journals/planning-future-population-health-johns-
+hopkins/docview/2840541082/se-2?accountid=38384
+Copyright: Copyright MultiMedia Healthcare Inc. 2023
+Last updated: 2023-12-20
+Database: ProQuest One Business
+LINKS
+Database copyright (cid:211) 2024 ProQuest LLC. All rights reserved.
+
+=== PÁGINA 6 ===
+Terms and Conditions Contact ProQuest

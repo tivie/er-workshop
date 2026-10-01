@@ -1,0 +1,296 @@
+# Fonte: WHO-EURO-2018-3032-42790-59709-eng.pdf
+# Páginas: 6
+
+=== PÁGINA 1 ===
+GGOOOODD PPRRAACCTTIICCEE BBRRIIEEFF
+POPULATION STRATIFICATION:
+A fundamental instrument used for population health
+management in Spain
+José Cerezo Cerezo1 Carmen Arias López 2
+Motivation and summary
+Key Messages
+Changing health services from a disease-centred to a patient-centred
+approach was one of objectives of the Spanish Strategy for Approaching
+Chronicity in the National Health System (2012). A strategic priority for
+• Risk stratifi cation tools such
+facilitating this transformation was considered to be identifi cation of the
+as the Adjusted Morbidity
+health needs of every patient, so that interventions could be tailored.
+groups (AMG) can assist
+In the framework of the project “Stratifi cation of the population of the
+health systems in progressing
+National Health System”, a locally developed and tested “population
+from disease-centred to
+grouper”, Adjusted Morbidity Groups (AMG), was used in the majority of
+patient-centred care.
+the Spanish regions to stratify patients’ risks according to morbidity and
+complexity (Ministry of Health, Social Services and Equality, 2018). Risk • The AMG can be used to
+stratifi cation is widely used in population health management, health estimate current and future
+service planning and clinical management. risks for mortality, morbidity
+and various indicators of
+Stratifi cation of the health risks of people with chronic diseases has been
+health service utilization,
+adopted in many European countries to strengthen population health
+enhancing health care
+management and provide better-tailored services. Some countries have
+management.
+purchased or adapted existing software, and others, like Spain, have
+developed novel, country-specifi c population tools for grouping and • The AMG are particularly
+health risk assessment (Dueñas-Espín et al., 2016; Nalin et al., 2016). relevant for addressing
+These practices are aligned with the European framework for action on patients with chronic
+integrated health services delivery as one of the key strategies for moving comorbid conditions from
+towards people-centred health services (WHO Regional Offi ce for Europe, both a system-wide and a
+2016). clinical approach and allow
+benchmarking at various
+Adjusted morbidity groups levels.
+• The AMG have proved to
+Process be fl exible and transferable
+among regions.
+AMG were set up in the Catalan Health Service by the Catalan Health Institute
+• To develop and put into
+and the TicSalut Foundation as part of the Catalan Prevention and Chronic
+practice a tool of this
+Care Programme. Later, the Spanish Ministry of Health, Social Services and
+nature, reliable, up-to-date,
+Equality promoted two consecutive collaboration agreements with the
+systematized, homogeneous,
+TicSalut Foundation (Catalan Health Service), which enabled the extension
+computerized primary
+of the AMG from Catalonia to the vast majority of the Spanish regions. By
+health care records are
+2015, 38 million people had been grouped (Monterde et al., 2016; Ministry
+indispensable.
+of Health, Social Services and Equality, 2018).
+1 Consultant, WHO Barcelona Office for Health Systems Strengthening, Division of Health Systems
+and Public Health.
+2 Technical officer of the Strategy for Addressing Chronicity in the National Health System,
+Subdivision of Quality and Innovation, Ministry of Health, Social Services and Equality.
+
+=== PÁGINA 2 ===
+Nature of AMG
+AMG is a tool for population grouping and risk stratification that takes into account two factors:
+multimorbidity and complexity. The process requires the codified diagnostic codes of users’
+morbidity, the date of diagnosis and, as the principal source of information, data collected in
+electronic primary health care records. Acute diagnoses are taken into consideration only if they
+were made during the study period (usually one year), while chronic diagnoses are considered
+regardless of the date.
+Grouping by morbidity: Individuals are classifi ed into one of seven morbidity groups by their
+assigned international diagnostic codes, as follows: healthy population, pregnancy and/or labour,
+acute disease, chronic disease in one system, chronic disease in two or three systems, chronic disease
+in four or more systems and cancer.
+Grouping by complexity: Each morbidity group (except the healthy population) is divided into
+fi ve subgroups of complexity, the level of which is determined by analysis of a set of resource use
+variables, such as primary care visits, pharmaceutical prescriptions, mortality and risk for hospital
+admission. The complexity calculation was based on information on the population of Catalonia in
+2011 (7.5 million). Combining morbidity and complexity resulted in 31 AMG.
+Individual clinical labels and complexity index: The AMG includes two additional kinds of
+information on each patient. First, an individual clinical label for the most relevant and/or prevalent
+disease is selected from a list of 80 agreed, prioritized health problems. Secondly, a numerical
+complexity index is calculated that allows pyramidal risk stratifi cation, in which each patient is
+allocated to a risk level or stratum (Fig. 1).
+Fig.1. Stratifi cation pyramid based on complexity index
+HHiigghh--rriisskk ppooppuullaattiioonn:: pppeeeoooppllee wwiitthhh aannn iinnddiivviiddduuaall ccoommpplleexxiittyy vvaalluuee
+D
+gggrreeeaatteerr ttthhaann tthhaatt ooff tthhheee 9955tthh ppeerrrcceeennttiillee oofff tthhee ppooppuullaattiioonn wwiitthh
+cchhhrroonniiccc dddiisseeaassee
+MMooddeerraattee--rriisskk ppooppuullaattiioonn:: ppeeooppllee wwiitttthhh aaann iinnddiivviiddduuaall ccoommpplleexxiittyy
+C
+vvaalluuuee bbbeeettwweeeenn tthhee 888000ttthhhhh aaanndd 9955tthh pppeeerrrcceennttiilleess ooff tthhaatt ooff tthhee
+ppoooppuuuulllaaatttiioonn wwiitthh cchhrroonnniiiccc dddiisseeaassee
+LLooww--rriisskk ppooppuullaattiioonn:: ppeeooppllee wwiitthh aaannn iiinnnddiivviidduuaall ccoommpplleexxiittyy
+B
+vvvaaalluuueeee lloowweerr tthhaann tthhaatt ooooff tthhee 8800tthh ppeerrccceennnttiillee ooff tthhee ppooppuullaattiioonn
+wwwwiiittthhh cchhrroonniicc ddiisseeaasseeee
+A
+PPooppuullaattiioonn wwiitthh nnoo cchhrroonniicc ddiisseeaassee
+Towards population health management
+The AMG is helpful for better understanding the distribution of health risks in the population. The
+Spanish health system is coordinated nationally but is decentralized to the 17 Spanish regions, many
+of which have used the AMG for diff erent analytical purposes. Some examples are given below.
+Temporal and geographical distribution of morbidity: Fig. 2 shows the proportions of the
+population in the seven morbidity groups in one region: 68% had at least one chronic disease
+and 44% experienced multimorbidity. About 15% of the patients with multimorbidity had chronic
+diseases that aff ected four or more organ systems. Such simple fi gures can be used for analysis over
+time and by geographical area for better planning decisions, for example.
+© World Health Organization 2018
+Document number: WHO/EURO:2018-3032-42790-59709
+
+=== PÁGINA 3 ===
+Fig. 2. Population distribution by morbidity group
+Acute disease
+Chronic ddiisseeaassee iinn
+oonnee ssyysstteemm Pregnancy and labour
+Morbidity groups %
+Healthy population 13.4
+Healthy population
+Pregnancy and
+labour 1.1
+Acute disease 16.1
+Active cancer
+Chronic disease in
+one system 24
+Chronic disease in
+two or three systems 29.2
+Chronic disease in Chronic disease in
+four or more systems 14.9 four or more systems
+Chronic ddiisseeaassee iinn
+Active cancer 1.3
+two or three systems
+Source: Ministerio de Sanidad, Servicios Sociales e Igualdad, 2018
+Resource needs by health risk. Fig. 3 shows the results in another region, where pyramidal risk
+stratifi cation was used to calculate the values for a set of variables of resource use and cost analysis
+for every risk stratum. The highest risk stratum, which includes only 5% of the population, consumed
+the highest share of health resources, with a clear gradient across the risk spectrum. Changes over
+time and by geographical area can be useful for ensuring that resource allocation patterns meet
+needs.
+Fig. 3. Mortality and resource use by risk stratum
+Mortality Visits to Emergency Emergency Dispensed Health care
+Population
+rate primary admission visit rate drugs expenditure
+(%)
+(x 100) care (mean) rate (x 100) (x 100) (mean) (mean)
+High- 5 16.6 22.2 58.1 160.8 13.4 7067€
+risk
+population
+Moderate-risk
+15 1.1 12.4 7.5 72.5 8.0 2121€
+population
+Low-risk population 30 0.2 7.0 2.9 51.9 3.6 779€
+Baseline-risk population 50 0.1 2.0 0.6 17.3 1.0 164€
+Source: Ministerio de Sanidad, Servicios Sociales e Igualdad, 2018
+Life-course and gender distribution of health risk. In a third region, patients stratifi ed according
+to their complexity index were distributed on the population pyramid as depicted in Fig. 4. This
+revealed the numbers of high-risk individuals by sex and age group. As observed in this example,
+the higher the age group, the more patients are in the high-risk stratum. This becomes especially
+relevant for those over 65 years, who are most likely to have multimorbidity. High-risk patients are
+also seen in the age group 50-60 years, with a direct impact on the labour and economic sectors.
+This information can be particularly helpful for designing interventions.
+
+=== PÁGINA 4 ===
+Fig. 4. Population distribution by age, sex and risk stratum
+Source: Ministerio de Sanidad, Servicios Sociales e Igualdad, 2018
+Chronic conditions and health risk: The proportion of high-risk patients in each of the most
+relevant noncommunicable diseases can be also determined by the AMG. Fig. 5 shows the results
+for a fourth region of Spain, with the proportions of the population at high risk shown in red. The
+proportion of patients in the highest complexity category depends on the disease. Whereas the
+vast majority of people with high blood pressure were in the moderate or low risk strata, a high
+proportion of patients with heart failure were classified as high-risk patients. This information
+is valuable for forecasting use of health resources according to the noncommunicable disease
+profile of the population.
+Fig. 5. Frequency (%) of the main chronic diseases by risk stratum
+Source: Ministerio de Sanidad, Servicios Sociales e Igualdad, 2018
+Impact and uses of the AMG
+In a survey carried out in 2017 by the Ministry of Health, Social Services, and Equality, Spanish
+regions reported a wide range of applications for the AMG for better health management and
+resource planning.
+Population health management and case fi nding: The most widespread use is in fi nding cases
+in primary and secondary health care in order to include them in the regional programmes for
+complex or advanced chronic patients. For example, in Madrid, the risk calculated in the AMG is
+used, with other variables and with a clinician’s validation, to refer patients to such programmes.
+The strength of the concordance between the AMG risk levels (high, medium, low) and the
+intervention levels assigned by physicians (high, medium, low) was assessed as moderate to good
+(González González et al., 2017).
+
+=== PÁGINA 5 ===
+Proactive case management of high-risk patients in primary care: The AMG are also used as
+routine health indicators in individual primary health care records for proactive clinical decision-
+making. In some regions, such as Catalonia, the AMG risk score is listed in the patient’s electronic
+health records and is thus accessible to health care professionals (physicians, family nurses, case
+managers etc.). They can then draw up a list of their most complex patients by combining the
+information provided by the stratifi cation tool with other clinical variables and therefore compare a
+patient with the rest of their assigned population.
+Resource planning: In other regions, the AMG are used in macro-management to estimate current
+or future health care costs and resource utilization in order to allocate health resources accordingly.
+For example, in the Balearic Islands, the AMG are used to calculate the annual pharmaceutical budget
+of primary health care family physicians. The pharmaceutical expenditure and the complexity
+indexes of the patients assigned to the family practitioner in the previous year are used to estimate
+the next year’s budget, and the estimates are adjusted by the practitioner’s actual pharmaceutical
+expenditure to determine the fi nal annual budget.
+Strategic purchasing: The AMG are used in Catalonia with other variables to adjust the annual per
+capita payment to primary health care teams. In the Madrid region, the AMG are used to calculate
+the capitative prescription budget of primary health care centres.
+Health workforce planning: The AMG can contribute to optimizing health workforce planning
+and allocation. In Catalonia, the Nursing Council has proposed a new model for establishing the
+minimum number of nurses required on primary health care teams to ensure the quality of health
+care. In this model, morbidity measured by the AMG was part of the allocation formula.
+Research and decision-making in public health: Research uses may include identifi cation of
+vulnerable groups, analysis of population morbidity or selection of controls for epidemiological
+studies. One region used the AMG complexity index to prioritize individuals for eligibility for
+infl uenza vaccination and for alerting them by SMS.
+Performance assessment: The AMG are also used to adjust many indicators of effi ciency and
+quality in primary and emergency health care.
+Lessons learned
+•
+The information provided by risk stratifi cation tools such as the AMG can assist health systems
+in progressing from disease-centred to patient-centred care. Through better patient health
+profi ling, health services can respond more accurately and comprehensively to the actual health
+needs of both groups and individuals.
+•
+The AMG can be used to estimate current and future risks for mortality, morbidity and various
+indicators of health service utilization, enhancing health care management by the introduction
+of transparent, evidence-based criteria in decision-making about health programmes, policies
+and resource allocation.
+•
+The AMG are particularly relevant for addressing patients with chronic comorbid conditions
+from both a system-wide and a clinical approach. Such patients are readily identifi ed through
+the AMG and can be included in case management programmes for patients with complex
+chronic disease (with physician validation). In addition, inclusion in the AMG of information from
+electronic health records allows health professionals (physicians, nurses) to forecast a patient´s
+prognosis and tailor clinical interventions accordingly.
+•
+The AMG allow benchmarking at various levels. Health managers can identify and compare
+areas with larger health demands and resource consumption with better-performing areas. In
+addition, physicians and nurses can compare patients according to their complexity index and
+with average rates in their health area.
+•
+The AMG have proved to be fl exible and transferable among regions, as shown by their use in 13
+of the 17 Spanish autonomous health systems.
+•
+In order to develop and put into practice a tool of this nature, reliable, up-to-date, systematized,
+homogeneous, computerized primary health care records are indispensable.
+•
+In decentralized health systems such as that in Spain, successful regional initiatives can be
+identifi ed and scaled up if there are adequate mechanisms for selecting good practices and
+eff ective collaboration agreements.
+
+=== PÁGINA 6 ===
+Acknowledgments
+We acknowledge the contribution of the representatives of the Autonomous
+Regions in the Committee of the Strategy for Addressing Chronicity in the
+Spanish National Health System and their information systems managers who
+participated in this project. We also thank all the health professionals who
+register relevant clinical data in their daily work, which is essential for the
+AMG.
+References
+Dueñas-Espín I, Vela E, Pauws S, Bescos C, Cano I, Cleries M et al. Proposals
+for enhanced health risk assessment and stratification in an integrated care
+scenario. BMJ Open 2016;6(4):e010301.
+González González AI, Miquel Gómez AM, Rodríguez Morales D, Hernández
+Pascual M, Sánchez Perruca L, Mediavilla Herrera I et al. (2017) Concordancia
+y utilidad de un sistema de estratificación para la toma de decisiones clínicas.
+[Concordance and usefulness of a stratification system for clinical decision
+making.] Aten Primaria 2017;49(4):240–7.
+Ministerio de Sanidad, Servicios Sociales e Igualdad. Informe del proyecto de
+Estratificación de la población por Grupos de Morbilidad Ajustados (GMA) en el
+Sistema Nacional de Salud (2014–2016). [Report on the project for population
+stratification by Adjusted Morbidity Groups (AMG) in the National Health
+System (2014–2016).] Madrid; 2018 (http://www.msssi.gob.es/organizacion/
+sns/planCalidadSNS/pdf/informeEstratificacionGMASNS_2014-2016.pdf).
+Monterde D, Vela E, Clèries M. Los grupos de morbilidad ajustados: nuevo
+agrupador de morbilidad poblacional de utilidad en el ámbito de la atención
+primaria. [Adjusted morbidity groups: a new method for grouping population
+morbidity for use in the field of primary care.] Aten Primaria 2016;48(10):674–
+82.
+Nalin M, Bedbrook A, Baroni I, Romano M, Bousquet J, editors. White paper on
+deployment of stratification methods. Brussels: European Commission; 2016.
+WHO Regional Office for Europe. Strengthening people-centred health
+systems in the WHO European Region: framework for action on integrated
+health services delivery. Copenhagen; 2016 (http://www.euro.who.int/__
+data/assets/pdf_file/0004/315787/66wd15e_FFA_IHSD_160535.pdf?ua=1 ).
+Contact us
+This brief is part of our work programme on strengthening
+the health system response to NCDs. For more information,
+check out our website at
+http://www.euro.who.int/en/health-systems-response-to-NCDs.
+© World Health Organization 2018
+Document number: WHO/EURO:2018-3032-42790-59709

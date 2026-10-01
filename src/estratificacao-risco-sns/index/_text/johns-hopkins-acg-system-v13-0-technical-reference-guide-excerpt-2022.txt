@@ -1,0 +1,1568 @@
+# Fonte: Johns Hopkins ACG System v13.0 Technical Reference Guide excerpt (2022).pdf
+# Páginas: 42
+
+=== PÁGINA 1 ===
+The Johns Hopkins ACG®
+System
+Excerpt from Version 13.0 Technical Reference
+Guide
+June 2022
+
+=== PÁGINA 2 ===
+Important Warranty Limitation and Copyright Notices
+Copyright2022,TheJohns Hopkins University.Allrightsreserved.
+ThisdocumentisproducedbytheDepartmentofHealthPolicyandManagementatTheJohns
+Hopkins University,Bloomberg SchoolofPublicHealthandJohnsHopkinsHealthCareSolutions.
+ThetermsTheJohns Hopkins ACG® System,ACG®,ADG®,AdjustedClinicalGroups®areregistered
+trademarksofTheJohns Hopkins Universityandmay not beusedwithoutthepriorexpresswritten
+consentofJohnsHopkins Universityoranyofitsrelatedentitiesoraffiliates.
+Thisdocumentisprovidedasaninformationresourceonmeasuringpopulationmorbidity forthose
+withexpertiseinrisk-adjustmentmodels.Thedocumentationshouldbeusedforinformational
+purposesonly.Informationcontainedhereindoesnot constituterecommendationfororadvice
+aboutmedicaltreatmentorbusinesspractices.
+Nopermissionisgrantedtoredistributethisdocumentation.No permissionisgranted to modify or
+otherwisecreatederivativeworksofthisdocumentation.
+Copiesmay bemadeonlybytheindividual who requestedthedocumentationinitially fromJohns
+Hopkins ortheiragentsandonlyfor thatperson'suseandthoseofhis/herco-workersatthesame
+placeof employment.All suchcopiesmustincludethecopyrightnoticeabove,thisgrant of
+permissionandthedisclaimerbelowmustappearinallcopiesmade;andsolongasthenameof
+TheJohnsHopkinsUniversityisnotusedinanyadvertisingorpublicitypertainingto theuseor
+distributionofthissoftwarewithoutspecific,writtenpriorauthorization.
+Disclaimer: Thisdocumentationis providedASIS,without representationastoitsfitnessforany
+purpose, andwithoutwarranty ofany kind,eitherexpressorimplied,includingwithout
+limitationtheimpliedwarrantiesofmerchantabilityandfitnessforaparticularpurpose.The
+JohnsHopkins UniversityandtheJohnsHopkinsHealthSystemshall notbeliable forany
+damages,includingspecial,indirect,incidental,orconsequentialdamages,withrespect toany
+claim arisingoutoforinconnectionwiththe use ofthe documentation,evenifit hasbeenoris
+hereafteradvisedofthepossibilityofsuchdamages.
+
+=== PÁGINA 3 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Contents
+Contents
+Chapter 1: Diagnosis-based Markers.......................................................................................4
+Morbidity Types – Aggregated Diagnosis Groups (ADGs)............................................................................4
+Patterns of Morbidity – Adjusted Clinical Groups (ACGs).........................................................................11
+Clinically Oriented Examples of ACG categories..........................................................................................23
+Resource Utilization Bands (RUBs).................................................................................................................30
+ACG Concurrent Risk.........................................................................................................................................37
+Concurrent Model Performance Assessment and Validation...................................................................38
+R-Squared......................................................................................................................................................39
+Expected to Actual Cost Ratios.................................................................................................................39
+Index ....................................................................................................................................41
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–3–
+
+=== PÁGINA 4 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+Chapter 1:
+Diagnosis-based Markers
+The Johns Hopkins ACG® System is a statistically valid, case-mix methodology that allows health care
+providers, health care organizations, and public-sector agencies to describe or predict a population’s
+past or future health care utilization and costs. The ACG System is also widely used by researchers
+and analysts to compare various patient populations’ prior health resource use, while taking into
+account morbidity or illness burden.
+The ACG System provides a number of markers derived from a patient's diagnosis code history from
+all encounters during a 12-month period. This chapter provides definition for the ACG System markers
+derived from diagnosis information.
+Morbidity Types – Aggregated Diagnosis Groups (ADGs)
+There are thousands of International Classification of Disease (ICD) diagnosis codes that clinicians can
+use to describe patients’ health conditions. The first step of the ACG grouping logic is to assign each
+diagnosis code to one or more of 32 diagnosis groups referred to as Aggregated Diagnosis Groups, or
+ADGs. The diagnosis-to-ADG mapping embedded in the ACG System software includes an ADG
+assignment for all1 ICD codes. Where a single diagnosis code indicates more than one underlying
+morbidity type, more than one ADG may be assigned. For example, in ICD-10 the code E11.31 (Type 2
+diabetes mellitus with unspecified diabetic retinopathy) would trigger both ADG 18 (Chronic Specialty:
+Unstable-Eye) and ADG 11 (Chronic Medical: Unstable).
+Diagnosis codes within the same ADG are similar in terms of both clinical criteria and expected need
+for health care resources. Just as individuals may have multiple diagnosis codes, they may have
+multiple ADGs. The following table lists all ADGs and exemplary diagnosis codes.
+ADGs and Common Diagnosis Codes Assigned to Them
+ADGs ICD-10 Diagnosis
+1.TimeLimited:Minor K52.9 NoninfectiousGastroentritis
+L22 DiaperorNapkinRash
+2.TimeLimited:Minor-Primary B09 UnspecifiedViralInfection
+Infections
+J05.0 Croup
+3.TimeLimited:Major I80.2 PhlebitisofLowerExtremities
+K56.7 ImpactionofIntestine
+4.TimeLimited:Major-Primary K75.9 Hepatitis,Unspecified
+Infections
+M00.9 PyogenicArthritis
+1 Becausetheyindicatethecauseofinjuryratherthananunderlyingmorbidity,ICD-10codesbeginningVthroughY
+havegenerallybeenexcludedfromtheDiagnosis-to-ADGmapping.ThesourceofcodesistheCenterforMedicareand
+MedicaidServices(CMS)listofICD-10-CMcodes(availablefordownloadat http://www.cms.gov).ICD-10codesare
+sourcedfrom theOfficialICD-10UpdatespublishedbytheWorldHealth Organization(WHO).
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–4–
+
+=== PÁGINA 5 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+ADGs ICD-10 Diagnosis
+5.Allergies J30.0 AllergicRhinitis,CauseUnspecified
+L50.8 OtherUrticaria
+6.Asthma J45.0 ExtrinsicAsthma
+J45.1 IntrinsicAsthma
+7.LikelytoRecur:Discrete M10.9 Gout,Unspecified
+M54.9 Backache,Unspecified
+8.LikelytoRecur:Discrete-Infection J35.1 ChronicTonsillitis
+N39.0 UrinaryTractInfection
+9.LikelytoRecur:Progressive E11.1 AdultOnsetTypeIIDiabetes
+w/Ketoacidosis
+I66.9 CerebralThrombosis
+10.ChronicMedical:Stable E10.9 Adult-OnsetType1Diabetes
+I10 EssentialHypertension
+11.ChronicMedical:Unstable D57.1 Sickle-CellAnemia
+E84.0 CysticFibrosis
+12.ChronicSpecialty:Stable- M48.9 CervicalSpondylosisWithout
+Orthopedic Myelopathy
+M24.9 OtherJointDerangement
+13.ChronicSpecialty:Stable-Ear,Nose, H90.5 CentralHearingLoss
+Throat
+H71 Cholesteatoma
+14.ChronicSpecialty:Stable-Eye H52.1 Myopia
+H11.9 UnspecifiedDisorderofConjunctiva
+16.ChronicSpecialty:Unstable- M48.0 SpinalStenosisofLumbarRegion
+Orthopedic
+M92.8 OsteochondritisDissecans
+17.ChronicSpecialty:Unstable-Ear, H81.0 Meniere'sDisease
+Nose,Throat
+H70.1 ChronicMastoiditis
+18.ChronicSpecialty:Unstable-Eye H40.9 UnspecifiedGlaucoma
+H15.0 Scleritis/Episcleritis
+20.Dermatologic A63.0 ViralWarts
+H61.0 Chondritisofexternalear
+21.Injuries/AdverseEffects:Minor S13.4 NeckSprain
+T09.0 InjurytoTrunk
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–5–
+
+=== PÁGINA 6 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+ADGs ICD-10 Diagnosis
+22.Injuries/AdverseEffects:Major S06 IntracranialInjury
+T46.0 PoisoningbyCardiotonicGlycosidesand
+SimilarDrugs
+23.Psychosocial:TimeLimited,Minor F12.1 CannabisAbuse,Unspecified
+F32.0 BriefDepressiveReaction
+24.Psychosocial:Recurrentor F41.0 PanicDisorder
+Persistent,Stable
+F50.3 Bulimia
+25.Psychosocial:Recurrentor F20.2 CatatonicSchizophrenia
+Persistent,Unstable
+F10.3 AlcoholWithdrawalDeliriumTremens
+26.Signs/Symptoms:Minor G44.1 Headache
+M79.6 PaininLimb
+27.Signs/Symptoms:Uncertain M25.4 EffusionofLowerLegJoint
+R53 MalaiseandFatigue
+28.Signs/Symptoms:Major I51.7 Cardiomegaly
+R55 SyncopeandCollapse
+29.Discretionary K40 InguinalHernia(NOS)
+L72.1 SebaceousCyst
+30.SeeandReassure N62 HypertrophyofBreast
+E65 LocalizedAdiposity
+31.Prevention/Administrative Z00.1 RoutineInfantorChildHealthCheck
+Z01.4 GynecologicalExamination
+32.Malignancy C50 MalignantNeoplasmofBreast(NOS)
+C81.9 Hodgkin'sDisease,UnspecifiedType
+33.Pregnancy Z33 PregnantState
+080.0 DeliveryinaCompletelyNormalCase
+34.Dental K02 DentalCaries
+K05.1 ChronicGingivitis
+Note: Only 32 of the 34 markers are currently in use.
+When the lenient diagnostic certainty option is applied, any single diagnosis qualifying for an ADG
+marker will turn the marker on. However, the stringent diagnostic certainty option can also be
+applied. For a subset of chronic diagnoses, there must be more than one diagnosis qualifying for the
+marker in order for the ADG to be assigned. This was designed to provide greater confidence in the
+ADGs assigned to a patient. For more information, refer to Advanced Options on page .
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–6–
+
+=== PÁGINA 7 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+ADGs are distinguished by several clinical characteristics (time limited or not, requiring primary care or
+specialty care, or addressing physical health or psycho-social needs) and the degree of refinement of
+the problem (diagnosis or symptom/sign). ADGs are not categorized by organ system or disease.
+Instead, they are based on clinical dimensions that help explain or predict the need for health care
+resources over time. The need for health care resources is primarily determined by the likelihood of
+persistence of problems and their level of severity.
+Example
+A patient with both Obstructive Chronic Bronchitis (ICD-10 code J44.9) and Congestive Heart Failure
+(ICD-10 code I50.9) will fall into only one ADG, Chronic Medical: Unstable (ADG-11), while a patient
+with Candidiasis of Unspecified Site (ICD-10-CM code B37.9) and Acute Upper Respiratory Infections of
+Unspecified Site (ICD-10-CM code J06.9) will have two ADGs, Likely to Recur: Discrete Infections (ADG-
+8), and Time Limited: Minor-Primary Infections (ADG-2), respectively.
+The criteria for ADG assignment depends on those features of a condition that are most helpful in
+understanding and predicting the duration and intensity of health care resources. Five clinical criteria
+guide the assignment of each diagnosis code into an ADG: duration, severity, diagnostic certainty, type
+of etiology, and expected need for specialty care. The Duration, Severity, Etiology, and Certainty of
+the ADGs table illustrates how each of these five clinical criteria is applied to the 32 ADGs.
+Duration
+What is the expected length of time the health condition will last? Acute conditions are time limited
+and expected to resolve completely. Recurrent conditions occur episodically with intermediate
+disease-free intervals. Chronic conditions persist and are expected to require long-term management
+generally longer than one year.
+Severity
+What is the expected prognosis? How likely is the condition to worsen or lead to impairment, death,
+or an altered physiologic state? The ADG-taxonomy divides acute conditions into minor and major
+categories corresponding to low and high severity, respectively. The system divides chronic conditions
+into stable and unstable based on the expected severity over time. Unstable conditions are more
+likely to have complications (related co-morbidities) than stable conditions and are expected to
+require more resources on an ongoing basis (i.e., more likely to need specialty care).
+Diagnostic Certainty
+Will a diagnostic evaluation be needed or will treatment be the primary focus? Some diagnosis codes
+are given for signs/symptoms and are associated with diagnostic uncertainty. As such, they may
+require watchful waiting only or substantial work-up. The three ADGs for signs/symptoms are
+arranged by expected intensity of diagnostic work-up, from low to intermediate to high.
+Etiology
+What is the cause of the health condition? Specific causes suggest the likelihood of different
+treatments. Infectious diseases usually require anti-microbial therapy; injuries may need emergency
+medical services, surgical management, or rehabilitation; anatomic problems may require surgical
+intervention; neoplastic diseases could involve surgical care, radiotherapy, chemotherapy; psychosocial
+problems require mental health services; pregnancy involves obstetric services; and, medical problems
+may require pharmacologic, rehabilitative, or supportive management.
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–7–
+
+=== PÁGINA 8 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+Expected Need for Specialty Care
+Would the majority of patients with this condition be expected to require specialty care management
+from a non-primary care provider? The routine course of care for some ADG categories implies that
+specialty care is more likely.
+Duration, Severity, Etiology, and Certainty of the ADGs
+Note: ADGs 15 and 19 are no longer used.
+ExpectedNeed
+Diagnostic forSpecialty
+ADG Duration Severity Etiology Certainty Care
+1.TimeLimited: Acute Low Medical,non- High Unlikely
+Minor infectious
+2.TimeLimited: Acute Low Medical, High Unlikely
+Minor-Primary infectious
+Infections
+3.TimeLimited: Acute High Medical,non- High Likely
+Major infectious
+4.TimeLimited: Acute High Medical, High Likely
+Major-Primary infectious
+Infections
+5.Allergies Recurrent Low Allergy High Possibly
+6.Asthma Recurrentor Low Mixed High Possibly
+Chronic
+7.Likelyto Recurrent Low Medical,non- High Unlikely
+Recur:Discrete infectious
+8.Likelyto Recurrent Low Medical, High Unlikely
+Recur:Discrete- infectious
+Infections
+9.Likelyto Recurrent High Medical,non- High Likely
+Recur: infectious
+Progressive
+10.Chronic Chronic Low Medical,non- High Unlikely
+Medical:Stable infectious
+11.Chronic Chronic High Medical,non- High Likely
+Medical: infectious
+Unstable
+12.Chronic Chronic Low Anatomic/Muscu High Likely:
+Specialty:Stable- loskeletal orthopedics
+Orthopedic
+13.Chronic Chronic Low Anatomic/Ears, High Likely:ENT
+Specialty:Stable- Nose,Throat
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–8–
+
+=== PÁGINA 9 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+ExpectedNeed
+Diagnostic forSpecialty
+ADG Duration Severity Etiology Certainty Care
+Ear,Nose,
+Throat
+14.Chronic Chronic Low Anatomic/Eye High Likely:
+Specialty:Stable- ophthalmology
+Ophthalmology
+16.Chronic Chronic High Anatomic/Muscu High Likely:
+Specialty: loskeletal orthopedics
+Unstable-
+Orthopedics
+17.Chronic Chronic High Anatomic/Ears, High Likely:ENT
+Specialty: Nose,Throat
+Unstable-Ear,
+Nose,Throat
+18.Chronic Chronic High Anatomic/Eye High Likely:
+Specialty: ophthalmology
+Unstable-
+Ophthalmology
+20.Dermatologic Acute,Recurrent LowtoHigh Mixed High Likely:
+dermatology
+21. Acute Low Injury High Unlikely
+Injuries/Adverse
+Effects:Minor
+22. Acute High Injury High Likely
+Injuries/Adverse
+Effects:Major
+23.Psychosocial: Acute Low Psychosocial High Unlikely
+TimeLimited,
+Minor
+24.Psychosocial: Recurrentor Low Psychosocial High Likely:mental
+Recurrentor Chronic health
+Chronic,Stable
+25.Psychosocial: Recurrentor High Psychosocial High Likely:mental
+Recurrentor Chronic health
+Persistent,
+Unstable
+26. Uncertain Low Mixed High Unlikely
+Signs/Symptoms:
+Minor
+27. Uncertain Uncertain Mixed High Uncertain
+Signs/Symptoms:
+Uncertain
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–9–
+
+=== PÁGINA 10 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+ExpectedNeed
+Diagnostic forSpecialty
+ADG Duration Severity Etiology Certainty Care
+28. Uncertain High Mixed Low Likely
+Signs/Symptoms:
+Major
+29.Discretionary Acute LowtoHigh Anatomic High Likely:surgical
+specialties
+30.Seeand Acute Low Anatomic High Unlikely
+Reassure
+31. N/A N/A N/A N/A Unlikely
+Prevention/Admi
+nistrative
+32.Malignancy Chronic High Neoplastic High Likely:oncology
+33.Pregnancy Acute Low Pregnancy High Likely:obstetrics
+34.Dental Acute, LowtoHigh Mixed High Likely:dental
+Recurrent,
+Chronic
+Major ADGs
+Some ADGs have very high expected resource use and are labeled as Major ADGs. The following table
+presents major ADGs for adult and pediatric populations.
+Major ADGs for Adult and Pediatric Populations
+PediatricMajorADGs(ages0-17years) AdultMajorADGs(ages18andup)
+3TimeLimited:Major 3TimeLimited:Major
+9LikelytoRecur:Progressive 4TimeLimited:Major-PrimaryInfections
+11ChronicMedical:Unstable 9LikelytoRecur:Progressive
+12ChronicSpecialty:Stable-Orthopedic 11ChronicMedical:Unstable
+13ChronicSpecialty:Stable-Ear,Nose,Throat 16ChronicSpecialty:Unstable-Orthopedic
+18ChronicSpecialty:Unstable-Eye 22Injuries/AdverseEffects:Major
+25Psychosocial:RecurrentorPersistent,Unstable 25Psychosocial:RecurrentorPersistent,Unstable
+32Malignancy 32Malignancy
+While the primary use of ADGs is as a means for collapsing all diagnosis codes into clinically
+meaningful morbidity types as a first step in the ACG assignment process, ADGs are useful as a risk
+assessment tool in their own right. There are many examples in the literature of using ADG markers
+as generic case-mix control variables. The most common application is the introduction of individual
+ADG-markers as binary flags in a regression model, but something as simple as a count of ADGs or
+Major ADGs can be a very powerful indicator of need as well.
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–10–
+
+=== PÁGINA 11 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+Relationship Between Number and Major Morbidities in Year 1 and Likelihood of
+Subsequent High Cost
+PositivePredictiveValue
+NumberofYear1Major PercentHighCostin PercentHighCostin
+Morbidities PercentofMembers Year2 Year3
+0MajorADGs 77.1% 9.6% 11.0%
+1MajorADG 17.3% 20.9% 21.5%
+2MajorADGs 4.2% 34.7% 34.1%
+3MajorADGs 1.1% 43.6% 45.6%
+4+MajorADGs 0.4% 72.4% 70.1%
+Patterns of Morbidity – Adjusted Clinical Groups (ACGs)
+Adjusted Clinical Group actuarial cells, or ACGs, are the original building blocks of The Johns Hopkins
+ACG System methodology. ACG categories are a series of mutually exclusive, health status categories
+defined by morbidity, age, and sex. They are based on the premise that the level of resources
+necessary for delivering appropriate health care to a population is correlated with the illness burden
+of that population. ACG categories are used to determine the morbidity profile of patient populations
+to more fairly assess provider performance, to reimburse providers based on the health needs of their
+patients, and to allow for more equitable comparisons of utilization or outcomes across two or more
+patient or enrollee aggregations.
+ACG categories are a person-focused method of categorizing patients’ illnesses. Over time, each
+person develops numerous conditions. Based on the pattern of these morbidities, the ACG System
+approach assigns each individual to a single ACG category.
+The concept of the ACG System grew out of research by Dr. Barbara Starfield and her colleagues in
+the late 1970s when they examined the relationship between morbidity or illness burden and health
+care services utilization among children in managed care settings. The research team theorized that
+the children using the most health care resources were not those with a single chronic illness, but
+rather were those with multiple, seemingly unrelated conditions. To test their original hypothesis,
+illnesses found within pediatric health maintenance organization (HMO) populations were grouped
+into five discrete categories:
+1. Minor illnesses that are self-limited if treated appropriately, e.g., the flu or chicken pox.
+2. Illnesses that are more severe but also time-limited if treated appropriately, e.g., a broken leg or
+pneumonia.
+3. Medical illnesses that are generally chronic and which remain incurable even with medical therapy,
+e.g., diabetes or cystic fibrosis.
+4. Illnesses resulting from structural problems that are generally not curable even with adequate and
+appropriate intervention, e.g., cerebral palsy or scoliosis.
+5. Psychosocial conditions, e.g., behavior problems or depression.
+The Johns Hopkins team’s findings supported the hypothesis that clustering of morbidity is a better
+predictor of health services resource use than the presence of specific diseases. This finding forms the
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–11–
+
+=== PÁGINA 12 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+basis of the current ACG System methodology and remains the fundamental concept that
+differentiates the ACG System from other case-mix adjustment methodologies.
+There are four steps in the ACG category assignment process:
+1. Mapping Diagnosis Codes to a Parsimonious Set of Aggregated ADGs
+2. Creating a Manageable Number of ADG Subgroups (CADGs)
+3. Frequently Occurring Combinations of CADGs (MACs)
+4. Forming the Terminal Groups (ACGs)
+The first step is described in the preceding section while the remainder are summarized in the
+following tables and figures depicting the ACG-decision-tree logic.
+Creating a Manageable Number of ADG Subgroups (CADGs)
+The ultimate goal of the ACG algorithm is to assign each person to a single morbidity group (i.e., an
+ACG). There are 4.3 billion possible combinations of ADGs, so to create a more manageable number
+of unique combinations of morbidity groupings, the 32 ADGs are collapsed into 12 CADGs or
+Collapsed ADGs (presented in the following table). Like ADGs, CADGs are not mutually exclusive in
+that an individual can be assigned to as few as none or as many as 12.
+Although numerous analytic techniques could be used to form CADGs from ADGs, the ACG System
+has placed the emphasis on clinical cogency. The following three clinical criteria are used:
+• The similarity of likelihood of persistence or recurrence of diagnoses within the ADG, i.e., time-
+limited, likely to recur, or chronic groupings
+• The severity of the condition, i.e., minor versus major and stable versus unstable
+• The types of health care services required for patient management--medical versus specialty,
+eye/dental, psychosocial, prevention/administrative, and pregnancy
+ADGs and CADGs can be used for various analytic and research applications that do not require
+mutually exclusive categories such as multivariate predictive or explanatory models.
+Collapsed ADG Clusters and the ADGs that Comprise Them
+CollapsedADG(CADG) ADGsinEach
+1.AcuteMinor 1TimeLimited:Minor
+2TimeLimited:Minor-PrimaryInfections
+21Injuries/AdverseEvents:Minor
+26Signs/Symptoms:Minor
+2.AcuteMajor 3TimeLimited:Major
+4TimeLimited:Major-PrimaryInfections
+22Injuries/AdverseEvents:Major
+27Signs/Symptoms:Uncertain
+28Signs/Symptoms:Major
+3.LikelytoRecur 5Allergies
+7LikelytoRecur:Discrete
+8LikelytoRecur:Discrete-Infections
+20Dermatologic
+29Discretionary
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–12–
+
+=== PÁGINA 13 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+CollapsedADG(CADG) ADGsinEach
+4.Asthma 6Asthma
+5.ChronicMedical:Unstable 9LikelytoRecur:Progressive
+11ChronicMedical:Unstable
+32Malignancy
+6.ChronicMedical:Stable 10ChronicMedical:Stable
+30SeeandReassure
+7.ChronicSpecialty:Stable 12ChronicSpecialty:Stable-Orthopedic
+13ChronicSpecialty:Stable-Ear,Nose,Throat
+8.Eye/Dental 14ChronicSpecialty:Stable-Eye
+34Dental
+9.ChronicSpecialty:Unstable 16ChronicSpecialty:Unstable-Orthopedic
+17ChronicSpecialty:Unstable-Ear,Nose,Throat
+18ChronicSpecialty:Unstable-Eye
+10.Psychosocial 23Psycho-social:TimeLimited,Minor
+24Psycho-social:RecurrentorPersistent,Stable
+25Psycho-social:RecurrentorPersistent,Unstable
+11.Preventive/Administrative 31Prevention/Administrative
+12.Pregnancy 33Pregnancy
+Frequently Occurring Combinations of CADGs (MACs)
+The third step in the ACG categorization methodology assigns individuals into a single, mutually
+exclusive category called a MAC. This grouping algorithm is based primarily on the pattern of CADGs.
+The MACs and the Collapsed ADGs Assigned to Them table shows the MACs and the Collapsed ADGs
+which comprise them.
+There are 23 commonly occurring combinations of CADGs which form MACs 1 through 23:
+• The first 11 MACs correspond to presence of a single CADG.
+• MAC-12 includes all pregnant women, regardless of their pattern of CADGs.
+• MACs 13 through 23 are commonly occurring combinations of CADGs.
+• MAC-24 includes all other combinations of CADGs.
+• MAC-25 is used for enrollees with no service use or invalid diagnosis input data.
+• MAC-26 includes all infants (age <12 months), regardless of the pattern of CADGs.
+MACs and the Collapsed ADGs Assigned to Them
+MACs CADGs
+1.Acute:Minor 1
+2.Acute:Major 2
+3.LikelytoRecur 3
+4.Asthma 4
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–13–
+
+=== PÁGINA 14 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+MACs CADGs
+5.ChronicMedical:Unstable 5
+6.ChronicMedical:Stable 6
+7.ChronicSpecialty:Stable 7
+8.Eye/Dental 8
+9.ChronicSpecialty:Unstable 9
+10.Psychosocial 10
+11.Prevention/Administrative 11
+12.Pregnancy AllCADGcombinationsthatincludeCADG12
+13.Acute:MinorandAcute:Major 1and2
+14.Acute:MinorandLikelytoRecur 1and3
+15.Acute:MinorandChronicMedical:Stable 1and6
+16.Acute:MinorandEye/Dental 1and8
+17.Acute:MinorandPsychosocial 1and10
+18.Acute:MajorandLikelytoRecur 2and3
+19.Acute:MinorandAcute:MajorandLikelyto 1,2and3
+Recur
+20.Acute:MinorandLikelytoRecurandEyeand 1,3and8
+Dental
+21.Acute:MinorandLikelytoRecurandPsychosocial 1,3,and10
+22.Acute:MinorandMajorandLikelytoRecurand 1,2,3,and6
+ChronicMedical:Stable
+23.Acute:MinorandMajorandLikelytoRecurand 1,2,3,and10
+Psychosocial
+24.AllOtherCombinationsNotListedAbove AllOtherCombinations
+25.NoDiagnosisorOnlyUnclassifiedDiagnosis NoCADGs
+26.Infants(agelessthanoneyear) AnyCADGscombinationsandlessthanoneyearold
+Forming the Terminal Groups (ACG categories)
+MACs form the major branches of the ACG decision tree. The final step in the grouping algorithm
+divides the MAC branches into terminal groups, the actuarial cells known as ACG categories. The logic
+used to split MACs into ACG categories includes a combination of statistical considerations and clinical
+insight. During the ACG System development process, the overarching goal for ACG category
+assignment was to identify groups of individuals with similar needs for health care resources who also
+share similar clinical characteristics. Yale University’s AUTOGRP software (which performs recursive
+partitioning) was used to identify subdivisions of patients within a MAC who had similar needs for
+health care resources based on their overall expenditures. The variables taken into consideration
+included: age, sex, presence of specific ADGs, number of major ADGs, and total number of ADGs.
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–14–
+
+=== PÁGINA 15 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+Note: Because prevention/administrative needs do not reflect morbidity, ADG 31 is not included in
+the count of total ADGs2.
+See the Final ACG Categories, Reference ACG Concurrent Risks, and RUBs table on page 31 for a
+complete listing and description of all ACG categories.
+ACG Decision Tree
+The ACG Decision Tree figure illustrates the main branches of the ACG decision tree. Some MACs are
+not subdivided by the characteristics listed above because doing so did not increase the explanatory
+power of the ACG model. Some include only a single CADG: for instance, MAC-02 is composed of
+individuals with only acute major conditions. Others, such as MAC-01, acute conditions only, are
+subdivided into three age groups: ACG 0100 (Age = one year), ACG 0200 (Age = two to five years),
+and ACG 0300 (six or more years) because resource use differs by age for individuals with this pattern
+of morbidity. MAC-10, including individuals with psychosocial morbidity only and MAC-17, including
+individuals with psychosocial and acute minor conditions, are further split by the presence of ADG-24
+(recurrent or chronic stable psychosocial conditions) and ADG-25 (recurrent or chronic unstable
+psychosocial conditions).
+2 RefertoWeiner(91)andStarfield (91)formore detailonthehistoricaloriginsofthecurrentsystemincludingthe
+originalVersion1.0developmentprocess.
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–15–
+
+=== PÁGINA 16 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+Figure1.ACGDecisionTree
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–16–
+
+=== PÁGINA 17 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+Decision Tree for MAC-12—Pregnant Women
+The Decision Tree for MAC-12—Pregnant Women illustrates the grouping logic for pregnant women.
+All women with at least one diagnosis code indicating pregnancy are assigned to MAC-12. The ACG
+catgories for pregnant women are formed with subdivisions first on total number of ADGs (0-1, 2-3,
+4-5, 6+) and second, for individuals with two or more ADGs, a split on none versus one or more
+major ADGs. These two splits yield seven ACG cagtegories for pregnant women.
+The standard seven ACG categories for pregnant women can optionally be further subdivided
+according to whether delivery has occurred during the time period of interest, yielding a total of 14
+ACG categories for women with a diagnosis of pregnancy. Either diagnosis codes for delivery or a
+user-supplied delivery flag can be used to separate pregnant women according to delivery status.
+Because of the marked differences in resource consumption for women with and without delivery
+and generally adequate validity of diagnoses associated with delivery, most organizations will find this
+option desirable to use. By default, the software will use diagnosis codes to subdivide based on
+delivery status.
+Refer to Pregnant on page 28 and Delivered on page28 for a more detailed discussion of appropriate
+means of identifying pregnancy and delivery status using user-defined flags.
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–17–
+
+=== PÁGINA 18 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+Figure2.DecisionTreeforMAC-12—PregnantWomen
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–18–
+
+=== PÁGINA 19 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+Decision Tree for MAC-26—Infants
+The Decision Tree for MAC-26—Infants illustrates the branching algorithm for MAC-26, which includes
+all infants, regardless of their pattern of CADGs. The first bifurcation is made on the total number of
+ADGs. Each group is further subdivided by presence of the number of major ADGs. These two splits
+yield four ACG categories.
+For the infant ACG categories, there is an optional additional split on birth weight. If there is accurate
+birth weight information that can be linked with claims and enrollment files, the four standard infant
+ACG categories can be further split into low birth weight (<2,500 grams) and normal birth weight
+(>2,500 grams). Our developmental work suggests that this additional split improves the explanatory
+power of the ACG System. However, two caveats are important to consider before using this option.
+First, our research indicates poor validity for existing birth weight diagnosis codes in some
+administrative data sets. Second, some populations may have such low rates of low birth weight
+infants that the number of infants grouped into an ACG category may be too small for accurate
+estimates. In general, we recommend that at least 30 individuals per ACG category are needed to
+obtain stable estimates of average resource use for that ACG code. By default, the ACG System will
+divide infants based upon the presence or absence of a diagnosis code indicating low birth weight.
+Refer to Low Birth Weight (Less than 2500 Grams) on page 30 for a more detailed discussion of
+appropriate means of identifying low birth weight status using user-defined flags.
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–19–
+
+=== PÁGINA 20 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+Figure3.DecisionTreeforMAC-26—Infants
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–20–
+
+=== PÁGINA 21 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+Decision Tree for MAC-24—Multiple ADG Categories
+The Decision Tree for MAC-24—Multiple ADG Categories illustrates the last branch of the ACG System
+decision tree, MAC-24, which includes less frequently occurring combinations of CADGs. There are 33
+ACG categories within MAC-24. With MAC-24, the first two splits are total number of ADGs (2-3, 4-5,
+6-9, and 10+) and then, within each of these four groups, by age. The age splits separate children (1-
+17 years) from adults (18+), and in some cases further subdivides within these groups. Additional
+divisions are made on sex and number of major ADGs.
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–21–
+
+=== PÁGINA 22 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+Figure4.DecisionTreeforMAC-24—MultipleADGCategories
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–22–
+
+=== PÁGINA 23 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+Clinically Oriented Examples of ACG categories
+Patients are categorized into an ACG code based on the pattern of ADGs experienced over a
+predetermined interval and, in some cases, their age and sex. This approach focuses on the totality of
+diseases experienced by a person rather than any specific disease. Because this method diverges from
+the traditional biomedical, categorical method of examining morbidity, we show how the ACG System
+classifies patients with specific types of diseases.
+In the examples that follow, we categorize patients by choosing a specific clinical feature that they
+have, such as a disease, pregnancy, or by their age. These examples show how the presence of other
+diseases or total number of ADGs changes ACG category assignment.
+Chronic Illnesses
+In the following examples, Example 1: Hypertension presents three patients with hypertension and
+Example 2: Diabetes Mellitus presents three patients with diabetes. These individuals were actual
+patients selected from a private health care organization database. The input data used by the ACG
+System software, the output produced by the software, and the associated resource consumption
+variables are presented. As these patients demonstrate, there is substantial variability in patterns of
+morbidity and need for health care for different patients classified by a specific condition such as
+hypertension or diabetes. Thus, knowing only that a patient has a particular medical problem, even if
+it is a chronic condition, provides little information about the need for medical services. In general, as
+the number of different types of morbidities increases, the total number of ambulatory visits
+increases as does total expenditures. However, the total burden of morbidity as represented by the
+ACG category – that is, the constellation of ADGs and presence of major ADGs is the most important
+determinant of resource consumption.
+In Example 1: Hypertension, during the assessment period Patient 1 had diagnosis codes given for
+only hypertension and a routine medical exam and is therefore classified into the ACG category for
+patients with stable, chronic medical conditions (ACG-0900). In contrast, Patient 3 with hypertension is
+in an ACG category that branches from MAC-24 (combinations of ADGs not otherwise classified). This
+occurs because the combinations of ADGs occur too infrequently to merit a separate ACG category.
+Patients in MAC-24 have both high levels of morbidity and high levels of health need. There is a
+strong link between the total number of ADGs/major ADGs and resource consumption.
+There are two additional ACG categories that describe commonly occurring combinations of morbidity
+for individuals with stable, chronic medical conditions. ACG-2300 (Chronic Medical--Stable and Acute
+Minor) is assigned to patients with uncomplicated diabetes, hypertension, or other stable chronic
+conditions and a minor illness, injury, or symptom. As shown in Patient 2 with Hypertension,
+individuals in ACG-3600 have four types of morbidities: stable chronic medical conditions (which
+include the diagnosis of hypertension), acute minor conditions, conditions of low severity likely to
+reoccur, and acute major conditions.
+Example 1: Hypertension
+The following patient types demonstrate the levels of hypertension, ADGs, and associated costs.
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–23–
+
+=== PÁGINA 24 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+Patient 1: Low Cost Patient with Hypertension
+InputData/Patient
+Characteristics ACGOutput ResourceConsumptionVariables
+Age/Sex: 51/Male ACG-0900:ChronicMedical, TotalCost:$128
+Stable Ambulatoryvisits:1
+Emergency visits:0
+Conditions:Hypertension,General ADGs:10and31.
+MedicalExam ChronicMedical:Stable, Hospitalizations:0
+Prevention/Administrative
+Patient 2: High Cost Patient with Hypertension
+InputData/Patient
+Characteristics ACGOutput ResourceConsumptionVariables
+Age/Sex: 54/Male ACG-3600:AcuteMinor/Acute TotalCost:$3,268
+Major/LikelyRecur/Eye &Dental Ambulatoryvisits:1
+Emergency visits:1
+Conditions:Hypertension, ADGS:07,10,26,and27
+Disorders ofLipidMetabolism, Likelyto Recur:DiscreteChronic Hospitalizations:0
+LowBackPain,CervicalPain Medical:Stable
+Syndromes,MusculoskeletalSigns Signs/Symptoms:Minor
+andSymptoms
+Signs/Symptoms:Uncertain
+Patient 3: Very High Cost Patient with Hypertension
+InputData/Patient
+Characteristics ACGOutput ResourceConsumptionVariables
+Age/Sex: 52/Male ACG-5070:10+OtherADG TotalCost:$45,937
+Combinations,Age >17,4+Major Ambulatoryvisits:17
+ADGs Emergency visits:0
+Conditions:Hypertension,General ADGs:02,03*,06,07,09*,10, Hospitalizations:1
+medicalexam,CardiogenicShock, 11*,16*,24,27,28,and31.
+Asthma,Low back pain, TimeLimited:Minor-Primary
+Peripheral Neuropathy,Anxiety, Infections
+Depression,COPD,AcuteUpper TimeLimited:Major,Asthma
+RespiratoryInfection,
+Likelyto Recur:Discrete
+GastroesophagealReflux,Iron
+Likelyto Recur:Progressive
+Deficiency,CervicalPain
+ChronicMedical:StableChronic
+Syndromes,SleepProblems,
+Obesity,Sinusitis,JointPain Medical:UnstableChronic
+Specialty:Unstable-Orthopedic
+Psychosocial:Recurrentor
+Persistent
+StableSigns/Symptoms:Uncertain
+Signs/Symptoms:Major,and
+Prevention/Administrative
+*Major ADG
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–24–
+
+=== PÁGINA 25 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+Example 2: Diabetes Mellitus
+The following patient types demonstrate the levels of diabetes mellitus, ADGs, and associated costs.
+Patient 1: Low Cost Patient with Diabetes
+InputData/Patient
+Characteristics ACGOutput ResourceConsumptionVariables
+Age/Sex: 49/Female ACG-0900:ChronicMedical, TotalCost:$296
+Stable Ambulatoryvisits:1
+Emergency visits:0
+Conditions:Diabetesmellitus ADGs:10
+Hospitalizations:0
+ChronicMedical:Stable
+Patient 2: High Cost Patient with Diabetes
+InputData/Patient
+Characteristics ACGOutput ResourceConsumptionVariables
+Age/Sex: 49/Female ACG-3600:AcuteMinor/Acute TotalCost:$1,698
+Major/LikelyRecur/Eye &Dental Ambulatoryvisits:6
+Emergency visits:1
+Conditions:Diabetesmellitus, ADGS:01,07,08,10,22*,26,and
+Disorders ofLipidMetabolism, 27 Hospitalizations:0
+Peripheral Neuropathy,Otitis TimeLimited:Minor
+Media,GastroesophagealReflux, Likelyto Recur:Discrete
+Acutesprain,Jointdisorder,
+Likelyto Recur:Discrete-
+Bursitis,Arthropathy
+Infections
+ChronicMedical:Stable
+Injuries/AdverseEffects:Major
+Signs/Symptoms:Minor
+Signs/Symptoms:Uncertain
+*Major ADG
+Patient 3: Very High Cost Patient with Diabetes
+InputData/Patient
+Characteristics ACGOutput ResourceConsumptionVariables
+Age/Sex: 51/Female ACG-5070:10+OtherADG TotalCost:$33,073
+Combinations,Age >17,4+Major Ambulatoryvisits:23
+ADGs Emergency visits:2
+Conditions:Diabetesmellitus, ADGs:01,02,03*,04*,05,07, Hospitalizations:1
+Generalmedicalexam,Ischemic 08,09*,10,11*,12,16*,17,21,
+HeartDisease,Hypertension, 22*,23,26,27,28,29,30,31
+Disorders ofLipidMetabolism, and34.
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–25–
+
+=== PÁGINA 26 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+InputData/Patient
+Characteristics ACGOutput ResourceConsumptionVariables
+LowBackPain,Peripheral TimeLimited:Minor
+Neuropathy,Cerebrovascular TimeLimited:Minor-Primary
+Disease,COPD,AcuteLower Infections
+RespiratoryTractInfection,
+TimeLimited:Major
+Allergic Rhinitis,Gingivitis,Otitis
+TimeLimited:Major-Primary
+Media,Hearing Loss,ChestPain,
+Infections,Allergies
+Syncope,ChronicCystic Diseaseof
+Likelyto Recur:Discrete
+theBreast,TobaccoUse,
+Abdominal Pain,Sinusitis,Sleep Likelyto Recur:Discrete-
+Apnea,ContusionsandAbrasions, Infections
+Headache,Cough,Fatigue Likelyto Recur:Progressive
+ChronicMedical:Stable
+ChronicMedical:UnstableChronic
+Specialty:Stable-Orthopedic
+ChronicSpecialty:Unstable-
+Orthopedic
+ChronicSpecialty:Unstable-Ear,
+Nose,Throat
+Injuries/AdverseEffects:Minor
+Injuries/AdverseEffects:Major
+Psychosocial:TimeLimited,Minor
+Signs/Symptoms:Minor
+Signs/Symptoms:Uncertain
+Major,Discretionary,
+See/Reassure,and
+Prevention/Administrative
+*Major ADG
+Pregnancy
+Using diagnosis codes for pregnancy, the ACG System identifies all women who were pregnant during
+the assessment period and places them into the pregnancy MAC. ACG categories are formed based
+on (1) total number of ADGs, (2) presence of complications (i.e., presence of a major ADG), and (3)
+whether the woman delivered (the default level of assignment can be overridden).
+Example 3: Pregnancy/Delivery with Complications shows how the ACG System groups women with a
+complicated pregnancy/delivery. Both women in the example had diagnosis codes that map to ADG-
+03 (an acute major morbidity). The salient difference between the two that explains the difference in
+resource consumption is that Patient 2 had a greater number of ADGs and more major ADGs and
+thus fits into a more resource intensive ACG category. That is, Patient 2 had a higher level of
+morbidity than Patient 1, even though both women experienced a complicated pregnancy/delivery.
+Example 3: Pregnancy/Delivery with Complications
+The following patient types demonstrate the levels of pregnancy and delivery with complications,
+ADGs, and associated costs.
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–26–
+
+=== PÁGINA 27 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+Patient 1: Pregnancy/Delivery with Complications, Low Morbidity
+InputData/Patient
+Characteristics ACGOutput ResourceConsumptionVariables
+Age/Sex: 32/Female ACG-1731:2-3ADGs,1+Major TotalCost:$8,406
+ADGs,Delivered Ambulatoryvisits:3
+Emergency visits:0
+Conditions:Generalmedical ADGs:01,03*,31,and33.
+exam,Pregnancyanddelivery- TimeLimited:Minor Hospitalizations:1
+uncomplicatedandPregnancyand TimeLimited:Major
+delivery-withcomplications. Prevention/Administrative,and
+Pregnancy
+*Major ADG
+Patient 2: Pregnancy/Delivery with Complications, High Morbidity
+InputData/Patient
+Characteristics ACGOutput ResourceConsumptionVariables
+Age/Sex: 36/Female ACG-1771:6+ADGs,1+Major TotalCost:$19,714
+ADGs,Delivered Ambulatoryvisits:13
+Emergency visits:2
+Conditions:Generalmedicalexam ADGs:03*,07,08,10,11*,21,
+Hypertension,Low BackPain, 22*,28,31,and33. Hospitalizations:1
+Urinarytract infection,Renal TimeLimited:Major
+Calculi,CervicalPainSyndromes, Likelyto Recur:Discrete
+Jointdisorder,Pregnancyand Likelyto Recur:Discrete-
+delivery-withcomplications. infections
+ChronicMedical:Stable
+ChronicMedical:Unstable
+Injuries/AdverseEffects:Minor
+Injuries/AdverseEffects:Major
+Signs/Symptoms:Major
+Prevention/Administrative,and
+Pregnancy
+*Major ADG
+The Clinical Classification of Pregnancy/Delivery ACG categories table presents an alternative clinical
+categorization of the pregnancy/delivery ACG categories. Three dimensions are used to classify the
+ACG code – number of ADGs, presence of major ADGs, and whether the women delivered during the
+assessment period. Resource consumption increases along each of the three axes: presence of
+delivery, presence of a major ADG, and number of ADGs. Using various combinations of these ACG
+categories, a clinician, or manager can determine the proportion of women with complicated
+pregnancies and deliveries overall, and with different levels of morbidity. The need for specialty
+services will be greatest for those women with higher levels of morbidity and complications as
+defined by presence of a major ADG.
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–27–
+
+=== PÁGINA 28 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+Clinical Classification of Pregnancy/Delivery ACG Categories
+ACGCategories PregnancyOnly Delivered
+Uncomplicated(No Complicated(1+ Uncomplicated(No Complicated(1+
+MorbidityLevel MajorADGs) MajorADGs) MajorADGs) MajorADGs)
+Low
+(1-3ADGs) 1712,1722 1732 1711,1721 1731
+Mid
+(4-5ADGs) 1742 1752 1741 1751
+High
+(6+ADGs) 1762 1772 1761 1771
+Pregnant
+Pregnancy status is a key differentiator for the ACG decision tree. The ACG System software will use
+the diagnoses provided in the medical services file to identify pregnancy as follows:
+• ICD-10: O00.x-O99.x, O9A.x, Z33.x-Z37.x, Z39.x, Z3A.x
+It is possible for analysts to provide the software with a flag indicating that a woman is pregnant. The
+rationale for including this option is that, in some plans, it is not uncommon for the charges
+associated with a woman’s pregnancy and subsequent delivery to be reimbursed as a global or fixed
+payment at the time of delivery. In this reimbursement scenario, a woman’s claims history may not
+include a pregnancy diagnosis until she actually delivers. However, given the importance of this
+information, the plan often does know that the woman is pregnant, despite this lack of related
+diagnosis codes during the prenatal care period. In cases where the plan wishes to supplement the
+standard claims data (i.e., if a pregnancy registry is believed to be more accurate than standard claims
+data), the user may submit a special pregnancy flag that can supplement the standard diagnosis
+stream. Refer to Patient Data Format on page for a discussion on implementing this approach.
+Delivered
+Delivery status is an important branch for pregnancy in the ACG Decision tree.
+Each ACG from 1710 through 1770 is split into two categories (1711, 1712 through 1771, 1772) based
+on whether or not the women within these categories have delivered during the period of analysis.
+After extensive testing, the ACG System development team at Johns Hopkins is confident the standard
+diagnosis codes used by the software for identifying deliveries are effective with positive predictive
+accuracy (that is, the women did actually deliver) averaging greater than 96% among all plans tested.
+However, for a variety of reasons diagnosis codes for delivery may not appear in a woman’s claim
+history even though she did in fact deliver. For example, the delivery may have occurred in an
+outpatient birthing center or other non-traditional venue, and claims were never submitted containing
+any delivery codes. Also, if an analyst is using only ambulatory data (not generally recommended)
+where the delivery diagnosis codes are not available, it is suggested that the user provide a delivered
+flag in the input data stream. Refer to Patient Data Format on page for a discussion on implementing
+this approach.
+Pregnancy without Delivery
+Pregnancy without delivery is an important condition for predicting future resource use and is a
+marker used by the ACG Predictive Models. If date of service is not available, this marker will be set
+to Y when the ACG assignment does not indicate delivery: 1712, 1722, 1732, 1742, 1752, 1762 or
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–28–
+
+=== PÁGINA 29 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+1772. If date of service is available, this marker will consider the order of events to capture the latest
+pregnancy status during the observation period in the event that a pregnancy does not continue to
+delivery or the patient experiences multiple pregnancies during the year.
+• If the patient delivered during the year, but there are additional pregnancy diagnoses more than
+six weeks after the latest delivery diagnosis, the pregnancy without delivery marker will be set to
+Y.
+• If the patient was pregnant during the year, but the pregnancy terminated, the pregnancy without
+delivery marker will be set to N. If a subsequent pregnancy is identified more than six weeks after
+the latest termination diagnosis, the pregnancy without delivery marker will be set to Y.
+Infants
+The ACG System places all infants into an infant MAC. By definition, all had at least one
+hospitalization (at time of delivery). ACG groups are formed based on total number of ADGs and the
+presence of a complication or major ADG. Example 4: Infants compares an infant in the low
+morbidity/no complications ACG (5310, the most frequently assigned infant ACG) to an infant in the
+higher morbidity/with complications ACG (5340, the most resource intensive infant ACG). Infant 1 had
+a typical course: hospitalization at birth, routine check-ups, and illness management for upper
+respiratory tract infection and otitis media. Infant 2 presents a completely different picture in terms of
+pattern of morbidity and resource consumption, both of which are substantially greater in comparison
+with Infant 1.
+Example 4: Infants
+The following patient types demonstrate the levels of infants with complications, ADGs, and
+associated costs.
+Patient 1: Infant with Low Morbidity, Normal Birthweight
+InputData/Patient
+Characteristics ACGOutput ResourceConsumptionVariables
+Age/Sex: 0/Female ACG5312:0-5ADGs,No Major TotalCost:$3,208
+ADGs,NormalBirthweight, Ambulatoryvisits:17
+Emergency visits:0
+Conditions:Generalmedicalexam ADGs:02,08,26,and31
+Hospitalizations:1
+Otitismedia,Acuteupper TimeLimited:Minor
+respiratorytract infection,Fungal Likelyto Recur:Discrete-
+infectionandGastroesophageal Infections
+Reflux Signs/Symptoms:Minor,and
+Prevention/Administration
+Patient 2: Infant with High Morbidity, Low Birthweight
+InputData/Patient
+Characteristics ACGOutput ResourceConsumptionVariables
+Age/Sex: 0/Male ACG5341:6+ADGs,1+Major TotalCost:$165,142
+ADGs,LowBirthweight Ambulatoryvisits:19
+Emergency visits:0
+Conditions:Generalmedical ADGs:03*,04,07,10,11*,22,
+exam,Respiratorysymptoms 26,27,28,and31 Hospitalizations:1
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–29–
+
+=== PÁGINA 30 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+InputData/Patient
+Characteristics ACGOutput ResourceConsumptionVariables
+CongenitalHeartDisease,Cardiac TimeLimited:Major
+Arrhythmia,Septicemia,Nausea, TimeLimited:Major-Primary
+vomiting,Gastroesophageal Infections
+Reflux,Neonatal Jaundice,Renal
+Likelyto Recur:Discrete
+Disorders,Endocrine disorders,
+ChronicMedical:Stable,Chronic
+Vesicouretal reflux
+Medical:Unstable
+Injuries/AdverseEffects:Major
+Signs/Symptoms:Minor
+Signs/Symptoms:Uncertain
+Signs/Symptoms:Major,
+Discretionary,and
+Prevention/Administrative
+*Major ADG
+The Clinical Classification of Infant ACG Categories table provides a clinical classification of the infant
+ACG categories.
+Clinical Classification of Infant ACG Categories
+LowBirthweight NormalBirthweight
+NoComplications Complication(1+ NoComplications Complication(1+
+MorbidityLevel (noMajorADGs) MajorADGs) (noMajorADGs) MajorADGs)
+Low(0-5ADGs) 5311 5321 5312 5322
+Mid(6+ADGs) 5331 5341 5332 5342
+Low Birth Weight (Less than 2500 Grams)
+Because low birth weight is a significant predictor of resource use, diagnosis can be used to identify
+low birth weight newborns when available. The ACG System software uses the following list of codes
+to identify low birthweight newborns:
+• ICD-10: P05.0x, P05.1x, P07.0x, P07.1x
+In a manner similar to the way pregnant women are subdivided by delivery status, infants can be
+subdivided into subcategories based on their birth weight. Diagnosis codes allow for identification of
+low or normal birth weights among neonates. Historically, validation analysis across a variety of health
+care organizations indicated that within most plans 2% to 5% of infants were identified as low birth
+weight.
+Based on vital records and other sources, the actual percentage should be somewhere between 6%
+and 9%. If diagnoses do not seem to be a reliable source of the recording of birth weight, analysts
+may wish to take advantage of this feature to appropriately categorize low birth weight infants.
+Analysts can flag such infants before passing the data to the ACG System software. Refer to Patient
+Data Format on page for a discussion on implementing this approach.
+Resource Utilization Bands (RUBs)
+ACG categories were designed to represent clinically logical categories for persons expected to require
+similar levels of health care resources (i.e., resource groups). However, enrollees with similar overall
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–30–
+
+=== PÁGINA 31 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+utilization may be assigned different ACG categories because they have different epidemiological
+patterns of morbidity. For example, a pregnant woman with significant morbidity, an individual with a
+serious psychological condition, or someone with two chronic medical conditions may all be expected
+to use approximately the same level of resources even though they each fall into different ACG
+categories. In many instances it may be useful to collapse the full set of ACG codes into fewer
+categories, particularly where resource use similarity is a desired objective.
+ACG categories are collapsed according to a combination of concurrent relative resource use and
+number of comorbidities in the creation of Resource Utilization Bands (RUBs). For clinical cogency and
+consistency across age groups, the count of morbidity types (ADGs) may influence the final
+determination of RUB in addition to the concurrent relative resource use. The software automatically
+assigns six RUB classes:
+• 0 - No or Only Invalid Dx
+• 1 - Healthy Users
+• 2 - Low
+• 3 - Moderate
+• 4 - High
+• 5 - Very High
+The relationship between ACG categories and RUBs is defined in the following table
+Final ACG Categories, Reference ACG Concurrent Risks, and RUBs
+Pediatric(0-17 Elderly(65Years
+ACG Description Years) Adult(18-64) andOlder) Rub
+0100 AcuteMinor,Age1 0.306 N/A N/A 2
+0200 AcuteMinor,Age2to5 0.119 N/A N/A 1
+0300 AcuteMinor,Age>5 0.095 0.117 0.209 1
+0400 AcuteMajor 0.201 0.231 0.343 2
+0500 LikelytoRecur,w/oAllergies 0.130 0.186 0.198 2
+0600 LikelytoRecur,withAllergies 0.124 0.202 0.249 2
+0700 Asthma 0.128 0.181 0.265 2
+0800 ChronicMedical,Unstable 0.872 1.424 1.096 3
+0900 ChronicMedical,Stable 0.278 0.257 0.297 2
+1000 ChronicSpecialty,Stable 0.167 0.168 0.355 2
+1100 Eye/Dental 0.087 0.109 0.174 1
+1200 ChronicSpecialty,Unstable 0.097 0.159 0.363 2
+1300 Psychosocial,w/oPsych 0.257 0.233 0.304 2
+Unstable
+1400 Psychosocial,withPsych 0.568 0.615 0.391 3
+Unstable,w/oPsychStable
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–31–
+
+=== PÁGINA 32 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+Pediatric(0-17 Elderly(65Years
+ACG Description Years) Adult(18-64) andOlder) Rub
+1500 Psychosocial,withPsych 0.994 1.034 0.603 3
+Unstable,w/PsychStable
+1600 Preventive/Administrative 0.064 0.101 0.123 1
+1710 Pregnancy:0-1ADGs 0.705 1.354 N/A 3
+1711 Pregnancy:0-1ADGs,delivered 1.897 2.154 N/A 4
+1712 Pregnancy:0-1ADGs,not 0.140 0.312 N/A 2
+delivered
+1720 Pregnancy:2-3ADGs,noMajor 1.238 1.668 N/A 3
+ADGs
+1721 Pregnancy:2-3ADGs,noMajor 2.184 2.537 N/A 4
+ADGs,delivered
+1722 Pregnancy:2-3ADGs,noMajor 0.490 0.520 N/A 3
+ADGs,notdelivered
+1730 Pregnancy:2-3ADGs,1+Major 1.238 2.282 N/A 4
+ADGs
+1731 Pregnancy:2-3ADGs,1+Major 2.184 2.856 N/A 4
+ADGs,delivered
+1732 Pregnancy:2-3ADGs,1+Major 0.490 0.805 N/A 3
+ADGs,notdelivered
+1740 Pregnancy:4-5ADGs,noMajor 1.210 1.902 N/A 4
+ADGs
+1741 Pregnancy:4-5ADGs,noMajor 2.502 2.865 N/A 4
+ADGs,delivered
+1742 Pregnancy:4-5ADGs,noMajor 0.553 0.791 N/A 3
+ADGs,notdelivered
+1750 Pregnancy:4-5ADGs,1+Major 1.210 2.650 N/A 4
+ADGs
+1751 Pregnancy:4-5ADGs,1+Major 2.502 3.372 N/A 4
+ADGs,delivered
+1752 Pregnancy:4-5ADGs,1+Major 0.553 1.218 N/A 3
+ADGs,notdelivered
+1760 Pregnancy:6+ADGs,noMajor 1.548 2.195 N/A 4
+ADGs
+1761 Pregnancy:6+ADGs,noMajor 2.999 3.300 N/A 4
+ADGs,delivered
+1762 Pregnancy:6+ADGs,noMajor 1.064 1.256 N/A 3
+ADGs,notdelivered
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–32–
+
+=== PÁGINA 33 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+Pediatric(0-17 Elderly(65Years
+ACG Description Years) Adult(18-64) andOlder) Rub
+1770 Pregnancy:6+ADGs,1+Major 3.963 3.757 N/A 4
+ADGs
+1771 Pregnancy:6+ADGs,1+Major 5.083 4.607 N/A 4
+ADGs,delivered
+1772 Pregnancy:6+ADGs,1+Major 3.429 2.668 N/A 4
+ADGs,notdelivered
+1800 AcuteMinorandAcuteMajor 0.328 0.364 0.396 2
+1900 AcuteMinorandLikelytoRecur, 0.441 N/A N/A 2
+Age1
+2000 AcuteMinorandLikelytoRecur, 0.204 N/A N/A 2
+Age2to5
+2100 AcuteMinorandLikelytoRecur, 0.178 0.235 0.277 2
+Age>5,w/oAllergy
+2200 AcuteMinorandLikelytoRecur, 0.198 0.258 0.300 2
+Age>5,withAllergy
+2300 AcuteMinorandChronic 0.295 0.294 0.350 2
+Medical:Stable
+2400 AcuteMinorandEye/Dental 0.155 0.181 0.361 2
+2500 AcuteMinorandPsychosocial, 0.339 0.281 0.238 2
+w/oPsychUnstable
+2600 AcuteMinorandPsychosocial, 0.670 0.862 0.434 3
+withPsychUnstable,w/oPsych
+Stable
+2700 AcuteMinorandPsychosocial, 1.145 1.170 0.434 3
+withPsychUnstableandPsych
+Stable
+2800 AcuteMinorandLikelytoRecur 0.326 0.394 0.394 3
+2900 AcuteMinor/AcuteMajor/Likely 0.816 N/A N/A 3
+toRecur,Age1
+3000 AcuteMinor/AcuteMajor/Likely 0.448 N/A N/A 3
+toRecur,Age2to5
+3100 AcuteMinor/AcuteMajor/Likely 0.389 N/A N/A 3
+toRecur,Age6to11
+3200 AcuteMinor/AcuteMajor/Likely 0.540 0.578 0.639 3
+toRecur,Age>11,w/oAllergy
+3300 AcuteMinor/AcuteMajor/Likely 0.530 0.576 0.579 3
+toRecur,Age>11,withAllergy
+3400 AcuteMinor/LikelytoRecur/Eye 0.254 0.329 0.437 2
+&Dental
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–33–
+
+=== PÁGINA 34 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+Pediatric(0-17 Elderly(65Years
+ACG Description Years) Adult(18-64) andOlder) Rub
+3500 AcuteMinor/Likelyto 0.471 0.493 0.451 3
+Recur/Psychosocial
+3600 AcuteMinor/AcuteMajor/Likely 0.942 1.030 1.051 3
+Recur/Eye&Dental
+3700 AcuteMinor/AcuteMajor/Likely 0.898 0.998 1.114 3
+Recur/Psychosocial
+3800 2-3OtherADGCombinations, 0.378 N/A N/A 2
+Age<18
+3900 2-3OtherADGCombinations, N/A 0.488 N/A 3
+MalesAge18to34
+4000 2-3OtherADGCombinations, N/A 0.414 N/A 3
+FemalesAge18to34
+4100 2-3OtherADGCombinations, N/A 0.537 0.605 3
+Age>34
+4210 4-5OtherADGCombinations, 0.502 N/A N/A 3
+Age<18,noMajorADGs
+4220 4-5OtherADGCombinations, 1.020 N/A N/A 3
+Age<18,1+MajorADGs
+4310 4-5OtherADGCombinations, N/A 0.519 N/A 3
+Age18to44,noMajorADGs
+4320 4-5OtherADGCombinations, N/A 1.174 N/A 3
+Age18to44,1+MajorADGs
+4330 4-5OtherADGCombinations, N/A 2.049 N/A 4
+Age18to44,2+MajorADGs
+4410 4-5OtherADGCombinations, N/A 0.653 0.674 3
+Age>44,noMajorADGs
+4420 4-5OtherADGCombinations, N/A 1.272 1.201 3
+Age>44,1+MajorADGs
+4430 4-5OtherADGCombinations, N/A 2.363 2.016 4
+Age>44,2+MajorADGs
+4510 6-9OtherADGCombinations, 0.852 N/A N/A 3
+Age<6,noMajorADGs
+4520 6-9OtherADGCombinations, 1.722 N/A N/A 4
+Age<6,1+MajorADGs
+4610 6-9OtherADGCombinations, 0.835 N/A N/A 3
+Age6to17,noMajorADGs
+4620 6-9OtherADGCombinations, 2.075 N/A N/A 4
+Age6to17,1+MajorADGs
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–34–
+
+=== PÁGINA 35 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+Pediatric(0-17 Elderly(65Years
+ACG Description Years) Adult(18-64) andOlder) Rub
+4710 6-9OtherADGCombinations, N/A 0.857 N/A 3
+Males,Age18to34,noMajor
+ADGs
+4720 6-9OtherADGCombinations, N/A 1.645 N/A 3
+Males,Age18to34,1+Major
+ADGs
+4730 6-9OtherADGCombinations, N/A 3.556 N/A 4
+Males,Age18to34,2+Major
+ADGs
+4810 6-9OtherADGCombinations, N/A 0.886 N/A 3
+Females,Age18to34,noMajor
+ADGs
+4820 6-9OtherADGCombinations, N/A 1.536 N/A 3
+Females,Age18to34,1+Major
+ADGs
+4830 6-9OtherADGCombinations, N/A 2.937 N/A 4
+Females,Age18to34,2+Major
+ADGs
+4910 6-9OtherADGCombinations, N/A 1.529 1.510 3
+Age>34,0-1MajorADGs
+4920 6-9OtherADGCombinations, N/A 3.069 2.759 4
+Age>34,2MajorADGs
+4930 6-9OtherADGCombinations, N/A 5.515 4.845 5
+Age>34,3MajorADGs
+4940 6-9OtherADGCombinations, N/A 10.657 7.924 5
+Age>34,4+MajorADGs
+5010 10+OtherADGCombinations, 1.620 N/A N/A 3
+Age1to17,noMajorADGs
+5020 10+OtherADGCombinations, 3.239 N/A N/A 4
+Age1to17,1MajorADGs
+5030 10+OtherADGCombinations, 10.686 N/A N/A 5
+Age1to17,2MajorADGs
+5040 10+OtherADGCombinations, N/A 2.383 2.292 4
+Age>17,0-1MajorADGs
+5050 10+OtherADGCombinations, N/A 3.992 3.629 4
+Age>17,2MajorADGs
+5060 10+OtherADGCombinations, N/A 6.370 5.506 5
+Age>17,3MajorADGs
+5070 10+OtherADGCombinations, N/A 16.140 11.176 5
+Age>17,4+MajorADGs
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–35–
+
+=== PÁGINA 36 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+Pediatric(0-17 Elderly(65Years
+ACG Description Years) Adult(18-64) andOlder) Rub
+5110 NoDiagnosisorOnly 0.061 0.108 0.462 1
+UnclassifiedDiagnosis(2input
+files)
+5200 Non-Users(2inputfiles) 0.000 0.000 0.000 0
+5310 Infants:0-5ADGs,noMajor 0.810 N/A N/A 3
+ADGs
+5311 Infants:0-5ADGs,noMajor 2.904 N/A N/A 4
+ADGs,lowbirthweight
+5312 Infants:0-5ADGs,noMajor 0.786 N/A N/A 3
+ADGs,normalbirthweight
+5320 Infants:0-5ADGs,1+Major 2.997 N/A N/A 4
+ADGs
+5321 Infants:0-5ADGs,1+Major 11.865 N/A N/A 5
+ADGs,lowbirthweight
+5322 Infants:0-5ADGs,1+Major 1.907 N/A N/A 4
+ADGs,normalbirthweight
+5330 Infants:6+ADGs,noMajor 1.410 N/A N/A 3
+ADGs
+5331 Infants:6+ADGs,noMajor 3.372 N/A N/A 4
+ADGs,lowbirthweight
+5332 Infants:6+ADGs,noMajor 1.357 N/A N/A 3
+ADGs,normalbirthweight
+5340 Infants:6+ADGs,1+MajorADGs 9.913 N/A N/A 5
+5341 Infants:6+ADGs,1+Major 26.966 N/A N/A 5
+ADGs,lowbirthweight
+5342 Infants:6+ADGs,1+Major 5.807 N/A N/A 5
+ADGs,normalbirthweight
+9900 Invalidageordateofbirth 0.000 0.000 0.000 0
+Source: IQVIA, formerly QuintilesIMS, One IMS Drive, Plymouth Meeting, PA 19462; Subset of the
+Legacy PharMetrics Adjudicated Claims Database containing a national cross-section of managed care
+plans; population of 3,306,768 Commercial beneficiaries (age under 65 years), 2013-15. These weights
+represent the content of the US-All Age Risk Assessment Variables which expresses risk relative to an
+adult population mean. Risk scores will vary by population represented by the user's selection of Risk
+Assessment Variables.
+Note: The default is to subdivide these groups* on delivery or low birth weight status. Grouping the
+ACG categories without these divisions is optional and must be turned on in order to be used.
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–36–
+
+=== PÁGINA 37 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+ACG Concurrent Risk
+An ACG concurrent risk is an assessment of the relative resource use for individuals in the ACG
+category applying an actuarial cell approach. The ACG concurrent risk is calculated as the mean cost
+of all patients in an ACG category divided by the mean cost of all patients in the population. A fixed
+set of ACG concurrent risk weights derived from external reference data is available in the software
+output file as Reference ACG Concurrent Risk.
+Separate sets of weights exist for under 65 working age populations, over age 65 Medicare eligible
+populations (United States federal program that pays for certain health care expenses for people aged
+65 or older), and all age populations. The weights used are determined by the Risk Assessment
+Variables selected during processing. The weights produced by the software are relative weights, i.e.,
+relative to a population mean, and are standardized to a mean of 1.0. An individual weight is
+associated with each ACG and all individuals assigned the same ACG category will have the same ACG
+Concurrent Risk. In the case of an elderly reference set, the weights of some ACG categories (e.g.,
+those associated with pediatrics, pregnancy or newborns) may be extrapolated from an under 65
+population. If the all age reference is selected, different weights will be applied to children (0-17),
+adults (18-64) and elderly (65+)3. The software-supplied weights may be considered a national
+reference or benchmark for comparisons with locally calibrated ACG-weights. In some instances (e.g.,
+for those with limited or no cost data), these weights may also be used as a reasonable proxy for
+local cost data.
+The software-supplied Reference ACG Concurrent Risk is supplied in two forms: unscaled and
+rescaled. Unscaled Reference ACG Concurrent Risk represents the values of the Reference ACG
+Concurrent Risk applied to a population of interest. If the mean of the Unscaled ACG Concurrent Risk
+is greater than 1.0 it indicates the rating population (the population to which the weights are being
+applied) is sicker than the reference population (the national reference database). If the mean is less
+than 1.0, it indicates the rating population is healthier. To ensure that dollars in the system are not
+over-estimated or under-estimated, the ACG System also makes available a Rescaled Reference ACG
+Concurrent Risk that mathematically manipulates the Unscaled Reference ACG Concurrent Risk to
+have a mean of 1.0 in the local population. The steps for performing this manually are discussed in
+the following "Rescale and Assign Monetary Values Process" section.
+Our experience indicates that ACG concurrent risk weights, especially when expressed as relative
+values, have remarkable stability. Where differences in ACG concurrent risk are present across health
+care organizations, it is almost universally attributable to differences in covered services reflected by
+different benefit levels and cost structures.
+If local cost data are available, the ACG System software also calculates Local ACG Concurrent Risk.
+These local weights more accurately reflect local benefit levels and area practice patterns. If any ACG
+category contains fewer than 30 patients then ACG concurrent risk will be calculated by pooling cells
+common to RUB categories and the aggregate score for the RUB shall be applied. In general it is
+recommended that the reference population (on which the weights are developed) should be as
+similar as possible to the assessment population to which the weights are applied.
+Rescale and Assign Monetary Values Process
+The rescaling process consists of the following steps:
+3 Allagemodelingdoes notapplytorank probabilityscores,thepersistent highusers,unexpectedhighpharmacycost,
+orhospitalizationmodels.For thesemodelsasinglecalibrationto theentire populationisperformed.
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–37–
+
+=== PÁGINA 38 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+Step 1: Compute population mean risk Compute a separate grand mean for each of the weights
+(either concurrent or predicted risk) generated for the client’s population (the observations represent
+individuals). The mean for this example is shown at the bottom of Column B in the table following.
+Step 2: Apply weighting factor Divide each individual’s risk by the rescaling factor (i.e., the mean)
+computed in Step 1. The result is the rescaled relative risk (Column C).
+Step 3: Compute population mean cost For the same population on which the weights were based,
+compute the mean cost for the current data year. For this example, the mean cost was 1,265.11.
+Step 4: Compute cost Multiply the rescaled relative weights generated for each member of the
+population (Column C) by the average population cost generated from Step 3 to calculate an
+estimated individual cost (Column D).
+AMember BRelativeWeight CRescaledWeight DEstimatedCost
+1 0.185 0.171 216.36
+2 0.291 0.268 339.61
+3 0.387 0.357 451.64
+4 0.457 0.422 533.33
+5 0.541 0.499 631.33
+6 0.609 0.562 711.58
+7 0.696 0.642 812.58
+8 0.842 0.777 982.84
+9 1.025 0.946 1,196.68
+10 1.293 1.194 1,510.19
+11 1.892 1.746 2,209.38
+12 4.783 4.415 5,585.78
+Mean 1.083 1.000 1,265.11
+The rescaling factor functions as a summary case-mix index for understanding how the rating
+population (e.g., local population) compares to the reference population. The interpretation of this
+factor is analogous to how one interprets both relative risks and profiling indicators. If the rescaling
+factor is greater than 1.0 (as it was in the example), then the client’s population is sicker. If the factor
+is less than 1.0, then the client’s population is healthier than the reference population.
+Concurrent Model Performance Assessment and Validation
+In creating regression models it is customary to divide the data randomly into two parts, a test
+dataset and a validation dataset. The models are designed using the test dataset, and then validated
+on the other dataset to avoid statistical over-fitting of the model. The typical statistics used to validate
+concurrent cost models are Adjusted R-Squared as a measure of individual variation explained and
+Expected to Actual ratios as a measure of population variation explained.
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–38–
+
+=== PÁGINA 39 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+R-Squared
+The conventional measure of model performance is the R-Squared statistic. This statistic measures
+how well the model fits the data and has become a standard measure of performance, especially
+among underwriters and actuaries who must price products across a range of populations. The R-
+squared value, expressed as a decimal number between 0 and 1, is interpreted as how much variance
+around the mean is explained by the model. A perfect model would explain all the variation and the
+R-squared would be 1. This, of course, is a rare occurrence and, in fact, suggests that there might be
+some design defect in the model. Outlier values can diminish the R-squared performance and are
+sometimes truncated. Model performance can also be improved by focusing only on those persons
+who have high values of the modeled outcome where variation is also high. A good fit will occur
+although the model may actually not work as well for persons who are not in the highest group.
+The following table provides the R-squared values for various concurrent model options presented in
+the ACG System using the all age reference population.
+R-Squared Performance for ACG System Concurrent Risk Models
+R-SquaredModelingTotalCost R-SquaredModelingTotalCost
+withoutTruncation Truncatedat$250,000
+LocalAge-SexRisk 0.035 0.056
+LocalACGConcurrentRisk 0.229 0.332
+ReferenceACGConcurrentRisk 0.231 0.333
+ConcurrentRisk(regression-based) 0.428 0.536
+Source: IQVIA, formerly Quintiles/IMS, One IMS Drive, Plymouth Meeting, PA 19462; Subset of the
+Legacy PharMetrics Adjudicated Claims Database containing a national cross-section of managed care
+plans; population of 3,306,768 Commercial beneficiaries (age under 65 years), 2013-15.
+Expected to Actual Cost Ratios
+The credibility of models does not solely rest on regression fit, which is a measure of performance at
+the individual level. To determine how well models perform at estimating cost across the full range of
+risk, we also recommend looking at persons in different cost cohorts (we use quintiles).
+Expected to Actual Cost Ratios are another means for assessing risk models. The ratio represents the
+expected cost derived from the risk model divided by the actual cost for a given sub-population. In
+the case of costs, one might array the population into different cost quintiles and consider the
+expected to actual cost ratios for each of these quintiles. The goal is to approach 1.0 as closely as
+possible, especially in the high cost quintile. Ratios less than 1.0 mean that the model under-estimates
+costs while ratios over 1.0 suggest that the model is over-estimating costs.
+The following table shows these ratios for the various concurrent model options presented in the ACG
+System using the all age reference population.
+Expected to Actual Cost Ratios by Cost Quintile for ACG System Concurrent Risk Models
+LocalACG ReferenceACG ConcurrentRisk
+LocalAge-SexRisk ConcurrentRisk ConcurrentRisk (regression-based)
+CostRatio CostRatio CostRatio CostRatio
+Top1% 0.05 0.30 0.30 0.53
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–39–
+
+=== PÁGINA 40 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Chapter 1: Diagnosis-based Markers
+LocalACG ReferenceACG ConcurrentRisk
+LocalAge-SexRisk ConcurrentRisk ConcurrentRisk (regression-based)
+CostRatio CostRatio CostRatio CostRatio
+Top5% 0.13 0.46 0.46 0.64
+Top20% 0.31 0.71 0.71 0.81
+Mid-High 1.85 1.89 1.89 1.57
+Mid 4.43 2.77 2.79 2.07
+Low-Mid 11.09 4.22 4.46 3.05
+Bottom20% 271.92 14.73 14.76 21.85
+Source: IQVIA, formerly Quintiles/IMS, One IMS Drive, Plymouth Meeting, PA 19462; Subset of the
+Legacy PharMetrics Adjudicated Claims Database containing a national cross-section of managed care
+plans; population of 3,306,768 Commercial beneficiaries (age under 65 years), 2013-15.
+There is a tendency for all of the models to somewhat overestimate costs among the lowest cost
+quintile and somewhat underestimate costs in the highest cost quintile. This effect is most
+pronounced in the age and sex model. The various morbidity-based ACG System concurrent models
+all substantially outperform age and sex.
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–40–
+
+=== PÁGINA 41 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Index
+Index
+A clinically-oriented pregnancy example 26
+ACG collapsed ADG 12
+chronic illness examples 23 cost models
+clinical classification of pregnancy/delivery 27 ACG concurrent risk 37
+clinically-oriented examples 23, 26
+D
+decision tree 15
+delivery 27 decision tree
+diabetes example 25 ACG 15
+hypertension example 23 MAC-12 pregnant women 17
+infants clinical classification 30 MAC-24 multiple ADG categories 21
+infants examples 29 MAC-26 infants 19
+pregnancy 27 delivered 28
+pregnancy/delivery with complications example 26 delivery ACGs 27
+RUB categories 31 diagnostic certainty 8
+terminal groups formation 14 duration 7, 8
+ADG
+clusters 12 E
+collapsed 12, 13
+etiology 7, 8
+diagnostic certainty 8
+expected need for speciality care 8
+duration 8
+expected need for specialty care 8
+etiology 8
+expected need for specialty care 8 I
+major 10
+ICD mapping to ADG group 4
+severity 8
+infants
+subgroups 12
+ACG 30
+applications 11
+examples 29
+B infants decision tree 19
+birth weight 30 L
+C low birth weight 30
+CADG M
+collapsed 12
+MAC
+combinations 13
+assigned collapsed ADG 13
+MAC assignments 13
+combinations 13
+chronic illness
+MAC-12 17
+diabetes example 25
+MAC-24 21
+examples 23
+MAC-26 19
+hypertension example 23
+major ADG 10
+clinical aspects
+mapping ICD to ADG set 4
+duration 7
+markers
+etiology 7
+diagnosis-based 4
+expected need for specialty care 8
+multiple ADG categories decision tree 21
+severity 7
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–41–
+
+=== PÁGINA 42 ===
+The Johns Hopkins ACG® System Excerpt from Version 13.0 Technical Reference Guide
+Index
+P resource utilization bands 30
+population markers RUB
+pregnancy without delivery 28 ACG categories 31
+populations overview 30
+assign dollar value 37
+S
+rescaling 37
+predictive modeling severity 7, 8
+r-squared 39 statistical performance
+pregnancy r-squared 39
+ACGs 27
+with complications examples 26 T
+without delivery markers 28
+terminal groups 14
+pregnant 28
+pregnant women decision tree 17 W
+R weights 31
+rescaling 37
+©2022TheJohnsHopkinsUniversity.Allrightsreserved.
+–42–

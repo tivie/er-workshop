@@ -1,0 +1,723 @@
+# Fonte: Adjusted Clinical Groups (ACG).pdf
+# Páginas: 33
+
+=== PÁGINA 1 ===
+www.acss.min-saude.pt
+Adjusted Clinical Groups (ACG)
+Aplicação à população de 8 ULS
+(anos 2018/2019)
+Departamento de Gestão e Financiamento de Prestações de Saúde (DPS)
+Setembro 2023/ Março 2024
+
+=== PÁGINA 2 ===
+Siglas e Acrónimos
+ACSS- Administração Central do Sistema de Saúde, IP
+ACG - Adjusted Clinical Groups
+ADG- Aggregated Diagnosis Groups
+BDMH - Base de Dados de Morbilidade Hospitalar
+CADG- Collapsed Aggregated Diagnosis Groups
+CAM - Categorias Mutuamente Exclusivas
+CRG - Clinical Risk Groups
+CSP- Cuidados de Saúde Primários
+DPS- Departamento de Gestão e Financiamento de Prestações de Saúde
+EDC- Expanded Diagnosis Clusters
+EPC- Episode Procedure Categories
+GD- Grupos de diagnóstico
+GDA- Grupos de diagnósticos agregados
+GDAC- Grupos de Diagnósticos Agregados Colapsados
+GGD-Grandes Grupos de Diagnóstico
+GN- Grupos de Necessidades
+GRA- Grupos de Risco Ajustado
+ICD10CM/PCS- International Classification of Diseases 10th revision – Clinical Modification/ Procedure
+Coding System
+ICM- Índices de Casemix
+ICPC-2 - International Classification of Primary Care, 2nd edition
+ICU- Índice de Complexidade do Utente
+ISPUP- Instituto de Saúde Pública da Universidade do Porto
+MAC- Major Adjusted Categories
+MEDC- Major Expanded Diagnoses Categories
+NUR - Níveis de Utilização de Recursos
+Página 2 de 55
+
+=== PÁGINA 3 ===
+PNG- Patient Need Groups
+RUB- Resource Utilization Bands
+SIM@SNS - Sistema de Informação e Monitorização do SNS
+SCD- Sistema de Classificação de Doentes
+SPMS – Serviços Partilhados do Ministério da Saúde, EPE
+ULS- Unidades Locais de Saúde
+Página 3 de 55
+
+=== PÁGINA 4 ===
+Índice
+1.ENQUADRAMENTO............................................................................................................................................ 6
+2.FERRAMENTAS DE ESTRATIFICAÇÃO PELO RISCO ................................................................................................. 8
+Adjusted Clinical Groups (ACG) – Grupos de Risco Ajustado (GRA)............................................................. 9
+3.METODOLOGIA................................................................................................................................................ 17
+4.RESULTADOS .................................................................................................................................................. 24
+ANÁLISE DESCRITIVA- ACG/GRA ......................................................................................................................... 24
+5.CONCLUSÕES ................................................................................................................................................. 32
+6.BIBLIOGRAFIA ................................................................................................................................................. 33
+Página 4 de 55
+
+=== PÁGINA 5 ===
+Índice de figuras
+Figura 1- Componentes do Modelo ACG/GRA ............................................................................................................... 10
+Figura 2-ACG/GRA – Árvore de decisão dos ACG/GRA................................................................................................ 15
+Figura 3-Fontes de informação para aplicação de ferramentas de estratificação pelo risco ......................................... 17
+Figura 4-Agrupamento de utentes em ACG/GRA ........................................................................................................... 18
+Figura 5-Processo de agrupamento de utentes em ACG/GRA ...................................................................................... 18
+Figura 6- Pirâmide faixa etária/sexo ............................................................................................................................... 19
+Figura 7- Multimorbilidade por faixa etária e sexo .......................................................................................................... 22
+Figura 8- Polifarmácia por faixa etária e sexo ................................................................................................................ 23
+Figura 9-Comparação ACG/GRA 2018-2019 ................................................................................................................. 26
+Figura 10- ACG/GRA - Distribuição de utentes por RUB/NUR e custo médio ............................................................... 27
+Figura 11-Distribuição de RUB/NUR por ULS ................................................................................................................ 28
+Figura 12- Distribuição de RUS por faixa etária e sexo .................................................................................................. 28
+Figura 13- Fórmula- IDRA ............................................................................................................................................... 31
+Índice de tabelas
+Tabela 1-Major Expanded Diagnosis Categories (MEDC/GGD) e tipos de MEDC/GGD .............................................. 11
+Tabela 2- Aggregated Diagnosis Groups (ADG/GDA) e exemplos de respetivos diagnósticos ICD10CM ................... 12
+Tabela 3-ACG/GRA - Collapsed ADG (CADG/GDAC) e respetivos ADG ...................................................................... 13
+Tabela 4-Major Adjusted Categories (MAC/CAM) e respetivos CADG/GDAC ............................................................... 14
+Tabela 5-ACG/GRA - Patient Needs Groups (PNG/GN) e respetivos segmentos ......................................................... 16
+Tabela 6- Utentes por ULS 2018 e 2019 ........................................................................................................................ 19
+Tabela 7- Utentes e custos por ULS 2018 e 2019 .......................................................................................................... 20
+Tabela 8-Custos por rubricas 2018 e 2019 ..................................................................................................................... 20
+Tabela 9-Utentes por tipo de contacto ............................................................................................................................ 20
+Tabela 10-Tipo de informação por utente ....................................................................................................................... 21
+Tabela 11-Multimorbilidade 2013 - 2018......................................................................................................................... 21
+Tabela 12-Polifarmácia 2013 - 2018 ............................................................................................................................... 22
+Tabela 13- Top 10 EDC/GD ............................................................................................................................................ 24
+Tabela 14-TOP 10 dos MEDC/GGD mais frequentes e respetiva estratificação por RUB/NUR ................................... 25
+Tabela 15-Top 10 ADG/GDA .......................................................................................................................................... 25
+Tabela 16-Agrupamento de 50% utentes em ACG/GRA................................................................................................ 26
+Tabela 17-ACG/GRA - Distribuição de utentes por RUB/NUR ....................................................................................... 27
+Tabela 18- ACG/GRA - Distribuição de utentes por PNG/GN ........................................................................................ 29
+Tabela 19- ACG/GRA - Distribuição de utentes por PNG/GN e RUB/NUR ................................................................... 29
+Tabela 20-ACG/GRA – Pirâmide de Kaiser .................................................................................................................... 30
+Página 5 de 55
+
+=== PÁGINA 6 ===
+1.ENQUADRAMENTO
+Enquadradas naquilo que são modelos prospetivos de casemix, as ferramentas de estratificação pelo
+risco permitem responder ao caracter de incerteza (“risco”) que caracteriza a utilização futura de cuidados
+de saúde por parte de uma população, na medida em que possibilitam prever essa utilização tendo em
+consideração as características da população em causa, ou seja, a sua “carga de doença” (burden of
+disease) e, logo, a sua necessidade de utilização de cuidados de saúde. Trata-se de um processo
+estatístico utilizado para ajustar a variação na utilização de cuidados (entre as instituições prestadoras
+de cuidados de saúde) em função das diferenças entre as características (ou fatores de risco) da
+população. A estratificação pelo risco pode ser utilizada no sentido de adequar a prestação de cuidados às
+características da população, podendo garantir um ajustamento dos recursos financeiros em função das
+características do utente e da maior probabilidade de consumo de cuidados e de recursos financeiros (como
+seja o caso dos mais idosos, doentes crónicos ou com multiplicidade de patologias que, em consequência,
+têm maiores custos em saúde). Ou seja, é possibilitada uma discriminação positiva das populações com
+maiores necessidades em saúde, o que resulta numa afetação mais justa de recursos ao garantir ao
+prestador de cuidados um pagamento proporcional à probabilidade de consumo de cuidados de saúde
+por parte do utente. Ao ter por base uma estratificação em função das características do utente, este tipo
+de ferramentas tem como exigência imediata a caracterização da população “a servir” em função de
+um conjunto de aspetos individuais, e características do ser humano, capazes de influenciar o risco
+relativo ao consumo de cuidados e determinados resultados em saúde. Ao considerar as patologias
+existentes na população, tais ferramentas permitem a estratificação da mesma em função do risco
+(incerteza) de vir a necessitar de cuidados de saúde, e da despesa, per capita, prevista para tais
+cuidados, fomentando, assim, a criação de medidas e políticas de saúde mais equitativas e adequadas
+às necessidades em saúde da população. Ao combinarem informações sobre diagnósticos, prescrições
+clínicas, custos e utilização histórica do sistema de saúde, entre outras, permitem explicar uma parte
+significativa da variabilidade que existe na utilização por parte da população dos serviços de saúde,
+possibilitando a definição de modelos preditivos da necessidade de cuidados de saúde e dos custos que
+lhe estão associados. Desta forma, a utilização de uma ferramenta de estratificação pelo risco tem
+como resultado imediato a caracterização sistematizada da população relativamente às variáveis
+consideradas, fornecendo informação ao planeamento e monitorização dos serviços de saúde, bem como
+uma medida do casemix de cada prestador de saúde, ou seja, a quantificação da complexidade clínica e
+do consumo de recursos da população que lhe está adstrita. As ferramentas de estratificação pelo risco,
+na sequência da criação de modelos de casemix, tiveram a sua origem nos E.U.A. sendo os modelos
+aí criados aqueles que estão, atualmente, a ser ensaiados internacionalmente e que se ensaiaram em
+Página 6 de 55
+
+=== PÁGINA 7 ===
+Portugal, com subsequente comparação com o Índice de Complexidade do Utente (ICU). Todos os
+modelos se apresentam como sistemas de classificação que atribuem a cada doente um grupo
+clinicamente coerente e exclusivo, tendo por base dados de episódios de agudos em hospitais e informação
+relativa aos seus contactos com os cuidados de saúde primários. Na sua essência, os modelos de
+estratificação pelo risco seguem a lógica comum aos sistemas de classificação de doentes, tendo como
+objetivo tornar compreensíveis as suas semelhanças e diferenças. Ou seja, numa ferramenta de
+estratificação pelo risco, doentes que pertençam ao mesmo grupo terão risco semelhante quer em termos
+dos recursos de saúde que venham a consumir quer da despesa que potencialmente virá a ser gerada.
+Mediante a atribuição de um peso relativo a cada grupo de doentes, que traduz o custo esperado no
+tratamento desses doentes, um sistema de classificação de doentes permite relacionar este casemix
+com os custos incorridos no tratamento dos doentes assistidos, servindo para caracterizar a “procura” de
+cuidados de saúde e podendo servir de base a um modelo de financiamento ajustado à complexidade dos
+doentes tratados. O peso relativo de cada grupo de doentes corresponde a um Coeficiente de ponderação
+que reflete a complexidade e o custo esperado com a carga de doença e consumo de recursos de um utente
+típico agrupado em cada grupo, expresso em termos relativos face à complexidade e custos médios
+esperados com a carga de doença e consumo de recursos do utente típico a nível nacional.
+Página 7 de 55
+
+=== PÁGINA 8 ===
+2.FERRAMENTAS DE ESTRATIFICAÇÃO PELO RISCO
+Os diversos instrumentos usados para estratificar a população pelo risco diferem quanto ao objetivo para
+o qual foram construídos, metodologia usada e modo de implementação. Um estudo de revisão da
+literatura identificou, pelo menos, 21 modelos de estratificação pelo risco7, sendo alguns deles versões
+adaptadas dos originais. Considerando que o ICU, embora necessitando ainda de ser desenvolvido, já
+se encontra implementado centralmente, calculando, mensalmente, valores para todos os utentes
+inscritos nos Cuidados de Saúde Primários (CSP). Considerando ainda que, em 2016/2017, se procedeu
+ao estudo preliminar dos Adjusted Clinical Groups (ACG) e Clinical Risk Groups (CRG)- dois dos
+instrumentos mais utilizados no contexto Europeu, nomeadamente em Espanha – a ACSS procedeu à
+comparação destes 3 instrumentos em termos da caracterização da população e da respetiva capacidade
+preditiva da utilização do sistema de saúde. Importou, por isso, aplicar os três instrumentos a uma mesma
+população de forma retrospetiva com o objetivo de comparar resultados e identificar aquele que melhor
+caracteriza essa população e que melhor explica o respetivo consumo de recursos global, na nossa
+realidade.
+De referir que existem duas diferenças substanciais entre ACG/GRA/CRG e ICU a saber:
+i) as duas primeiras ferramentas obrigam ao pagamento de licenciamento, opostamente ao
+ICU, ferramenta desenvolvida internamente na ACSS (a necessitar de reforço da equipa de
+CSP de forma a aumentar a sua abrangência e robustez, e a descentralizar o conhecimento);
+ii) contrariamente às duas primeiras ferramentas, o ICU não corresponde a um Sistema de
+Classificação de Doentes (SCD), na medida em que não agrupa utentes de acordo com as
+suas semelhanças a nível clínico e dos custos incorridos. Procede à atribuição de um peso
+relativo individual, ao invés de um peso por grupo de doentes.
+Os resultados do referido estudo permitiram concluir que, á parte a diferença acima descrita, não existem
+diferenças substantivas entre as diferentes ferramentas estudadas, conclusão que suportou o lançamento
+de um concurso publico internacional para adjudicação pelo preço mais baixo apresentado, tendo vencido
+os ACG/GRA.
+O presente documento é parte integrante do relatório resultante da comparação entre estas 3 mencionadas
+ferramentas (ACG/GRA, CRG e ICU), sendo que de seguida se apresenta a informação relativa aos
+ACG/GRA.
+Página 8 de 55
+
+=== PÁGINA 9 ===
+Adjusted Clinical Groups (ACG) – Grupos de Risco Ajustado (GRA)
+O Sistema de estratificação de risco Adjusted Clinical Groups (ACG/GRA) surgiu na sequência dos
+projetos de investigação de Barbara Starfield, nos anos 80, em que se analisou a relação entre carga da
+doença e utilização de cuidados de saúde numa população pediátrica. Nestes estudos, de acordo com a
+autora e seus colegas, a criação de clusters de morbilidade similar constitui um melhor preditor da utilização
+de recursos de serviços de saúde do que a presença de doenças específicas.
+Desde então, a Bloomberg School of Public Health da John Hopkins University tem desenvolvido este
+Sistema, que consiste na aplicação de um algoritmo que permite classificar os indivíduos em categorias
+de morbilidade mutuamente exclusivas, definidas de acordo com os padrões de doença esperados e
+recursos necessários. Embora tenha sido inicialmente desenvolvido especificamente para utilização nos
+cuidados de saúde primários – daí o nome original de Ambulatory Care Groups –, ao incorporarem
+igualmente informação de âmbito hospitalar, os ACG/GRA têm servido para estudo da população de
+forma mais integrada.
+De acordo com uma recente revisão da literatura, o sistema ACG/GRA incorpora, entre outros,
+modelos específicos de previsão de custos totais, custos em farmácia ou futuros internamentos,
+assim como dispõe de diversos marcadores de fragilidade da população, condições hospitalares
+dominantes ou identificação de casos com problemas de adesão ao tratamento. Ao utilizar como
+principal fonte de informação os diagnósticos, tanto agudos como crónicos, e consumo de fármacos, este
+Sistema tem sido amplamente utilizado, não apenas para identificação de indivíduos com
+necessidades de gestão de cuidados, como na identificação de indivíduos com necessidades
+complexas.
+1. Componentes do modelo ACG/GRA
+Em função das variáveis utilizadas, e da interação entre as mesmas, a cada indivíduo é atribuído um dos
+93 ACG/GRA exclusivos entre si. A agregação de utentes processa-se por diferentes etapas e níveis,
+conforme ilustra a figura seguinte:
+Página 9 de 55
+
+=== PÁGINA 10 ===
+Figura 1- Componentes do Modelo ACG/GRA
+Fonte: IASIST, 2023
+Como ilustrado na Figura 1, embora os ACG/GRA correspondam ao último nível de agregação de utentes,
+o modelo dispõe de outros níveis de agregação, que se descreve em seguida.
+Expanded Diagnosis Categories – EDC/GD
+Embora não constituam uma etapa na criação dos ACG/GRA, os Expanded Diagnosis Clusters
+(EDC/GD- Grupos de diagnóstico) são uma funcionalidade do Sistema que permite identificar 287
+doenças ou sintomas específicos.
+Estes, criados a partir da agregação de códigos clinicamente similares da International Classification of
+Diseases, Tenth Revision, Procedures (ICD-10-PCS), captados pela atividade hospitalar, e da
+International Classification of Primary Care, 2nd edition (ICPC-2), captados pela atividade dos cuidados
+de saúde primários, permitem comparar a distribuição de uma condição clínica entre populações,
+podendo ser utilizados para a seleção de doentes com uma condição clínica especifica ou conjuntos de
+patologias.
+Estes 287 EDC/GD são agregados em 27 Major Expanded Diagnoses Categories (MEDC/ GGD-Grandes
+Grupos de Diagnóstico), que, por sua vez, podem ser categorizados em 5 tipos de MEDC/GGD:
+Página 10 de 55
+
+=== PÁGINA 11 ===
+Tabela 1-Major Expanded Diagnosis Categories (MEDC/GGD) e tipos de MEDC/GGD
+Passo 1: Dos códigos de diagnóstico ICD-10 e ICPC-2 aos Aggregated Diagnosis Groups (ADG/GDA)
+O primeiro passo do algoritmo ACG/GRA é a atribuição de um Aggregated Diagnosis Groups (ADG/GDA-
+Grupos de diagnósticos agregados) a cada código de diagnóstico ICD-10 / ICPC-2. No entanto, podendo
+um código de diagnóstico ter implícita mais que uma situação clínica, a cada utente poderá ser atribuído
+mais que um ADG/GDA. Os diagnósticos incluídos em cada ADG/GDA são clinicamente semelhantes,
+tendo um consumo expectável de recursos em saúde igualmente similar. Um indivíduo com diferentes
+códigos diagnósticos associados, terá, naturalmente, diferentes ADG/GDA. Os Códigos de diagnóstico
+são classificados em 32 ADG/GDA, com base em cinco critérios clínicos:
+• Duração da doença (agudo: limitado no tempo e de expectável resolução; recorrente:
+períodos livres de doença; crónico: doença persistente);
+• Severidade (ex: menor/estável vs major/instável);
+• Certeza diagnóstica (sintomas vs doenças);
+• Tipo/Etiologia da condição (infeciosa, lesão ou outra);
+• Necessidade prevista de atenção especializada (médica, cirúrgica, obstétrica, hematológica,
+etc.);
+A tabela seguinte contém os diferentes ADG/GDA existentes e exemplos de diagnósticos contemplados
+em cada um:
+ADG/GDAs ICD-10 Diagnosis
+1. Time Limited: Minor K52.9 Noninfectious Gastroentritis
+L22 Diaper or Napkin Rash
+2. Time Limited: Minor-Primary Infections B09 Unspecified Viral Infection
+J05.0 Croup
+3. Time Limited: Major I80.2 Phlebitis of Lower Extremities
+K56.7 Impaction of Intestine
+4. Time Limited: Major-Primary Infections K75.9 Hepatitis, Unspecified
+M00.9 Pyogenic Arthritis
+5. Allergies J30.0 Allergic Rhinitis, Cause Unspecified
+L50.8 Other Urticaria
+6. Asthma J45.0 Extrinsic Asthma
+J45.1 Intrinsic Asthma
+7. Likely to Recur: Discrete M10.9 Gout, Unspecified
+M54.9 Backache, Unspecified
+8. Likely to Recur: Discrete-Infection J35.1 Chronic Tonsillitis
+N39.0 Urinary Tract Infection
+9. Likely to Recur: Progressive E11.1 Adult Onset Type II Diabetes w/Ketoacidosis
+I66.9 Cerebral Thrombosis
+10. Chronic Medical: Stable E10.9 Adult-Onset Type 1 Diabetes
+I10 Essential Hypertension
+11. Chronic Medical: Unstable D57.1 Sickle-Cell Anemia
+E84.0 Cystic Fibrosis
+12. Chronic Specialty: Stable- Orthopedic M48.9 Cervical Spondylosis Without Myelopathy
+M24.9 Other Joint Derangement
+Página 11 de 55
+
+=== PÁGINA 12 ===
+13. Chronic Specialty: Stable-Ear, Nose, H90.5 Central Hearing Loss
+Throat H71 Cholesteatoma
+14. Chronic Specialty: Stable-Eye H52.1 Myopia
+H11.9 Unspecified Disorder of Conjunctiva
+16. Chronic Specialty: Unstable- Orthopedic M48.0 Spinal Stenosis of Lumbar Region
+M92.8 Osteochondritis Dissecans
+17. Chronic Specialty: Unstable-Ear, Nose, Throat H81.0 Meniere's Disease
+H70.1 Chronic Mastoiditis
+18. Chronic Specialty: Unstable-Eye H40.9 Unspecified Glaucoma
+H15.0 Scleritis/Episcleritis
+20. Dermatologic A63.0 Viral Warts
+H61.0 Chondritis of external ear
+21. Injuries/Adverse Effects: Minor S13.4 Neck Sprain
+T09.0 Injury to Trunk
+22. Injuries/Adverse Effects: Major S06 Intracranial Injury
+T46.0 Poisoning by Cardiotonic Glycosides and Similar Drugs
+23. Psychosocial: Time Limited, Minor F12.1 Cannabis Abuse, Unspecified
+F32.0 Brief Depressive Reaction
+24. Psychosocial: Recurrent or Persistent, Stable F41.0 Panic Disorder
+F50.3 Bulimia
+25. Psychosocial: Recurrent or Persistent, Unstable F20.2 Catatonic Schizophrenia
+F10.3 Alcohol Withdrawal Delirium Tremens
+26. Signs/Symptoms: Minor G44.1 Headache
+M79.6 Pain in Limb
+27. Signs/Symptoms: Uncertain M25.4 Effusion of Lower Leg Joint
+R53 Malaise and Fatigue
+28. Signs/Symptoms: Major I51.7 Cardiomegaly
+R55 Syncope and Collapse
+29. Discretionary K40 Inguinal Hernia (NOS)
+L72.1 Sebaceous Cyst
+30. See and Reassure N62 Hypertrophy of Breast
+E65 Localized Adiposity
+31. Prevention/Administrative Z00.1 Routine Infant or Child Health Check
+Z01.4 Gynecological Examination
+32. Malignancy C50 Malignant Neoplasm of Breast (NOS)
+C81.9 Hodgkin's Disease, Unspecified Type
+33. Pregnancy Z33 Pregnant State
+080.0 Delivery in a Completely Normal Case
+34. Dental K02 Dental Caries
+K05.1 Chronic Gingivitis
+Tabela 2- Aggregated Diagnosis Groups (ADG/GDA) e exemplos de respetivos diagnósticos ICD10CM
+Fonte: IASIST, 2022
+Passo 2: Dos Aggregated Diagnosis Groups (ADG/GDA) aos Collapsed Aggregated Diagnosis Groups
+(CADG/GDAC)
+Uma vez que existem 4.3 biliões de combinações possíveis de ADG/GDA, e de forma a tornar a sua gestão
+exequível, os 32 ADG/GDA são agrupados em 12 Collapsed ADG os CADG (GDAC- Grupos de Diagnósticos
+Agregados Colapsados), conforme tabela abaixo.
+Página 12 de 55
+
+=== PÁGINA 13 ===
+Tabela 3-ACG/GRA - Collapsed ADG (CADG/GDAC) e respetivos ADG
+Fonte: IASIST, 2022
+Tal como os ADG/GDA, os CADG/GDAC não são mutuamente exclusivos entre si, uma vez que a
+cada individuo pode ser atribuído mais que um CADG/GDAC. A atribuição de CADG/GDAC tem em
+conta três critérios clínicos, a saber: i) a semelhança da probabilidade de persistência ou recorrência de
+diagnósticos dentro do ADG/GDA, ou seja, grupos de tempo limitado (por exemplo, grávidas), de
+probabilidade que volte a ocorrer ou de cronicidade; ii) a severidade da condição clínica, isto é, minor
+versus major, e estável versus instável; iii) os tipos de serviços de cuidados de saúde para a gestão do
+doente, isto é: médicos vs especializados, oftalmológicos/dentais, psicossocial, preventivos/administrativos,
+e gravidez.
+Página 13 de 55
+
+=== PÁGINA 14 ===
+Passo 3: Dos Collapsed Aggregated Diagnosis Groups aos Major Adjusted Categories (MAC/CAM)
+O terceiro passo na categorização do algoritmo ACG/GRA consiste na determinação das
+combinações de CADG/GDAC mais frequentes, criando, assim, as Frequently Occurring
+Combinations of CADG/GDAC, ou, Major Adjusted Categories (MAC/CAM- Categorias mutuamente
+exclusivas).
+Existem 26 combinações de CADG/GDAC mais comuns, o que permite determinar 26 MAC/CAM, conforme
+tabela abaixo. As primeiras 11 MAC/CAM correspondem à presença de um único CADG/GDAC. A
+MAC/CAM 12 inclui todas as grávidas, independentemente do tipo de CADG/GDAC. As MAC/CAM 13
+a 23 incluem as combinações de CADG/GDAC mais comuns, e o MAC/CAM 24 abrange todas as outras
+combinações de CADG/GDAC, a MAC/CAM 25 para utentes não utilizadores ou com diagnósticos inválidos,
+e a MAC/CAM 26 para todas as crianças com idade < 12 meses, independentemente do tipo de
+CADG/GDAC.
+Tabela 4-Major Adjusted Categories (MAC/CAM) e respetivos CADG/GDAC
+Fonte: IASIST, 2022
+Passo 4: Das Major Adjusted Categories (MAC/CAM) aos Adjusted Clinical Groups (ACG/GRA)
+As MAC/CAM formam os ramos de decisão da árvore dos ACG/GRA. A lógica utilizada na divisão de
+MAC/CAM em ACG/GRA inclui a combinação de considerações estatísticas e visão clínica.
+O principal objetivo da determinação de ACG/GRA é a identificação de grupos de indivíduos com
+necessidades similares de recursos de cuidados de saúde e que partilhem, igualmente, características
+clínicas similares. Este consumo de recursos tem por base as despesas dos cuidados, tendo em
+consideração as seguintes variáveis: Idade, Sexo, Presença de específicos ADG/GDA, Número de
+ADG/GDAs Major e Número total de ADG/GDA. A cada ACG/GRA é atribuído um peso relativo que
+pondera a complexidade e custo esperado com os utentes agrupados em cada ACG/GRA, com a
+Página 14 de 55
+
+=== PÁGINA 15 ===
+complexidade e custos médios nacionais. Este peso relativo é calculado diretamente pelo software através
+do Local Concurrent Risk.
+A árvore de decisão dos ACG/GRA, pode ser ilustrada da seguinte forma:
+Figura 2-ACG/GRA – Árvore de decisão dos ACG/GRA
+Fonte: IASIST, 2023
+A versão do software ACG/GRA utilizada no presente estudo corresponde à versão 13.0, de 2022,
+contendo um total de 181 ACG/GRA (ver anexo 1-Tabela 2)1.
+Adicionalmente, existem mais duas categorizações dos utentes: Resource Utilization Bands -
+RUB/NUR (Níveis de Utilização de Recursos) e Patient Need Groups – PNG/GN (Grupos de
+necessidades).
+Resource Utilization Bands - RUB/NUR
+Os ACG/GRA foram desenhados de forma a representar categorias de utentes coerentes do ponto de vista
+clínico e da utilização de recursos em saúde. Contudo, é natural que utentes com o mesmo nível de
+consumo expetável de recursos em saúde, mas com condições epidemiológicas diferentes, sejam
+agrupados em ACG/GRA diferentes. Por exemplo, uma grávida, um indivíduo com uma condição
+psicológica considerável, ou um indivíduo com duas condições clínicas crónicas, podem ter um consumo
+expectável de recursos de saúde semelhante, mas serão todos agrupados em ACG/GRA diferentes.
+Para que seja possível agrupar os utentes de acordo com o consumo expectável de recursos de saúde, o
+sistema ACG/GRA dispõe dos Resource Utilization Bands (RUB/NUR), que se dividem nas seguintes
+classes:
+0 – Sem diagnósticos ou com diagnósticos inválidos (No or Only Invalid Dx)
+1 – Utentes saudáveis (Healthy users)
+1 A versão em vigor para PT em 2024 é a v13.0, release 2024.
+Página 15 de 55
+
+=== PÁGINA 16 ===
+2 – Utentes com um baixo consumo de recursos em saúde (Low)
+3 – Utentes com um consumo de recursos em saúde moderado (Moderate)
+4 – Utentes com um consumo de recursos em saúde alto (High)
+5 – Utentes com um consumo de recursos em saúde muito alto (Very high)
+Patient Need Groups – PNG/GN
+Paralelamente, o sistema procede igualmente à segmentação dos utentes em categorias clinicamente
+relevantes e mutuamente exclusivas, considerando as necessidades e contexto clínicos, designadas
+Patient Need Groups (PNG/GN- Grupos de necessidades). O agrupamento de utentes em PNG/GN
+pode ser utilizado para melhor identificar tendências clínicas na população em análise, áreas de prestação
+de cuidados a melhorar e desenvolver intervenções clínicas focadas em determinadas patologias. Existem
+11 PNG/GN, agregados em 6 segmentos:
+Tabela 5-ACG/GRA - Patient Needs Groups (PNG/GN) e respetivos segmentos
+Fonte: IASIST, 2022
+Página 16 de 55
+
+=== PÁGINA 17 ===
+3.METODOLOGIA
+Tendo em consideração a pandemia COVID-19 nos anos 2020 a 2022, optou-se por utilizar os dados de
+2018 e 2019, servindo este último de ano de validação1.
+Necessitando as ferramentas de estratificação pelo risco de informação relativa à prestação de cuidados
+hospitalares e primários, optou-se por ter em consideração a população inscrita nas 8 Unidades Locais
+de Saúde (ULS) e que fosse igualmente residente nas respetivas áreas de influência. Assim, em termos
+genéricos, foi possível aplicar as ferramentas de estratificação pelo risco em estudo aos utentes inscritos
+e residentes na área de influência das 8 ULS, para 2018 e 2019, considerando o seguinte conjunto
+de informação:
+Figura 3-Fontes de informação para aplicação de ferramentas de estratificação pelo risco
+1 É também possível proceder ao agrupamento de utentes tendo em consideração informação de anos anteriores, até 5 anos antes.
+Página 17 de 55
+
+=== PÁGINA 18 ===
+O processo de atribuição de ACG/GRA obrigou também à aquisição de licenciamento para efeitos de
+agrupamento dos dados em causa. Desta forma, foi possível atribuir um ACG/GRA a cada utente em
+análise:
+Figura 4-Agrupamento de utentes em ACG/GRA
+O agrupamento de dados em ACG/GRA constitui-se como um processo iterativo, de vários
+agrupamentos realizados pela equipa da SPMS, até obtenção dos dados finais:
+Figura 5-Processo de agrupamento de utentes em ACG/GRA
+Para efeitos de análise estatística dos resultados, optou-se pelo apoio do Instituto de Saúde Pública da
+Universidade do Porto (ISPUP).
+A análise de resultados efetuada tanto pela ACSS como pelo ISPUP procuraram responder às seguintes
+questões:
+• Os ACG/GRA adaptam-se enquanto SCD às características dos utentes em análise?
+• Os ACG/GRA têm diferenças substanciais em termos de estabilidade de agrupamento dos
+utentes entre anos?
+Página 18 de 55
+
+=== PÁGINA 19 ===
+1.1 AMOSTRA
+Conforme descrito, foi considerada a população inscrita nas 8 ULS e que fosse igualmente residente nas
+respetivas áreas de influência, resultando num total de cerca de 1 milhão de utentes, distribuindo-se da
+seguinte forma:
+Tabela 6- Utentes por ULS 2018 e 2019
+A caracterização desta amostra por faixa etária e sexo é a seguinte:
+Figura 6- Pirâmide faixa etária/sexo
+Página 19 de 55
+
+=== PÁGINA 20 ===
+Em termos de custos totais, a prestação de cuidados considerada ascendeu a um total de cerca de 640
+milhões em 2018 e 655 milhões em 2019 (resultando num custo médio per capita de cerca de 595€ e
+612€, respetivamente):
+e atendermos aos custos totais por rubrica de custos da informação considerada, verificámos que os
+medicamentos dispensados representam perto de 40% do total de custos, seguido dos custos com
+internamentos a representar cerca de 30%:
+Tabela 8-Custos por rubricas 2018 e 2019
+Ao analisarmos o tipo de contactos de saúde efetuados durante os anos 2018 e 2019 pelos utentes em
+análise, verificou-se que em qualquer dos anos, o número médio de contactos foi superior nas consultas
+de CSP, seguido das consultas externas e urgências hospitalares.
+Tabela 9-Utentes por tipo de contacto
+Página 20 de 55
+U LS
+C u sto s M e d ica m e n to s*
+C u sto s In te rn a m e n to /A m b u la tó rio H o sp ita la r (G D H )
+C u sto s C o n su lta s E xte rn a s H o sp ita la re s * *
+C u sto s U rg ê n cia H o sp ita la r* *
+C u sto s C o n su lta s M é d ica s C S P
+C u sto s C o n su lta s E n fe rm a g e m C S P
+C u sto s C o n su lta s O u tro s P ro fissio n a is C S P
+C u sto s M C D T S e c to r C o n v e n cio n a d o
+T O T A
+* Facturação farm ácia com unitária ; ** Ap enas hospitais SO N H O
+L
+2 0 1 8
+T o ta l
+2 3 3 7 3 4 2 4 2 ,0 2 €
+1 7 6 7 3 5 6 4 4 ,3 4 €
+6 9 6 0 8 0 6 3 ,0 8 €
+4 9 0 7 4 0 2 2 ,1 8 €
+4 6 0 1 1 1 4 2 ,2 4 €
+3 1 9 4 7 7 3 9 ,6 5 €
+2 9 0 0 1 2 4 ,9 7 €
+2 7 4 4 7 2 4 1 ,8 6 €
+6 3 7 4 5 8 2 2 0 ,3 3 €
+% n o T o ta
+3 6 ,6 7 %
+2 7 ,7 3 %
+1 0 ,9 2 %
+7 ,7 0 %
+7 ,2 2 %
+5 ,0 1 %
+0 ,4 5 %
+4 ,3 1 %
+1 0 0 ,0 0 %
+l
+2 0 1 9
+T o ta l
+2 4 3 9 2 9 3 6 5 ,1 0 €
+1 8 2 4 7 1 4 3 9 ,1 8 €
+6 6 2 0 7 7 3 2 ,9 7 €
+4 1 9 8 8 0 1 9 ,6 6 €
+4 5 7 1 1 7 5 9 ,1 8 €
+3 3 4 1 1 5 8 3 ,3 1 €
+2 9 4 6 1 6 4 ,8 0 €
+3 8 3 8 5 4 3 2 ,8 6 €
+6 5 5 0 5 1 4 9 7 ,0 5 €
+% n o T o ta
+3 7 ,2 4 %
+2 7 ,8 6 %
+1 0 ,1 1 %
+6 ,4 1 %
+6 ,9 8 %
+5 ,1 0 %
+0 ,4 5 %
+5 ,8 6 %
+1 0 0 ,0 0 %
+l
+Tabela 7- Utentes e custos por ULS 2018 e 2019
+
+=== PÁGINA 21 ===
+Por outro lado, verificou-se que a grande maioria dos utentes, em qualquer dos anos, teve mais que um
+tipo de contacto com os cuidados de saúde. Em contrapartida, para cerca de 14% dos utentes não existe
+qualquer tipo de informação.
+Tabela 10-Tipo de informação por utente
+Já no que se refere à multimorbilidade, verificou-se que cerca de 15% da população teve mais de 15
+situações clínicas diagnosticadas entre 2013 e 2018, mais de 15 diagnósticos, existindo 8,75% da
+população sem registo de qualquer diagnóstico:
+Tabela 11-Multimorbilidade 2013 - 2018
+A distribuição por sexo apresentou uma maior multimorbilidade nas mulheres, sobretudo a partir dos 40
+anos.
+Página 21 de 55
+
+=== PÁGINA 22 ===
+Figura 7- Multimorbilidade por faixa etária e sexo
+Relativamente à polifarmácia, verificou-se que um quarto da população em estudo não aviou qualquer
+princípio ativo, existindo cerca de 4% da população que teve prescrição e aviou mais de 15 princípios
+ativos entre 2013 e 2018:
+Tabela 12-Polifarmácia 2013 - 2018
+No que se refere à distribuição por sexo, as mulheres apresentaram uma maior polifarmácia.
+Página 22 de 55
+
+=== PÁGINA 23 ===
+Figura 8- Polifarmácia por faixa etária e sexo
+Página 23 de 55
+
+=== PÁGINA 24 ===
+4.RESULTADOS
+ANÁLISE DESCRITIVA- ACG/GRA
+Os ACG/GRA correspondem ao nível mais desagregado de agrupamento de utentes. Contudo, e conforme
+descrito no capítulo 3, o modelo dispõe de outros níveis de agregação, nomeadamente EDC/GD,
+MEDC/GGD, ADG/GDA, CADG/GDAC2, MAC/CAM3, RUB/NUR e PNG/GN, pelo que importa descrever a
+forma como os utentes foram agrupados em cada uma destas categorias.
+Expanded Diagnosis Categories – EDC/GD e Major Expanded Diagnosis Categories – MEDC/GGD
+A distribuição da população em estudo para 2018 encontra-se presente no anexo 2, sendo que cada utente
+pode pertencer a mais que um EDC/GD. Verificou-se que o EDC/GD mais frequente (para cerca de
+12% do total de ocorrências) é o relativo a Preventive care, com maior proporção no RUB/NUR 3. Nos 10
+EDC/GD mais frequentes encontram-se também situações de hipertensão, condições metabólicas,
+obesidade e músculo-esqueléticas:
+Tabela 13- Top 10 EDC/GD
+2 Os CADG/GDAC e os MAC/CAM são essencialmente o mecanismo para transformar os ADG/GDA em ACG/GRA. Como os ADG/GDA e os
+ACG/GRA já são disponibilizados ao nível do doente, a Johns Hopkins considera que disponibilizar os CADG/GDAC e os MAC/CAM não
+acrescenta valor adicional e, por essa razão, não é possível extrai-los diretamente do software.
+3 Idem
+Página 24 de 55
+
+=== PÁGINA 25 ===
+No que se refere à distribuição por MEDC/GGD, concluiu-se que o mais frequente (para cerca de 17% do
+total de ocorrências) é o MEDC/GGD relativo a Administrative, com maior proporção no RUB/NUR 3. Nos
+10 MEDC/GGD mais frequentes encontram-se também situações cardiovasculares, músculo-
+esqueléticas, psicossociais, entre outras. A distribuição da população em estudo para 2018 encontra-
+se presente e no anexo 3.
+Tabela 14-TOP 10 dos MEDC/GGD mais frequentes e respetiva estratificação por RUB/NUR
+Aggregated Diagnosis Groups - ADG/GDA
+No que se refere à distribuição por ADG/GDA, concluiu-se que o mais frequente (para cerca de 17% do
+total de ocorrências) é o ADG/GDA relativo a Prevention/Administrative. Nos 10 ADG/GDA mais frequentes
+encontram-se também situações crónicas, psicossociais, entre outras. A distribuição da população em
+estudo para 2018 encontra-se presente no anexo 4.
+Tabela 15-Top 10 ADG/GDA
+ACG/GRA - Distribuição utentes
+O agrupamento de utentes em ACG/GRA corresponde ao nível mais detalhado de agregação de
+informação, sendo atribuído um único ACG/GRA por utente, encontrando-se a distribuição por
+ACG/GRA da população em estudo presente no anexo 5. A cada utente é atribuído um ACG/GRA,
+Página 25 de 55
+
+=== PÁGINA 26 ===
+dividindo por idade. Relativamente a 2018, constatou-se o seguinte:
+➢ Os 1.071.464 utentes são distribuídos pelos 181 ACG/GRA disponíveis;
+➢ Existem 18 ACG/GRA de baixo volume (<30 utentes, num total de 220 (0,02%) utentes,
+representando 0,04% dos custos);
+➢ 9,08% da população agrupada em ACG/GRA Non users;
+➢ Cerca de 50% dos utentes encontram-se agrupados em 10 CRG, representando cerca de 30%
+do total de custos:
+Tabela 16-Agrupamento de 50% utentes em ACG/GRA
+Quando comparado o agrupamento em ACG/GRA de 2018 com o de 2019, verificámos uma grande
+concordância:
+Figura 9-Comparação ACG/GRA 2018-2019
+Resource Utilization Bands - RUB/NUR
+A distribuição de utentes em 2018 no que se refere aos RUB/NUR apresenta um agrupamento de
+cerca de 31% do tal de utentes em classes de baixo consumo de recursos em saúde (RUB/NUR 0 e
+14, com o mais baixo custo médio baixo – 146,03€) e cerca de 8% dos utentes em classes de alto ou muito
+4
+No que diz respeito aos RUB/NUR, o RUB/NUR-0 diz respeito aos “Não Utilizadores” (ACG/GRA 5200: Non-Users). O RUB/NUR-1 diz respeito aos utentes
+com alguma informação de diagnóstico ou algum contacto (Int, Urg, Cons), mas considerados “Saudáveis” (Exs.: ACG/GRA 0200: Acute Minor, Age 2 to 5;
+ACG/GRA 0300: Acute
+Minor, Age > 5; ACG/GRA 1100: Eye/Dental; ACG/GRA 1600: Preventive/Administrative; ACG/GRA 5110: No Diagnosis or Only Unclassified Diagnosis).
+Como exemplo, se durante o ano um utente apenas se deslocar ao centro de saúde para vacinação, e o único diagnóstico que for codificado estiver
+relacionado com a vacinação,
+Página 26 de 55
+
+=== PÁGINA 27 ===
+alto consumo de recursos de saúde (classes 4 e 5, com os maiores custos médios, 1.896,31€ e
+5.083,96€, respetivamente):
+Tabela 17-ACG/GRA - Distribuição de utentes por RUB/NUR
+A distribuição de utentes por RUB/NUR apontou para uma relação inversa entre número de utentes em
+cada RUB/NUR e respetivo custo médio, na medida em que os RUB/NUR com mais elevado nível de
+consumo de recursos, apesar do menor número de utentes, terão custos médios superiores. Esta relação
+fica bem visível no gráfico seguinte:
+Figura 10- ACG/GRA - Distribuição de utentes por RUB/NUR e custo médio
+A distribuição por RUB/NUR apresentou grande similitude entre ULS:
+irá ser classificado no ACG/GRA Preventive/Administrative. Outro exemplo, caso um utente tenha tido uma consulta ou um episódio de urgência, mas nenhum diagnóstico tiver
+sido codificado, será considerado saudável e poderá ser classificado no ACG/GRA 5110: No Diagnosis or Only Unclassified Diagnosis.
+Página 27 de 55
+
+=== PÁGINA 28 ===
+Figura 11-Distribuição de RUB/NUR por ULS
+No que se refere ao sexo e idade, existe uma maior concentração das mulheres nos RUB/NUR mais
+elevados, sobretudo a partir dos 40 anos.
+Figura 12- Distribuição de RUS por faixa etária e sexo
+Patient Need Groups - PNG/GN
+A distribuição por PNG/GN dos utentes de 2018 em estudo resultou numa agregação de cerca de
+32% da população no PNG/GN 3 – Low Need Adult, seguido de cerca de 22% no PNG/GN 4 – Multi-
+Morbidity Low Complexity. Apenas 0,16% da população se encontra agregada no PNG/GN 11 –
+Frailty:
+Página 28 de 55
+
+=== PÁGINA 29 ===
+Tabela 18- ACG/GRA - Distribuição de utentes por PNG/GN
+O cruzamento do agrupamento de utentes de 2018 em RUB/NUR e PNG/GN demonstrou que a maior
+concentração de utentes se encontra no PNG/GN 4 – Multi-Morbidity Low Complexity e RUB/NUR 4 –
+Moderate:
+Tabela 19- ACG/GRA - Distribuição de utentes por PNG/GN e RUB/NUR
+ACG/GRA – Pirâmide de Kaiser
+A distribuição da população resultante da aplicação de um modelo de estratificação pode ser
+representada através de uma pirâmide de Kaiser onde, regra geral, 5% da população serão doentes
+crónicos, representando cerca de 20% dos encargos. A aplicação da pirâmide de Kaiser à amostra da
+população em estudo, no que se refere ao agrupamento de doentes em ACG/GRA, seguiu a regra
+habitual deste tipo de representação:
+Página 29 de 55
+
+=== PÁGINA 30 ===
+Tabela 20-ACG/GRA – Pirâmide de Kaiser
+Página 30 de 55
+
+=== PÁGINA 31 ===
+Índice de Risco Ajustado – IDRA
+O agrupador atribui um peso relativo a cada ACG/GRA, em função dos custos considerados e da
+carga de doença dos utentes agrupados em cada ACG/GRA. Conforme referido, o peso relativo de cada
+grupo de utentes corresponde a um Coeficiente de ponderação que reflete a complexidade e o custo
+esperado com a carga de doença e consumo de recursos de um utente típico agrupado em cada grupo,
+expresso em termos relativos face à complexidade e custos médios esperados com a carga de doença
+e consumo de recursos do utente típico a nível nacional. Em termos práticos, o utente típico nacional terá
+um peso relativo de 1, sendo um utente com complexidade, carga de doença e custos espetáveis superior
+à media nacional agrupado num ACG/GRA com peso relativo >1 e um utente com complexidade, carga de
+doença e custos espetáveis inferior à media nacional agrupado num ACG/GRA com peso relativo <1.
+Assim, é possível calcular, para cada ULS e em função da distribuição dos seus utentes por
+ACG/GRA e respetivos pesos relativos, um índice que traduza a média de carga de doença/risco de
+consumo de cuidados desses utentes – o Índice de Risco Ajustado (IDRA) - , através da seguinte
+formula:
+Figura 13- Fórmula- IDRA
+Na mesma lógica de qualquer sistema de casemix, uma ULS terá um IDRA tanto mais elevado quanto
+mais complexa for a população que se encontra a servir e quanto maior for a carga de doença dessa
+população. Em termos de financiamento por capitação, o ajustamento ao risco da população resulta
+na aplicação do IDRA ao valor da capita considerada para cada utente.
+Página 31 de 55
+
+=== PÁGINA 32 ===
+5.CONCLUSÕES
+Relativamente às questões colocadas no início do presente estudo comparativo, a análise descritiva e
+estatística efetuada (esta última pelo ISPUP) permitiram concluir o seguinte:
+• Os ACG/GRA adaptam-se enquanto SCD às características dos utentes em análise, sendo
+possível representar a sua distribuição numa pirâmide de Kaiser, onde 5% dos doentes
+classificados como crónicos representam cerca do total 25% dos custos.
+• Igualmente, verificou-se uma distribuição regular dos utentes por ACG/GRA, sem grande
+percentagem de grupos de baixo volume, existindo uma similitude na distribuição de utentes
+entre ULS.
+• Verificou-se uma sobreposição no agrupamento de doentes entre 2018 e 2019, agrupados em
+ACG/GRA.
+• Os ACG/GRA apresentaram uma boa a muito boa capacidade discriminar probabilidade de
+internamento, multimorbilidade e polifarmácia.
+Página 32 de 55
+
+=== PÁGINA 33 ===
+6.BIBLIOGRAFIA
+ACSS. Estratégia para a estratificação da população pelo risco. 2022
+Aguado A, Guino E, Mukherjee B, et al. Variability in prescription drug expenditures explained by adjusted clinical
+groups (ACG/GRA) case-mix: a cross-sectional study of patient electronic records in primary care. BMC Health
+Serv Res. 2008;8:53. https://doi.org/10.1186/1472-6963-8-53
+Buja A, Claus M, Perin L, et al. Multimorbidity patterns in high-need, high-cost elderly patients. PLoS One
+2018;13:e0208875
+Buja A, Rivera M, Soattin M, et al. Impactibility model for population health management in high-cost elderly heart
+failure patients: a capture method using the ACG/GRA System. Popul Health Manag 2019;22:495– 502.
+Cohen CJ, Flaks-Manov N, Low M, et al. High-risk case identification for use in comprehensive complex care
+management. Popul Health Manag 2015;18:15–22
+Hosar R., TeInsbekk A.,Identifying individuals with complex and long-term health-care needs using the Johns
+Hopkins Adjusted Clinical Groups System: A comparison of data from primary and specialist health care, 2023,
+Scandinavian Journal of Public Health
+IASIST. Gestão Integrada da Doença Adjusted Clinical Groups® - Análise populacional integrada com base na
+estratificação pela carga de doença utilizando os ACG/GRA® da Johns Hopkins University. Enquadramento e
+Guia de Análise, 2023
+Maltenfort MG, Chen Y, Forrest CB. Prediction of 30-day pediatric unplanned hospitalizations using the Johns
+Hopkins Adjusted Clinical Groups risk adjustment system. PLoS One. 2019;14(8):e0221233.
+Murphy SM, Castro HK, Sylvia M. Predictive modeling in practice: improving the participant identification process
+for care management programs using condition-specific cut points. Popul Health Manag 2011;14:205–10
+WHO Regional Office for Europe, Copenhagen, Integrated Care Models, An overview, January 2016. Winkelman
+R, Damler R, Risk Adjustment in State Medicaid Programs, Health Watch, January 2008 – No. 57.
+Wui-Chiang Lee, Tong-Po Huang, Explanatory Ability of the ACG/GRA System Regarding the Utilization and
+Expenditure of the National Health Insurance Population in Taiwan—A 5-year Analysis, Elsevier 2008, Vol 71 • No
+4, Pages 191-199.
+Página 33 de 55

@@ -1,0 +1,808 @@
+# Fonte: Hosar 2024 Validity of the Johns Hopkins ACG system on the utilisation of healthcare services in Norway (BMC HSR).pdf
+# Páginas: 14
+
+=== PÁGINA 1 ===
+Hosar et al. BMC Health Services Research (2024) 24:1279 BMC Health Services Research
+https://doi.org/10.1186/s12913-024-11715-4
+RESEARCH Open Access
+Validity of the Johns Hopkins Adjusted Clinical
+Groups system on the utilisation of healthcare
+services in Norway: a retrospective cross-
+sectional study
+Rannei Hosar1*, Gro Rosvold Berntsen2,3 and Aslak Steinsbekk1,2
+Abstract
+Background The Adjusted Clinical Groups (ACG) System is a validated electronic risk stratification system. However,
+there is a lack of studies on the association between different ACG risk scores and the utilisation of different healthcare
+services using different sources of input data. The aim of this study was therefore to assess the validity of the
+association between five different ACG risk scores and the utilisation of a range of different healthcare services using
+input data from either general practitioners (GPs) or hospitals.
+Methods Registry-based study of all adult inhabitants in four Norwegian municipalities that received somatic
+healthcare in one year (N = 168 285). The ACG risk scores resource utilisation band, unscaled ACG concurrent risk,
+unscaled concurrent risk, frailty flag and chronic condition count were calculated using age, sex and diagnosis codes
+from GPs and a hospital, respectively. Healthcare utilisation covered GP, municipal and hospital services. Areas under
+the receiver operating curve (AUC) were calculated and compared to the AUC of a model using only age and sex.
+Results Utilisation of all healthcare services increased with increasing scores in the “resource utilisation band” (RUB)
+and all other investigated ACG risk scores. The risk scores overall distinguished well between levels of utilisation of GP
+visits (AUC up to 0.84), hospitalisation (AUC up to 0.8) and specialist outpatient visits (AUC up to 0.72), but not out-of-
+hours GP visits (AUC up to 0.62). The score “unscaled ACG concurrent risk” overall performed best. Risk scores based
+on data from either GPs or hospitals performed better for the classification of healthcare services in their respective
+domains. The model based on age and sex performed better for distinguishing between levels of utilisation of
+municipal services (AUC 0.83–0.90 compared to 0.46–0.79).
+Conclusions Risk scores from the ACG system is valid for classifying GP visits, hospitalisation and specialist outpatient
+visits. It does not outperform simpler models in the classification of utilisation of municipal services such as nursing
+homes and home services and outpatient emergency care in primary healthcare. The ACG system can be applied in
+Norway using administrative data from either GPs or hospitals.
+*Correspondence:
+Rannei Hosar
+rannei.hosar@ntnu.no
+Full list of author information is available at the end of the article
+© The Author(s) 2024. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use,
+sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and
+the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this
+article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included
+in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will
+need to obtain permission directly from the copyright holder. To view a copy of this licence, visit h t t p : / / c e r a t i v e c o m m o n .s o r g / l i c e n s e s / y b / 4 . 0 /.
+
+=== PÁGINA 2 ===
+Hosar et al. BMC Health Services Research (2024) 24:1279 Page 2 of 14
+Keywords Population health management, Risk stratification, ACG system, Adjusted clinical groups, General
+practitioner, Hospital
+Background
+diagnosis codes registered by e.g., general practitioners
+Risk stratification in healthcare is the process of cate- as input data, it is currently not clear whether this score
+gorising and stratifying the population according to their is associated with utilisation of other types of healthcare
+health status, expected concurrent and future health- services.
+care needs and risk of experiencing unwanted outcomes The overall aim of this study was therefore to assess the
+[1–3]. As healthcare data have become more accessible, validity of the association between different ACG risk
+electronic risk stratification tools based on administrative scores and the utilisation of a range of different health-
+healthcare data have become increasingly popular [1]. care services. This was done by answering to the follow-
+One of the most recognised electronic risk stratification ing research questions using two different data sources
+tools, both in clinical practice [4] and in research litera- (GPs and hospitals) respectively:
+ture [1], is the Johns Hopkins Adjusted Clinical Groups
+(ACG) System [5]. The ACG system is a population case- 1. Within each level of the ACG risk score named
+mix system that quantifies morbidity and estimates con- resource utilisation band (RUB), what is the number
+current and future healthcare utilisation through a range of contacts with different types of healthcare
+of different risk scores. The minimum input data require- services?
+ments are age, sex and medical diagnoses [5]. 2. Within levels of the ACG risk scores named unscaled
+Since it was first described by its developers in 1991 ACG concurrent risk, unscaled concurrent risk,
+[6], the validity of the ACG system has been extensively frailty flag and chronic condition count, what is the
+assessed in numerous settings and healthcare systems. number of contacts with GP or hospital services?
+A review from 2021 concluded that it overall performs 3. To what extent is the five forementioned ACG risk
+well for a wide variety of both future and concurrent out- scores able to correctly classify the level of utilisation
+comes [1]. This includes studies across the Americas [7, of different healthcare services compared to a model
+8], Asia [9] and Europe, including the Netherlands [10], using age and sex only?
+Spain [11, 12], UK [13, 14] and Sweden [15, 16]. While
+Methods
+the system is currently being used in Norway, no studies
+assessing its validity in Norwegian healthcare has been Study design
+identified. This was a registry-based study using routinely collected
+The referenced validation studies have varied in terms administrative healthcare data on healthcare utilisation
+of input data sources, statistical validation measures and and diagnosis codes for all adult residents in four adja-
+applied ACG risk scores. The ACG system is compatible cent municipalities in Central-Norway who had visited
+with both ICD and ICPC diagnosis codes [5], and stud- a somatic healthcare service in 2013. The municipalities
+ies have applied data from primary [10–16] or specialist had a total population of 168 285 adult individuals in the
+healthcare services [17, 18], or a combination of the two study period. The STROBE guideline was used to guide
+[7–9, 19]. Commonly reported statistical validation mea- the presentation [20].
+sures have been the area under the curve (reported as
+AUCs or c-statistics) [7, 8, 10, 15, 19] and explained vari- Study setting and the ACG system
+ance (R2 values) [9, 11–14, 16, 17]. Studies have typically The publicly funded Norwegian healthcare system pro-
+reported on the concurrent or prospective relationship vides universal healthcare to all Norwegian residents
+between one [8, 11, 15, 19] or a few [7, 9, 10, 13, 14, 16, [21]. Each resident has a personal regular GP [22]. GPs
+17] risk scores from the ACG system and outcome vari- are gatekeepers to specialist healthcare [23], which is
+ables such as mortality [13], total healthcare expenditure mainly delivered in hospitals with local or regional func-
+[9, 12], primary healthcare expenditure [14, 16] or spe- tions. The most specialised functions are centralised to
+cific healthcare utilisation such as hospitalisation [8, 19], tertiary care in university hospitals or national special-
+or number of general practitioner (GP) visits [10]. ised centres. Emergency primary healthcare is provided
+However, none of these studies have investigated the by out-of-hours GPs [21]. The municipalities are respon-
+association between different ACG risk scores and the sible for providing residents with necessary healthcare
+utilisation of different healthcare services using different services, including home nursing care, home social care
+sources of input data, and more comprehensive analyses and nursing homes [21]. The private healthcare sector is
+have been called for [10]. Furthermore, if an individual very limited [21].
+receives a high score in one of the ACG risk scores using
+
+=== PÁGINA 3 ===
+Hosar et al. BMC Health Services Research (2024) 24:1279 Page 3 of 14
+The study included four municipalities, of which one is Finally, each individual is assigned to one of 93 mutually
+a city with a university hospital. The university hospital is exclusive terminal ACGs according to their combina-
+also the local general hospital for the population in these tion of CADGs and demographic characteristics (age and
+municipalities. sex). Individuals with similar expected resource require-
+The Johns Hopkins ACG System was developed at the ments can therefore be placed in different ACGs due to
+School of Hygiene and Public Health at Johns Hopkins different epidemiological patterns of morbidity.
+University [6, 24]. The system generates different risk Certain risk scores such as descriptions of resource
+scores and indicators that quantify morbidity and esti- utilisation are generated by applying weights derived
+mate concurrent and future healthcare utilisation. The from the ACG by calculating the mean value of all indi-
+minimum input data requirements are age, sex and all viduals in a reference population. The weights are rela-
+known medical diagnoses for a set period of time, most tive weights standardised to a mean of 1.0. A fixed set
+commonly one year [5]. Additional input data such as of ACG-weights is available through the software, but
+medical prescriptions and previous healthcare utilisation local sets of weights can be applied to account for local
+can be added to generate additional risk scores. differences.
+The adjusted clinical groups (ACGs) are the termi-
+nal groups of the ACG system algorithm [5]. To arrive Participants
+at these terminal groups, diagnoses are first categorised To be included in this study, the individual had to
+into 32 aggregated diagnosis groups (ADGs) based on be ≥ 18 years of age at the end of 2013 and registered
+the diagnoses’ likelihood of persistence, expected need with ≥ 1 visit to a GP or somatic hospital service from the
+and cost of procedures, and associated referral to spe- 1st of January to the 31st of December 2013. Individu-
+cialist services, hospitalisation, disability and decreased als that had only received mental healthcare in the study
+life expectancy. An individual registered with one of the period were excluded from the study.
+diagnoses in an ADG is assigned to that ADG. Conse-
+quently, one individual might be assigned to up to 32 Data sources
+ADGs. The ACG System then clusters the ADGs into col- Healthcare registry data were collected from three
+lapsed ADGs (CADGs) with similar severity, likelihood sources. The Norwegian registry for reimbursement
+of persistence and types of healthcare services needed. claims provided information on all visits to GPs and out-
+of-hours GPs. Information on all contacts with the hos-
+Table 1 Description of the applied ACG risk assessment
+pital were collected directly from the university hospital
+variables
+(equivalent to their reporting to the Norwegian Patient
+Risk score Description
+Registry). The municipalities provided data on use of
+Resource Aggregations of ACGs based upon estimates of concur-
+home nursing services.
+utilisation rent resource that are used to provide a way of separat-
+The first two data sources included information on
+band ing the population into broad co-morbidity groupings
+as follows: diagnosis codes associated with each healthcare service
+0 – No or only invalid diagnoses contact, registered as ICPC-2 codes for GP visits and
+1 – Healthy users ICD-10 codes for contacts with the hospital. Each reim-
+2 – Low
+bursement claim made for a GP visit is required to con-
+3 – Moderate
+tain minimum one diagnosis code.
+4 – High
+5 – Very high
+Variables
+Unscaled An estimate of concurrent resource use associated
+ACG concur- with a given ACG based on a reference database and Risk stratification was performed using the Johns Hop-
+rent risk expressed as a relative value. Each individual is assigned kins ACG® System Population Health Analytics software
+a weight based on their ACG-code
+version 11.0 [25]. This risk stratification was based on
+Unscaled A concurrent total cost risk for this individual for the
+the minimum input data requirements of age, sex and
+concurrent observation period. Based upon a regression model
+risk against a reference population (with a mean of 1.0), the diagnosis codes registered by either a GP or the hospi-
+predicted value is expressed as a relative weight tal in 2013. Default cost weights based on an American
+Frailty flag A flag for any one of the diagnostic clusters that repre- reference population available through the software were
+sent discrete conditions consistent with frailty (e.g., mal- applied. Two separate risk stratifications were performed,
+nutrition, dementia, incontinence, difficulty in walking)
+one with diagnosis codes registered by GPs (hereby
+Chronic A count of EDCs (expanded diagnosis clusters) contain-
+referred to as the GP sample) and one with diagnosis
+condition ing trigger diagnoses indicating a chronic condition
+codes registered by the hospital (hereby referred to as the
+count with significant expected duration and resource
+requirements hospital sample).
+The descriptions are copied from the Adjusted Clinical Groups System Version The study assessed the performance of five risk scores
+11.0 Installation and Usage Guide from the ACG system, see Table 1 for list. Descriptions
+
+=== PÁGINA 4 ===
+Hosar et al. BMC Health Services Research (2024) 24:1279 Page 4 of 14
+are direct copies from the Adjusted Clinical Groups Sys- into binary variables with a cut-off of < 1 or ≥ 1 visit/
+tem Version 11.0 Installation and Usage Guide to ensure contact/day.
+coherence with official descriptions. The study applied
+two unscaled risk scores, meaning that the score is set at Statistical methods
+an average score of 1.0, and that a score above this indi- All analyses were performed using Stata version 17.0 MP.
+cates a higher-than-average resource utilisation. These The number of contacts the individuals within each
+risk scores were chosen based on their application in pre- level of the risk scores had with different healthcare
+vious studies [1, 16, 26, 27], and to provide some varia- services is presented using descriptive statistics (mean,
+tion in types of risk scores. median and proportions) according to the categorisation
+Healthcare utilisation variables were continuous vari- described under “Variable management”.
+ables concerning number of visits to a GP, out-of-hours The ability of each risk score to correctly classify the
+GP, total number of contacts with hospital, number of level of contacts the participants had with different
+inpatient days, outpatient visits at hospital, day treatment healthcare services in the study period was quantified
+contacts, outpatient visits to contract specialists, num- by logistic regression models and the areas under the
+ber of days receiving home nursing services, home social receiver operating characteristic curve (AUC). Logistic
+care, number of days of short-term stay at a municipal regression is used to analyse the relationship between
+institution and days as a nursing home resident. one or several independent variables and a dependent
+Both ACG risk scores and healthcare utilisation vari- binary variable [29]. The results from such regressions
+ables are calculated for the same time period (2013). Our can be presented as a graphical plot of a curve showing
+analyses do not predict future healthcare utilisation. We the trend in data called the receiver operating charac-
+therefore consistently use terminology such as classifi- teristic curve. This curve is the foundation for calculat-
+cation, characterisation and association to describe the ing the “area under the receiving operator characteristic
+information content of the ACG-scores in our analysis. curve”, commonly denoted as AUC, which is an over-
+all metric of discriminatory ability, or in simpler terms
+Variable management of correct classification. AUC values range from 0.5–1,
+For descriptive analyses, the resource utilisation band where 0.5 means that the regression model classifies cor-
+was applied as a continuous variable. The unscaled ACG rectly in 50% of cases and 1 means 100% correct classifi-
+concurrent risk and unscaled concurrent risk are pre- cation. An AUC of e.g. 0.73 indicates a 73% likelihood of
+sented as either continuous variables or categorised correct classification. AUCs higher than 0.7 is generally
+(0–0.49, 0.5–0.99,1–1.99, 2–3.99, ≥ 4) in accordance with considered acceptable [30].
+two previous studies [26, 27]. The chronic condition The classifying ability of each logistic regression is pre-
+count was categorised into < 3 or ≥ 3 chronic conditions sented as the AUC value and the change in AUC com-
+[28]. The frailty flag variable was categorised as yes or no. pared to a regression model based on age and sex only.
+The healthcare utilisation variables were applied as con- The dependent variable in each regression analysis was
+tinuous variables. the binary categorised healthcare utilisation variable
+For logistic regression analyses, the ACG risk scores described under “Variable handling”. The independent
+were applied directly from the ACG analysis output. variable was either the model with age or sex or one of
+Healthcare utilisation variables used in the logistic the ACG models.
+regressions were categorised into binary variables using
+Results
+the median as the cut-off value. To provide a higher level
+of detail for number of GP visits in the GP sample and Of the 168 285 adult residents in the included munici-
+number of hospital contacts in the hospital sample, the palities in the study period, 146 624 met the criteria for
+number of GP visits was dummy coded into five binary inclusion (Fig. 1). Among these, 141 245 were registered
+variables witch each of the following groups compared to with minimum one valid diagnosis code from a visit to a
+the rest of the sample; < 3, ≥3 to < 6, ≥6 to < 9, ≥9 to < 12, GP and 59 268 were registered with minimum one valid
+and ≥12 (e.g. “≥3 to < 6” was coded as 1 and all the others diagnosis code from a visit to the local hospital. The same
+as 0). In the hospital sample, the total number of hospi- individual was present in both samples if registered with
+tal contacts was dummy coded into four binary variables a valid diagnosis code from both a GP and the hospital.
+using the following groups; < 3, ≥3 to < 6, ≥6 to < 9, and The individuals included in the analysis of those having
+≥9. Variables concerning other healthcare services (out- visited a GP (the GP sample) had a mean age of 47 years
+patient hospital visits, inpatient hospital contacts, day (SD (standard deviation) 18) and 55.5% were female
+treatment at hospital, visit to contract specialist, home (Table 2). They had a mean number of 7.3 GP visits and
+nursing service, home social care, short-term stay in 4.5 hospital contacts in the study period. Those who had
+municipal institution, nursing home) were transformed visited a hospital (the hospital sample) had a mean age of
+
+=== PÁGINA 5 ===
+Hosar et al. BMC Health Services Research (2024) 24:1279 Page 5 of 14
+Table 2 Characteristics of the GP and hospital sample, and of
+those present in both samples
+Characteristic GP sample Hospital Both
+N = 141 245 sample samples
+N = 59 268 N = 54 191
+Age group
+18 to 44 years 68 520 (48.5%) 24 569 21 564
+(41.4%) (39.8%)
+45 to 64 years 43 829 (31.0%) 17 629 16 534
+(29.7%) (30.5%)
+65 to 74 years 16 549 (11.7%) 9 077 (15.3%) 8 675
+(16.0%)
+75 to 84 years 8 465 (6.0%) 5 344 (9.0%) 5 100 (9.4%)
+85 + years 3 882 (2.7%) 2 649 (4.5%) 2 318 (4.3%)
+Sex
+Male 63 360 (44.9%) 24 937 22 079
+(42.1%) (40.7%)
+Female 77 885 (55.1%) 34 269 32 112
+(57.9%) (59.3%)
+Healthcare utilisation past year
+Mean number of GP 7.3 (8.0) 9.8 (9.9) 10.7 (2.2)
+visits (SD)
+Mean number of out- 1.7 (1.9) 1.9 (2.3) 1.9 (2.3)
+of-hours GP visits (SD)
+Mean number of 4.5 (5.0) 4.4 (7.4) 4.5 (7.2)
+hospital contacts (SD)
+≥ 1 inpatient hospital 14 272 (10.1%) 15 176 14 272
+contact (25.6%) (26.3%)
+Fig. 1 Flow-chart of included participants in four adjacent municipalities ≥ 1 elective hospital 48 972 (34.7%) 53 192 48 851
+in Central-Norway 2013 contact (89.7%) (90.1%)
+≥ 1 emergency care 20 639 (14.6%) 22 304 20 639
+51 (SD 20), and 57.9% were female (Table 2). The mean hospital contact (37.7%) (38.0%)
+number of GP visits in this group was 9.8 and the mean ≥ 1 day of municipal 5 553 (3.9%) 4 157 (7.0%) 4 000 (7.4%)
+number of hospital contacts was 4.4. Those who had vis- home nursing service
+≥ 1 day of municipal 4 825 (3.4%) 3 468 (5.9%) 3 346 (6.2%)
+ited both a GP and the hospital had the same mean age
+social care
+as the hospital sample (51 years), and a slightly higher
+Numbers are N (%) or mean (standard deviation, SD)
+proportion were female. Their health care utilisation the
+past year was slightly higher than both the GP and hos-
+pital sample except for their mean number of hospital most notable increase is found between RUB 4 and RUB
+contacts. 5, for an example in the increase from a mean number of
+GP visits of 18.6 in RUB 4 to 35.2 in RUB 5.
+ACG analysis using diagnosis codes from GPs There was also a clear trend of increasing mean num-
+The mean and median number of visits to and propor- bers of GP visits with increasing levels in each ACG risk
+tion of the group that had used different healthcare ser- score (Table 4). The mean number increased nearly eight
+vices increased for all types of healthcare services with times from the lowest to the highest unscaled ACG con-
+increasing level of the ACG variable Resource Utilisaton current risk scores and more than three times for the
+Band (RUB) (Fig. 2, details in Table 3). Those in RUB 1, unscaled concurrent risk score. The mean number of GP
+indicating the lowest estimated resource utilisation, had visits made by individuals flagged as frail were more than
+the lowest number of visits to all healthcare services, double that of those who were not.
+whereas those in RUB 5, indicating the highest estimated The ability of five different ACG risk scores to clas-
+resource utilisation, had the highest number of visits. The sify levels of contacts with different healthcare services,
+only exception was day treatment in hospital. Comparing as measured by AUC, are shown in Table 5. In total, 35
+those categorised as RUB 1 to those in RUB 5, the num- of the 70 AUCs increased using an ACG risk score com-
+ber of GP visits increased 11 times (Fig. 2). pared to age and sex alone. The three ACG risk scores
+The proportion of each RUB that had utilised each type concerning concurrent resource utilisation obtained
+of healthcare service also increased from RUB 1 to 5 for markedly higher AUCs compared to age and sex alone
+all services except nursing homes (Table 3). However, the for all healthcare services except the different municipal
+
+=== PÁGINA 6 ===
+Hosar et al. BMC Health Services Research (2024) 24:1279 Page 6 of 14
+Fig. 2 Mean number of visits to a GP (GP sample) or all types of contacts with the hospital (hospital sample) during one year by resource utilisation band
+(RUB) in four adjacent municipalities in Central-Norway, 2013
+services (Table 5). The unscaled ACG concurrent risk In total, 28 of the 70 AUCs increased using an ACG risk
+variable stood out as the ACG variable with the highest score compared to age and sex alone (Table 8). The RUB,
+AUCs (0.62–0.86) across services. The AUCs of the RUB unscaled ACG concurrent risk and unscaled concurrent
+and unscaled concurrent risk variables were somewhat risk performed quite similar. The chronic condition count
+lower, while the frailty flag and chronic condition count overall performed poorer, and the frailty flag showed
+variables showed respectively lower or the same AUC as no ability to classify the level of contacts with different
+a model with age and sex only. healthcare services better than a model with age and sex.
+Overall, the difference between the AUC of the model Overall, the difference between the AUC of the model
+based on age and sex, and the ACG risk scores, were based on age and sex, and the ACG risk scores, were
+lower for municipal services (-0.44 to -0.05) compared lower for municipal services (-0.28 to + 0.02) compared
+to both general practitioner services (-0.16 to + 0.18) and to both general practitioner services (-0.14 to + 0.07) and
+hospital and specialist services (-0.12 to + 0.11) (Table 5). hospital and specialist services (-0.24 to + 0.22).
+ACG analysis using diagnosis codes from hospitals Discussion
+Using diagnosis codes from the hospital, gave a similar Overall, this study confirmed findings from previous
+overall picture as the GP sample. The mean and median studies that the ACG system can accurately classify indi-
+number of visits to all types of healthcare services were viduals according to their level of healthcare utilisation
+either stable or increased with increasing RUB level [6, 8, 10, 12, 14, 17, 19, 24].
+(Fig. 2, details in Table 6). The total number of hospital We found that the number of contacts with all inves-
+contacts increased 16 times from RUB 1 to 5 (Fig. 2). tigated healthcare services increased with each increas-
+Similar findings were made when investigating the ing level of the resource utilisation band (RUB). The
+mean number of contacts with the hospital, inpatient number of GP visits and total number of contacts with
+days, and number of different wards each patient had hospital services also increased with increasing levels of
+been in contact with (Table 7). The total number of con- all investigated ACG risk scores. The ability of the dif-
+tacts with hospital increased nearly six times from the ferent ACG risk scores to distinguish between different
+lowest to the highest level in the unscaled ACG concur- levels of utilisation of different healthcare services were
+rent risk score and nearly five times for the unscaled con- overall very good, with some variation between types of
+current risk score. The number of contacts with hospital service. Among the investigated variables, the unscaled
+was a little less than doubled for those flagged as frail ACG concurrent risk score overall stood out with the
+compared to those who were not. highest AUCs and the highest increase in AUC com-
+pared to the baseline model. ACG risk scores based on
+
+=== PÁGINA 7 ===
+Hosar et al. BMC Health Services Research (2024) 24:1279 Page 7 of 14
+Table 3 Utilisation of different healthcare services by RUB level in the GP sample
+Healthcare service Resource utilisation band (RUB)
+1 2 3 4 5
+Total 24 495 (17.3) 50 358 (35.7) 62 322 (44.1) 3 907 (2.8) 163 (0.1)
+General practitioner services
+GP visits
+Mean (SD) 2.6 (2.6) 4.4 (4.3) 10.6 (8.8) 18.6 (13.2) 35.2 (21.3)
+Median (range) 2 (1–68) 3 (1–83) 8 (1–150) 15 (1–162) 29 (7–132)
+N (% of RUB group) 24 495 (100) 50 358 (100) 62 322 (100) 3 907 (100) 163 (100)
+Out-of-hours GP visits
+Mean (SD) 0.2 (0.6) 0.2 (0.7) 0.5 (1.3) 1.0 (2.4) 2.3 (3.5)
+Median (range) 0 (0–47) 0 (0–42) 0 (0–63) 0 (0–64) 1 (0–25)
+N (% of RUB group) 3 421 (14.0) 8 015 (15.9) 15 847 (25.4) 1 636 (41.9) 104 (63.8)
+Hospital and specialist services
+Total number of contacts with hospital
+Mean (SD) 0.6 (2.8) 0.9 (3.3) 2.5 (6.0) 6.3 (9.0) 9.6 (9.1)
+Median (range) 0 (0–165) 0 (0–188) 1 (0–239) 4 (0–233) 7 (0–47)
+N (% of RUB group) 4 859 (19.8) 14 030 (27.9) 31 863 (51.1) 3 396 (86.9) 156 (95.7)
+Inpatient days
+Mean (SD) 0.2 (1.8) 0.3 (2.4) 1.2 (5.7) 4.6 (10.0) 13.1 (24.0)
+Median (range) 0 (0–80) 0 (0–138) 0 (0–237) 2 (0–180) 3 (0–176)
+N (% of RUB group) 939 (3.9) 2 956 (5.9) 10 406 (6.7) 2 237 (57.3) 112 (68.7)
+Outpatient visits
+Mean (SD) 0.5 (2.0) 0.7 (4.5) 2.0 (4.8) 4.5 (6.7) 6.9 (7.6)
+Median (range) 0 (0–67) 0 (0–67) 0 (0–109) 2 (0–88) 5 (0–40)
+N (% of RUB group) 4 179 (17.1) 12 275 (24.4) 28 327 (45.5) 3 084 (78.9) 142 (86.1)
+Day treatment contacts
+Mean (SD) 0.0 (1.6) 0.1 (1.6) 0.1 (2.5) 0.3 (4.6) 0.2 (0.4)
+Median (range) 0 (0–153) 0 (0–154) 0 (0–199) 0 (0–193) 0 (0–2)
+N (% of RUB group) 504 (2.1) 1 471 (2.9) 3 995 (6.4) 392 (10.0) 23 (13.9)
+Visits to contract specialist
+Mean (SD) 0.3 (1.6) 0.4 (2.0) 0.8 (2.6) 0.8 (1.9) 1.1 (2.0)
+Median (range) 0 (0–69) 0 (0–129) 0 (0–135) 0 (0–39) 0 (0–16)
+N (% of RUB group) 3 023 (12.3) 9 069 (18.0) 18 803 (30.2) 1 259 (32.2) 76 (46.1)
+Municipal services
+Days with home nursing service
+Mean (SD) 1.5 (21.9) 3.5 (33.9) 17.9 (74.9) 44.1 (112.6) 115.2 (159.9)
+Median (range) 0 (0–365) 0 (0–365) 0 (0–365) 0 (0–365) 0 (0–365)
+N (% of RUB group) 145 (0.6) 644 (1.3) 4 074 (6.5) 625 (16.0) 65 (39.9)
+Days with home social care
+Mean (SD) 1.6 (22.9) 3.9 (36.2) 15.9 (71.2) 33.5 (100.0) 62.2 (128.9)
+Median (range) 0 (0–365) 0 (0–365) 0 (0–365) 0 (0–365) 0 (0–365)
+N (% of RUB group) 153 (0.6) 688 (1.4) 3 482 (5.6) 463 (11.9) 39 (23.6)
+Days of short-term stay in municipal institution
+Mean (SD) 0.1 (5.0) 0.3 (8.6) 1.7 (17.9) 3.5 (21.9) 12.6 (42.8)
+Median (range) 0 (0–365) 0 (0–365) 0 (0–365) 0 (0–365) 0 (0–322)
+N (% of RUB group) 49 (0.2) 208 (0.4) 1 362 (2.2) 224 (5.7) 26 (15.8)
+Nursing home residents
+N (% of RUB group) 39 (0.2) 66 (0.1) 121 (0.2) 13 (0.3) 2 (1.2)
+Numbers are N (%)
+diagnoses from GPs performed better for distinguish- different specialist healthcare services. Overall, the ACG
+ing between levels of utilisation of GP visits whereas risk risk scores did not outperform a model based on age and
+scores based on diagnoses from the hospital performed sex to distinguish between levels of utilisation of munici-
+better for distinguishing between levels of utilisation of pal healthcare services.
+
+=== PÁGINA 8 ===
+Hosar et al. BMC Health Services Research (2024) 24:1279 Page 8 of 14
+Table 4 Mean number of GP visits according to ACG risk score in Strengths and limitations
+the GP sample
+The quality and completeness of the applied registries
+ACG risk score General practitioner visits
+provides a comprehensive overview of relevant diagnosis
+Unscaled ACG concurrent risk
+codes and healthcare utilisation for the population during
+0–0.49 4.2 (4.2, 0.1)
+the study period [31, 32]. Investigating two separate data
+0.50–0.99 9.6 (7.3, 0.0)
+sources makes the study relevant to different settings and
+1–1.99 16.1 (11.5, 0.1)
+healthcare systems, while also providing new informa-
+2–3.99 18.6 (13.4, 0.2)
+tion on the consequences of applying one over the other.
+≥ 4 32.6 (20.1, 1.4)
+Additionally, the use of default American weights in the
+Unscaled concurrent risk
+ACG system without local adaptions increases the gener-
+0–0.49 5.2 (5.4, 0.0)
+alisability of the study. However, it might be that making
+0.50–0.99 10.1 (8.4, 0.1)
+local adaptions would improve the accuracy of the sys-
+1–1.99 13.0 (10.5, 0.1)
+tem in the Norwegian setting.
+2–3.99 15.3 (12.5, 0.1)
+≥ 4 18.4 (15.7, 0.4) However, there are also limitations to consider. Nota-
+Frailty flag bly, the data applied in the study is from 2013. Although
+No 7.1 (7.7, 0.0) there are no known major changes in coding practices,
+Yes 15.1 (13.0, 0.2) this represents a limitation. While our aim was to inves-
+Chronic condition count tigate two separate data sources, some integrated health-
+< 3 6.9 (7.3, 0.2) care systems would have access to combine data sources
+≥ 3 20.9 (14.9, 0.0) and thus benefit from an analysis where these are com-
+Numbers are standard deviation, standard error of the mean. Distribution bined. As the ACG system requires minimum one diag-
+according to RUB level is provided in Table 3 nosis code to generate risk scores, the results describing
+healthcare utilisation only includes those who visited a
+GP or hospital in the study period, which yields higher
+numbers of healthcare utilisation compared to the gen-
+eral population. The study does not report on total cost
+Table 5 The ability to classify levels of contacts with different healthcare services in the GP sample
+Healthcare service Age ACG risk score
+and Resource Unscaled ACG Unscaled Frailty Chronic
+sex utilisation concurrent risk concurrent flag (AUC condition
+band (AUC (AUC (± change)) risk (AUC (± change)) count (AUC
+(± change)) (± change)) (± change))
+General practitioner services (mean value of all AUCs) 0.63 0.73 (+ 0.10) 0.78 (+ 0.15) 0.71 (+ 0.08) 0.52 (-0.11) 0.67 (+ 0.04)
+GP visits
+≥ 3 0.66 0.80 (+ 0.14) 0.84 (+ 0.18) 0.74 (+ 0.08) 0.51 (-0.15) 0.67 (+ 0.01)
+≥ 6 0.67 0.78 (+ 0.11) 0.83 (+ 0.16) 0.74 (+ 0.07) 0.51 (-0.16) 0.69 (+ 0.02)
+≥ 9 0.67 0.78 (+ 0.11) 0.84 (+ 0.17) 0.75 (+ 0.08) 0.52 (-0.15) 0.70 (+ 0.03)
+≥ 12 0.67 0.77 (+ 0.10) 0.84 (+ 0.17) 0.76 (+ 0.09) 0.52 (-0.15) 0.72 (+ 0.05)
+≥ 1 out-of-hours GP visit 0.51 0.60 (+ 0.09) 0.62 (+ 0.11) 0.59 (+ 0.08) 0.51 (= 0.00) 0.55 (+ 0.04)
+Hospital and specialist services (mean value of all AUCs) 0.63 0.66 (+ 0.03) 0.70 (+ 0.07) 0.67 (+ 0.04) 0.51 (-0.12) 0.62 (-0.01)
+≥ 1 hospital contact of any typea 0.62 0.67 (+ 0.05) 0.71 (+ 0.09) 0.66 (+ 0.04) 0.51 (-0.11) 0.62 (= 0.00)
+≥ 1 outpatient hospital visit 0.62 0.66 (+ 0.04) 0.70 (+ 0.08) 0.65 (+ 0.03) 0.51 (-0.11) 0.61 (-0.01)
+≥ 1 inpatient hospital contact 0.64 0.71 (+ 0.07) 0.75 (+ 0.11) 0.70 (+ 0.06) 0.52 (-0.12) 0.65 (+ 0.01)
+≥ 1 day treatment at hospital 0.58 0.63 (+ 0.05) 0.66 (+ 0.08) 0.64 (+ 0.06) 0.51 (-0.07) 0.59 (+ 0.01)
+≥ 1 visit to contract specialist 0.69 0.61 (-0.08) 0.70 (+ 0.01) 0.69 (= 0.00) 0.51 (-0.18) 0.61 (-0.05)
+Municipal services (mean value of all AUCs) 0.87 0.68 (-0.19) 0.75 (-0.12) 0.62 (-0.25) 0.59 (-0.28) 0.75 (-0.12)
+≥ 1 day of home nursing service 0.84 0.73 (-0.09) 0.79 (-0.05) 0.70 (-0.14) 0.58 (-0.26) 0.79 (-0.05)
+≥ 1 day of home social care 0.84 0.70 (-0.14) 0.77 (-0.07) 0.66 (-0.18) 0.57 (-0.27) 0.77 (-0.07)
+≥ 1 day of short-term stay in municipal institution 0.89 0.72 (-0.17) 0.80 (-0.09) 0.66 (-0.23) 0.61 (-0.28) 0.80 (-0.09)
+Nursing home resident 0.90 0.55 (-0.35) 0.63 (-0.27) 0.46 (-0.44) 0.58 (-0.32) 0.62 (-0.28)
+Numbers are the area under a receiver operating characteristic curve (AUC). The number in parentheses is the change in AUC compared to the AUC of the regression
+model based on only age and sex. A negative number in parentheses indicates that the ACG risk score shows a lower ability to classify correctly compared to the
+model based on age and sex. A positive number in parentheses indicates a better ability to classify correctly
+aBoth in- and outpatient contacts of all types
+
+=== PÁGINA 9 ===
+Hosar et al. BMC Health Services Research (2024) 24:1279 Page 9 of 14
+Table 6 Utilisation of different healthcare services by RUB level in the hospital sample
+Healthcare service Resource utilisation band (RUB)
+1 2 3 4 5
+Number (%) 8 051 (13.6) 22 372 (37.7) 22 244 (37.6) 5 587 (9.4) 1 014 (1.7)
+General practitioner services
+GP visits
+Mean (SD) 6.3 (7.2) 7.7 (7.7) 11.5 (10.4) 14.1 (12.0) 21.9 (19.1)
+Median (range) 4 (0–125) 6 (0–104) 9 (0–150) 11 (1–132) 19 (7–162)
+N (% of RUB group) 6 883 (85.5) 20 232 (90.4) 20 866 (93.8) 5 280 (94.5) 956 (94.3)
+Out-of-hours GP visits
+Mean (SD) 0.4 (1.0) 0.4 (1.0) 0.6 (1.6) 0.9 (2.2) 2.5 (4.0)
+Median (range) 0 (0–28) 0 (0–34) 0 (0–64) 0 (0–46) 1 (0–63)
+N (% of RUB group) 2 100 (26.1) 5 908 (26.4) 7 060 (31.7) 2 304 (41.2) 723 (71.3)
+Hospital and specialist services
+Total number of contacts with hospital
+Mean (SD) 1.8 (2.5) 2.6 (3.4) 5.7 (8.0) 8.7 (11.5) 14.3 (9.4)
+Median (range) 1 (1–55) 2 (1–65) 3 (1–208) 6 (1–233) 9 (1–239)
+N (% of RUB group) 8 051 (100) 22 372 (100) 22 244 (100) 5 587 (100) 1 014 (100)
+Inpatient days
+Mean (SD) 0.1 (0.6) 0.4 (2.1) 1.9 (5.7) 7.6 (11.4) 27.6 (26.5)
+Median (range) 0 (0–11) 0 (0–153) 0 (0–203) 4 (0–182) 20 (0–237)
+N (% of RUB group) 442 (5.5) 3 263 (14.6) 7 855 (35.3) 5 217 (93.4) 995 (98.1)
+Outpatient visits
+Mean (SD) 1.5 (2.4) 2.1 (3.3) 4.6 (6.3) 5.9 (8.2) 8.8 (11.8)
+Median (range) 1 (0–55) 1 (0–65) 3 (0–82) 3 (0–91) 5 (0–109)
+N (% of RUB group) 6 817 (84.7) 19 328 (86.4) 20 291 (91.2) 4 830 (86.5) 839 (82.7)
+Day treatment contacts
+Mean (SD) 0.0 (0.3) 0.1 (0.4) 0.3 (4.5) 0.5 (6.9) 1.8 (13.5)
+Median (range) 0 (0–4) 0 (0–12) 0 (0–206) 0 (0–197) 0 (0–195)
+N (% of RUB group) 309 (3.8) 2 246 (10.0) 3 446 (15.5) 652 (11.7) 209 (20.6)
+Visits to contract specialist
+Mean (SD) 0.7 (2.9) 0.6 (2.2) 0.9 (2.5) 0.6 (1.6) 0.8 (2.2)
+Median (range) 0 (0–135) 0 (0–93) 0 (0–93) 0 (0–38) 0 (0–42)
+N (% of RUB group) 1 993 (24.8) 5 723 (25.6) 7 440 (33.4) 1 290 (23.1) 330 (32.5)
+Municipal services
+Days with home nursing service
+Mean (SD) 7.8 (50.5) 7.5 (49.9) 21.7 (81.1) 34.5 (97.0) 131.3 (150.5)
+Median (range) 0 (0–365) 0 (0–365) 0 (0–365) 0 (0–365) 47 (0–365)
+N (% of RUB group) 231 (2.9) 594 (2.7) 1 920 (8.6) 845 (15.1) 567 (55.9)
+Days with home social care
+Mean (SD) 7.1 (49.0) 7.3 (49.3) 19.3 (77.4) 28.9 (90.8) 103.3 (145.9)
+Median (range) 0 (0–365) 0 (0–365) 0 (0–365) 0 (0–365) 0 (0–365)
+N (% of RUB group) 194 (2.4) 558 (2.5) 1 616 (7.3) 666 (11.9) 434 (42.8)
+Days of short-term stay in municipal institution
+Mean (SD) 0.4 (9.9) 0.5 (9.4) 2.4 (21.9) 4.4 (25.9) 22.0 (58.0)
+Median (range) 0 (0–365) 0 (0–365) 0 (0–365) 0 (0–365) 0 (0–365)
+N (% of RUB group) 47 (0.6) 155 (0.7) 700 (3.1) 399 (7.1) 315 (31.1)
+Nursing home residents
+N (% of RUB group) 7 (0.1) 35 (0.2) 63 (0.3) 35 (0.6) 20 (2.0)
+Numbers are N (%)
+or cost related to each healthcare visit, and consequently and total cost. Analyses of emergency contacts with hos-
+does not account for differences in cost between differ- pital that did not result in hospital admission could also
+ent e.g. inpatient stays. Further research should look at be useful. Additionally, previous studies have varied
+measures of cost within each type of healthcare service between investigating the association between ACG risk
+
+=== PÁGINA 10 ===
+Hosar et al. BMC Health Services Research (2024) 24:1279 Page 10 of 14
+Table 7 Mean number of hospital contacts according to ACG
+relationship between ACG risk scores and utilisation of
+risk score in the hospital sample
+municipal services such as nursing homes and home ser-
+ACG risk Total Inpatient Outpatient Day
+vices. Zielinski and Halling concluded that higher RUB
+score contacts days visits treatment
+contacts categories were associated with receiving more home
+Unscaled ACG concurrent risk services in a community-dwelling population in Swe-
+0–0.49 2.6 (3.4, 0.0) 0.4 (2.0, 0.0) 2.1 (3.3, 0.0) 0.1 (0.4, 0.0) den using an unspecified version of the software and
+0.50–0.99 5.6 (7.7, 0.1) 1.8 (5.1, 0.0) 4.6 (6.2, 0.1) 0.3 (4.2, 0.0) combined input data from both primary and specialist
+1–1.99 6.5 (10.1, 2.8 (7.9, 0.1) 5.2 (7.4, 0.1) 0.4 (6.0, 0.1) healthcare [33]. Wu et al. found that their indicators of
+0.1) frailty based on the ACG risk scores (version 11, input
+≥ 2 8.6 (11.5, 7.6 (11.4, 0.2) 5.8 (8.1, 0.1) 0.5 (6.0, 0.1) data from both primary and specialist healthcare and
+0.2) home services), was associated with receiving assistance
+≥ 4 14.6 (19.4, 27.1 (26.3, 9.1 (12.0, 0.4) 1.7 (13.3,
+in instrumental activities of daily living with an AUC of
+0.6) 0.8) 0.4)
+0.81 [34]. Neither of these studies compared the perfor-
+Unscaled concurrent risk
+mance of the ACG system to a model based on age and
+0–0.49 2.5 (3.6, 0.0) 0.3 (1.5, 0.0) 2.2 (3.6, 0.0) 0.1 (0.4, 0.0)
+sex alone, which in the current study was found to out-
+0.50–0.99 3.3 (4.1, 0.0) 0.7 (2.5, 0.0) 2.8 (4.0, 0.0) 0.1 (0.5, 0.0)
+perform the ACG system (Tables 5 and 8). Thus, although
+1–1.99 4.2 (4.6, 0.0) 1.3 (3.9, 0.0) 3.3 (4.4, 0.0) 0.2 (0.6, 0.0)
+the ACG system shows some ability to classify the use of
+2–3.99 6.2 (6.2, 0.1) 3.3 (6.1, 0.1) 4.6 (5.8, 0.1) 0.2 (0.6, 0.0)
+services such as nursing home and home services, there
+≥ 4 11.8 (16.6, 10.9 (17.8, 8.5 (10.5, 0.1) 1.3 (11.9,
+0.2) 0.2) 0.1) is clearly room for improvement.
+Frailty flag One possible explanation for the relatively poor per-
+No 4.3 (7.1, 0.0) 1.8 (6.6, 0.3) 3.4 (5.6, 0.0) 0.2 (3.5, 0.0) formance of the ACG system compared to the sex and
+Yes 7.1 (13.4, 10.1 (17.1, 4.7 (6.8, 0.2) 0.9 (10.4, age model might lie in the types of contacts between
+0.0) 0.4) 0.2) the elderly and healthcare services, and the coding prac-
+Chronic condition count tices associated with these. A previous description of
+< 3 3.8 (5.6, 0.0) 1.1 (4.1, 0.0) 3.0 (4.7, 0.0) 0.2 (2.5, 0.0) the frequency of different contacts with GPs for differ-
+≥ 3 11.2 (15.6, 11.7 (18.2, 8.0 (10.2, 0.1) 1.2 (10.4, ent age groups in Norway [35] shows that individuals
+0.2) 0.3) 0.1)
+over 75 years old and even more so for those over 85
+Numbers are standard deviation, standard error of the mean. Distribution
+make fewer visits to their GPs, but have higher numbers
+according to RUB level is provided in Table 3
+of simple contacts such as phone calls. Simple contacts
+have been described to more often be coded as general or
+scores and concurrent or future healthcare utilisation. administrative diagnosis codes [32], and the codes might
+Thus, studies of some types of healthcare services, such thus not accurately reflect the morbidity of each indi-
+as hospitalisations, have only been performed for future vidual. Furthermore, physician services in nursing homes
+healthcare utilisation and cannot directly be compared to are often provided by dedicated nursing home physicians
+the present study. However, investigating the prospective that do not report diagnosis codes in the same manner as
+association between ACG risk scores and future health- GPs [21].
+care utilisation is still important in its own right.
+This study was performed using version 11.0 of the Associations between the ACG system and general practice
+ACG system, while most previous validation studies have utilisation
+applied older versions. As we have not identified pub- Previous studies have assessed the relationship between
+lished descriptions on which changes have been made to the ACG system and GP visits, using different versions of
+the algorithms in each new version, it is possible that this the ACG software and different components of the ACG
+evolution of the software could cause differing results system, input data, statistical analyses and outcome mea-
+over time and reduce the comparability between studies sures [1, 12, 13].
+that have used different versions of the ACG system. Our analyses using input data from GPs showed AUCs
+Other supplemental data such as medical prescriptions up to 0.84. Similar results have previously been described
+could also have been added to generate additional ACG by Girwar et al. [10], who found AUCs between 0.79 and
+risk scores. 0.85 when applying the ADGs and ACGs of the ACG sys-
+tem version 11 based on GP diagnosis codes and phar-
+Associations between the ACG system and nursing home maceutical data to distinguish between up to four GP
+and home service utilisation visits. Our results, using the unscaled ACG concurrent
+Although several studies have assessed the validity of the risk score directly from the ACG system and without
+ACG system for classifying or explaining different out- pharmaceutical data as input, was equally precise in clas-
+comes in primary care [1], few studies have assessed the sifying more levels of number of GP visits.
+
+=== PÁGINA 11 ===
+Hosar et al. BMC Health Services Research (2024) 24:1279 Page 11 of 14
+Table 8 The ability to classify levels of contacts with different healthcare services in the hospital sample
+Healthcare service Age ACG risk score
+and Resource Unscaled ACG Unscaled Frailty Chronic
+sex utilisation concurrent risk concurrent flag (AUC condition
+band (AUC (AUC (± change)) risk (AUC (± change)) count (AUC
+(± change)) (± change)) (± change))
+General practitioner services (mean value of all AUCs) 0.58 0.61 (+ 0.03) 0.62 (+ 0.04) 0.59 (+ 0.01) 0.52 (-0.06) 0.58 (= 0.00)
+≥ 8 GP visits 0.65 0.64 (-0.01) 0.66 (+ 0.01) 0.60 (-0.05) 0.51 (-0.14) 0.61 (-0.04)
+≥ 1out-of-hours GP visit 0.51 0.57 (+ 0.06) 0.57 (+ 0.06) 0.58 (+ 0.07) 0.52 (+ 0.01) 0.55 (+ 0.04)
+Hospital and specialist services (mean value of all AUCs) 0.60 0.70 (+ 0.10) 0.73 (+ 0.13) 0.73 (+ 0.03) 0.51 (-0.09) 0.66 (+ 0.06)
+Hospital contacta
+≥ 3 0.55 0.75 (+ 0.20) 0.76 (+ 0.21) 0.75 (+ 0.20) 0.51 (-0.04) 0.67 (+ 0.12)
+≥ 6 0.55 0.75 (+ 0.20) 0.76 (+ 0.21) 0.77 (+ 0.22) 0.51 (-0.04) 0.70 (+ 0.15)
+≥ 9 0.56 0.75 (+ 0.19) 0.77 (+ 0.21) 0.78 (+ 0.22) 0.51 (-0.05) 0.72 (+ 0.16)
+≥ 3 outpatient hospital contact 0.75 0.71 (-0.04) 0.72 (-0.03) 0.71 (-0.04) 0.51 (-0.24) 0.68 (-0.07)
+≥ 1 inpatient hospital contact 0.59 0.81 (+ 0.22) 0.83 (+ 0.24) 0.81 (+ 0.22) 0.53 (-0.06) 0.67 (+ 0.08)
+≥ 1 day treatment at hospital 0.50 0.59 (+ 0.09) 0.57 (+ 0.07) 0.61 (+ 0.09) 0.50 (= 0.0) 0.57 (+ 0.07)
+≥ 1 visit to contract specialist 0.69 0.55 (-0.14) 0.68 (-0.01) 0.69 (= 0.00) 0.50 (-0.19) 0.59 (-0.10)
+Municipal services (mean value of all AUCs) 0.85 0.72 (-0.12) 0.77 (-0.08) 0.71 (-0.14) 0.60 (-0.25) 0.76 (-0.09)
+≥ 1 day of home nursing service 0.83 0.72 (-0.11) 0.85 (+ 0.02) 0.85 (+ 0.02) 0.58 (-0.25) 0.77 (-0.06)
+≥ 1 day of home social care 0.83 0.70 (-0.13) 0.73 (-0.10) 0.66 (0.17) 0.58 (-0.25) 0.75 (-0.08)
+≥ 1 day of short-term stay in municipal institution 0.87 0.77 (-0.10) 0.80 (-0.07) 0.72 (-0.15) 0.63 (-0.24) 0.81 (-0.06)
+Nursing home resident 0.88 0.68 (-0.20) 0.71 (-0.17) 0.60 (-0.28) 0.62 (-0.26) 0.70 (-0.18)
+Numbers are the area under a receiver operating characteristic curve (AUC). The number in parentheses is the change in AUC compared to the AUC of the regression
+model based on only age and sex. A negative number in parentheses indicates that the ACG risk score shows a lower ability to classify correctly compared to the
+model based on age and sex. A positive number in parentheses indicates a better ability to classify correctly
+aBoth in- and outpatient contacts of all types
+Similar findings have been reported by others using Associations between the ACG system and hospital and
+other measures than AUC. Sicras-Mainar et al., found specialist utilisation
+the explained variance of the ACGs using ACG version Comparison to previous studies on hospital services is
+8.0 based on diagnoses from primary healthcare centres also challenging due to differences between studies. One
+to be 0.53 for number of GP visits [12], and Brilleman et study from the US using an unspecified software ver-
+al. found the explained variance of the ACG category to sion and diagnosis codes from primary and specialist
+be 0.37 for consultation rates using version 8.2 [13] and healthcare found the ACG system to have AUCs ranging
+input data from GPs. They investigated and compared from 0.67–0.73 when predicting inpatient hospitalisa-
+several of the ACG components for explaining the num- tions [19], whereas Lemke et al. obtained an AUC of 0.8
+ber of GP visits and found the explained variance to be for predicting a future inpatient hospitalisation using the
+0.37 for ACG category, 0.36 for Expanded Diagnosis EDCs (Expanded Diagnosis Cluster) based on combined
+Clusters (EDCs) and 0.35 for RUB. This finding is inter- input data from both primary and specialist healthcare
+esting, as our study revealed larger differences between and pharmacological data in the ACG system version
+the different ACG risk scores in their ability to classify 8.2 [8]. Both studies used input data from one year and
+levels of healthcare utilisation. For an example, the ACG utilisation data from the year after. Our study, using input
+unscaled concurrent risk overall showed higher AUCs and utilisation data from the same year, got a higher AUC
+compared to the RUB category which is made by an (0.83) using only diagnoses. Furthermore, a recent study
+aggregation of the ACGs. from 2023 applied the ACG system version 12.0 with
+Although we have not identified previous studies input data on age, sex, registered diagnoses, and pre-
+reporting on the relationship between ACG risk scores scriptions for a hospital population to evaluate the rela-
+and out-of-hours-GP visits, our results yielding the high- tionship between different ACG risk scores and inpatient
+est AUC of 0.62 shows limited success. A previous study admissions and obtained an AUC of 0.89 when combin-
+by Haas et al. reported a similar value of AUC 0.67 [19] ing the ACG score and a rank probability high total cost
+when applying the ACG system to predict minimum one score [18]. Olza et al. applied several approaches to pre-
+outpatient emergency department visit. Taken together, dict unplanned inpatient admissions using output from
+this indicates that the ACG system does not perform well the ACG system version 11.1 based on demographic
+in classifying utilisation of outpatient emergency care variables, diagnoses, and pharmaceutical data, and
+neither in primary nor secondary care. obtained AUCs up to 0.789 to 0.802 [36]. Mentia et al.
+
+=== PÁGINA 12 ===
+Hosar et al. BMC Health Services Research (2024) 24:1279 Page 12 of 14
+also obtained high AUCs > 0.8 for an ACG-based model and a range of different outcome measures. Although
+applied to predict unplanned admissions in a general also performing novel analyses, some of our results are
+population [37]. In summary, both previous studies and directly comparable to analyses performed in other set-
+the current study shows that the ACG system performs tings in previous studies as described above. This was
+well for classifying inpatient hospitalisations. achieved without the adjustments used in some other
+The ACG system was originally developed to clas- studies, such as local adaptions and local cost weights.
+sify numbers of outpatient visits [6], and demonstrated Thus, on balance, we argue that this study has shown the
+to do so in early validation studies [6, 24]. Wahls et al. validity of the ACG system in a Norwegian context.
+later found the explained variance of outpatient visits to
+be 0.30 in a primary care population using version 4.3 Implications for future practice
+of the ACG software [38]. A more recent study found In summary, the results of this study can be used by
+the explained variance of the ACGs for outpatient visits healthcare managers and others involved in healthcare
+to be 0.113 using the default set cost weights [17]. This policy formation. One example is that it raises aware-
+corresponds well with our findings based on diagnoses ness of the choice of data sources. For initiatives using
+from GPs, while our results based on hospital informa- risk stratification to identify individuals utilising spe-
+tion were notably higher with AUC values up to 0.83. cific healthcare services, data from this service ought to
+While there are notable differences in the results from be used as the input data source. For initiatives working
+these studies, they overall suggest that the ACG system across different types and levels of healthcare, combining
+can correctly classify levels of outpatient visits to hospital different data sources is recommended. Initiatives aimed
+services. specifically at nursing home and home service utilisation
+appears to have little to no benefit from using the ACG
+Validity of the ACG system in a Norwegian setting system compares to simpler models. To some extent, this
+The current study adds to a number of studies from the also applies for emergency care.
+past thirty years showing that the ACG system can be Regarding choosing which ACG risk score to use, the
+applied for different purposes in different contexts. “unscaled ACG concurrent risk” appears as the overall
+There is no clear threshold for when a risk stratification preferrable choice, but this must be evaluated specifically
+model can be considered validated [39]. Previous stud- for each purpose.
+ies give some indications of when the ACG system has
+Conclusions
+previously been considered applicable in a new setting.
+For an example, the earliest study stating that the ACG The results from this study show that the number of
+system was statistically valid was written by Weiner et contacts with different healthcare services consistently
+al. in 1991 [6]. They based their conclusion on findings increased within each level of the resource utilisation
+of an explained variance of 0.50 used retrospectively and band (RUB), as well as all other investigated ACG risk
+0.20 used prospectively in a study population of approx. scores.
+160 000 individuals. The study, compared to other studies on the associa-
+More recent studies performed in healthcare systems tion between ACG risk scores and health care utilisation,
+and populations more directly comparable to the Nor- indicates that different risk scores from the ACG sys-
+wegian setting exist. Halling et al. validated the ACG tem is currently valid for correctly classifying GP visits,
+system in the Swedish primary healthcare setting using hospitalisation and specialist outpatient visits. It does
+polypharmacy as a proxy for total cost in 1 144 indi- not outperform simpler models in the classification of
+viduals [15]. When doing to, they obtained and AUC utilisation of municipal services such as nursing homes
+of 0.72 in their simplest model. A later validation study and home services and out-of-hours emergency care in
+from Sweden concluded that the ACG system to a high primary healthcare. The unscaled ACG concurrent risk
+degree explains concurrent primary healthcare costs score overall obtained the highest AUCs and the highest
+after obtaining an explained variance of 0.60 and above in increase in AUC compared to the baseline model. The
+a primary care population of approx. 150 000 [16]. One of ACG risk scores generated using data from either GPs
+the most recent studies assessing the performance of the or hospitals performed better for the classification of
+ACG system were carried out by Girwar et al., who con- healthcare services in their respective domains.
+cluded that the ACG system is a useful tool in a Dutch Our study demonstrated that the ACG system, used
+general practice context when obtaining AUCs of 0.79– as is with only input of data on age, gender and diagno-
+0.85 for distinguishing between numbers of GP visits in a sis, can be applied as a risk stratification tool in Nor-
+population of 23 618 [10]. way based on administrative data from either GPs or
+Our study included close to 150 000 adults and used hospitals.
+two separate data sources, five different ACG risk scores
+
+=== PÁGINA 13 ===
+Hosar et al. BMC Health Services Research (2024) 24:1279 Page 13 of 14
+Abbreviations 5. The Johns Hopkins ACG System. The Johns Hopkins ACG® System. Techical
+ACG Adjusted clinical group reference guide version 11.0. Baltimore: The Johns Hopkins University; 2014.
+ACG system Johns Hopkins Adjusted Clinical Groups System 6. Weiner JP, Starfield BH, Steinwachs DM, Mumford LM. Development and
+AUC Area under the receiver operating characteristic curve application of a population-oriented measure of ambulatory care case-mix.
+GP General practitioner Med Care. 1991;29(5):452–72.
+RUB Resource utilisation band 7. Muratov S, Lee J, Holbrook A, Paterson JM, Guertin JR, Mbuagbaw L, Gomes
+EDC Explanded diagnosis cluster T, Khuu W, Pequeno P, Tarride JE. Unplanned index hospital admissions
+ADG Aggregated diagnosis groups among new older high-cost health care users in Ontario: a population-based
+CADG Collapsed aggregated diagnosis groups matched cohort study. CMAJ Open. 2019;7(3):E537-e545.
+8. Lemke KW, Weiner JP, Clark JM. Development and validation of a model for
+Acknowledgements predicting inpatient hospitalization. Med Care. 2012;50(2):131–9.
+The Adjusted Clinical Groups system output files were generated by 9. Chang HY, Weiner JP. An in-depth assessment of a diagnosis-based risk
+Prodacapo Sweden AB. adjustment model based on national health insurance claims: the applica-
+tion of the Johns Hopkins Adjusted Clinical Group case-mix system in Taiwan.
+Authors’ contributions BMC Med. 2010;8:7.
+AS was the principal investigator on the study the data were retrieved from. 10. Girwar SM, Fiocco M, Sutch SP, Numans ME, Bruijnzeels MA. Assessment of
+All authors participated in the planning and conduct of the current study. the Adjusted Clinical Groups system in Dutch primary care using electronic
+RH performed the analysis and wrote the draft of the manuscript. All authors health records: a retrospective cross-sectional study. BMC Health Serv Res.
+participated in the interpretation of data, critically reviewed, and gave final 2021;21(1):217.
+approval to the manuscript. 11. Aguado A, Guinó E, Mukherjee B, Sicras A, Serrat J, Acedo M, Ferro JJ, Moreno
+V. Variability in prescription drug expenditures explained by adjusted clinical
+Funding groups (ACG) case-mix: a cross-sectional study of patient electronic records
+Open access funding provided by NTNU Norwegian University of Science and in primary care. BMC Health Serv Res. 2008;8:53.
+Technology (incl St. Olavs Hospital - Trondheim University Hospital). 12. Sicras-Mainar A, Velasco-Velasco S, Navarro-Artieda R, Aguado Jodar A, Plana-
+This work was supported by the Faculty of Medicine and Health Sciences at Ripoll O, Hermosilla-Pérez E, Bolibar-Ribas B, Prados-Torres A, Violan-Fors C.
+the Norwegian University of Science and Technology, NTNU. Obtaining the mean relative weights of the cost of care in Catalonia (Spain):
+retrospective application of the adjusted clinical groups case-mix system in
+Availability of data and materials primary health care. J Eval Clin Pract. 2013;19(2):267–76.
+The dataset supporting the conclusions of this article is available from the 13. Brilleman SL, Salisbury C. Comparing measures of multimorbidity to
+corresponding author upon reasonable request. predict outcomes in primary care: a cross sectional study. Fam Pract.
+2013;30(2):172–8.
+14. Brilleman SL, Gravelle H, Hollinghurst S, Purdy S, Salisbury C, Windmeijer F.
+Declarations
+Keep it simple? Predicting primary health care costs with clinical morbidity
+measures. J Health Econ. 2014;35(100):109–22.
+Ethics approval and consent to participate 15. Halling A, Fridh G, Ovhed I. Validating the Johns Hopkins ACG Case-Mix
+The study was approved by the Regional Committee for Medical and Health System of the elderly in Swedish primary health care. BMC Public Health.
+Research Ethics in Central Norway (2011/2047). All methods were performed 2006;6:171.
+in accordance with the relevant guidelines and regulations. As the study 16. Zielinski A, Kronogård M, Lenhoff H, Halling A. Validation of ACG Case-mix
+utilises secondary healthcare data, active consent to participate was waivered for equitable resource allocation in Swedish primary health care. BMC Public
+by the Regional Committee for Medical and Health Research Ethics. Health. 2009;9:347.
+17. Rosen AK, Loveland S, Anderson JJ, Rothendler JA, Hankin CS, Rakovski CC,
+Consent for publication Moskowitz MA, Berlowitz DR. Evaluating diagnosis-based case-mix measures:
+Not applicable. how well do they apply to the VA population? Med Care. 2001;39(7):692–704.
+18. Tan JK, Zhang X, Cheng D, Leong IYO, Wong CS, Tey J, Loh SC, Soh EF, Lim WY.
+Competing interests Using the Johns Hopkins ACG Case-Mix System for population segmenta-
+The authors declare no competing interests. tion in a hospital-based adult patient population in Singapore. BMJ Open.
+2023;13(3):e062786.
+Author details 19. Haas LR, Takahashi PY, Shah ND, Stroebel RJ, Bernard ME, Finnie DM, Naessens
+1Department of Public Health and Nursing, Norwegian University of JM. Risk-stratification methods for identifying patients for care coordination.
+Science and Technology (NTNU), Trondheim, Norway Am J Manag Care. 2013;19(9):725–32.
+2Norwegian Center for E-Health Research, University Hospital of North 20. von Elm E, Altman DG, Egger M, Pocock SJ, Gøtzsche PC, Vandenbroucke JP.
+Norway, Tromsø, Norway The Strengthening the Reporting of Observational Studies in Epidemiology
+3Institute of Community Medicine, UiT The Arctic University of Norway, (STROBE) statement: guidelines for reporting observational studies. J Clin
+Tromsø, Norway Epidemiol. 2008;61(4):344–9.
+21. Saunes IS, Karanikolos M, Sagan A. Norway: health system review. Health Syst
+Received: 3 March 2024 / Accepted: 7 October 2024 Transit. 2020;22(1):1–163.
+22. The Ministry of Health and Care Services. Regulation relating to a Municipal
+Regular GP Scheme. Oslo: The Ministry of Health and Care Services; 2000.
+23. Blinkenberg J, Pahlavanyali S, Hetlevik Ø, Sandvik H, Hunskaar S. General
+practitioners’ and out-of-hours doctors’ role as gatekeeper in emergency
+References admissions to somatic hospitals in Norway: registry-based observational
+1. Girwar SM, Jabroer R, Fiocco M, Sutch SP, Numans ME, Bruijnzeels MA. A study. BMC Health Serv Res. 2019;19(1):568.
+systematic review of risk stratification tools internationally used in primary 24. Starfield B, Weiner J, Mumford L, Steinwachs D. Ambulatory care groups: a
+care settings. Health Sci Rep. 2021;4(3):e329. categorization of diagnoses for research and management. Health Serv Res.
+2. The Johns Hopkins Adjusted Clinical Groups System: Risk Stratification 101: 1991;26(1):53–74.
+What is it and how is it used? h t t p s : / / w w w . h o p k i n s a c g . o r g / r i s k - s t r a t i fi c a t i o n 25. The Johns Hopkins ACG System. The Johns Hopkins ACG® System Version
+- 1 0 1 - w h a t - i s - i t - a n d - h o w - i s - i t - u s e d /. Accessed 03.03.2024. 11.0. The Johns Hopkins ACG System: The Johns Hopkins ACG® System Ver-
+3. Miller CC, Reardon MJ, Safi HJ. Risk stratification: a practical guide for clini- sion 11.0.
+cians. Cambridge: Cambridge University Press; 2001. 26. Hosar R, Steinsbekk A. Association between Johns Hopkins Adjusted Clinical
+4. The Johns Hopkins Adjusted Clinical Groups System: Use Cases. h t t p s : / / w w w . Groups risk scores and self-reported outcome measures: an observational
+h o p k i n s a c g . o r g / u s e - c a s e s /. Accessed 03.03.2024. study among individuals with complex or long-term conditions in Norway.
+BMJ Open. 2023;13(9):e071071.
+
+=== PÁGINA 14 ===
+Hosar et al. BMC Health Services Research (2024) 24:1279 Page 14 of 14
+27. Hosar R, Steinsbekk A. Identifying individuals with complex and long-term 35. Brøyn NKI, Lunde, ES. SEDA - sentrale data fra allmennlegetjenesten
+health-care needs using the Johns Hopkins Adjusted Clinical Groups System: 2004–2006. Ny statistikk fra allmennlegetjenesten? Report 2007/15. Oslo:
+A comparison of data from primary and specialist health care. Scand J Public Statistics Norway; 2007.
+Health. 2024;52(5):607–15. 36. Olza A, Millán E, Rodríguez-Álvarez MX. Development and validation of
+28. Johnston MC, Crilly M, Black C, Prescott GJ, Mercer SW. Defining and measur- predictive models for unplanned hospitalization in the Basque Country:
+ing multimorbidity: a systematic review of systematic reviews. Eur J Public analyzing the variability of non-deterministic algorithms. BMC Med Inform
+Health. 2019;29(1):182–9. Decis Mak. 2023;23(1):152.
+29. Austin PC, Steyerberg EW. Interpreting the concordance statistic of a logistic 37. Orueta Mendia JF, García-Álvarez A, Alonso-Morán E, Nuño-Solinis R. Devel-
+regression model: relation to the variance and odds ratio of a continuous opment of a predictive risk model for unplanned admissions in the Basque
+explanatory variable. BMC Med Res Methodol. 2012;12(1):82. Country. Rev Esp Salud Publica. 2014;88(2):251–60.
+30. Mandrekar JN. Receiver operating characteristic curve in diagnostic test 38. Wahls TL, Barnett MJ, Rosenthal GE. Predicting resource utilization in a Veter-
+assessment. J Thorac Oncol. 2010;5(9):1315–6. ans Health Administration primary care population: comparison of methods
+31. Bakken IJ, Ariansen AMS, Knudsen GP, Johansen KI, Vollset SE. The Norwegian based on diagnoses and medications. Med Care. 2004;42(2):123–8.
+patient registry and the Norwegian registry for primary health care: research 39. Van Calster B, Steyerberg EW, Wynants L, van Smeden M. There is no such
+potential of two nationwide health-care registries. Scand J Public Health. thing as a validated prediction model. BMC Med. 2023;21(1):70.
+2020;48(1):49–55.
+32. Sporaland GL, Mouland G, Bratland B, Rygh E, Reiso H. General practitioners’
+Publisher’s Note
+use of ICPC diagnoses and their correspondence with patient record notes.
+Tidsskr Nor Laegeforen. 2019;139(15):1468-72. Springer Nature remains neutral with regard to jurisdictional claims in
+33. Zielinski A, Halling A. Association between age, gender and multimorbidity published maps and institutional affiliations.
+level and receiving home health care: a population-based Swedish study.
+BMC Res Notes. 2015;8:714.
+34. Wu S, Mulcahy J, Kasper JD, Kan HJ, Weiner JP. Comparing survey-based frailty
+assessment to medicare claims in predicting health outcomes and utilization
+in medicare beneficiaries. J Aging Health. 2020;32(7–8):764–77.

@@ -1,0 +1,551 @@
+# Fonte: WHO 2016 Framework on integrated people-centred health services (A69-39).pdf
+# Páginas: 12
+
+=== PÁGINA 1 ===
+SIXTY-NINTH WORLD HEALTH ASSEMBLY A69/39
+Provisional agenda item 16.1 15 April 2016
+Framework on integrated,
+people-centred health services
+Report by the Secretariat
+1. The Executive Board at its 138th session in January 2016 noted an earlier version of this report,1
+and adopted resolution EB138.R2. The report has been updated (particularly paragraphs 15, 16 and
+18−20) in the light of comments made during the Board’s discussion.
+2. Despite significant advances in people’s health and life expectancy in recent years, relative
+improvements have been unequal among and within countries. Globally, more than 400 million people
+lack access to essential health care.2 Where it is accessible, care is too often fragmented or of poor
+quality, and consequently the responsiveness of the health system and satisfaction with health
+services3 remain low in many countries. For example, fragile and poorly integrated health systems
+were crucial contributors to the Ebola virus disease outbreaks in West Africa, and continued lack of
+connection between health systems and strengthening capacities within the International Health
+Regulations (2005) leaves other countries vulnerable.
+3. Many countries still face significant problems of unequal geographical access to health services,
+shortages of health workers and weak supply chains. Even for high priority conditions such as
+maternal and child health, coverage of basic services (for example, antenatal care and presence of a
+skilled birth attendant at delivery) remains low in many countries.4 Continuity of care is also poor for
+many health conditions owing to weak referral systems. The focus on hospital-based, disease-based
+and self-contained “silo” curative care models further undermines the ability of health systems to
+provide universal, equitable, high-quality and financially sustainable care. Service providers are often
+unaccountable to the populations they serve and therefore have limited incentive to provide the
+responsive care that matches the needs of their users. People are often unable to make appropriate
+decisions about their own health and health care, or exercise control over decisions about their health
+and that of their communities.
+1 See document 138/37 and the summary record of the Executive Board at its 138th session, tenth meeting, section 2
+(document EB138/2016/REC/2).
+2 WHO, The World Bank. Tracking universal health coverage: first global monitoring report. Geneva: World Health
+Organization; 2015, available online at: http://apps.who.int/iris/bitstream/10665/174536/1/9789241564977_eng.pdf?ua=1,
+accessed 4 April 2016.
+3 Definition: health services: health services include all services dealing with the promotion, maintenance and
+restoration of health. They include both personal and population-based health services.
+4 Countdown to 2015: maternal, newborn and child survival. Country profiles. Available at: http://www.countdown
+2015mnchcountdown2015mnch.org/country-profiles, accessed 4 April 2016.
+
+=== PÁGINA 2 ===
+A69/39
+4. Making progress towards the United Nations’ Sustainable Development Goal 3 (Ensure health
+lives and promote well-being for all at all ages), including target 3.8 on universal health coverage,
+requires countries to move towards ensuring that all people and communities have access to health
+services that are high quality, safe and acceptable. Cost-efficient, effective approaches to service
+delivery must be maximized for this to be attainable and sustainable. An integrated,1 people-centred2
+approach is crucial to the development of health systems that can respond to emerging and varied
+health challenges, including urbanization, the global tendency towards unhealthy lifestyles, ageing
+populations, the dual disease burden of communicable and noncommunicable diseases, multi-
+morbidities, rising health care costs, disease outbreaks and other health-care crises.
+5. Developing more integrated people-centred care systems has the potential to generate
+significant benefits to the health and health care of all people, including improved access to care,
+improved health and clinical outcomes, better health literacy and self-care, increased satisfaction with
+care, improved job satisfaction for health workers, improved efficiency of services, and reduced
+overall costs.
+6. In 2009, the Health Assembly adopted resolution WHA62.12, urging improvements in primary
+health care and health system strengthening and requesting the Director-General to prepare
+implementation plans for the four broad policy directions, including putting people at the centre of
+service delivery, and to ensure that these plans span the work of the entire Organization. In addition,
+resolution WHA64.9 (2011) on sustainable health financing structures and universal coverage,
+adopted in 2011, urges Member States to continue, as appropriate, to invest in and strengthen the
+health-delivery systems, in particular primary health care and services, in order to ensure that all
+citizens have equitable access to health care, and to ensure that overall resource allocation strikes an
+appropriate balance between health promotion, disease prevention, rehabilitation and health-care
+provision. United Nations’ General Assembly resolution 64/265 in 2010 on prevention and control of
+non-communicable diseases and the subsequent high-level meeting on the prevention and control of
+non-communicable diseases (New York, 19–21 September 2011)3 recommended a focus on primary
+care to deliver “prioritized packages of essential interventions”. Moreover, the General Assembly in
+its ensuing Political Declaration inter alia encouraged the supporting of primary health care and the
+empowerment of people for self-care.
+7. Strategic documents and resolutions from all WHO regions and regional committees also call
+for a more integrated, people-centred approach to health service delivery. These include the “Road
+map for scaling up the human resources for health for improved health service delivery in the African
+Region 2012–2025” endorsed by the Regional Committee for Africa in resolution AFR/RC62/R3;
+1 Definition: integrated health services: health services that are managed and delivered so that people receive a
+continuum of health promotion, disease prevention, diagnosis, treatment, disease-management, rehabilitation and palliative
+care services, coordinated across the different levels and sites of care within and beyond the health sector, and according to
+their needs throughout the life course.
+2 Definition: people-centred care: an approach to care that consciously adopts individuals’, carers’, families’ and
+communities’ perspectives as participants in, and beneficiaries of, trusted health systems that are organized around the
+comprehensive needs of people rather than individual diseases, and respects social preferences. People-centred care also
+requires that patients have the education and support they need to make decisions and participate in their own care and that
+carers are able to attain maximal function within a supportive working environment. People-centred care is broader than
+patient and person-centred care, encompassing not only clinical encounters, but also including attention to the health of
+people in their communities and their crucial role in shaping health policy and health services.
+3 Report of the Secretary-General, document A/66/83
+(http://www.un.org/en/ga/search/view_doc.asp?symbol=A/66/83&Lang=E, accessed 4 April 2016).
+2
+
+=== PÁGINA 3 ===
+A69/39
+resolution CD49.R22 on integrated health service delivery networks based on primary health care and
+resolution DC52/5 on social protection as well as the “Strategy for universal access to health and
+universal health coverage” in the Region of the Americas; the regional strategy for universal health
+coverage endorsed by the Regional Committee for South-East Asia in resolution SEA/RC65/R6;
+“Health 2020” (adopted in resolution EUR/RC62/R4) and “Towards people-centred health systems: an
+innovative approach for better health systems”1 in the European Region; resolution EM/RC60/R.2 on
+universal health coverage, which calls for the expansion of the provision of integrated people-centred
+health services that address the major burden of ill-health and are based on primary health care, and
+the “Framework for action on advancing universal health coverage in the Eastern Mediterranean
+Region”;2 and resolution WPR/RC58.R4 which endorsed the policy framework on people-centred
+health care as a guide for Member States to develop and implement people-centred health care policies
+and interventions according to their national contexts and the action framework on human resources
+for health in the Western Pacific Region 2011–2015.3
+8. In response, the Secretariat began an organization-wide collaboration in 2013 to produce a
+framework on integrated, people-centred health services. A consortium of leading research institutions
+was commissioned to produce a draft which was reviewed by Member States and experts from the
+donor community, civil society representatives, representatives from research institutions and the
+Secretariat in October 2013, resulting in the completion of a second draft by end of April 2014. The
+interim framework on integrated, patient centred health services report was published in March 2015,
+after further consideration in the light of the draft global strategy on human resources for health:
+Workforce 2030.4
+9. The interim report was reviewed through an extensive consultation process, including: a web-
+based public consultation open to individuals and organizations and regional and Member State
+consultations. The Secretariat has collated the relevant input in order to update the framework.
+Respondents have shown extensive support for the proposed vision, the strategies and the
+implementation approach.
+10. Pursuant to resolution WHA62.12 on primary health care, including health system strengthening
+and other related resolutions, this framework proposes five interdependent strategies for health
+services to become more integrated and people-centred. It calls for reforms to reorient health services,
+putting individuals, families, carers and communities at their centre, supported by responsive services
+that better meet their needs, and that are coordinated both within and beyond the health sector,
+irrespective of country setting or development status. These reforms also incorporate a human rights
+approach, enshrining access to health care as a basic right, without distinction of ethnicity, religion,
+gender, age, disability, political belief, and economic or social condition.
+1 WHO Regional Office for Europe. Towards people-centred health systems: an innovative approach for better health
+systems. Copenhagen, Regional Office for Europe available at http://www.euro.who.int/__data/assets/pdf_file/0006/186756/
+Towards-people-centred-health-systems-an-innovative-approach-for-better-health-outcomes.pdf, accessed 4 April 2016.
+2 http://applications.emro.who.int/docs/Technical_Notes_EN_16287.pdf, accessed 4 April 2016.
+3 http://www.wpro.who.int/hrh/documents/HRH_Action_Framework.pdf, accessed 4 April 2016.
+4 The full draft framework along with its accompanying “overview of the evidence” document can be accessed on the
+WHO website, at http://www.who.int/servicedeliverysafety/areas/people-centred-care/en/ (accessed 4 April 2016).
+3
+
+=== PÁGINA 4 ===
+A69/39
+FRAMEWORK ON INTEGRATED PEOPLE-CENTRED HEALTH SERVICES IN
+BRIEF1
+11. The draft framework sets forth a compelling vision in which “all people have equal access to
+quality health services that are co-produced2 in a way that meets their life course needs, are
+coordinated across the continuum of care, and are comprehensive, safe, effective, timely, efficient and
+acceptable; and all carers are motivated, skilled and operate in a supportive environment”. The
+framework is based on experience and evidence gained recently in different countries and
+wide-ranging consultation with experts at the global, regional and national levels, informed by related
+global policy commitments, regional strategies and initiatives in the area of universal health coverage,
+health systems strengthening, social determinants of health, and the core values and principles of
+primary health care: the right to health, social justice, solidarity and participation.
+12. Realization of integrated people-centred health services will depend on health system inputs,
+including the availability, accessibility and quality of health workers and the services they provide.
+The draft global strategy on human resources for health outlines the medium-term actions needed to
+ensure equitable access to a skilled and motivated health workforce within a fully functioning health
+system. As such, efforts have been made to form firm links between the framework on integrated,
+people-centred health services and the global strategy, including aligning human resources for health
+investment frameworks at national and global levels to future needs of health systems. Integrated,
+people-centred health services require particular health workers with relevant skills. In addition to the
+benefits to communities and populations, the benefits of an integrated people-centred care approach
+also extend to health workers, including: improved job satisfaction; more balanced workloads and
+fewer instances of burnout; and education and training opportunities to learn new skills, such as
+working in team-based health care environments.
+13. For the development of this framework, four different types of country settings have been
+analysed: low-, middle- and high-income countries, and countries facing special circumstances, such
+as conflict, and fragile States, small island States and large federal States. Given that health systems
+are highly context-specific, the framework does not propose a single model of people-centred and
+integrated health services. Instead, it proposes five interdependent strategies that need to be adopted.
+STRATEGIES, POLICY OPTIONS AND INTERVENTIONS
+14. The five interdependent strategies are: (1) empowering and engaging people and communities;
+(2) strengthening governance and accountability; (3) reorienting the model of care; (4) coordinating
+services within and across sectors; and (5) creating an enabling environment. Attainment of these five
+strategies cumulatively will help to build more effective health services; lack of progress in one area
+will potentially undermine progress in other areas.
+1 See http://www.who.int/servicedeliverysafety/areas/people-centred-care/en/ (accessed 4 April 2016).
+2 Definition: co-production of health: care that is delivered in an equal and reciprocal relationship between
+professionals, people using care services, their families and the communities to which they belong. It implies a long-term
+relationship between people, providers and health systems where information, decision-making and service delivery become
+shared.
+4
+
+=== PÁGINA 5 ===
+A69/39
+15. Action towards each strategy is intended to have an influence at different levels – from the way
+services are delivered (to individuals, families and communities) to changes in the way organizations,
+care systems and policy-making operate. Strategic approaches, potential policy options and
+interventions are detailed in the Table for the attainment of each strategy. Some of these potential
+policy options and interventions are cross-cutting for several strategic approaches. This
+non-exhaustive list has been drafted on the basis of literature reviews, input from technical
+consultations and expert opinion; it does not constitute a set of evidence-based guidelines for reform,
+as the evidence base for some of these policies and interventions is not fully established. Moreover,
+the appropriate mix of policies and interventions to be used at the country level will need to be
+designed and developed according to the local context, values and preferences.
+Table. Strategies, policy options and interventions for the framework on integrated,
+people-centred health services
+Strategy 1: Empowering and engaging people and communities
+Empowering and engaging people is about providing the opportunity, skills and resources that people need to be
+articulate and empowered users of health services and advocates for a reformed health system. This strategy
+seeks to unlock community and individual resources for action at all levels. It aims to empower individuals to
+make effective decisions about their own health and to enable communities to become actively engaged in
+co-producing healthy environments, and to provide informal carers with the necessary education to optimize
+their performance and support in order to continue in their role. Empowering and engaging people is also about
+reaching the underserved and marginalized groups of the population in order to guarantee universal access to
+and benefit from quality services that are co-produced according to their specific needs.
+Strategic approach Policy options and interventions
+1.1 Empowering and engaging individuals and families. In • health education1
+order to achieve better clinical outcomes through co-production • informed consent
+of care, particularly for noncommunicable and chronic diseases, • shared clinical decision making between
+individuals and families need to be active participants. This step individual, families, carers and providers
+is fundamental because people themselves will spend the most • self-management including personal care
+time living with and responding to their own health needs and assessment and treatment plans
+will be the ones making choices regarding healthy behaviours • knowledge of health system navigation
+and their ability to self-care. Empowerment is also about care that
+is delivered in an equal and reciprocal relationship between, on
+the one hand, clinical and non-clinical professionals and, on the
+other, the individuals using care services, their families, and
+communities, thereby improving their care experience.
+1.2 Empowering and engaging communities. This approach • community delivered care
+will enable communities to voice their needs and so influence the • community health workers
+way in which care is funded, planned and provided. It will help to • development of civil society
+build confidence, trust, mutual respect and the creation of social • strengthened social participation in health
+networks, because people’s physical and mental well-being
+depends on strong and enduring relationships. It strengthens the
+capacity of communities to organize themselves and generate
+changes in their living environments.
+1 Definition: health education: any combination of learning experiences designed to help individuals and
+communities improve their health, by increasing their knowledge or influencing their attitudes.
+5
+
+=== PÁGINA 6 ===
+A69/39
+ 1.3 Empowering and engaging informal carers. Family • training for informal carers
+members and other care-givers play a critical role in the provision • informal carer networks
+of health care. Carers must receive adequate training in order to • peer support and expert patient groups
+be able to provide high quality interventions, and to serve as • caring for the carers
+advocates for the recipients of care, both within the health system • respite care
+and at the policy level. Additionally, carers have their own needs
+for personal fulfilment and require emotional support to sustain
+their role.
+ 1.4 Reaching the underserved and marginalized. This • integration of health equity goals into
+approach is of paramount importance for guaranteeing universal health sector objectives
+access to quality health services. It is essential for fulfilling • provision of outreach services for the
+broader societal goals such as equity, social justice and solidarity, underserved including mobile units,
+and helps to create social cohesion. It requires actions at all levels transport systems and telemedicine
+of the health sector, and concerted action with other sectors and • outreach programmes for
+all segments of society, in order to address the other determinants disadvantaged/marginalized populations,
+of health and health equity. who may not receive effective coverage
+owing to barriers linked to factors that
+include income, education, residence,
+gender, ethnicity, working conditions or
+migrant status
+• contracting out of services when
+warranted
+• expansion of primary care-based systems
+Strategy 2: Strengthening governance and accountability
+Strengthening governance requires a participatory approach to policy formulation, decision-making and
+performance evaluation at all levels of the health system, from policy-making to the clinical intervention level.
+Good governance is transparent, inclusive, reduces vulnerability to corruption and makes the best use of
+available resources and information to ensure the best possible results. Good governance is reinforced by a
+robust system for mutual accountability among policy-makers, managers, providers and users and by incentives
+aligned with a people-centred approach. Establishing a strong policy framework and a compelling narrative for
+reform will be important to building a shared vision, as well as setting out how that vision will be achieved.
+Strategic approach Policy options and interventions
+2.1 Bolstering participatory governance. Robust governance • community participation in policy
+mechanisms are needed in order to achieve a coherent and formulation and evaluation
+integrated approach in health care policy, planning and delivery • community representation at health care
+at all levels of the health system. Governments need to take facilities’ boards
+responsibility for protecting and enhancing the welfare of their • national health policies, strategies and
+populations and to build trust and legitimacy with citizens plans promoting integrated people-
+through effective stewardship. The stewardship role of the health centred health services
+ministry is essential for good governance in health, and involves • strengthened health services governance
+the identification and participation of community stakeholders so and management at subnational, district
+that voices are heard and consensus is achieved. It is also needed and local levels
+to ensure that the different goals of donor agencies and vertical • harmonization and alignment of donor
+programmes tackling specific diseases do not hinder the ability of programmes with national policies,
+health systems to focus on community health and well-being for strategies and plans
+all. • decentralization, where appropriate, to
+local levels
+• comprehensive planning across the
+public/private sector
+6
+
+=== PÁGINA 7 ===
+A69/39
+• strengthened stewardship role of the
+health ministry in respect of non-State
+actors
+• clinical governance
+2.2 Enhancing mutual accountability. Essentially, this means • health rights and entitlement
+answerability of decision-making, and encompasses both the • provider report cards
+“rendering of the account” (that is, providing information about • patient satisfaction surveys
+performance) and the “holding to account” (namely, the • patient reported outcomes and balanced
+provision of rewards and sanctions). Strengthening accountability scorecard
+of health systems requires joint action at all levels to improve • performance based financing and
+services organization and delivery, health policy in health and contracting
+non-health sectors, public and private sectors, and people, • population registration with accountable
+towards a common goal. care provider(s)
+Strategy 3: Reorienting the model of care
+Reorienting the model of care means ensuring that efficient and effective health care services are designed,
+purchased and provided through innovative models of care that prioritize primary and community care services
+and the co-production of health. This encompasses the shift from inpatient to outpatient and ambulatory care and
+from curative to preventive care. It requires investment in holistic and comprehensive care, including health
+promotion and ill-health prevention strategies that support people’s health and well-being. It also respects
+gender and cultural preferences in the design and operation of health services.
+Strategic approach Policy options and interventions
+3.1 Defining service priorities based on life course needs. • local health needs assessment based on
+This approach means appraising the package of health services existing patterns of communicable and
+offered at different levels of the care delivery system based on noncommunicable diseases
+the best available evidence, covering the entire life course. It uses • comprehensive packaging of services for
+a blend of methods to understand both the particular health needs all population groups defined by means of
+of the population, including social preferences, and the cost- a participatory and transparent process
+effectiveness of alternative health interventions, guiding decision • strategic purchasing
+making on allocation of resources to health care. It also includes • gender, cultural and age-sensitive
+health technology assessment. services
+• health technology assessment
+3.2 Revaluing promotion, prevention and public health. This • monitoring population health status
+approach means placing increased emphasis and resources on • population risk stratification
+promotive, preventive and public health services. Public health • surveillance, research and control of risks
+systems include all public, private, and voluntary entities that and threats to public health
+contribute to the delivery of essential public health functions • improved financial and human resources
+within a defined geographical area. allocated to health promotion and disease
+prevention
+• public health regulation and enforcement
+3.3 Building strong primary care-based systems. Strong • primary care services with a family and
+primary care services are essential for reaching the entire community-based approach
+population and guaranteeing universal access to services. • multidisciplinary primary care teams
+Building such services involves ensuring adequate funding, • family medicine
+appropriate training, and connections to other services and • gatekeeping to access other specialized
+sectors. This approach promotes coordination and continuous services
+care over time for people with complex health problems, • greater proportion of health expenditure
+facilitating intersectoral action in health. It calls for allocated to primary care
+interprofessional teams to ensure the provision of comprehensive
+services for all. It prioritizes community and family-oriented
+models of care as a mainstay of practice with a focus on disease
+prevention and health promotion.
+7
+
+=== PÁGINA 8 ===
+A69/39
+3.4 Shifting towards more outpatient and ambulatory care. • home care, nursing homes and hospices
+Service substitution is the process of replacing some forms of • repurposing secondary and tertiary
+care with those that are more efficient for the health system. The hospitals for acute complex care only
+approach means finding the right balance between primary care, • outpatient surgery
+specialized outpatient care and hospital inpatient care, • day hospitals
+recognizing that each has an important role within the health care • progressive patient care
+delivery system.
+3.5 Innovating and incorporating new technologies. Rapid • shared electronic medical record
+technological change is enabling the development of increasingly • telemedicine
+innovative care models. New information and communication • mHealth
+technologies allow new types of information integration. When
+used appropriately, they can assure continuity of information,
+track quality, facilitate patients’ empowerment and reach
+geographically isolated communities.
+Strategy 4: Coordinating services within and across sectors
+Services should be coordinated around the needs and demands of people. This result requires integration of
+health care providers within and across health care settings, development of referral systems and networks
+among levels of care, and the creation of linkages between health and other sectors. It encompasses intersectoral
+action at the community level in order to address the social determinants of health and optimize use of scarce
+resources, including, at times, through partnerships with the private sector. Coordination does not necessarily
+require the merging of the different structures, services or workflows, but rather focuses on improving the
+delivery of care through the alignment and harmonizing of the processes and information among the different
+services.
+Strategic approach Policy options and interventions
+4.1 Coordinating care for individuals. Coordination of care is • care pathways
+not a single activity, but rather a range of strategies that can help • referral and counter-referral systems
+to achieve better continuity of care and enhance the patient’s • health navigators
+experience with services, particularly during care transitions. The • case management
+focus for improvement is on the delivery of care to the individual, • improved care transition
+with services coordinated around their needs and those of their • team-based care
+families. This approach also covers improved information flows
+and maintenance of trustworthy relationships with providers over
+time.
+4.2 Coordinating health programmes and providers. This • regional or district-based health service
+approach includes bridging the administrative, informational and delivery networks
+funding gaps between levels of care and providers. This involves • purchasing integrated services
+sector components such as pharmaceutical and product safety • integrating vertical programmes into
+regulators, information technology teams working with disease national health systems
+surveillance systems, allied health teams delivering treatment • incentives for care coordination
+plans in collaboration with each other, disease-specific laboratory
+services linked to broader services improvement, and provider
+networks focused on closer relationships in patient care.
+4.3 Coordinating across sectors. Successful coordination in • health in all policies
+health matters involves multiple actors, both within and beyond • intersectoral partnerships
+the health sector. It encompasses sectors such as social services, • merging of health sector with social
+finance, education, labour, housing, the private sector and law services
+enforcement, among others. It necessitates strong leadership from • working with education sector to align
+the health ministry to coordinate intersectoral action, including professional curriculum towards new
+coordination for early detection and rapid response to health skills needed
+crises. • integrating traditional and complementary
+medicine with modern health systems
+• coordinating preparedness and response
+to health crises
+8
+
+=== PÁGINA 9 ===
+A69/39
+Strategy 5: Creating an enabling environment
+In order for the four previous strategies to become an operational reality, it is necessary to create an enabling
+environment that brings together all stakeholders to undertake transformational change. This complex task will
+involve a diverse set of processes to bring about the necessary changes in leadership and management,
+information systems, methods to improve quality, reorientation of the workforce, legislative frameworks,
+financial arrangements, and incentives.
+Strategic approach Policy options and interventions
+5.1 Strengthening leadership and management for change. • transformational and distributed
+New forms of collaborative leadership that help to bring together leadership
+multiple stakeholders are needed for successful reform of health • change management strategies
+services. All health care professionals, and especially clinicians,
+need to be engaged in management and leadership for change in
+continuous partnership with local communities. Achieving
+people-centred and integrated care requires the application of
+complex processes and service innovations that warrant an
+underlying change management strategy.
+5.2 Strengthening information systems and knowledge • development of information systems
+management. Development of information systems and an • systems research
+organizational culture that supports monitoring and evaluation, • knowledge management
+knowledge sharing and using data in decision-making is also a
+prerequisite for transformational change.
+5.3 Striving for quality improvement and safety. Institutions • quality assurance
+and providers need to strive constantly for quality improvement • creating a culture of safety
+and safety. These efforts include both technical and perceived • continuous quality improvement
+quality.
+5.4 Reorienting the health workforce. Special attention needs • tackling health workforce shortages and
+to be given to readying the health workforce with an appropriate maldistribution
+skills mix in order equitably and sustainably to meet population • health workforce training
+health needs. Health workers must be organized around teams • multi-professional teams working across
+and supported with adequate processes of work, clear roles and organizational boundaries
+expectations, guidelines, opportunities to correct competency • improving working conditions and
+gaps, supportive feedback, fair wage, and a suitable work compensation mechanisms
+environment and incentives. • provider support groups
+• strengthening professional associations
+5.5 Aligning regulatory frameworks. Regulation plays a key • aligning regulatory framework
+role in establishing the rules within which professionals and
+organizations must operate within more people-centred and
+integrated health systems – for example, in terms of setting new
+quality standards and/or paying against performance targets.
+5.6 Improving funding and reforming payment systems. • assuring sufficient health system
+Changes in the way care is funded and paid for are also needed to financing and aligning resource allocation
+promote adequate levels of funding and the right mix of financial with reform priorities
+incentives in a system that supports the integration of care • mixed payment models based on
+between providers and settings and protection of patients against capitation
+undue out-of-pocket expenditures on health. • bundled payments
+9
+
+=== PÁGINA 10 ===
+A69/39
+IMPLEMENTATION APPROACH
+16. The lessons of history need to be acknowledged: the successful reorientation of health services
+will most likely be a long journey and will need sustained political commitment. Ultimately, each
+country or local jurisdiction needs to set its own goals for integrated and people-centred health
+services, and develop its own strategies for achieving these goals. The strategies must respond to the
+local context, existing barriers and the values held by people within the State or area, and should be
+achievable given the current health service delivery system and the financial and political resources
+available. Efforts should primarily concentrate on improving access to services for underserved and
+marginalized populations, on placing increased emphasis and resources on promotive, preventive and
+public health services and on strengthening district-level health services, among others. Given that this
+framework is fundamentally transformative in its implications for the future of health systems, system
+leaders must adopt strategies for change to ensure the effective alignment of strategies and processes
+that promote people-centred and integrated care. Delivering high-quality, people-centred care and
+integrated health services requires the creation and nurturing of collective engagement, commonly-
+held values, effective communication and transparency. The implementation approach, therefore, of
+this framework is as follows:
+(a) Country-led: strategies for pursuing integrated people-centred health services should be
+developed and led by countries, with external support where necessary, and should respond to
+local conditions and contexts.
+(b) Equity-focused: efforts to enhance equity are a necessary part of people-centred and
+integrated health care strategies. Efforts can target immediate factors driving inequitable service
+utilization, but may also address more fundamental social determinants.
+(c) Participatory: the notion of people-centred and integrated health services puts informed
+and empowered people at the centre of the health system. Therefore, processes to develop
+national strategies for such services should ensure accountability to local stakeholders and,
+especially, to disadvantaged populations.
+(d) Systems strengthening: service delivery depends on effective information and financing
+systems, and the availability of skilled and motivated health workers. Changes made to service
+delivery will inevitably have ramifications across the entire health system.
+(e) Evidence-based practice with iterative learning/action cycles: decisions at all levels
+should be based on the best available evidence. Quality improvement methodology shows that
+success is most likely when there are iterative learning and action cycles that track changes in
+the service delivery system, identify emerging problems and bring stakeholders together to
+solve them.
+(f) Results-oriented: a key focus should be on the ongoing monitoring of progress through
+specific and measurable objectives and results.
+(g) Ethics-based: by making sure that care optimized the risk benefit ratio in all interventions,
+respects the individual’s right to make informed and autonomous decisions, safeguards privacy,
+protects the most vulnerable, and ensures the fair distribution of resources.
+(h) Sustainable: planning, managing and delivering care that is equitable, efficient, effective
+and that contributes to long-term development in a sustainable manner.
+10
+
+=== PÁGINA 11 ===
+A69/39
+THE ROLE OF STAKEHOLDERS
+17. The role of stakeholders in this framework is as follows:
+(a) Member States: countries committed to moving towards people-centred and integrated
+health services should develop and communicate a clear vision, setting sound strategies and
+regulatory frameworks that facilitate the way towards their achievement. This process needs to
+be country-led and involves co-production between all government sectors, providers and the
+people that they serve. Governments need to secure adequate funding for reform and
+implementation research. This process has to be replicated at both subnational and local levels.
+(b) Individuals, families and communities: They constitute the main focus of attention of the
+framework. Policy formulation, health services organization and co-production of health
+services should be developed and implemented in partnership with individuals, families and
+communities.
+(c) Civil society organizations: as representatives of patients, families, communities and
+carers, these organizations have an important role to play in advocating for more people-centred
+and integrated health services, as well as in empowering their members to be able to better
+manage their own health concerns and engage with the health system.
+(d) Health service providers: these constitute a fundamental component of the framework.
+Policy formulation, health services organization and co-production of health services should be
+developed and implemented in partnership with service providers, as in the case of individuals,
+families and communities.
+(e) Academic, training and research institutions: these bodies have an important role to play
+in developing new professional curricula for the health workforce, training the health workforce,
+and conducting health systems and implementation research efforts.
+(f) Professional and students associations: these organizations can play important roles in
+adopting and endorsing new practices, and in providing support to their members.
+(g) Private sector: regulatory steps should be taken to assure that reforms to increase care
+integration and people-centredness apply equally to public and private service providers,
+including for profit, non-for-profit, and faith-based organizations. Partnerships with private
+sector industry, such as pharmaceutical and medical device industries, can also be pursued when
+appropriate.
+(h) Health insurers: these entities should guarantee sufficient financing for service delivery
+reform and reorient payment systems and purchasing practices to incentivise more integrated,
+people-centred approaches to care.
+(i) Development partners: these should, except under exceptional circumstances where rapid
+or unique action is required, seek to integrate their support to health service delivery into
+countries’ own health systems. They can also help to share technical knowledge about different
+approaches to promoting more people-centred and integrated services.
+11
+
+=== PÁGINA 12 ===
+A69/39
+(j) Secretariat: the role of the Secretariat will be to drive policies that can support the
+development of people-centred and integrated health services across the world. The adoption of
+integrated people-centred health services, and the five key strategies identified in this
+framework, will therefore require sustained advocacy and technical cooperation efforts.
+PROGRESS MONITORING
+18. As the framework represents a new programme of work for WHO, there are no universally
+utilized indicators to measure progress in establishing integrated people-centred health services. The
+Global Health Observatory, the monitoring and evaluation frameworks for universal health coverage
+and the Sustainable Development Goals, and the Global Reference List of 100 Core Health Indicators1
+– none includes measures of integration or people-centredness. Given this situation, the framework
+proposes performing research and development on indicators to track global progress on integrated
+people-centred health services. This effort will convene international partners to develop appropriate
+metrics for these critical, but less frequently measured domains of health care.
+19. The elaboration of these indicators will facilitate the development of the medium- and long-
+term goals and targets that are needed to monitor progress in the implementation of the framework at
+the global, regional and national levels.
+ACTION BY THE HEALTH ASSEMBLY
+20. The Health Assembly is invited to adopt the draft resolution recommended by the Executive
+Board in resolution EB138.R2.
+= = =
+1 See http://www.who.int/healthinfo/indicators/2015/en/, accessed 4 April 2016.
+12

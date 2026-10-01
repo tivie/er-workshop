@@ -1,0 +1,343 @@
+# Fonte: Santelices 2016 Clasificacion segun nivel de morbilidad con ACG - Chile (Rev Med Chile).pdf
+# Páginas: 7
+
+=== PÁGINA 1 ===
+Artículos de InvestIgAcIón
+rev Med chile 2016; 144: 291-297
+Clasificación según nivel de morbilidad
+1departamento de desarrollo
+e intensidad del uso de recursos de una estratégico. Ministerio de salud.
+2escuela de salud Pública
+población con patologías crónicas en universidad de chile.
+3Med IQ. santiago, chile.
+Atención Primaria de Salud utilizando adoctor (c) en salud Pública.
+bMsc.
+“Adjusted Clinical Groups” (ACG) cIngeniero.
+recibido el 5 de agosto de 2015,
+aceptado el 10 de diciembre de
+Emilio SantElicES c.1,a, FErnando muñoz P.2,b, 2015.
+Patricio muñiz3, JoSé roJaS1,c
+correspondencia a:
+emilio santelices cuevas
+lo Fontecilla 441, las condes.
+Adjusted Clinical Groups Method (ACG) esanteli@clc.cl
+to allocate resources according to the disease
+burden of each health center
+Background: Health care must be provided with strong primary health care
+models, emphasizing prevention and a continued, integrated and interdiscipli-
+nary care. Tools should be used to allow a better planning and more efficient use
+of resources. Aim: To assess risk adjustment methodologies, such as the Adjusted
+Clinical Groups (ACG) developed by The Johns Hopkins University, to allow
+the identification of chronic condition patterns and allocate resources accordin-
+gly. Material and Methods: We report the results obtained applying the ACG
+methodology in primary care systems of 22 counties for three chronic diseases,
+namely Diabetes Mellitus, Hypertension and Heart Failure. Results: The outco-
+mes show a great variability in the prevalence of these conditions in the different
+health centers. There is also a great diversity in the use of resources for a given
+condition in the different health care centers. Conclusions: This methodology
+should contribute to a better distribution of health care resources, which should
+be based on the disease burden of each health care center.
+(Rev Med Chile 2016; 144: 291-297)
+Key words: Delivery of Health Care, Integrated; Primary Health Care;
+Resource Allocation; Risk Adjustment.
+E
+l uso con racionalidad de los diferentes sistemas de salud, en relación a la eficiencia en el
+mecanismos de pago existentes es una de uso de los recursos y en la calidad en la provisión
+las herramientas más poderosas que debe de los servicios2.
+manejar hoy un gerente o directivo de salud. En Chile, la asignación de recursos para la
+Según sea el mecanismo utilizado, se afectará el Atención Primaria de Salud (APS) ha evolucio-
+comportamiento de financiadores y prestadores1. nado desde un mecanismo de pago por acto (fee
+El interés del estudio de los efectos de estos for service) a un mecanismo per cápita ajustado
+mecanismos radica en la importancia de identi- por condiciones de ruralidad y pobreza. El me-
+ficar, a través de la evidencia empírica, la forma canismo inicial, denominado FAPEM (Factura-
+en que pueden afectar los comportamientos de ción por Atención Prestada en Establecimientos
+los financiadores o proveedores e impactar a los Municipales) incentivaba la actividad en aquellas
+291
+
+=== PÁGINA 2 ===
+Artículos de InvestIgAcIón
+utilización de Adjusted Clinical Groups en patologías crónicas en APs - e. santelices et al
+prestaciones que dejaban excedente y que no resul- (ACG) de la Universidad de Johns Hopkins7 se
+taban necesarias, razón por la que a poco andar, se presenta un método de distribución de recursos
+estableció un techo máximo. Este sistema recibió considerando las diferencias en carga de morbi-
+críticas, pues ni siquiera suministraba incentivos lidad. Desde esta perspectiva, nos ha parecido de
+a los resultados3. interés compartir la experiencia de financiamiento
+Más tarde, se ideó un mecanismo de pago per de la APS chilena y los resultados de los estudios
+cápita que coexiste con el financiamiento pros- que hemos realizado en materia de ajuste de riesgo
+pectivo de programas prioritarios definidos por el para el pago capitado8.
+Ministerio de Salud en su nivel central. Se esperaba El objetivo de este trabajo es estudiar la distri-
+que este mecanismo incentivara las actividades bución de la población con enfermedades crónicas
+de prevención en la gestión de la APS municipal. y su composición según la complejidad requerida
+El sistema de pago per cápita vigente está su- para abordarlas, en un grupo de comunas selec-
+jeto a una serie de indexadores relacionados con cionadas de Chile.
+el nivel socioeconómico de la comuna, ruralidad,
+dificultad de acceso y otras variables que dan
+Metodología
+cuenta de la dificultad de la gestión en algunas
+comunas respecto al promedio. Aplicación de la herramienta ACG
+Cabe destacar que si bien los criterios de El sistema Grupos Clínicos Ajustados es una
+indexación del per cápita basal son claros, para herramienta de clasificación de pacientes según
+su definición se utilizan promedios históricos de carga de morbilidad. Para la clasificación se con-
+demanda esperada, los que de acuerdo a algunos sideran la edad y sexo de los pacientes en conjunto
+autores no resultan precisos4. con todos los diagnósticos registrados en un perío-
+El mecanismo de asignación utilizado en la do de tiempo determinado, que comúnmente es de
+actualidad ha permitido resolver las dificultades un año. En función a estas variables, cada paciente
+observadas con los pagos históricos, sin embargo, es asignado a una de 300 categorías mutuamente
+no permite ajustar la distribución de los recursos excluyentes, éstas se caracterizan por poseer un
+considerando el perfil epidemiológico de la po- peso relativo de acuerdo al consumo de recursos
+blación, el que se continuará modificando en los que los pacientes asignados a ella hicieron en rela-
+próximos años. ción al consumo promedio total. Si una categoría
+La ausencia de mecanismos que den cuenta ACG posee un peso relativo de 1, implica que el
+de la distribución de los recursos en función de la consumo de recursos de los pacientes incluidos en
+carga de enfermedad de la población, contribuye ella es equivalente al consumo promedio total de
+estructuralmente a perpetuar la inequidad. Las dos todos los pacientes. La asignación de pesos relati-
+últimas encuestas nacionales de salud realizadas vos permite agrupar pacientes según la intensidad
+en nuestro país indican que los pacientes con de uso de recursos que utilizan, la herramienta
+enfermedades crónicas se distribuyen con mayor ACG denomina a estos grupos como “Resource
+prevalencia en aquellos grupos con menor nivel Utilization Bands” (RUB). Para el caso particular
+educacional5. de este estudio define tres de ellas, ordenadas de
+Estos antecedentes han motivado estudios menor a mayor intensidad de uso de recursos.
+orientados, en primer término, a validar el uso
+de Grupos Clínicos Ajustados (ACG) para la Selección de la muestra
+población chilena y a identificar los patrones de La muestra comprende los meses de enero
+carga de morbilidad y consumo de recursos en la a diciembre de 2012 y contiene un universo de
+población. Santelices et al.6 utilizan la información 5.961.422 de pacientes atendidos en 270 centros
+de los registros electrónicos para hacer una caracte- de salud de atención primaria en 111 comunas
+rización de la carga de morbilidad en la población que contaban con registro clínico electrónico.
+asignada a centros de atención de salud primaria, El identificador de los pacientes fue encriptado
+encontrando evidencia significativa de la relación previamente para evitar su identificación, pero
+entre nivel de morbilidad y consumo de recursos. manteniendo la capacidad de identificar múltiples
+Adicionalmente, utilizando el sistema Grupos visitas de un mismo paciente. En la Tabla 1 se pre-
+Clínicos Ajustados o “Adjusted Clinical Groups” senta el reporte con los diagnósticos procesados
+292 rev Med chile 2016; 144: 291-297
+
+=== PÁGINA 3 ===
+Artículos de InvestIgAcIón
+utilización de Adjusted Clinical Groups en patologías crónicas en APs - e. santelices et al
+Tabla 1. Reporte de cantidad de diagnósticos tadísticas e Información del Ministerio de Salud
+procesados (DEIS), quedando una cantidad de 1.876.532
+pacientes, en 64 centros de atención primaria,
+Reporte Valor distribuidos en 22 comunas (Tabla 2).
+número de diagnósticos por pacientes inscritos 2,07 Para este estudio sólo se consideraron las
+patologías: diabetes mellitus (diabetes), hiper-
+número de diagnósticos por pacientes atendidos 4,49
+tensión arterial (HTA) e insuficiencia cardiaca
+número de diagnósticos no reconocidos 5
+(Ins. Cardiaca). Los agrupadores ACG permiten
+determinar si un paciente posee alguna de estas
+patologías sobre la base de los diagnósticos y los
+por pacientes, la referencia para este indicador es fármacos que se le prescriban.
+de 6 diagnósticos por persona atendida7.
+Posteriormente, se realizó un ajuste de repre-
+Resultados
+sentatividad de la muestra que consistió en selec-
+cionar las comunas que tuvieran la mayor cantidad Para cada patología se presentan tres tipos de
+de centros de atención primaria (Centro de Salud distribución de casos; en primer lugar se presenta
+Familiar o CESFAM, Consultorio General Rurales la prevalencia en el total de la muestra por cada
+o CGR y Consultorio General Urbanos o CGU) mil habitantes, en segundo lugar se muestra una
+cuya información es procesada en el sistema ACG comparación de la morbilidad relativa (los pesos
+versus las registradas en el Departamento de Es- relativos generales) para cada patología y, final-
+Tabla 2. Número de CESFAM por comunas, en registro DEIS y número de comunas registradas
+en estudio con el total de población de cada una de ellas
+Glosa ACG Glosa DEIS n ACG n DEIS n pacientes
+caldera caldera 1 1 18.256
+catemu catemu 1 1 12.434
+cerro navia cerro navia 4 4 155.546
+chiguayante chiguayante 3 3 72.454
+conchalí conchalí 4 4 126.007
+concón concón 1 1 38.419
+copiapó copiapó 8 8 135.953
+el Monte el Monte 1 1 34.101
+la cisterna la cisterna 2 2 77.560
+la Florida la Florida 9 9 331.976
+la reina la reina 2 2 39.657
+lo Prado lo Prado 4 4 140.990
+lota lota 2 2 38.250
+Padre Hurtado Padre Hurtado 1 1 50.460
+Panquehue Panquehue 1 1 7.316
+Peñaflor Peñaflor 2 2 76.787
+Quilpué Quilpué 5 5 149.859
+rinconada rinconada 1 1 9.541
+san Joaquín san Joaquín 3 3 94.682
+san Miguel san Miguel 2 2 87.879
+san Pedro de la Paz san Pedro de la Paz 4 4 87.334
+villa Alemana villa Alemana 3 3 91.131
+rev Med chile 2016; 144: 291-297 293
+
+=== PÁGINA 4 ===
+Artículos de InvestIgAcIón
+utilización de Adjusted Clinical Groups en patologías crónicas en APs - e. santelices et al
+mente, se agrupan los pesos relativos generales la morbilidad relativa, donde los pacientes con
+por patología, conformando bandas de consumo insuficiencia cardiaca son los que presentan el
+similares, para lo que se utilizan los RUB. En la peso relativo mayor (3,688), seguido de los pa-
+Tabla 3 aparecen los resultados para el agregado cientes con diabetes (3,261) e HTA (3,206). El
+de patologías en todas las comunas consideradas comportamiento interno de los pesos relativos
+en la muestra. diferenciados por RUB muestra comportamientos
+En términos generales, se observa que es mayor similares entre las tres patologías con los mínimos
+la prevalencia de pacientes con HTA (57,051), oscilando en 1,9 y los máximos entre 5,2 y 5,4.
+seguida de diabetes (26,868) e insuficiencia car- El comportamiento de las patologías para cada
+diaca (5,211). Este patrón se invierte al analizar comuna, se presenta en las Tablas 4, 5 y 6.
+Tabla 3. Comparación de prevalencia, morbilidad relativa agregada y distribución de pesos en RUB
+para el agregado de la muestra con las patologías crónicas seleccionadas
+Patologías Prevalencia total Morbilidad RUB
+(x 1.000) relativa 1 2 3
+diabetes 26,868 3,261 1,917 3,304 5,326
+HtA 57,051 3,206 1,924 3,287 5,290
+Ins. cardíaca 5,211 3,688 1,820 3,444 5,443
+Tabla 4. Comparación de prevalencia, morbilidad relativa agregada y distribución de pesos en RUB
+por comuna, para el subgrupo de pacientes con diabetes mellitus
+Comuna Prevalencia total Morbilidad RUB
+(x 1.000) relativa 1 2 3
+caldera 39,165 3,128 1,879 3,224 5,137
+catemu 12,305 2,090 1,988 3,000 4,716
+cerro navia 32,858 3,489 1,862 3,275 5,373
+chiguayante 3,202 1,639 2,105 2,989 5,504
+conchalí 36,855 3,380 2,052 3,297 5,312
+concón 29,517 3,819 1,952 3,323 5,422
+copiapó 23,302 2,783 1,976 3,227 5,052
+el Monte 23,079 2,752 2,111 3,171 5,493
+la cisterna 0,361 2,989 1,185 3,317 5,727
+la Florida 37,946 3,624 1,933 3,402 5,362
+la reina 35,126 2,077 1,566 3,237 4,894
+lo Prado 36,031 3,344 2,074 3,310 5,327
+lota 8,026 2,287 2,141 3,138 3,569
+Padre Hurtado 29,945 2,527 2,205 3,153 4,843
+Panquehue 16,676 2,353 2,157 3,084 3,944
+Peñaflor 33,365 3,255 2,107 3,242 5,309
+Quilpué 16,516 3,172 2,069 3,248 5,156
+rinconada 13,940 2,377 2,158 3,237 0,000
+san Joaquín 38,202 3,509 1,949 3,334 5,382
+san Miguel 27,515 1,053 0,764 3,132 4,936
+san Pedro de la Paz 11,828 2,505 1,939 3,208 4,856
+villa Alemana 31,076 2,785 2,198 3,269 5,214
+294 rev Med chile 2016; 144: 291-297
+
+=== PÁGINA 5 ===
+Artículos de InvestIgAcIón
+utilización de Adjusted Clinical Groups en patologías crónicas en APs - e. santelices et al
+Tabla 5. Comparación de prevalencia, morbilidad relativa agregada y distribución de pesos en RUB
+por comuna para el subgrupo de pacientes identificados con hipertensión arterial
+Comuna Prevalencia total Morbilidad RUB
+(x 1.000) relativa 1 2 3
+caldera 60,473 3,133 1,917 3,260 5,155
+catemu 28,309 2,395 1,884 3,107 5,105
+cerro navia 61,789 3,431 1,977 3,316 5,374
+chiguayante 3,823 2,584 2,098 3,130 5,631
+conchalí 74,234 3,373 2,062 3,308 5,286
+concón 80,221 3,590 1,892 3,255 5,312
+copiapó 37,307 2,893 2,030 3,257 5,149
+el Monte 61,376 2,836 2,165 3,189 5,255
+la cisterna 0,670 3,024 1,395 3,075 5,580
+la Florida 86,606 3,472 1,925 3,312 5,295
+la reina 55,072 2,536 1,650 3,162 4,932
+lo Prado 69,409 3,376 2,093 3,328 5,313
+lota 11,922 2,484 2,160 3,106 4,417
+Padre Hurtado 67,717 2,565 2,221 3,140 4,957
+Panquehue 36,495 2,465 2,141 3,104 3,686
+Peñaflor 72,603 3,296 2,103 3,272 5,337
+Quilpué 43,714 3,208 2,036 3,256 5,159
+rinconada 22,220 2,575 2,210 3,034 nA
+san Joaquín 83,163 3,443 1,878 3,314 5,321
+san Miguel 39,259 1,382 0,723 3,108 5,080
+san Pedro de la Paz 18,229 2,639 1,856 3,150 4,945
+villa Alemana 65,302 2,850 2,210 3,305 5,191
+Es importante destacar la gran variabilidad de las cifras obtenidas desde la población atendida se
+prevalencias observadas entre las comunas para reduzcan por tratarse de una población general
+las tres enfermedades. En el caso de diabetes me- (con fuerte presencia infantil), la integridad del
+llitus, ésta va desde 0, 361 por 1.000 (0,036%) en control de enfermedades crónicas se demuestra
+La Cisterna a 39,165 (3,91%) en Caldera (Tabla preocupante.
+4). En materia de HTA, la variación va de 3,823 El análisis de las RUB, muestra que, con in-
+(0,38%) en Chiguayante a 83,16 (8,31%) en San dependencia de la prevalencia, las variaciones
+Joaquín (Tabla 5) y para insuficiencia cardíaca la intercomunales son de menor cuantía que las que
+variación va de 0,340 en Lota a 8,190 en Conchalí. se aprecian en la prevalencia y morbilidad relativa.
+Si se considera que las prevalencias de diabetes
+y de HTA en la población general adulta son de
+9,4% y 26,9%, de acuerdo a la Encuesta Nacional Discusión
+de Salud de 2009-20109, llama la atención la gran
+distancia entre las prevalencias obtenidas a partir Los resultados muestran que tanto las preva-
+de los registros de población atendida y las que se lencias como la carga de morbilidad e intensidad
+esperarían si la totalidad de los pacientes existentes de uso de recursos varían entre las distintas comu-
+fueran detectados y tratados. Si bien es posible que nas estudiadas. De esta observación se desprenden
+rev Med chile 2016; 144: 291-297 295
+
+=== PÁGINA 6 ===
+Artículos de InvestIgAcIón
+utilización de Adjusted Clinical Groups en patologías crónicas en APs - e. santelices et al
+Tabla 6. Comparación de prevalencia, morbilidad relativa agregada y distribución de pesos en RUB
+para el subgrupo de pacientes identificados con insuficiencia cardíaca
+Comuna Prevalencia total Morbilidad RUB
+(x 1.000) relativa 1 2 3
+caldera 7,395 3,490 1,844 3,510 5,203
+catemu 1,448 2,056 1,381 2,639 4,716
+cerro navia 10,299 3,892 1,905 3,483 5,450
+chiguayante 0,262 2,762 2,046 2,925 5,336
+conchalí 8,190 3,763 2,108 3,406 5,344
+concón 4,399 4,359 1,759 3,465 5,752
+copiapó 3,472 3,118 1,954 3,405 5,270
+el Monte 10,469 2,923 2,121 3,175 5,232
+la cisterna 0,039 3,848 nA 0,556 5,493
+la Florida 7,062 3,972 1,817 3,519 5,490
+la reina 6,052 2,866 1,713 3,221 4,578
+lo Prado 8,689 3,920 2,035 3,475 5,589
+lota 0,340 2,783 1,386 3,304 4,716
+Padre Hurtado 1,130 2,682 2,181 3,135 5,957
+Panquehue 1,093 2,550 2,268 3,020 nA
+Peñaflor 4,558 3,696 1,977 3,380 5,490
+Quilpué 2,189 3,715 1,904 3,436 5,216
+rinconada 0,734 2,668 nA 2,668 nA
+san Joaquín 8,185 3,855 2,006 3,453 5,402
+san Miguel 3,676 1,810 0,797 3,317 5,020
+san Pedro de la Paz 1,969 2,932 1,872 3,298 4,860
+villa Alemana 1,427 3,906 2,104 3,665 5,386
+dos lecturas. La primera justifica estudios dirigidos un sistema de ajuste de riesgo basado en carga
+a identificar la existencia de variables no médicas de morbilidad con el que sea posible conocer los
+que pudieran estar determinando una mayor pre- gastos en los que se va a incurrir en atender a pa-
+valencia de determinadas condiciones para actuar cientes con un determinado perfil de morbilidad
+sobre estas con mayor efectividad. La segunda y distribuir los recursos de manera más equitativa.
+obliga a evaluar la efectividad de las estrategias El ajuste también permite evaluar de mejor forma
+de prevención secundaria y de cuidado por parte los resultados asociados a las intervenciones en
+de los centros de salud, para implementar los salud para programas específicos, lo que facilita
+cambios necesarios. la rendición de cuentas, la evaluación de impacto
+Un sistema de pago capitado, donde no se y la transparencia a nivel de los proveedores, esti-
+vincula el pago a un sistema de ajuste de según mulando la calidad de la atención. La aplicación
+carga de morbilidad, como el vigente en Chile, de ajustes de riesgo requiere conocer el perfil de
+centra la mayor parte del riesgo de financiamiento morbilidad de la población, especialmente en lo
+en el prestador, pues entrega la misma cantidad de que respecta a la prevalencia de enfermedades
+recursos a un grupo de individuos sin considerar crónicas.
+las necesidades intrínsecas de su condición de Herramientas como ACG, que permitan clasi-
+morbilidad10. Una mejora crítica es implementar ficar por carga de morbilidad a la población, tienen
+296 rev Med chile 2016; 144: 291-297
+
+=== PÁGINA 7 ===
+Artículos de InvestIgAcIón
+utilización de Adjusted Clinical Groups en patologías crónicas en APs - e. santelices et al
+el potencial de mejorar la asignación de recursos en: http://medicina.uc.cl/docman/1244/20/cat-view/
+concentrándose en la atención de aquellos cuya página-5.
+condición así lo requiera. Mejores sistemas de dis- 6. Santelices E, Muñiz P, Arriagada I, Delgado M, Rojas J.
+tribución de recursos son claves en el avance hacia Primera experiencia chilena con la aplicación de grupos
+un sistema de provisión de salud más eficiente, clínicos ajustados (ACG) como herramienta de ajuste
+en especial en un sector tan importante como el de riesgo: evaluación de la distribución de recursos en
+sistema de Atención Primaria de Salud. programa de enfermedades crónicas. Rev Med Chile
+2014; 142 (1): 153-60.
+7. The Johns Hopkins ACG® System. Technical Reference
+Referencias
+Guide. Version 9.0. Johns Hopkins University, Bloom-
+1. Gottret P, Schieber G. Estudio del financiamiento de la berg School of Public Health. 2009. Disponible en:
+salud: una guía para especialistas. Serie de estudios del http://acg.jhsph.org.
+Banco Mundial. 2007. 8. Santelices E, Rojas J, Delgado M, Arriagada L, Muñiz
+2. Roberts M, Hsiao W, Berman P, Reich M. Chapter 9; P. Distribución de la carga de morbilidad en Chile
+Payment Systems and Their Incentives. En: Getting determinada por el Sistema ACG. En: XXXI Jornadas
+Health Reform Right. Oxford University Press. 2008. chilenas de salud pública. 2013. Disponible en: http://
+3. Duarte D. Asignación de Recursos per cápita en la Aten- www.saludpublica.uchile.cl.
+ción Primaria. La experiencia chilena. Serie Documentos 9. Encuesta Nacional de Salud ENS Chile 2009-2010.
+de Estudio N° 8. CPU, Santiago. 1995. Ministerio de Salud, Pontificia Universidad Católica de
+4. Montero J, Poblete F, Torche A, Vargas V. Análisis del Chile, Universidad Alberto Hurtado. 2010. Disponible
+modelo de asignación financiera en la atención primaria en: http://www.dinta.cl/wp-dintacl/wp-content/uploads/
+chilena: pertinencia del per-cápita actual y uso de varia- Encuesta-Nacional-de-Salud-2010.pdf.
+bles en su cálculo para asegurar concordancia entre la 10. Cid C, Castillo C, Poblete S. Revisión de la literatura
+situación epidemiológica actual y el modelo de atención. y sistematización de la información disponible sobre
+Centro de Políticas Públicas Universidad Católica. Pro- la asignación de recursos a nivel comunal. Estudios.
+puestas para Chile 2008; 73-94. Ministerio de Salud. 2012. Disponible en: http://www.
+5. Encuesta Nacional de Salud. Pontificia Universidad medwave.cl/medios/medwave/InicTran/PDF/Recursos.
+Católica de Chile. Ministerio de Salud. 2010. Disponible comunal.pdf.
+rev Med chile 2016; 144: 291-297 297

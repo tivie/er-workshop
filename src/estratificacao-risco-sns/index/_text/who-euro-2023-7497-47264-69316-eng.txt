@@ -1,0 +1,3113 @@
+# Fonte: WHO-EURO-2023-7497-47264-69316-eng.pdf
+# Páginas: 61
+
+=== PÁGINA 1 ===
+Primary heath care
+policy paper series
+Population
+health management in
+primary health care:
+a proactive approach to improve
+health and well-being
+001
+
+=== PÁGINA 2 ===
+Document number: WHO/EURO:2023-7497-47264-69316
+© World Health Organization 2023
+Some rights reserved. This work is available under the Creative Commons Attribu-
+tion-NonCommercial-ShareAlike 3.0 IGO licence (CC BY-NC-SA 3.0 IGO; https://
+creativecommons.org/licenses/by-nc-sa/3.0/igo).
+Under the terms of this licence, you may copy, redistribute and adapt the work for
+non-commercial purposes, provided the work is appropriately cited, as indicated
+below. In any use of this work, there should be no suggestion that WHO endorses
+any specific organization, products or services. The use of the WHO logo is not
+permitted. If you adapt the work, then you must license your work under the same or
+equivalent Creative Commons licence. If you create a translation of this work, you
+should add the following disclaimer along with the suggested citation: “This transla-
+tion was not created by the World Health Organization (WHO). WHO is not responsi-
+ble for the content or accuracy of this translation. The original English edition shall
+be the binding and authentic edition: Population health management in primary
+health care: a proactive approach to improve health and well-being. Primary heath
+care policy paper series. Copenhagen: WHO Regional Office for Europe; 2023”.
+Any mediation relating to disputes arising under the licence shall be conducted in
+accordance with the mediation rules of the World Intellectual Property Organization
+(http://www.wipo.int/amc/en/mediation/rules/).
+Suggested citation. Population health management in primary health care: a
+proactive approach to improve health and well-being. Primary heath care
+policy paper series. Copenhagen: WHO Regional Office for Europe; 2023. Licence:
+CC BY-NC-SA 3.0 IGO.
+Cataloguing-in-Publication (CIP) data. CIP data are available at http://apps.who.
+int/iris.
+Sales, rights and licensing. To purchase WHO publications, see http://apps.who.int/
+bookorders. To submit requests for commercial use and queries on rights and licens-
+ing, see https://www.who.int/about/policies/publishing/copyright
+Third-party materials. If you wish to reuse material from this work that is attributed
+to a third party, such as tables, figures or images, it is your responsibility to deter-
+mine whether permission is needed for that reuse and to obtain permission from the
+copyright holder. The risk of claims resulting from infringement of any third-party-
+owned component in the work rests solely with the user.
+General disclaimers. The designations employed and the presentation of the
+material in this publication do not imply the expression of any opinion whatsoever
+on the part of WHO concerning the legal status of any country, territory, city or area
+or of its authorities, or concerning the delimitation of its frontiers or boundaries. Dot-
+ted and dashed lines on maps represent approximate border lines for which there
+may not yet be full agreement.
+The mention of specific companies or of certain manufacturers’ products does not
+imply that they are endorsed or recommended by WHO in preference to others of a
+similar nature that are not mentioned. Errors and omissions excepted, the names of
+proprietary products are distinguished by initial capital letters.
+All reasonable precautions have been taken by WHO to verify the information
+contained in this publication. However, the published material is being distributed
+without warranty of any kind, either expressed or implied. The responsibility for the
+interpretation and use of the material lies with the reader. In no event shall WHO be
+liable for damages arising from its use.
+All photos: ©WHO
+Design: Lars Møller
+
+=== PÁGINA 3 ===
+Population health management
+in primary health care:
+a proactive approach to improve
+health and well-being
+Primary health care policy paper series
+
+=== PÁGINA 4 ===
+Abstract
+Population health management can play a critical role in strengthening
+primary health care (PHC) by providing a data-driven, people-centred and
+proactive approach to managing the health and well-being of a defined
+population. By identifying subgroups with similar characteristics and needs,
+population health management can enable PHC providers to move from a
+one-size-fits-all approach to targeted and tailored interventions that
+account for the needs of different groups and individuals. By focusing on the
+social determinants of health and psychosocial needs, population health
+management can help PHC providers in adopting a holistic and
+proportionate universalism approach to address health inequalities at the
+community level. This publication identifies key success factors at the
+system, organizational and clinical levels to enable population health
+management in PHC. It includes 12 country examples from across the WHO
+European Region showing how population health management is used in
+PHC. The publication provides a set of 16 policy actions to help PHC
+providers move towards a population health management approach that
+are classified following the PHC levers of the WHO Operational Framework
+for Primary Health Care.
+Keywords
+Population Health Management
+Primary Health Care
+Delivery of Health care
+Social Determinants of Health
+Health Care Reform
+
+=== PÁGINA 5 ===
+CONTENTS
+Acknowledgements ...............................................................................................................iv
+Executive summary ................................................................................................................v
+About this policy paper ......................................................................1
+Why is interest growing in population health management? ...1
+Why is population health management particularly relevant
+for PHC? .................................................................................................3
+The population health management cycle ....................................7
+1. Defining and identifying the population .................................................................8
+2. Health assessment and population segmentation .............................................9
+3. Risk stratification and impactibility..........................................................................15
+4. Tailored service delivery ................................................................................................21
+5. Evaluation...........................................................................................................................28
+Enabling population health management ...................................32
+Recommended policy actions .........................................................38
+References ...........................................................................................41
+
+=== PÁGINA 6 ===
+ACKNOWLEDGEMENTS
+This policy paper was prepared by the WHO European Center for Primary Health
+Care.
+The manuscript was written by Dan Alton (General Practitioner and National Clinical
+Advisor, Population Health Management, NHS, England), Marc Bruijnzeels (Associate
+Professor and Educational Director for Population Health Management, Leiden
+University Medical Centre, Netherlands), José Cerezo Cerezo (Health Policy Analyst,
+WHO European Centre for Primary Health Care) and Esteban de Manuel Keenoy
+(Former CEO, Kronikgune (currently, Biosistemak), Institute for Health Systems
+Research, Basque Country, Spain).
+José Cerezo Cerezo (Health Policy Analyst, WHO European Centre for Primary Health
+Care), Toni Dedeu (Senior Advisor, WHO European Centre for Primary Health Care),
+Melitta Jakab (Head of Office, WHO European Centre for Primary Health Care) and
+Arnodas Jurgutis (Technical Officer, WHO European Centre for Primary Health Care)
+provided technical editing.
+A sounding board comprising Altyn Aringazina (Professor, Almaty Management
+University, Kazakhstan), Nigel Edwards (Chief Executive, Nuffield Trust), Joana
+Madureira Lima (International Policy Adviser, WHO Country Office in Kyrgyzstan),
+Neringa Tarvydiene (Director of Public Health, Klaipeda Municipality, Lithuania), Pia
+Vracko (Senior Advisor, National Public Health Institute, Slovenia) provided key
+comments and input to several drafts both in writing and during four sounding board
+review meetings.
+Bayan Babaeva (Paediatrician, National master trainer on the Universal Progressive
+Patronage Model, Kazakhstan) and Aigul Kuttumuratova (Technical Officer, WHO
+European Centre for Primary Health Care) developed the country box on Kazakhstan.
+Pia Vracko (Senior Advisor, National Public Health Institute, Slovenia) developed the
+country box on Slovenia and Neringa Tarvydiene (Director of Public Health, Klaipeda
+Municipality, Lithuania) and Arnoldas Jurgutis (Technical Officer, WHO European
+Centre for Primary Health Care) the country box on Lithuania. Sara Calderón-
+Larrañaga (General Practitioner, Bromley by Bow Health Partnership and PhD
+candidate, Queen Mary University of London, England) wrote the box on social
+prescribing. Arnoldas Jurgutis (Technical Officer, WHO European Centre for Primary
+Health Care) produced the box on population segmentation in health systems with a
+dispensarization heritage. The authors produced the other country boxes. Sara
+Darias-Curvo (Tenured Professor, Public Health, University of La Laguna, and
+Consultant, WHO European Office for Investment for Health and Development)
+provided comments to an early draft.
+This paper was reviewed by Natasha Azzopardi-Muscat (Director, Division of Country
+Health Policies and Systems, WHO Regional Office for Europe); David Novillo Ortiz
+(Unit Head, Data and Digital Health, WHO Regional Office for Europe); Stefania
+Davia (Technical Officer, Data Monitoring, Analysis and Forecasting, WHO Regional
+Office for Europe); Helen Caton Peters (Technical Officer, Digital Health, WHO
+Regional Office for Europe); Jill Farrington (Regional Medical Officer, Cardiovascular
+Diseases and Diabetes, WHO Regional Office for Europe); and Stefanie Claire Gissing
+(Consultant, Cardiovascular Diseases and Diabetes, WHO Regional Office for
+Europe).
+iv
+
+=== PÁGINA 7 ===
+EXECUTIVE SUMMARY
+Interest is growing in population health management, driven by several
+well-known pressures on health systems in the WHO European Region,
+including: the rapid growth of multimorbidity and disability driven by
+improved survival and ageing; increasing health-care costs in a context of
+limited resources and budget constraints; rising health inequalities; and
+rising and changing patient expectations. The COVID-19 pandemic has
+intensified some of these long-lasting pressures and brought new
+challenges.
+These forces call for greater emphasis on prevention and greater
+appreciation of the social determinants of health to improve population
+health and reduce health inequalities. Innovative approaches such as
+population health management rooted in primary health care (PHC) can
+substantially contribute to this shift. The relationship between population
+health management and PHC is that of a virtuous circle. Population health
+management helps to make PHC more effective, and many elements of a
+strong PHC model are essential for effective population health
+management.
+Population health management is defined here as a people centred, data-
+driven and proactive approach to manage the health and well-being of a
+defined population, considering the differences within that population and
+their social determinants of health. Population health management entails
+data-driven assessment of the health status of a specific population
+followed by prediction of health outcomes and anticipating the resources
+needed to proactively address these.
+The most important elements of population health management can be
+summarized through a cycle of five subsequent steps. It can be performed in
+any health system if it is adapted to contextual strategic objectives,
+available resources and health system maturity. The cycle consists of
+defining and identifying the population; health assessment and
+segmentation; risk stratification and impactibility; tailored service delivery;
+and evaluation and improvement.
+Population health management can substantially contribute to realizing
+some of PHC’s central attributes, including person-centeredness;
+accessibility; comprehensiveness; attention to health problems in their
+physical, mental, social, cultural and existential dimensions; continuity;
+coordination and community orientation. It can do this by supporting PHC
+providers in:
+• moving from a one-size-fits-all approach to targeted and tailored
+approaches that account for the needs of different groups within local
+catchment populations or population clusters with similar needs or
+health conditions;
+• moving from passive and reactive to proactive care, ensuring that people
+with different risks are identified and have their care anticipated;
+• moving from a narrow focus on clinical needs to a holistic approach
+focusing also on psychosocial needs and the social determinants of
+health; and
+v
+
+=== PÁGINA 8 ===
+• moving from fragmented and poorly coordinated care to better
+coordination and integration with secondary and tertiary care and
+partnership with other sectors and actors in the community.
+Although moving towards system-wide implementation of population
+health management requires several years of development work and takes
+time to achieve impact, population health management can promote
+improvements in PHC even before the full benefits of population health
+management are realized. Key and common success factors to enable
+population health management in PHC are described here as system (such
+as information governance arrangements that promote information sharing
+within and outside the health system, data stewardship capacity and skills
+and support of regulatory agencies); organizational (multidisciplinary and
+networked PHC models and integration and close collaboration with public
+health and social care agencies); and clinical-level factors (such as
+comprehensive and systematic data collection in PHC and patient and
+community engagement).
+The recommended policy actions to help countries move towards population
+health management are grouped here following the PHC levers of the WHO
+Operational Framework for Primary Health Care. This aims to underscore
+three important considerations: (1) Population health management is most
+effective within a holistic health system strengthening approach with PHC
+at its core. (2) Investing in PHC is paramount since it is the best place to
+engage in population health management approaches. (3) Achieving
+maximum impact requires synergistic action spanning over several or all
+PHC levers.
+PHC Levers Recommended policy actions
+Governance and policy 1. Establish a clear policy framework and
+frameworks governance arrangements for population
+health management at all levels, ensuring a
+shared vision, properly defined roles and
+responsibilities, a stepwise implementation
+strategy and accountability mechanisms in
+place.
+2. Adjust current legislation and regulations to
+enable population health management by
+promoting interdisciplinary governance
+structures, data sharing, interoperability and
+integration.
+Funding and allocation 3. Use population health management to
+of resources contribute to the informed decision-making
+process for efficient and equity-sensitive
+funding and allocation of resources in PHC.
+vi
+
+=== PÁGINA 9 ===
+PHC Levers Recommended policy actions
+Engagement of the 4. Establish a network of population health
+community and other management champions to share
+stakeholders experience, draw lessons learned and
+support implementation. Ensure that
+champions include frontline clinical and
+non-clinical PHC workers and professional
+associations, health managers and planners
+and implementers.
+5. Encourage PHC providers to map the
+community resources and stakeholders
+(local government, nongovernmental
+organizations, patient organizations,
+charities, cultural resources etc.) active in
+their catchment area and establish
+mechanisms to engage them in the whole
+population health management cycle and
+develop strategies for activating patients.
+Models of care 6. Incentivize PHC organizations to engage in
+population health management by making
+them formally responsible for the population
+outcomes of a stable, clearly identified and
+registered population, usually as part of a
+defined catchment area.
+7. Move progressively towards risk-stratified
+models of care in which multidisciplinary
+PHC teams provide coordinated care based
+on a wider range of people’s needs and their
+determinants.
+PHC workforce 8. Create a learning environment for
+population health management by updating
+existing or developing new educational
+programmes and postgraduate professional
+training, including continual review and
+improvement cycles.
+Purchasing and 9. Adjust current payment systems to
+payment systems stimulate population health management
+and promote provider autonomy, early
+detection and condition management, task
+profile expansion, interdisciplinary work and
+intersectoral activities (through, for example,
+capitation, pay for performance, pay for
+coordination or shared savings
+arrangements).
+vii
+
+=== PÁGINA 10 ===
+PHC Levers Recommended policy actions
+Digital and data 10. Enhance population health management by
+technologies for health ensuring the sharing of data within the
+health system (between services or levels of
+care) and move progressively towards
+sharing, interoperability and integration with
+other sectors, such as social care.
+11. Enhance population health management by
+stimulating data quality, storage, integration
+and stewardship in PHC and invest in tools
+that allow PHC professionals to visualize
+population segmentation and stratification
+results in a clear and digestible manner.
+12. Invest in the digitalization of PHC as part of
+an overall system-wide, long-term, health
+information system strategy that sets a clear
+vision and objectives on population health
+management and is context specific.
+Systems for improving 13. Use population segmentation and risk
+data-driven quality of stratification tools in PHC to improve the
+care quality of care, enhance clinical decision-
+making, tailor service delivery, reach out
+proactively to patients and seek out
+population cohorts experiencing health
+inequalities.
+14. Create professional awareness and
+competencies among PHC professionals to
+appreciate the use of data analysis and the
+potential of predictive models to contribute
+to improving service delivery and planning
+and implementing targeted programmes for
+all risk strata.
+15. Promote the use of sociodemographic data
+by PHC professionals throughout the
+population health management cycle.
+Monitoring and 16. Regularly plan, monitor and review the
+evaluation performance of the population health
+management inputs, processes and results
+to enhance equity, efficiency, effectiveness
+and impact.
+viii
+
+=== PÁGINA 11 ===
+ABOUT THIS POLICY PAPER
+The aim of this policy paper is to showcase the opportunities and benefits
+that adopting a population health management approach offers to health
+systems and especially how it is a key part of an approach to strengthening
+primary health care (PHC). In doing so, this paper will:
+• introduce the concept of population health management and explain the
+methods and rationale for applying it;
+• describe how population health management can support PHC;
+• explain the key elements of population health management and the
+PHC-specific applications;
+• provide recommendations on how to implement population health
+management in PHC; and
+• provide practical country-specific examples on using population health
+management in PHC.
+The target audience of this policy paper are national and subnational policy-
+makers and implementers in the WHO European Region who are responsible
+for leading PHC reform and strengthening efforts. These include decision-
+makers in health ministries, public health departments and centres, PHC
+organizations and health purchasing agencies. Even if there is not an
+immediate intention to move towards system-wide implementation of
+population health management, many of the steps towards it will also
+strengthen PHC and other aspects of the effectiveness of the health system.
+WHY IS INTEREST GROWING IN
+POPULATION HEALTH MANAGEMENT?
+There are several well-known pressures on health systems in the WHO
+European Region, including (1–3):
+• rapid growth of multimorbidity and disability driven by improved survival
+and ageing;
+• increasing health-care costs in a context of limited resources and budget
+constraints;
+• rising health inequalities; and
+• rising and changing patient expectations.
+The COVID-19 pandemic has intensified some of these long-lasting
+pressures and brought new challenges (4–6). Its impact has been greater in
+the most disadvantaged groups in society, and the gap in levels of
+well-being between those with low incomes and those with high incomes
+has increased by 50% since the pandemic (7). This adds to previous trends
+on widening health inequalities since 1990s, due to less progress achieved
+among lower socioeconomic groups, which can result in stagnation in
+progress across various health indicators (8). The pandemic has also
+highlighted that, within any given population, some subgroups need
+additional support since they bear a higher risk of contracting COVID-19
+(such as workers that cannot telework and people living in small and
+crowded households) or developing a more severe disease (such as
+individuals with pre-existing conditions and older people); or they face
+greater barriers to accessing health-care services (such as marginalized and
+underserved populations).
+1
+
+=== PÁGINA 12 ===
+As part of this, there is growing consensus that there should be greater
+emphasis on prevention and greater appreciation of the social determinants
+of health to improve population health and reduce health inequalities. This
+calls for innovative approaches to how health care is provided, and
+population health management can offer part of this solution (9). By
+supporting health systems and PHC providers addressing health inequalities
+and reaching out to those that are often left behind, population health
+management can strengthen health systems’ contribution to building
+healthier, safer and more cohesive societies and then towards building
+well-being economies (10).
+Countries’ interest and investment in digital solutions is increasing as they
+seek to build more resilient health systems in the recovery phase from the
+COVID-19 pandemic by introducing new ways of working. Developing digital
+approaches to managing health at the population level, with the aim of
+moving health and well-being from reactive care models to active
+By community-based and disease prevention models is a key regional focus
+supporting health area of the regional digital health action plan for the WHO European Region
+systems and PHC 2023–2030 approved by all Member States (11). This opens a window of
+providers addressing health opportunity for population health management since greater digital
+inequalities and reaching out to maturity is a major enabling factor for advanced population health
+those that are often left behind, management. Big data is becoming widespread across sectors as a driver
+population health management of insights, innovation and new interventions (12). Enabling the delivery to
+can strengthen health systems’ decision-makers and practitioners of a volume and variety of structured
+contribution to building or unstructured data not previously possible entails a new impetus and
+healthier, safer and more multiplies the potential for a data-driven approach such as population
+cohesive societies. health management (12). Big data can be paramount in intervention and
+research activities to accelerate progress in disease prevention in population
+health. It has been shown to enhance precision in the population health
+management process, including population segmentation, risk stratification
+and targeting interventions for individuals and homogeneous
+subpopulations (12–14).
+Although population health management has no single, clear, agreed
+definition, there is a broad consensus about its key elements (15). Population
+health management is defined here as a people-centred, data-driven and
+proactive approach to managing the health and well-being of a defined
+population, considering the differences within that population and their
+social determinants of health. Population health management entails
+data-driven assessment of the health status of a specific population
+followed by prediction of health outcomes and anticipating the resources
+needed to proactively address these. This involves several processes
+forming the population health management cycle (described in detail in
+Section 4) that enable the population to be classified into subgroups with
+similar characteristics for which targeted and tailored interventions best
+serve their health needs. The social determinants of health are at the heart
+of population health management, since they strongly influence health
+outcomes and drive health inequalities (16). Thus, education, socioeconomic
+and employment status, working conditions and housing, environmental and
+other factors are key areas of focus throughout the population health
+management cycle. Population health management interventions span over
+the entire continuum of care: for instance, they may be related to promoting
+healthy living or disease prevention activities and also to programmes to
+manage high-risk people with multimorbidity.
+2
+
+=== PÁGINA 13 ===
+In this way, population health management can enable and/or enhance the
+following health system governance processes and clinical care approaches
+that are especially relevant for PHC, which will be illustrated theoretically
+and through practical country examples throughout the paper:
+• evidence-informed, data-driven health planning;
+• identifying care gaps and the most efficient interventions to address
+them and who would benefit the most within a defined population;
+• Identifying the factors driving health inequalities and delivering effective
+interventions to address them;
+• proactive and tailored care across the care continuum to population
+subgroups or segments with similar health needs and/or risks to improve
+key health outcomes; and
+• coordinating across care levels and identifying levers at local or regional
+level to improve health, even if these are outside the health-care system.
+By doing so, population health management supports health systems to
+achieve the quintuple aim: enhancing the experience of care; improving the
+health and well-being of the population; reducing the per capita cost of
+health care and improving productivity; addressing health and care
+inequalities; and increasing the well-being and engagement of the
+workforce (17,18).
+WHY IS POPULATION HEALTH
+MANAGEMENT PARTICULARLY
+RELEVANT FOR PHC?
+Population health management can substantially contribute to realizing
+some of PHC’s central attributes, including person-centredness;
+accessibility; comprehensiveness; attention to health problems in their
+physical, mental, social, cultural and existential dimensions; continuity;
+coordination and community orientation (Fig. 1) (19,20).
+It can do this by supporting PHC providers in:
+• moving from a one-size-fits-all approach to targeted and tailored
+approaches that account for the needs of different groups within local
+catchment populations or population clusters with similar needs or
+health conditions;
+• moving from passive and reactive to proactive care, ensuring that people
+with different risks are identified and have their care anticipated;
+• moving from a narrow focus on clinical needs to a holistic approach
+focusing also on psychosocial needs and the social determinants of
+health; and
+• moving from fragmented and poorly coordinated care to better
+coordination and integration with secondary and tertiary care and
+partnership with other sectors and actors in the community.
+The essential public health functions are at the core of a PHC approach as a
+recognition of the need to go beyond clinical, curative services to realize
+PHC’s full potential in improving population health (21,22). Integrating
+essential public health functions and focusing on monitoring and evaluating
+3
+
+=== PÁGINA 14 ===
+population health needs at the community level is a focus area under core
+priority one, moving towards universal health coverage, in the WHO
+European Programme of Work, 2020–2025 (23). The steps of the population
+health management cycle (see next section) provide a pragmatic framework
+to help PHC providers in operationalizing several of them, including: (1)
+monitoring and evaluating the population’s health status, health service
+utilization and surveillance of risk factors and threats to health; (2)
+supporting efficient and effective health systems and multisectoral planning,
+financing and management for population health; (3) promoting the
+prevention and early detection of diseases, including noncommunicable and
+communicable diseases; (4) promoting health and well-being and actions to
+Fig. 1. Four key moves
+address the wider determinants of health and inequity; (5) ensuring
+supported by population
+community engagement, participation and social mobilization for health
+health management to
+and well-being; and (6) assuring the quality of and access to health services.
+help to realize PHC
+attributes
+Four key moves supported by population health management Selected primary
+health care attributes
+From one
+To tailored to need
+size fits all
+First contact
+From passive To proactive and
+Continuity
+and reactive anticipatory
+Comprehensiveness
+To greater focus on
+From biomedically psychosocial and
+Coordination
+focused social determinants
+of health
+Community
+orientation
+From To coordination
+fragmentation and integration
+Moreover, by providing sophisticated understanding of populations and
+their determinants that enables them to be classified into subgroups with
+similar characteristics and needs, population health management can help
+PHC and public health services to deploy a proportionate universalism
+approach to address health inequalities at the community level: reducing
+the steepness of the social gradient in health through universal actions but
+with a scale and intensity that is proportionate to the level of disadvantage
+(24).
+In summary, the relationship between population health management and
+PHC can be described as a virtuous circle. Population health management
+helps make PHC more effective, and many elements of a strong PHC model
+(such as multidisciplinary teams, larger-scale PHC and integration with
+public health services) are essential for effective population health
+4
+
+=== PÁGINA 15 ===
+management. Thus, regardless of the situation of PHC in a country or region,
+population health management can drive the health of the population.
+Section 5 discusses PHC-specific elements as factors for success for
+population health management.
+PHC professionals often already have deep understanding of the population
+that they serve, their needs and the wider determinants of their health. A
+data-driven population health management approach does not replace this
+understanding but rather complements it, quantifies it, enables even deeper
+understanding and, at times, can challenge pre-existing assumptions. PHC
+professionals’ understanding of their community (in which they often live)
+naturally facilitates population health management as an effective
+approach within PHC. There are resultant benefits when clinicians
+participate in leading this transformational change, even though most of
+the day-to-day work required is often not done by the clinicians themselves
+and, in fact, often reduces their workload.
+The country example described below provides a practical example of the
+moves mentioned above. The next section describes the key elements of
+population health management; under each of them, PHC-specific
+applications are presented.
+Country example 1: Improving diabetes care through population health management in
+ENGLAND, Berkshire West, part of Buckinghamshire, Oxfordshire and Berkshire
+UNITED KINGDOM West Integrated Care System
+Berkshire West is a geographical area covering about 500 000 people.
+For several years, there has been close collaboration across primary,
+secondary and tertiary health care, local government, patient groups
+and the voluntary sector, to create a coordinated environment to
+provide holistic care driven by population health management.
+Using linked population health data from PHC, secondary health care
+and mental health, Berkshire West’s team identified variation in the
+health outcomes among people with type 2 diabetes. With further
+segmentation and stratification, a cohort of the population was
+identified that appeared to need dedicated attention because of
+poorer outcomes: people with type 2 diabetes who often had a
+background diagnosis of anxiety or depression and who were
+overweight. These people were identified as having a very high risk of
+complications from diabetes and, moreover, frequently as poor users
+of the standard NHS diabetes education offered. The data analysis
+also revealed that this cohort was especially present in two areas
+within Berkshire West.
+This finding was the first step of an iterative process aimed at
+harnessing the on-the-ground intelligence to go beyond the numbers
+and better characterize the cohort. The participatory process included
+several discussions with the people within this cohort, led by their PHC
+team (their own trusted clinicians) and with diabetes lead nurses in
+practices within primary care networks (25). These discussions were
+often carried out by the patients’ own general practitioners, who the
+patients knew and trusted, simply telephoning the patients in the
+cohort and asking them whether they would be willing to speak about
+5
+
+=== PÁGINA 16 ===
+their diabetes and lives more generally. This was initially done as part
+of the NHS England Population Health Management development
+programme, which allowed dedicated time and support for this new
+way of working.
+The process was vital to conclude that the problems faced were
+different in each of the two main areas of residence of the identified
+cohort, reflecting varying populations. Thus, clinical leads for
+population health management within each local area (called
+population health clinical ambassadors) developed tailored
+approaches to deliver nuanced diabetes services based on the main
+characteristics and determinants of health in their respective
+populations.
+In South Reading, many of the people in the group were from the
+Nepalese community who faced language, cultural and practical
+barriers to engage with primary care networks and have their diabetes
+reviewed. To address this, a new programme targeted to their needs
+was implemented to provide group education sessions coordinated
+and delivered within general practice surgeries but backed up by a
+diabetes lead consultant at the hospital. The programme was
+developed jointly with the community and with the leadership of a
+Nepalese-speaking general practitioner.
+In Wokingham North, an economically affluent area with a high
+percentage of commuters into London, a different issue was identified.
+Since diabetes review appointments were scheduled in the week, often
+during work hours, the cohort’s patients sometimes struggled to get
+to them. In addition, conversations with patients showed that they
+were interested in understanding more about how their stress and
+behaviour were affecting their diabetes and not just being told to eat
+less sugar and given more medication. A diabetes evening clinic was
+therefore set up to provide group education as well as a general
+practitioner intervention centred on addressing risk factors, devoting
+time to discuss with patients (and sometimes also their spouses, who
+were invited to attend) how stress, exercise and eating habits can all
+synergistically contribute to diabetes outcomes.
+Early findings indicate that, for both groups of patients, their average
+blood glucose levels are now better controlled (an improvement in
+average glycated haemoglobin three months after the intervention
+versus baseline of 8.6 and 8.1 (26) for the South Reading and
+Wokingham North interventions, respectively). However, a variety of
+other outcomes are being measured to assess the programme’s
+effectiveness, including measuring longer-term outcomes. Moreover,
+personnel motivation has increased with the deployment of a
+population health management approach, since they feel more
+involved in designing services.
+6
+
+=== PÁGINA 17 ===
+THE POPULATION HEALTH
+MANAGEMENT CYCLE
+This paper uses a cycle comprising five subsequent steps to review the most
+important elements of population health management: defining and
+identifying the population, health assessment and segmentation, risk
+stratification and impactibility (27)1, tailored service delivery and evaluation
+and improvement (Fig. 2).
+Fig. 2. The population
+health management cycle
+5. Evaluation 1.Population
+and definition and
+improvement identification
+2. Health
+4. Tailored
+assessment
+service
+and population
+delivery
+segmentation
+3. Risk
+stratification
+and impactability
+modelling
+The population health management cycle can be performed in any health
+system. The whole process is directed towards achieving defined population
+health objectives and has to be aligned with the objectives and local
+resources of the health system. The implementation details depend on the
+aims, maturity of health and social services, data availability, health
+information systems, availability, competences and profile of health-care
+professionals in the national and local settings, as discussed in the following
+sections. Thus, there is no unique way of going through the five steps of the
+cycle.
+Although the cycle provides a good theoretical framework and helps in
+structuring the paper, three points must be considered to better understand
+how population health management works in practice.
+• The boundaries between the steps may not be necessarily clear-cut and
+overlaps and iteration back and forth can happen. For instance, in many
+cases, interventions are directly implemented after population
+segmentation without engaging in risk stratification.
+1 The degree to which various subpopulations are likely to benefit from a range of interventions.
+7
+
+=== PÁGINA 18 ===
+• The role of frontline PHC professionals in each step may differ 2
+considerably depending on the health system context and the service
+delivery model. For instance, risk stratification results can be provided to
+PHC professionals, but they can lead on the tailored service delivery or
+be involved in health needs assessment for a specific risk stratum along
+with public health teams.
+• Decisions on population health management can be taken at various
+governance levels and by various actors. For instance, regional, national
+or local health authorities may decide to adopt a specific risk
+stratification tool or plan a tailored programme. However, how such tools
+are used in practice or how services are delivered can vary locally and/or
+across PHC practices.
+These points are highly context-specific and are illustrated throughout the
+multiple country examples included in this section.
+1 Defining and identifying the population
+The first step in population health management is defining a target
+population. This sets the basis to not only offer health-care interventions
+(for instance, from preventive to curative services) to those seeking them
+but also to reach out to those who do not show up in practice. This way,
+vulnerable individuals and populations can be identified and offered
+appropriate care even before they develop an illness or condition or its
+complications. This also improves understanding of the interface between
+individual health and its broader determinants and therefore enables more
+effective interventions to be designed that can address the root causes of
+diseases, taking advantage of economies of scale.
+There are different approaches to defining the target population in
+population health management depending on the overall scope, aims and
+the health-care organization. In PHC, the target population for population
+health management is often identified as the catchment area. It can vary
+from a comprehensive registration of all inhabitants in one or more general
+practices to geographical lists of communities through municipalities or
+people enrolled with the health insurer (28). The target population can also
+be defined as a discrete subpopulation of individuals with specific
+characteristics or care needs within one or several PHC practices. The
+members of a discrete population can be known with some certainty.
+Examples are all people registered with a specific condition or multiple
+conditions in a certain age category. For example, everyone with type 2
+diabetes or all people older than 60 years with at least one
+noncommunicable disease registered and with five or more medication
+prescriptions (29).
+For PHC to engage in population health management, PHC organizations
+must ideally be formally responsible for a stable, clearly identified and
+registered population they work with and follow over time. Through this,
+PHC organizations are made accountable for population outcomes along
+with individual outcomes and for providing care over time not only to those
+who seek it but also to those who require proactive outreach. This is a basic
+incentive to proactively identify hard-to-reach individuals and those with
+poor health care–seeking behaviour and offer them appropriate care even
+before they develop illness or its complications. A defined registered
+population enables better continuity of care and also enables capitation as
+a purchasing model (alone or as part of a mixed model) and moving towards
+strategic purchasing (30).
+8
+
+=== PÁGINA 19 ===
+2 Health assessment and population segmentation
+Next, the health needs and their distribution in the identified population
+have to be thoroughly analysed. This comprises two complementary
+processes: needs assessment and population segmentation.
+The purpose of population health assessment is to gather the information
+required to understand the differences within that population, the type of
+needs and the services required to improve the health of the population
+with maximum impact (31). Ideally, needs should be assessed and updated
+for the entire defined population (PHC catchment population or the
+practice’s or PHC centre’s lists, neighbourhood, town or city). It involves
+assessing the health needs, including how they are distributed
+(geographically, by age group, socioeconomic status, occupation and other),
+describing the current patterns of use and level of services provided and
+identifying the extent of the gap between need and supply and the possible
+causes, including barriers to access. For instance, data can come from
+medical records, referrals, retrospective claims, disease registries or health
+surveys or questionnaires. When larger population groups are considered,
+other sources can be used such as population databases and registries,
+health care utilization, prescriptions or dedicated surveys (18).
+Different approaches for gathering and analysing information about the
+needs of the population are combined.
+• Epidemiological approaches: based mainly on quantitative data to
+estimate the size, composition and characteristics of the population of
+interest, including information on the geographical distribution, on trends
+over time and by key population subgroups. Civil registration and vital
+statistics systems and health information systems are good sources of
+data (32). The level of need is indicated by the prevalence of disease,
+disability or adverse life circumstances and the current provision of
+services to meet these situations. Comparing data between geographical
+settings, socioeconomic groups or across time can identify various needs,
+including relative insufficient or excessive health-care provision based on
+morbidity, service availability, visits to or by health-care professionals,
+quality of care, medication prescribed or specialist referrals (33).
+• Patient and community engagement approaches provide first-hand
+qualitative information to understand which population groups could be
+better served with more tailored health and care services. Needs are
+usually related to social determinants of health and how they are
+experienced by patients, more than purely biomedical aspects. For
+instance, self-reported biological, mental, functional and social domain
+inputs have been used in the Netherlands for population segmentation
+and demonstrated their predictive ability of the segments for health-care
+utilization (34). Involving local organizations such as nongovernmental
+organizations or voluntary groups can help to access information that
+may otherwise not be registered in official registries or databases
+(country example 2). Patient-reported outcome measures are tools for
+capturing the patient’s perspectives on the outcomes of their own
+treatment and care (35). Depending on the target, patient-reported
+outcome measures can be generic, disease-specific or condition-specific.
+Patient-reported outcome measures can help patients and clinicians to
+make better decisions, but they can also enable comparisons of providers’
+performances to stimulate improvements in services (36).
+9
+
+=== PÁGINA 20 ===
+Based on the assessment of needs, the goal of population segmentation is
+to group individuals in relatively homogeneous groups (segments) (31),
+depending on the type of care needed and how often they will need it (37).
+In current daily practice, segmentation is often based on the general
+characteristics of the population. The best way is to start with the
+information easily available and then gather more information as it is
+needed, gradually building up a richer and more complete picture. The
+simplest segmentation is based on single variables only such as frailty,
+physical functioning, pattern of health-care utilization, health-related
+quality of life or need for a specific health-care service. More complex
+population segmentation can include more information combining different
+data in a composite index to improve understanding of the health needs,
+such as the Charlson index, the Cumulative Index Illness Rating Scale or the
+Duke Severity of Illness Checklist (38,39).
+Examples of patient segments have been identified in several studies
+ranging from simpler to advanced divisions. They include:
+• “young, healthy”; “middle age, healthy”; “stable, chronic disease”;
+“complicated chronic disease”; and “frequent admitters” (40);
+• “robust seniors without chronic conditions”; “seniors with one or more
+chronic conditions”; “seniors with advanced illness and end-organ failure”;
+and “seniors with advanced frailty or at the end of life” (41); and
+• “frequent attenders in primary care”; “patients receiving home care
+support by the primary care team, emergency services or teams
+specialized in geriatric and palliative care”; “patients receiving social
+support visits”; and “patients receiving polypharmacy” (42).
+Segmentation can also be based on specific populations with certain
+diseases or conditions, such as mental health, cancer, respiratory,
+cardiovascular and gastrointestinal conditions (31). The more concrete and
+targeted a segmentation process is, the more services can be tailored and
+the greater the impact.
+For instance, in England, the National Association of Primary Care (43) has
+developed a framework to help segment their population into manageable
+groups and design personalized services around them (Fig. 3). It tracks three
+dimensions: stage of life, holistic health and care needs (generally well,
+long-term conditions and complex health needs) and type of needs
+(prevention, routine or ongoing and urgent care needs).
+Fig. 3. The National Prevention needs
+Routine and ongoing needs
+Association of Primary
+Urgent care needs
+Care cube framework
+Children and
+young people
+Working-age adults
+Older people
+Complex needs
+Long-term conditions
+and long-term needs
+Generally well
+10
+
+=== PÁGINA 21 ===
+Box 1. Population
+segmentation in health Dispensarization refers to one of the world’s first preventive medicine
+systems with a systems introduced in the USSR in the 1970s, consisting of massive
+dispensarization heritage health check-up programmes followed by follow-up for the whole
+population. It was introduced through a stepwise approach, starting
+with children and the economically active population to cover, from
+the early 1980s, the whole population.
+The scope and frequency of the check-ups for healthy people was
+defined by employment categories, but it was often once per year at a
+minimum. Once the massive population check-ups had been
+performed, the population was classified into four main broad groups:
+(1) healthy people with no known risk factors; (2) people with one or
+more risk factors for noncommunicable diseases but without chronic
+conditions; (3) people with one or more chronic conditions (such as
+hypertension, asthma or diabetes) or, later, moderate to severe acute
+illness (such as pneumonia) and reproductive, maternal, newborn and
+child health, including people with multimorbidity but diseases often
+being reported separately in the corresponding dispensarization book;
+for instance, a person with hypertension and diabetes would be
+included in the two books; and (4) people with severe disability. Then,
+based on the disease and its severity, and often on employment
+status, a number of visits and tests were planned usually for a one-
+year period.
+This system can be viewed as one of the first segmentation
+approaches implemented and a good starting-point to move to a
+more mature PHC approach since it entailed:
+• moving the focus of PHC from just individuals seeking care towards
+the community, with district internists and district paediatricians
+receiving more responsibilities for following up everyone in the
+catchment areas and not only those who seek care;
+• classifying the population into groups based on their health
+conditions and offering protocolized care accordingly, which can be
+considered a predecessor of more advanced population
+segmentation processes;
+• adopting a standardized system for following up patients that
+contributed to moving from sporadic contacts to planned and regular
+visits with health-care providers; and
+• expanding the focus towards a more comprehensive range of health
+issues, including reproductive, maternal, newborn and child health
+and a wide range of noncommunicable diseases, which contributed
+to questioning the ability of internal medicine specialists (the first
+points of contact for the population in PHC clinics) to meet the new
+priorities and, consequently, whether PHC physicians needed to
+obtain a more comprehensive range of clinical knowledge, triggering
+thinking about the relevance of family medicine.
+Despite country-specific differences based on their service delivery
+model, level of digitalization, governance arrangements, priority
+given to noncommunicable diseases and other health system factors,
+several countries in the WHO European Region still preserve some
+forms of dispensarization (44–47 ). Although some of its features
+provide a good starting-point for communities to get PHC services
+11
+
+=== PÁGINA 22 ===
+Box 1. (continued)
+more proactively, countries are progressively introducing reforms to
+overcome some of its limitations and make it fit for purpose for a
+modern health system built around a PHC approach. These are not
+limited to countries with a Semashko model heritage and include:
+dominance of a disease-oriented, biomedical approach; lack of more
+holistic assessment of individual and community needs; lack of
+attention to social determinants of health; lack of focus on individual
+and population outcomes and giving priority to inputs (visits and
+diagnostic tests) and reporting criteria; excessive reliance on narrow
+specialists to manage people with uncomplicated noncommunicable
+diseases such as hypertension or type 2 diabetes; vertical
+relationships between doctors, nurses and patients (and communities),
+which diminished the patient’s role and responsibilities to care for
+their own health; or low uptake and insufficient evaluation.
+Country examples 5 and 10 include examples from countries with a
+Semashko heritage (Uzbekistan and Kazakhstan) that are moving from
+biomedical towards more holistic assessment of needs and social
+determinants through population health management approaches.
+Country example 2: Institutionalizing community engagement for health needs
+LITHUANIA assessment and priority setting at the local level
+Lithuania decentralized health system governance by giving
+municipalities a greater role and responsibility in PHC governance and
+local public health policies. In a hospital-centred system, equipping
+municipal administrations with formal mechanisms to shift policy
+priorities from treatment towards addressing upstream causes of
+diseases and social determinants of health was very important. To
+achieve this, the circle of decision-makers was expanded beyond
+health service managers by engaging with other relevant actors at the
+local level.
+Community health boards were established in the late 1990s in all 60
+municipalities in Lithuania as a formal governance structure that
+brings together municipal politicians (such as the mayor or deputy
+mayor), representatives of municipal institutions (such as the
+municipal chief physician and representatives from social care
+institutions, PHC centres, public health bureaus, hospitals, schools,
+kindergartens and youth centres) and nongovernmental organizations
+and community organizations (such as patient organizations) working
+in health. The aim was to engage all these parties in health needs
+assessment and priority-setting processes and enable them to provide
+advice to municipal councils on implementing health promotion and
+disease prevention activities. Community health boards are advisory
+boards under municipal councils, which are responsible for approving
+their regulation and financing their activities.
+Community health boards use an inclusive and participatory approach
+to develop four-year health action programmes that set strategic
+goals based on the contextual needs of municipalities that shape
+municipal public health policy. They have a major role in advocating for
+action to improve health and well-being by connecting the priorities
+expressed by communities with the priorities obtained by monitoring
+health data and indicators. Community health board activities
+12
+
+=== PÁGINA 23 ===
+generally include (1) health needs assessment through meetings with
+communities, public health specialists, health service representatives
+and municipal institutions from different sectors; (2) defining priorities
+for multisectoral community health intervention projects; (3) providing
+advice on implementing preventive programmes such as on
+noncommunicable diseases or tuberculosis; (4) announcing calls for
+health projects, assessing those submitted and making proposals to
+the municipal council for funding selected ones; (5) monitoring the
+implementation of the community projects and contributing to
+disseminating their results; and (6) disseminating good practices for
+improving health at the local level within and across municipalities.
+For instance, in the Municipality of Klaipeda, after the Public Health
+Bureau presented the children’s health profile, the community health
+board organized a round of discussions with stakeholders, and the
+Municipality funded a project proposed by the community health
+board on creating and supporting the network of healthy schools. In
+2022, 68% of the children in Klaipeda attend a healthy school and 80%
+of schools belong to the National Healthy School Network. In the
+Municipality of Kaisiadoriai, the community health board, together
+with representatives from the local hospital, public health bureau and
+PHC centre, promoted and participated in creating a “green corridor”
+for breast cancer check-up and ensured transport for women with
+lower socioeconomic status living in rural areas to health facilities,
+improving their access to preventive programmes.
+Over the years, community health boards have proved their role as
+advocates for promoting health, preventing disease and improving
+health and well-being in alignment with the priority health needs
+expressed by communities. They have contributed to shifting the
+dominance in health needs assessment and priority-setting processes
+from hospital specialists to PHC professionals in the first place and
+progressively to greater involvement and leadership of representatives
+from other sectors, including social care and education. This enabled
+the scope of policy priorities to be widened from just treating diseases
+towards addressing the upstream causes of disease. In the
+Municipality of Klaipėda, this along with further public health action
+and PHC strengthening contributed to (1) reducing the number of
+hospitals beds per 10 000 population from 17.8 in 2007 to 7.2 in 2019
+(48); and (2) reducing avoidable mortality by 45% (from 421 per
+100 000 population in 2007 to 231 in 2021) (49).
+Country example 3: Person-centred segmentation to improve care for older people
+NETHERLANDS In 25 diverse health-care and welfare organizations and associations
+of older people in the Netherlands (50 ), a population segmentation
+approach based on people’s experienced difficulties in fulfilling their
+needs was adopted to provide efficient, demand-driven care to older
+people. The programme was initiated through a grant from the
+national research council, the academic hospital and the department
+for older people in combination with the PHC department. The
+programme is being extended to all northern provinces in the
+Netherlands.
+Data were collected on the difficulties in biopsychosocial functioning,
+and older adults were categorized into five segments: feeling vital;
+13
+
+=== PÁGINA 24 ===
+difficulties with psychosocial coping; physical and mobility complaints; 3
+difficulties experienced in multiple domains; and feeling extremely
+frail. The segmentation was carried out by a team of data analysts at
+the university and was made available to the health-care professionals
+on a three-month basis on paper. At a later stage, this was built in
+within the electronic medical record, so the process was fully
+digitalized.
+The segmentation improved the targeting of the interventions
+delivered not only by general practitioners or nurses but also by
+physiotherapists, psychologists and social care services. This
+segmentation process provides PHC and other health-care providers
+the option to perform a more comprehensive first triage step than only
+a disease-based (biomedical) one. It offers a starting-point for
+providing more person-centred care and to focus more predominantly
+on unfulfilled needs instead of symptoms and diseases. For example,
+the segmentation showed that the segment “difficulties with
+psychosocial coping” was relatively large and included individuals
+about whom the general practitioner did not know that they
+experienced psychosocial difficulties. As a result, a specialized nurse in
+mental health started visiting these older adults at their homes.
+Country example 4: The Kaiser Permanente segmentation approach
+UNITED STATES OF Kaiser Permanente is one of the largest non-profit health maintenance
+AMERICA organizations in the United States, with more than 12.6 million
+members in eight regions of the country. Kaiser Permanente’s
+integrated care model is based on segmenting and stratifying the
+population and supplying different types of services according to
+needs.
+The Senior Segmentation Algorithm developed by Kaiser Permanente
+for older people identifies older adults in four care groups with similar
+needs, trajectories and utilization patterns (“robust seniors without
+chronic conditions”, “seniors with one or more chronic conditions”,
+“seniors with advanced illness and end-organ failure” and “seniors with
+advanced frailty or at the end of life”). The core components of the
+Kaiser Permanente model emphasize disease prevention, self-
+management support, disease management and case management
+for members with multiple conditions. PHC professionals work
+alongside other specialist and health-care providers to deliver
+integrated care (51).
+It is being implemented in all Kaiser Permanente regions, with the goal
+of determining the key elements of care for members in each group.
+The algorithm requires multiple sources of data, such as clinical data
+from the electronic health record and encounter diagnosis, the use of
+home oxygen and home hospital beds, surgeries and procedures,
+severe organ failure and hospice or palliative care orders (41). The
+segment assignment is included in the patient’s electronic health
+record and prompts doctors to take certain actions that are tailored to
+the segment’s specific needs. Based on these data, it offers a range of
+interventions tailored to the needs of different individuals and
+population groups to support people to remain healthy and to deliver
+the right treatments when they become ill.
+14
+
+=== PÁGINA 25 ===
+3 Risk stratification and impactibility
+Risk stratification is an intentional, planned and proactive process that
+predicts the probability of adverse events occurring and assigns an
+individual a risk status or score. Based on individual risk assessment,
+patients are typically classified into high-, medium- (rising-) and low-risk
+groups. Risk levels should correspond to the likelihood that patients
+experience negative health outcomes and/or higher rates of unnecessary or
+preventable health care utilization (52). This allows targeting effective
+interventions to prevent them and promotes resource utilization based on
+individual and population needs rather than demand (43,53).
+Risk stratification is essential for PHC practices to be proactive and reach
+out to individuals based on their risk profile even if they do not present to
+Risk PHC facilities and to tailor PHC service delivery accordingly. As described in
+stratification is the examples below, even if risk stratification (especially as it becomes more
+essential for PHC sophisticated) is not done at the PHC level, the results can be made
+practices to be proactive available to PHC professionals, often through integrated electronic health
+and reach out to individuals record systems, so they can benefit from it in their daily practice.
+based on their risk profile even
+if they do not present to PHC Risk stratification may be carried out in PHC settings with varying degrees
+facilities and to tailor PHC of complexity depending on local resources and with different purposes
+service delivery depending on the context. In many cases, countries’ first engagement in risk
+accordingly. stratification in PHC is with a single risk for specific diseases, such as
+cardiovascular disease, diabetes or renal failure (see Box 2). These tools can
+estimate the risk of morbidity, severity, pain, discomfort, dysfunction or
+mortality (54). Some of the risk stratification tools use simple paper-based
+algorithms; others are supported by software applications. Data sources
+range from data from paper registers in single practices to those from
+integrated electronic health record systems at the regional or national level.
+Box 2. Basic risk
+PHC professionals can use relatively simple tools for estimating the
+stratification
+total risk of cardiovascular disease and thus enhance cardiovascular
+disease management. This is often countries’ first engagement in risk
+stratification.
+The European Society of Cardiology has developed, derived, calibrated
+and validated a new algorithm to predict the 10-year fatal and non-
+fatal risk of first-onset cardiovascular disease in European populations
+based on age, sex, smoking status, history of diabetes, systolic blood
+pressure and total and HDL cholesterol) (55). The WHO package of
+essential noncommunicable disease (PEN) interventions for PHC
+protocol also offers a cardiovascular disease risk table requiring data
+such as age, sex, current smoking status, presence or absence of
+diabetes, systolic blood pressure and total cholesterol (56). Both
+recommend counselling or treating according to risk level, following
+the WHO HEARTS technical package, including behavioural risk
+interventions (focused on diet, physical activity, tobacco cessation
+and avoiding harmful use of alcohol); drug treatment; and advice for
+follow-up (frequency of visits) (57). Another example is the Finnish
+Diabetes Risk Score (58), the most recommended risk-screening tool
+that has proved to reliably predict future and prevalent undiagnosed
+diabetes in European and other populations.
+15
+
+=== PÁGINA 26 ===
+Box 2. (continued)
+For multimorbidity risk assessment in PHC, the Charlson index is
+frequently used. It was initially developed among hospitalized
+patients but is now adapted to PHC. It estimates mortality prognosis
+based on age and the fixed weights of 20 specific disorders, including
+cerebrovascular disease, myocardial infarction, skin ulcers or cellulitis,
+congestive heart failure, chronic obstructive pulmonary disease or
+asthma, diabetes, dementia or depression (59).
+There are also validated scales that can be used in paper format to
+stratify social risks such as the Escala de Gijón used for evaluating the
+social situation of older people in Spain. It assesses five items (family
+situation, economic situation, housing, relationships and social
+support), providing an overall score that can be used to complement
+clinical risk and enhance clinical decision-making and tailored care (60).
+As health system maturity increases, countries can move towards more
+sophisticated risk stratification approaches that use large population
+databases that combine data from different sources and perform statistical
+clustering and predictive modelling methods (see Box 3). These sophisticated
+risk stratification approaches require mature health information systems,
+ability to link and combine data from different databases and strong analytical
+capacity or analytical systems, which is a future perspective for many systems.
+Box 3. Comprehensive
+automated risk Automated stratification approaches can efficiently stratify large
+stratification tools patient panels. A recent EU- funded study identified and assessed 48
+models for risk stratification using 14 performance metrics (61). The
+most known advanced analytical tools are the Johns Hopkins Adjusted
+Clinical Groups system (62–64), used in EU regions in Italy or Spain or
+in the United Kingdom, the 3M Clinical Risk Groups (65,66) used in
+many health-care organizations in the United States or the adjusted
+morbidity groups (42) used in most regions of Spain. All use
+information from multiple sources comprising demographics,
+diagnosis, hospitalization, primary care visits, outpatient visits to
+specialists, emergency department visits, skilled nursing facilities,
+home hospitalization, palliative care and the mental health services,
+drug prescriptions, medical transportation, rehabilitation or others.
+These tools consider multimorbidity (which shows well-established
+associations with both high use of health-care resources and poor
+patient prognosis) and can be progressively fine-tuned, for instance,
+by including data on social complexity, which enriches their predictive
+capacity and equity sensitivity since individuals with similar clinical
+risk can evolve very differently, and have different needs, based on
+social factors such as family situation, socioeconomic status, housing
+conditions and quality of social networks (67). In selecting tools,
+several criteria should be considered, including the availability of the
+required technical (analytical) skills and the time and resources
+required to integrate them into existing information technology
+systems, including the electronic health record (52). Other
+considerations are licensing constraints; whether computational
+algorithms are open source; and whether the adjusted morbidity
+groups rely mostly on statistical criteria or include expert-based
+coefficients that make transferability more difficult (68).
+16
+
+=== PÁGINA 27 ===
+Box 3. (continued)
+The bias and shortcomings that can be found in some risk scores
+should also be considered. For example, age bias (favouring older
+people); giving priority to diseases that generate the most health-care
+use; or racial bias (for example, Black patients assigned the same level
+of risk by the algorithm being sicker than White patients) (69,70).
+A key feature is that the organization deciding the selection and use
+of these tools (health ministry at the national or regional level, insurer
+funds or health boards) should aim to have the confidence of the
+clinical, analytical, managerial and patient communities. The periodical
+update of the risk stratification solutions is required by monitoring
+estimated and actual outcomes in the population, demographic
+trends, prevailing public health issues or the health-care system (71).
+Risk stratification requires not only identifying at-risk individuals or patients
+but also determining how likely they are to respond (be affected) by various
+actions or treatment options. This process is known as impactibility. Groups
+or patients identified are to be amenable, impactable or care sensitive to
+preventive care (27). Impactibility has two dimensions. First, at-risk
+individuals, groups or patients have to be identified and approached. The
+means to reach them have to be available or deployed to avoid increasing
+inequalities. They have to be willing and able to participate in dedicated
+care interventions. Second, clinical and health needs have to be actionable
+(preventive programmes or care interventions should be able to decrease
+their risks and/or mitigate their needs (72).
+There are several methods for identifying those who are most likely to
+benefit. These include identifying those:
+• with a condition known to benefit from preventive care, such as an
+ambulatory care–sensitive condition such as hospital admissions for
+asthma) (73);
+• with a gap between the care they are currently receiving and the care that
+is evidence-informed best practice for their condition(s); for example,
+inadequate PHC treatment or adherence to care may enhance the long-
+term complications of diabetes such as renal, eye, nervous system and
+circulatory disorders;
+• with a rising risk score, who are likely to have a higher risk of an adverse
+event within a specified time scale;
+• whose health outcomes are worse or utilization is different than expected
+for their diagnosed condition, such as visits by people with chronic
+The obstructive pulmonary disease to emergency rooms resulting from
+potential of risk inappropriate ambulatory care;
+stratification tools • with high-impactable moments, such as newly diagnosed, recent discharge
+increases substantially from hospital, recent cancer scare in which they presented with a symptom
+with the ability to account that may have been suggested to be cancer but tests were negative;
+for multimorbidity and social • who are likely to engage with behaviour change to improve health care,
+complexity and to link the such as those with a high score on patient activation measures; and
+stratification results to • past behaviour – a measure of receptivity to indicate how cohorts might
+the individual level. respond to future interventions based on previous behaviour.
+In summary, the potential of risk stratification tools increases substantially
+with (1) the ability to account for multimorbidity and social complexity and
+17
+
+=== PÁGINA 28 ===
+(2) the ability to link the stratification results to the individual level. The
+former requires the capacity to link data sets across the health system (PHC,
+secondary care, mental health services and public health) and outside it
+(social services and local authorities). The latter requires assigning a risk
+score to every patient, as opposed to aggregate data at local or catchment
+area levels and making it available to PHC professionals. Moreover, the
+identification of high-risk patients most likely to benefit from different
+interventions and/or participation in care management programmes should
+be facilitated by a combination of predictive modelling (risk stratification)
+and selection by PHC physicians (74).
+Country example 5: Strengthening PHC proactivity through cardiovascular disease risk
+UZBEKISTAN stratification and the universal progressive patronage model
+In 2018, Uzbekistan embarked on a comprehensive health reform
+aiming at transforming its health system into a modern, high-
+performing system. Landmark legislation was approved in 2020,
+providing the basis for transforming the health system in the areas of
+service delivery, health financing and health information systems. The
+package mandated a stepwise approach for the countrywide roll-out
+of the new system, starting with Syrdarya Oblast in 2021.
+One key reform pillar is strengthening PHC to improve the quality of
+and equal access to health-care services by introducing a team-based,
+community-oriented PHC model with greater attention to health
+promotion and disease prevention. Newly established PHC teams
+generally comprise one family doctor; one practice nurse and two
+patronage nurses with expanded roles; and one midwife, who is shared
+between two or three teams. Teams work within a defined catchment
+area and are responsible for an average of 2000 population and have
+been formally linked with the makhallas (community organization)
+that operate in their catchment area.
+Practising nurses have started to perform pre-doctoral check-ups and
+triage in separate rooms and have obtained more responsibilities in
+noncommunicable disease management. They especially focus on
+individual risk stratification for adults older than 40 years through
+paper-based WHO PEN and HEARTS protocols. Based on the
+cardiovascular disease risk groups, practising nurses plan follow-up
+visits together with patronage nurses. Patronage nurses have taken on
+new responsibilities for noncommunicable diseases and are now
+responsible for home visits to people with chronic diseases. They
+contribute to following up these patients more closely and ensure that
+they attend the follow-up appointment with family doctors or practice
+nurses. They act as the link between PHC teams and the community
+through their joint work with makhallas. Patronage nurses also deploy
+now a more systematic approach to assessing and addressing the
+needs of families with pregnant women and children by applying the
+universal progressive patronage model, which includes two
+components: universal, that covers every family with pregnant women,
+women in the postpartum period and children younger than five years
+and defines a set frequency of visits; and targeted, or families
+identified as being at risk, which includes the development of a family
+eco-map prepared by the PHC team with tailored recommendations to
+reduce and/or remove the risk.
+18
+
+=== PÁGINA 29 ===
+The systematic implementation of PEN and HEARTS (56,57) protocols
+for individual cardiovascular disease stratification along with the
+universal progressive patronage model is helping PHC teams in
+Syrdarya to plan their work, schedule follow-up visits and distribute
+responsibilities among team members and can be the basis for more
+advanced population risk stratification in the future. Along with the
+establishment of clear catchment areas, this has contributed to
+increasing the proactivity of PHC teams, shifting the responsibility of
+PHC providers from the patients who emphasize their needs to all the
+population for which they are formally responsible. However, despite
+these good features, further work is needed to improve the focus on
+tailoring protocols to the individual needs of patients to effectively
+improve patient outcomes.
+Country example 6: Considering multimorbidity and social complexity for risk
+SPAIN stratification
+The adjusted morbidity groups were developed by the Catalan Health
+Service and implemented, under the leadership of Spain’s Ministry of
+Health, in most regions of Spain to stratify their population (more than
+38 million people) (42,75,76). They use information from hospitalization,
+primary care visits, emergency department visits, skilled nursing
+facilities, palliative care, mental health services and pharmacy
+prescription and expenditure to classify the population into several
+mutually exclusive morbidity groups, which are further divided into five
+degrees of severity. The adjusted morbidity groups also enable the
+population to be stratified, assigning a single value or risk score to each
+individual. Importantly, clinical complexity is not assessed solely based
+on age or individual diseases but on their interaction.
+In the region of Catalonia, with a population exceeding 7.6 million, the
+adjusted morbidity groups are used to include individuals in
+programmes for patients with complex chronic conditions or for
+patients with advanced chronic conditions (77). The adjusted morbidity
+group stratification results appear in the clinical work station used by
+primary care professionals, who receive a risk score for each patient
+(78). They can then draw up a list of their most complex patients by
+combining the information provided by the adjusted morbidity groups
+with other clinical variables, which enhances the provision of proactive
+care and the management of high-risk patients. The adjusted morbidity
+groups complexity index is also used in other regions of Spain to set
+priorities for individuals for eligibility for influenza vaccination and
+COVID-19 vaccination and for alerting them by text messages to make
+sure they present to the PHC clinic. Besides clinical management,
+adjusted morbidity groups are also used for equity-sensitive health
+workforce planning and resource allocation in PHC (76).
+The Agency for Health Quality and Assessment of Catalonia developed
+a socioeconomic index to measure deprivation at the level of PHC
+catchment areas. The index is the result of combining information on
+the percentage of blue-collar workers; the percentage of population
+with basic education; the percentage of the population that is
+unemployed; the percentage of the population born in low- and
+middle-income countries; older people living alone; and socioeconomic
+status. The index is integrated with information provided with the
+adjusted morbidity groups and is used to adjust resource allocation for
+19
+
+=== PÁGINA 30 ===
+each PHC team based on the socioeconomic level of its served 4
+population. PHC teams can use the additional funding to reinforce the
+services provided to deprived populations and to provide additional
+services. This supports the social work dimension in PHC and can
+inform community health action (79).
+Country example 7: Reaching out to vulnerable people through risk stratification during
+ENGLAND, the COVID-19 pandemic
+UNITED KINGDOM In a health-care system in southwestern England (Bristol, North
+Somerset and South Gloucestershire) comprising about 1 million
+individuals from 78 general practices, a population health
+management approach was followed to identify and characterize
+individuals at high risk of severe COVID-19. The purpose was to
+manage their health needs and mitigate potential shielding-induced
+harm (80).
+Individual-level information, including current chronic conditions,
+historical health-care utilization and demographic and socioeconomic
+data, was used for descriptive analysis of this group using population
+health management methods. A system-wide data set was created at
+the integrated care system through the collaboration between all
+partners within the system with its own digital and data team
+(including analysts). The data set consisted of two tables – attributes
+and activity. The first table contained information about patient
+characteristics, such as demographic information (age and sex),
+clinical information (long-term conditions), socioeconomic information
+(deprivation index) and other data such as smoking status and social
+status. These data were principally derived from general practitioners’
+patient administration systems. The second table contains information
+regarding patient contacts such as point of delivery (such as
+secondary care, inpatient or elective), specialty (such as dermatology),
+provider, dates, times and cost (81).
+Geospatial analysis revealed that 3.3% of rural and semirural residents
+were in the high-risk group versus 2.91% of urban and inner-city
+residents (P < 0.001); 29 798 individuals (2.94%) were identified as high
+risk, 32.79% as moderate risk and the remaining 67.01% as low
+(baseline) risk. Segmentation uncovered six distinct clusters
+comprising the high-risk population, with key differentiation based on
+age and the presence of cancer, respiratory and mental health
+conditions. The distinct characteristics of types of individuals in each
+cluster enabled a more tailored response from health and care
+providers and policy-makers. These include regular contact with them
+and connecting them to a safety net of health and social care
+resources coordinated by PHC networks. In a later stage, it supported
+vaccination uptake among the at-risk groups, with a focus on equity.
+20
+
+=== PÁGINA 31 ===
+4 Tailored service delivery
+The next step is defining the interventions or care programmes to fill the care
+gaps proactively, tailoring them to each of the different groups or risk strata
+(Fig. 3) and to individuals. By enabling a risk-informed and equity-sensitive
+service design, population health management helps to ensure that available
+resources are used to maximize benefit, delivering better value.
+Population health management interventions span the entire continuum of
+care, from promoting healthy living or disease prevention activities to
+programmes to manage high-risk patients with multimorbidity. Different
+levels of need or risk require different approaches to care (self-management
+By enabling through education programmes and other resources, disease management
+a risk-informed and or case management) with a different balance between self-care and
+equity-sensitive service professional care required (Fig. 4). The dotted red line in Fig. 4 shows the
+design, population health different balance between self-care and professional care in the different
+management helps to strata of the pyramid. Prevention services can include clinical preventive
+ensure that available services, such as immunizations, screening, health education, mother and
+resources are used to child care, counselling and education; or community preventive services,
+maximize benefit, such as fluoridation or lead testing.
+delivering better
+value. In considering the segments or risk groups, the aim is to deploy structured
+integrated care programmes, organizing services to target the group’s needs.
+Addressing each individual’s clinical and care needs requires combining the
+segmentation or risk stratification provided by the tools used with the
+functional status (mobility, strength and cognitive status) and the clinical
+Fig. 4. Type of services information (42). In dealing with the risk of an individual patient, the aim is to
+and balance between define a personalized intervention or care plan to support his or her specific
+self-care and professional needs and priorities. It has to be ensured that there are no conflicting goals
+care according to risk and treatment plans for individual patients. For example, in the group of
+strata, adapted from advanced frailty or at the end of life, aggressive efforts to reach target goals
+Kaiser Pyramid (51) for specific chronic diseases are potentially counterproductive (41).
+Self-care Professional care Focus of care
+Patients with Case
+complex needs 5% management
+High-risk Disease
+15%
+patients with management
+chronic diseases
+Self-management
+Patients with support, follow-up
+chronic diseases 70–80% and preventing
+disease progression
+Health promotion
+General
+20–30% and disease
+population
+prevention
+21
+
+=== PÁGINA 32 ===
+Interventions resulting from population health management approaches are
+not necessarily an add-on to existing services but can be an alternative
+solution to improve the existing approach and deliver services more
+efficiently. This often involves redesigning existing care pathways and
+workflows to ensure better integration between teams or levels of care;
+changing the roles and/or composition of PHC teams (such as reinforcing
+the preventive skills of nurses or adding social workers, psychologists or
+pharmacists); or looking for actors active in the community to partner with
+(such as nongovernmental organizations providing mental health services or
+sexual and reproductive health education). For example, empowering people
+with chronic obstructive pulmonary disease at home within their own social
+context to better maintain their health can be a joint exercise between PHC,
+public health specialists, secondary clinicians, the voluntary sector (in the
+form of smoking-secession charities for example) and patient communities
+themselves (in the form of local peer support groups). Each of these services
+may already exist, but the population health management approach enables
+an identified cohort of patients who would most benefit from an integrated
+approach to be identified and jointly supported by these networks, working
+in a collaborative manner. It supplies a clear patient group for which these
+disparate teams collaborate and thereby leads to turning the somewhat
+nebulous concepts of collaboration and integrated working into reality.
+Population health management interventions should clearly focus on
+addressing the social determinants of health. Effective population health
+A search improvement requires attention to social and environmental determinants
+for determinants of health as well as health care (8). This is especially true since health-care
+and underlying systems determine only 10% of health outcomes, whereas health behaviour
+mechanisms of the and social and physical settings determine at least 50% (7). Changing health
+unfulfilled need or care behaviour and social and physical settings requires activities beyond the
+gap is needed across the clinical setting that incorporate community and public health systems (82).
+population health A search for determinants and underlying mechanisms of the unfulfilled
+management need or care gap is needed across the population health management cycle.
+cycle. PHC providers, who are deeply rooted in the communities they work, are in a
+unique position to ensure this.
+Addressing the social determinants of health requires strengthening the
+community orientation of PHC providers and, as part of this, engaging with
+community-based partners operating in their catchment areas (83).
+Population health management can support community health by providing
+actionable quantitative information on the social determinants of health. In
+addition, community health processes can strengthen risk stratification and
+segmentation processes through first-hand qualitative information from
+individuals and communities. This is true for the three levels of community
+health:
+• individual and family level: a biopsychosocial approach and
+recommendation of assets for health and community resources;
+• group level: education for health focusing on social determinants; and
+• intersectoral collective level: community action on health (84).
+PHC is in a privileged position to partner with community-based assets that
+may be better equipped to address behavioural, commercial, social and
+environmental determinants of health (83). This requires PHC providers to
+have a good overview of the community organizations functioning in their
+22
+
+=== PÁGINA 33 ===
+catchment area so they can contribute to addressing gaps in coverage and
+supporting the well-being of communities, families and individuals.
+Over time, a population health management approach can bring about
+cultural change, and teams in different places within and outside the health
+system can start working together. The aim is to reach out to populations
+most in need, coordinate services to avoid duplication and maximize niche
+skills, ensuring smooth transitions across programmes and information
+sharing (85). This can be facilitated by factors such as professionals from
+different teams getting to know and trust each other. The result can be
+integrated organizational development, based on a method that starts with
+data and analytics and evolves into an approach based on collaboration and
+trust.
+Box 4. Social prescribing:
+enhancing coordination Social prescribing, also known as health asset recommendation, is a
+between PHC and means of connecting patients to a range of non-clinical services in the
+community resources for community to improve their health and well-being (86). It builds on
+improving health and the evidence that addressing social determinants of health such as
+well-being socioeconomic status, social inclusion, housing and education is key to
+improving health outcomes (86). Activities offered may include sports,
+cookery, weight management, befriending, volunteering, gardening,
+arts activities and welfare advice programmes related to employment,
+housing or financial advice, depending on patients’ needs and local
+availability (87). The three main actors usually involved in providing
+social prescribing services play differentiated (although
+complementary and often overlapping) roles.
+PHC teams
+PHC professionals often initiate the referral when they identify well-
+being needs that can potentially be addressed or supported by wider
+community-based services. Exploring and obtaining understanding of
+patients’ wider concerns (beyond the specific reason for consultation)
+are critical to initiating referral. Mapping local community health
+assets is central to social prescribing initiatives. For example, the
+initiative promoted by the community health strategy in Aragón, Spain
+(88) included the inventory (or map) of community assets (whose
+willingness to participate in the programme was previously validated
+by public health services) in the electronic health record. This
+contributes to facilitating the referral process during routine
+consultations and enables social prescribing activities to be registered
+and analysed.
+Community-based organizations
+Community-based activities are typically provided by voluntary and
+community sector organizations but may also be delivered by local
+authorities (such as libraries and sports centres) or the health system
+(such as health coaches, patient support groups organized within PHC
+practices). Although community-based organizations are involved in
+practically all social prescribing arrangements, their role varies across
+programmes. They are often considered mere service providers or the
+destination of referral pathways instead of active partners and co-
+producers. As a result, their experiences and challenges are rarely
+studied and remain poorly understood.
+23
+
+=== PÁGINA 34 ===
+Box 4. (continued)
+Community connectors (or social prescribers)
+The connection between PHC and community resources is essential to
+many social prescribing models and is often (though not always)
+facilitated through dedicated staff members. Some countries have
+created specific social prescribing roles with different names, such as
+link workers in the United Kingdom (89) or well-being coaches in the
+Netherlands (90). Others have repurposed existing health-care
+personnel, such as social workers in Portugal (91) or nurses and allied
+health workers in Germany (92), or encouraged joint PHC team
+involvement, such as by relying on and upskilling existing
+multiprofessional teams in Spain (93). Social prescribers are
+fundamentally knowledgeable about the local community health
+assets and PHC teams involved so that they can make relevant
+connections and contribute to strengthening community partnership.
+Social prescribing programmes have been typically implemented in
+areas of great socioeconomic need as a way of tackling health
+inequalities by providing additional support to people facing an
+increased social and disease burden. Social prescribing programmes
+have also increasingly targeted specific patient groups based on their
+medical diagnoses and/or health-care utilization. The Ways to
+Wellness programme in the United Kingdom, for instance, focused on
+people diagnosed with long-term conditions living in areas with high
+socioeconomic deprivation (94). The Culture Vitamins initiative in
+Denmark offered art activities for people with mental health
+conditions (95). The Social Prescribing in Sweden programme delivered
+personalized social activities for older adults reporting loneliness and
+social isolation in PHC (96). The activities offered, referral mechanisms
+and target groups might vary, but social prescribing schemes should
+remain relevant, appropriate and accessible to the people with the
+greatest health and social needs.
+Country example 8: Targeted services for various high-risk patients
+GERMANY Located in southwestern Germany, Gesundes Kinzigtal is one of the
+few population-based integrated care approaches in Germany. It
+covers all age groups and care settings for a total population
+exceeding 30 000 people. The system serving about half of the
+population of the region is run by a regional health management
+company (Gesundes Kinzigtal GmbH) in cooperation with the
+physicians’ network in the region (MQNK), a German health-care
+management company (OptiMedis AG) and two statutory health
+insurers (97–99). Gesundes Kinzigtal GmbH and the two health
+insurers established a shared savings contract providing financial
+incentives for managers and health-care providers to realize
+substantial efficiency gains based on a population health
+management approach.
+The Gesundes Kinzigtal model groups their population into healthy
+insured, low-risk, rising-risk and high-risk groups and develops
+separate strategies for each group. To do so, the regional health
+management company gathers insurer, hospital and provider data to
+run analysis and build connections between providers to track patients
+across the system. Their data warehouse includes insurer data on
+24
+
+=== PÁGINA 35 ===
+claims, diagnoses, services, prescriptions and hospital admissions as
+well as data from service partners. All partnering doctors can access
+information stored by all other partnering providers through the
+regional organization. A system-wide electronic health record ensures
+that information about patients is available across providers and care
+settings.
+Health-care professionals target interventions for each risk group by
+establishing collaborations with a wide range of community actors,
+including gym and sport clubs, schools, self-health groups and local
+governments. Health-care professionals have been also trained in
+shared decision-making to ensure that patients are actively involved
+in their own care. For the healthy insured before getting into risk
+(about 35% of the total), interventions include health literacy training,
+health festivals and health promotion in schools and companies and
+prevention efforts aligned with various chronic care programmes
+initiated in PHC. For the insured at risk (about 40%), they provide
+healthy weight programmes, a blood pressure initiative, joint
+development of health goals and cooperation with sports clubs. For
+the group with rising risks (about 20%), they provide multispecialty
+support through disease management, earlier psychotherapy visits,
+self-help and self-management training for people with chronic
+diseases. Finally, for the high-risk patients (about 5%), they focus on
+polypharmacy issues, intensive health coaching and programmes with
+doctors and nurses.
+The model has led to significant gains in population health,
+improvements in the experience of care and reduced per capita costs
+(99). It has shown a decrease in the overuse of health services for the
+prescription of anxiolytics, antibiotics for upper-respiratory tract
+infections, nonsteroidal anti-inflammatory drugs, non-recommended
+prescriptions for vascular dementia and for Alzheimer’s disease and an
+increase in the prescription of antiplatelet drugs and statins (where
+appropriate) for patients with chronic coronary heart disease,
+prescriptions of statins for patients with acute myocardial infarction
+and cardiology referrals for patients diagnosed with heart
+insufficiency. A propensity score matched control group suggests an
+increase in life expectancy by 1.4 years and 10 years since the inception
+of the model (99).
+Country example 9: Addressing noncommunicable disease risk factors through nurse-
+SLOVENIA lead, equity-sensitive proactivity
+Slovenia has a longstanding tradition of providing accessible and
+comprehensive PHC services. Established in 1927, Slovenian PHC
+strongly emphasizes addressing health equity and reaching out to
+vulnerable populations in local communities to identify environmental,
+social and behaviour-related risk factors and diagnose disease in its
+early stage of development (100).
+Registered nurses in family medicine teams conduct regular screening
+and follow-up for people with noncommunicable diseases to reduce
+family doctors’ growing burden and workload. Each family medicine
+practice has a list of registered patients (a capitation list), managed in
+defined groups of healthy individuals; those with risk factors; and
+those with the most common chronic diseases. Financial incentives are
+25
+
+=== PÁGINA 36 ===
+given for meeting target values in screening check-ups. The National
+Public Health Institute manages and leads the noncommunicable
+disease prevention and control programme at the national level.
+Screening focuses on shared metabolic and behavioural risk factors
+(hypertension, high blood sugar, high blood lipids, overweight and
+obesity, unhealthy diet, lack of physical activity, tobacco use, risky
+alcohol use and sleep disorders) and people 30 years and older are
+invited every five years for screening (101). Patients are referred to
+family physicians for further diagnostic and treatment procedures if
+results indicate disease, and to health promotion centres if risk factors
+are present.
+Health promotion centres offer evidence-informed intervention
+programmes to support individuals in addressing their behavioural risk
+factors with the expertise of various professionals, including nurses,
+physiotherapists, psychologists, dietitians and kinesiologists, with a
+proven impact on health outcomes (Fig. 5) (100). Health promotion
+centres enable individuals to choose from short educational activities,
+focused workshops on specific risk factors or comprehensive healthy
+lifestyle support programmes (102).
+Community nurses provide home visits for patients who cannot visit
+PHC centres, focusing on disadvantaged and vulnerable populations.
+If patients do not attend PHC centres, the community nurse is
+informed and assesses the reasons, including lack of invitation,
+motivation or ability or refusal to cooperate. During home visits,
+Fig. 5. Integrated health patients are screened for family function, loneliness and risk of falls,
+promotion centres (103) ensuring equal management of all registered patients (104).
+Reproductive
+preventive care; Child and youth
+Quality Health promotion
+child preventive prevention care
+parenthood for for children and
+care
+healthy adolescents (and
+beginnings parents)
+Activities in local community and inclusion
+of vulnerable groups
+Dental
+Preventive health promotion Health promotion Adult preventive
+dental care for children and programme care (GPs)
+adolescents (adults)
+26
+
+=== PÁGINA 37 ===
+In the past 20 years, more than half of all adults underwent screening
+for risk factors, with nearly 50 000 people attending health promotion
+centre intervention classes annually. The premature mortality rate in
+Slovenia has declined by 14% from 2011 to 2020, from 230 to 197 per
+100 000 population (105).
+Country example 10: Universal progressive home-visiting model in PHC focusing on family
+KAZAKHSTAN and social determinants of health
+The existing model of PHC visiting services for women and young
+children in Kazakhstan was too narrowly focused on the clinical needs
+of women and not sufficiently oriented towards the entire family and
+their psychosocial determinants of health. As a result, it was decided
+to implement a universal progressive home-visiting model aimed at
+reducing morbidity and mortality risk factors from the first days of life
+and for all age groups by providing two types of services: universal
+(general) and progressive (targeted). The principles are family
+orientation, attention to the social determinants of health, lifelong
+health monitoring with a focus on disease prevention, intersectoral
+cooperation and integrating PHC, social care and public health
+services. The model was initially piloted in one region with extensive
+technical and implementation support by the UNICEF Country Office
+in Kazakhstan and implemented nationwide in 2018 under the State
+Programme for Healthcare Development, becoming a central element
+of PHC.
+All families with young children and pregnant women are covered by
+universal home visits provided by PHC nurses to assess the health,
+development and well-being of children. Home-visiting nurses identify
+health, social, educational and other needs and assess and monitor
+the child’s physical, cognitive, psycho-emotional and social
+development as well as their safety and well-being. Pregnant women
+are allocated two visits, and families with children younger than three
+years are allotted nine visits. Compared with traditional home visits,
+the number of compulsory visits was reduced by almost threefold, but
+quality requirements and more holistic assessment of the health
+needs of the entire family were improved. The family’s ability to ensure
+the child’s healthy development and safety is assessed through
+multiple elements, including good nutrition, emotional warmth
+towards the child, the mental well-being of parents, the family’s
+socioeconomic status and the presence of behavioural risk factors
+among family members. The local community context is also assessed,
+including the availability of social, psychological, health care and other
+types of support to ensure the healthy development of the child and
+the absence of stigma and discrimination against the family.
+If health and social risks are identified, the family is provided with an
+additional progressive package of (targeted) services in accordance
+with the individual family support plan. There are several criteria for
+providing an extended progressive home-visiting package for
+pregnant or breastfeeding women (such as imbalanced diet,
+depression and smoking) for children (such as difficulties with
+breastfeeding, delayed speech and stunted growth) and for parents
+(such as lack of involvement in raising the children and refusal to
+vaccinate the children). In such cases, the home-visiting nurse makes
+additional visits that involve counselling and teaching the family the
+27
+
+=== PÁGINA 38 ===
+necessary skills. If the home-visiting nurse cannot solve the problem,
+other members of the PHC multidisciplinary team are involved in
+developing and implementing a joint plan to solve a wide range of
+problems. Multidisciplinary teams are able to address psychosocial
+problems more holistically since they also have psychologists and
+social workers in addition to family doctors and home-visiting nurses.
+If children are in extremely vulnerable situations (abuse or other
+threats to the child’s life, health and safety) and problems cannot be
+solved by the health system alone, additional support is provided to
+the family through intersectoral cooperation. The PHC centre where
+the family is registered plays a coordinating role, initiating the review
+of the case by an interdepartmental commission for providing special
+social services. Such commissions operate in every region, and the
+number of cases removed from high-risk status is increasing,
+according to national monitoring (106).
+The universal home-visiting package covers 85% of pregnant women
+and 76% of young children in the country (106). Besides specific
+training, nurses are also supported by standards and algorithms for
+monitoring early development and case management, a
+comprehensive tool for assessing children’s needs and questionnaires
+on depression and identifying social risks. The model is subject to
+constant evaluation and improvement. Although there is no solid
+evidence yet of a reduction in mortality, regional evaluations have
+revealed increased awareness of health literacy among parents,
+improved satisfaction with PHC services and higher breastfeeding
+levels (107). For example, in Kyzylorda Region, the number of children
+receiving infant formula had halved by the end of the pilot project,
+saving 83 million tenge in 2017 (108).
+5 Evaluation
+The final step is to monitor and evaluate the intervention implemented,
+which is a core part of the population health management process (18).
+Management monitoring is an ongoing process, whereas evaluation
+generally is a one-off or periodic activity with time limits that helps in
+understanding the impact of the intervention. Both ensure that the whole
+process remains fit for purpose since they enable the system to learn and
+evolve. They help to reduce variation in the quality and safety of care,
+improve efficiency and reinforce the accountability of all stakeholders
+involved (109).
+Not all population health management interventions have proven to be
+effective (110–113), and both the process and outcomes should be evaluated
+to determine what is working well and what has to be improved in all steps
+of the population health management cycle. More evaluation research on
+health outcomes is needed to add to the existing evidence base on
+population health management (114). A successful evaluation strategy
+requires a clear goal and realistic outcomes in terms of what can be
+improved or changed but also acceptance from key stakeholders and
+commitment to learn from evaluation, effective and appropriate data
+collection tools and resources and budget available (43).
+28
+
+=== PÁGINA 39 ===
+The emphasis can range from validating the segmentation and predictive
+tools (40,42,115) to evaluating the design, implementation, performance and
+Segmentation outcomes of the services deployed to address the needs. Segmentation and
+and risk risk stratification should be evaluated locally by analysing the distributions
+stratification should be of various subpopulations by age, sex, race and disease and checking that
+evaluated locally by the results of each model do not cause inadvertent bias (69). Depending on
+analysing the distributions of the main objective, the evaluation can happen at different levels and be
+various subpopulations by carried out by different actors (such as the health ministry, PHC network or
+age, sex, race and disease and provider or the municipal level).
+checking that the results of
+each model do not cause A good evaluation approach requires that PHC leaders, health professionals
+inadvertent bias. and other team members at various levels have a set of tools and
+techniques to regularly plan, continually monitor, periodically measure and
+review the performance of their work in terms of indicators and targets for
+efficiency, effectiveness and impact. The complexity of the evaluation design
+has to align with the goals, data and resources available. In population
+health management, developing dashboards with indicators at the patient
+level, group level and programme level is useful tools to steer the direction
+of the specific interventions and overall efforts. In any case, true
+collaboration between analysts, clinicians and managers is required to
+define the evaluation framework, analyse the data, draw insights, reach
+conclusions and refine the whole process, helping to modify or co-design
+services and interventions.
+Ethical and equity issues should also be considered, ensuring that bias is not
+introduced in the design for identifying patients eligible for specific
+interventions (116). The potential stigmatizing effect of labelling an
+individual or a group of people should also be considered. Evaluation
+studies should also address this possible effect. The circular or reflective
+nature of the monitoring and evaluation promotes a learning system
+informed by data.
+Country example 11: Evaluation of risk stratification
+BASQUE COUNTRY, SPAIN The Basque National Health Service (Osakidetza) covers all residents,
+with a target population of 3 million. The system was hindered by
+fragmentation, insufficient coordination between health-care levels
+and inability to provide the continuity of care required for good
+management of complex patients living with multiple chronic
+conditions. Within this context, the Basque Department of Health
+decided to adopt a risk stratification approach to identify and select
+target groups (with a focus on complex patients) that may benefit
+from specific health programmes. Consequently, the adjusted clinical
+group predictive model was adopted and adjusted to the context of
+the Basque Country.
+The data come from Osakidetza and the Basque Department of
+Health, based on previous use of health resources and demographic
+and clinical variables from primary care electronic medical records and
+hospital and specialist outpatient care electronic databases. A
+socioeconomic score is also included based on a social deprivation
+index specific to place of residence. The Predictive Index, the next
+year’s predicted cost for each patient compared with the average
+predicted cost per patient in the Basque Country, is used as a proxy
+for health needs (117). The risk score is displayed in the electronic
+health record and enables PHC professionals to identify patients and
+proactively provide targeted care.
+29
+
+=== PÁGINA 40 ===
+Based on the stratification results, an integrated programme based on
+new professional roles, improved care coordination and an extensive
+infrastructure of information and communication technologies was
+implemented. As a result, 9% of hospitalizations were avoided. This
+effect was not found in groups not given priority, whose probability of
+hospitalization increased (118). A modified version, the CareWell
+programme for identified at-risk people with multimorbidity, was
+deployed in four health-care areas. Compared with a control group, in
+the intervention group, the number of hospitalizations and visits to
+emergency centres was reduced, and the number of PHC contacts
+increased. The intervention group had more appointments with a
+family doctor for both face-to-face visits (P = 0.04) and phone
+contacts (P = 0.002). The number of face-to-face visits to the PHC
+nurse was also higher in the intervention group (P = 0.002). Clinical
+changes were also observed, such as reduced body mass index and
+blood glucose levels. The main changes triggered by the
+implementation of the programme were related to PHC nursing roles,
+proactivity and patient empowerment. Nurses were perceived as more
+alert and watchful, more closely following up the health status of the
+patients. The satisfaction level was high for all stakeholders (119).
+Country example 12: Population health management assessment in Kaiser Permanente
+UNITED STATES OF Washington State (120)
+AMERICA Kaiser Permanente of Washington State has a mission to design,
+finance, and deliver high-quality health care and is committed to
+providing appropriate, comprehensive and coordinated care in
+collaboration with their members. This means providing the right care
+in the right place at the right time and with the right outcome. Kaiser
+Permanente of Washington State has developed a population health
+management strategy to help achieve their quality vision, aligned with
+the Triple Aim of health-care objectives: improving the patient
+experience of care (including quality and satisfaction); improving the
+health of populations and reducing the per capita cost of health care.
+The Kaiser Permanente Population Health Program relies on annual
+analysis of their member population and segmentation of the
+population into targeted groups. It includes five programmes and
+services that work synergistically to improve the health of their
+members across the health and wellness spectrum: Clinical Quality
+Improvement Program, Complex Case Management Program, Diabetes
+Care Program, Health Profile and Care Transitions Program. The
+Population Health Program is assessed rigorously and regularly. The
+first step to developing meaningful evaluation is setting programme
+goals and objectives. The Population Health Program description is
+revised annually, and Kaiser Permanente of Washington State reviews
+overall and individual programme goals based on the previous year’s
+performance. Relevant clinical, utilization and experience measures
+are qualitatively and quantitatively analysed to evaluate the efficacy
+of the Population Health Program. These results are interpreted and
+used to develop the coming year’s targets. During this period of
+evaluation, Kaiser Permanente of Washington State considers revising,
+adding or eliminating programmatic services to better meet the
+member population’s health needs.
+30
+
+=== PÁGINA 41 ===
+In addition, Kaiser Permanente of Washington State also assesses the
+needs of their member population. The population is assessed
+annually in the third and fourth quarter and uses the previous year’s
+member data to assess their health and needs. At minimum, the
+annual population assessment examines the characteristics and
+needs, including social determinants of health. It identifies and
+assesses the needs of relevant subpopulations, children and
+adolescent members, members with disabilities and members with
+serious and persistent mental illness. This information is then used to
+make recommendations regarding the Population Health Program and
+other services and functions that could better meet their needs. Kaiser
+Permanente of Washington State uses the population health
+assessment to identify potential gaps in care and services that do not
+have a current population-based strategy and to recommend areas of
+opportunity for Kaiser Permanente of Washington State to serve their
+especially vulnerable members.
+Kaiser Permanente of Washington State receives data on their
+members’ health and health-care utilization from a variety of sources.
+They use these data to further segment their population and ensure
+that they have programmes in their Population Health Program that
+address the needs of the smaller segments of the population. Kaiser
+Permanente of Washington State completes an annual segmentation
+report that enables them to segment the entire member population
+into four intervention levels: preventive care needs, emerging health
+risks, health safety concerns and multiple chronic conditions. Within
+each intervention level, the report further segments the population by
+the programmes and services (such as the Complex Case Management
+Program) designed to address member care needs. Kaiser Permanente
+of Washington State uses the previous year’s data from claims,
+electronic medical records, health risk assessments, laboratory data,
+immunization records from the Washington State database, case
+management documentation systems and Emergency Department
+Information Exchange to identify which populations belong to each
+level of intervention. This information is stored within various systems,
+and the segmentation report pulls data directly from those sources or
+from the Electronic Data Warehouse of Kaiser Permanente of
+Washington State. The segmentation report is completed annually in
+conjunction with the population health assessment.
+Kaiser Permanente models have historically extensively evaluated
+their programmes, showing impact. For example, between 2002 and
+2005, in northern California, Kaiser Permanente helped reduce the
+prevalence of smoking among its members by 25%, compared with a
+7.5% reduction across California as a whole. Among its members in
+northern California, the rate of heart disease mortality decreased by
+26% from 1995 to 2004, and members were 30% less likely to die from
+heart disease than other people in California in 2004 (121). They have
+reduced disparities for cardiac risks and diabetes markers between
+black and white older people, in contrast to other health plans in the
+western United States (122). Colorectal cancer screening achieved
+higher screening rates than the national average. Screening rates for
+Black, White, Hispanic/Latino and Asian members are in the top 10%
+nationally (123).
+31
+
+=== PÁGINA 42 ===
+ENABLING POPULATION HEALTH
+MANAGEMENT
+Although moving towards a system-wide implementation of population
+health management requires several years of development work and takes
+time to achieve impact, taking steps towards population health
+management can promote improvements in PHC even before the full
+benefits of population health management are realized. This section
+describes success factors that are common to all systems trying to
+implement or upgrade a population health management approach (Fig. 6).
+The key success factors set out below are classified as system, organizational
+and clinical factors. System-level factors are best implemented from the
+national level down to local systems. They create the foundational
+infrastructure and environment (digital, professional, regulatory, financial and
+cultural) that enables population health management to develop successfully
+locally. Organizational factors are those within local organizations providing
+care that can successfully engage in population health management when
+empowered by the infrastructure and environment. Clinical-level factors are
+those necessary for on-the-ground teams to work with their patient
+communities to transform the organization factors into a reality of innovative
+new models of proactive care.
+Nevertheless, some critical factors affect several or all levels and are not
+only relevant to implementing population health management but to any
+health system reform.
+1. Time: with the day-to-day pressures, change may not happen without
+time and thinking space specifically allocated to enable the key agents of
+change to take the reform forward. Formal organizational development
+programmes, such as the national Population Health Management
+Development Programme in England, can help to formalize and fund the
+time and facilitation needed – at least in some pilot areas, with the
+learning spread to other areas.
+2. Funding: adopting new approaches often requires providers to have
+additional funding, at least at the beginning, to be able to implement
+changes before health outcomes improve.
+3. Learning networks of population health management leaders: this is key
+for explaining population health management and its benefits for PHC,
+spreading and sustaining good practices and learning from
+implementation mistakes. It supports making informed decisions about
+scale-up by capitalizing on practical implementation experiences at all
+levels and promoting peer to peer exchange of experiences to build a
+social movement and improve the overall quality of interventions.
+4. A culture in which innovation is encouraged and rewarded and first
+runners are appreciated: moving towards system-wide implementation
+of population health management is an iterative, long process. Achieving
+measurable impact on overall population health outcomes takes time.
+5. Aspiration for sustainability. All new innovations introduced and
+changes made should aim to lead to long–term sustainable change,
+which includes a change in the organizational culture of each level
+described below. Although effective implementation of the factors
+described in this section should naturally lead to sustainability, the fact
+32
+
+=== PÁGINA 43 ===
+that population health management should lead to a long-term
+approach to improving population health rather than merely being a
+series of pilot projects should be separately emphasized and understood
+at each stage of the design process.
+System-level factors
+1. An integrated, holistic, health and well-being mindset that puts
+patients and communities at the centre instead of the needs of the
+various institutions working in silos: leadership for population health
+management is based on collaboration, connecting people who need to
+work together and a culture of integration (124). This can be influenced
+from the very top of the organization if the health ministry or other key
+decision-makers, depending on the context or country, take a firm
+position and show leadership to influence the political atmosphere and
+policy directions of other key actors (insurance funds, purchasing
+agencies and professionals) while also focusing on reallocating resources,
+modifying incentives and implementing regulations towards population
+health management (addressed below).
+2. Support of policy and regulatory agencies such as health ministries,
+health insurance funds and purchasing agencies: these agencies can
+support population health management by providing a population health
+management framework with a shared vision and objectives and training
+resources. They can also support the establishment and evaluation of
+pilots and the scaling up of successful experiences and promote the
+creation of professional networks of population health management
+champions. They can ensure that professional regulations enable PHC
+professionals to work at the higher end of their competencies and have
+the time to engage in population health management approaches
+(especially extending the role of nurses). They play a vital role in
+promoting an optimal regulatory environment to promote data sharing
+(while paying due attention to data confidentiality) and digitalization and
+enhancing the adoption of population health management approaches
+through the right incentives (see points below). Agencies should also
+consider developing an overall strategy to ensure that investment and
+needs are aligned. Insights from first movers and population health
+management leaders are to be considered.
+In countries
+3. Information governance arrangements that promote information
+with unsuited legislation,
+sharing within and outside the health system: population health
+the first step entails examining
+management relies on data from a wide range of sources,
+barriers that prevent data sharing
+organizations and professionals (within and beyond the health
+within the health system (between
+sector). This requires a trust framework to secure the flow of
+different services or levels of care) and
+information among multiple systems and sites of care, which
+move progressively towards safe and
+may range from data sharing to data integration and
+appropriate sharing, interoperability and
+developing large combined data sets. Efforts to create
+integration with other sectors, such as social
+cross-border exchange of data should be enhanced, such as
+care. Inadequate legislation can embody a
+the European Health Data Space (125). Population health
+substantial barrier for population health
+management can be successfully implemented without
+management. Concerns related to
+initially having all these data available. However, promoting
+consent, confidentiality and
+an environment of information liquidity is needed for engaging
+cybersecurity should be
+in advanced population health management. Accounting for
+addressed.
+information governance from the beginning can help avoid
+important implementation hurdles.
+33
+
+=== PÁGINA 44 ===
+4. Fit-for-purpose information systems: greater digital maturity embodies
+a major leapfrogging opportunity to facilitate successful
+population health management. Well-managed and
+The core
+-governed digitalization of health processes enables easier
+starting-point is moving
+data collection and storage, including patient-generated
+from paper-based to electronic
+data, more rapid and easier information exchange
+health records, which are more
+across dispersed databases and its integration;
+collaborative and include data from a wider
+identification and increased refinement of patient
+set of PHC providers, enabling a
+cohorts; more sophisticated segmentation and
+multidisciplinary PHC approach. Then,
+stratification processes; actionable visualization of
+integrating patient-generated health information
+the population health management results by
+from personal health records, which can also be
+PHC professionals; and better evaluation of
+used by the patients and put them at the centre of
+interventions. Digital solutions such as
+their care. This enables moving from basic analytical
+multiprofessional and intersectoral electronic
+functionality in silos to linked data across the
+health records, patient portals, mobile health
+health system to linked data across health and
+solutions for self-monitoring or for promoting
+social care and beyond. Digitalization will
+medication adherence and analytical software
+require selecting and managing terms,
+support different aspects of population health
+standards and identifiers and
+management.
+harmonizing them to achieve
+interoperable information
+systems. 5. Data stewardship In countries
+capacity and skills: the where public health is
+ability to handle health- not fully developed as a
+related big data, to master discipline and/or with no availability
+sophisticated analytical tools of data analytic specialists, the
+and to guide organizations to starting-point may be to invest in the
+adapt their work practices in data stewardship and analysis skills of
+the context of the digital public health specialists and of professionals
+transformation is critical to working in the statistical offices and involving
+advanced population health informaticians. Coordination and agreements
+management. These can be to promote the synergistic work of national
+enabled by new professionals, statistical offices, institutes of public
+such as data analysts working health and health ministries, which are
+closely with public health and often separate institutions with
+PHC professionals, who act separate mandates, are
+between the various organizations paramount.
+at the regional and local levels to
+ensure proper use of the data and focus
+on data integration, storage, analysis and
+visualization.
+6. Financial incentives that support early detection and condition
+management, task profile expansion and coordination and
+In countries
+integration across providers and levels of care. Payment
+in which strategic
+mechanisms aimed at enhancing PHC’s resolutive capacity and
+purchasing is not yet a
+excessively incentivizing hospital activity can support the
+reality, the starting-point
+adoption of population health management. Likewise,
+may involve moving away
+reforms shifting payment of providers from traditional fees
+from line-item budgets
+for services towards value-based payment models may
+towards capitation-based
+support population health management. Changing
+payment in PHC and making
+incentives by adapting the existing payment mechanisms to
+legal changes to move
+reward for continuity of care and proactive care, disease
+towards greater
+prevention and care coordination is key (126,127). Pooling funds
+provider autonomy.
+across a set of social and health-care services to redefine
+investments that will optimize health can also enhance population
+health management (128).
+34
+
+=== PÁGINA 45 ===
+Organizational-level factors
+In countries
+7. Multidisciplinary and networked PHC with a low resolutive
+models: although a population health PHC, the starting-point may
+management approach can be be strengthening or establishing
+deployed in health-care systems the family medicine specialty,
+with distinct characteristics, small expanding the role and scope of
+stand-alone PHC practices or PHC practice of PHC nurses and promoting
+working alone cannot deliver teamwork and shared decision-
+several elements of the more making. Once this is solidified, a
+complex applications of population gradual approach can be adopted to
+health management. Primary care add new members to the teams
+networks that connect primary and such as social workers or
+secondary care providers (or that mental health
+enable PHC to move towards professionals.
+multidisciplinary teams) and that synchronize
+expertise in information governance and data
+analysis facilitate population health management. Multidisciplinary PHC
+teams can better provide coordinated care and meet a wide range of
+patients’ needs, including addressing mental health problems and the
+social determinants of health, paramount for population health
+management (129). They can include community nurses,
+In countries with
+mental health professionals, physiotherapists, dietitians,
+no tradition of
+health and well-being coaches and social prescribers.
+collaboration and coordination
+between PHC and public health
+8. Integration and close collaboration with public
+services, a starting-point may involve
+health and social care agencies: strong links with
+delivering some public health services in PHC
+public health services can enhance many of the
+settings (such as vaccinations and screening);
+elements required for PHC providers to adopt
+planning together and delivering community health
+population health management, such as:
+activities (such as health promotion activities); and
+adopting a population perspective in clinical
+sharing population-level data (including on the social
+practice; identifying and addressing community
+determinants of health) and clinical information to
+health problems with focus on the wider
+fine-tune health needs assessment, population
+determinants of health; and strengthening
+segmentation and stratification processes, and
+health promotion and disease prevention (130).
+enhance clinical decision-making. A shared forum
+Public health agencies can support PHC by
+to enable professionals from across PHC and
+providing training, sharing and exchanging
+public health to develop collaborative
+information for
+approaches for population health
+community action,
+management can be a first step to A starting-point
+providing evaluation
+develop this to improve data collection
+frameworks and
+tradition. in PHC may be adopting WHO
+research support etc.
+International Classification of
+Primary Care coding, which classifies
+Clinical-level factors
+patient data and clinical activity and
+enables classification of the patient’s reason
+9. Comprehensive and
+for the encounter, the problems or diagnosis
+systematic data collection in
+managed, interventions carried out and the
+PHC: the quality of the
+ordering of these data by episodes of care. For
+segmentation and
+data on the social determinants of health, an
+stratification processes
+initial step may be establishing a core list of
+depends on the richness (such
+information to be collected and integrated
+as including data on social
+in PHC information systems and working
+determinants of health) and
+together with identified community
+quality of the data collected, in
+organizations to collect it.
+many cases, by health-care
+35
+
+=== PÁGINA 46 ===
+professionals themselves. Improving data recording, diagnostic coding or
+updating registries improve the accuracy and reliability of the patients’
+needs and risk scores.
+10. Support from analysts, managers and local
+In settings in
+finance teams: since PHC professionals are
+which these profiles
+trained to deliver care instead of
+are not easily available, a
+analysing data, manage projects and
+starting-point may be to work
+implement programmes, moving
+closer with public health
+towards population health
+professionals or statistical
+management becomes easier if such
+agencies, which may have better
+profiles support PHC. This becomes a
+data analysis skills. Investing in
+symbiotic relationship between
+building health management
+primary care professionals, analysts,
+capacity among PHC team
+financial administrators and managers.
+leaders is another good
+Embedding these new profiles into PHC
+strategy to
+practices can be facilitated by the
+start with.
+networked approach described above. Each
+contributes their skills and knowledge to ensure
+that the insight from the data is translated into interventions that not
+only lead to programmes of work to improve population health now but
+sustain and develop them in an iterative manner, continually improving.
+11. Guidelines to guide multidisciplinary and intersectoral workflows for the
+various risk groups: since each professional group is socialized within its
+own discipline, new ways of working need to be rooted and promoted by
+developing multidisciplinary guidelines and care pathways. In moving
+towards multidisciplinary teams, revising and updating the existing
+clinical guidelines and protocols are essential to clearly reflect the new
+roles and responsibilities of all team members.
+12. Patient engagement: population health management
+An initial step to
+enhances the development of tailored treatment plans
+improve patient engagement
+and disease prevention activities agreed with
+is to ensure that PHC providers are
+patients. Population health management can
+equipped to improve health literacy; to
+support patient engagement and activation
+provide e patient education on risk factors and
+(activated citizens or patients have the
+on self-management strategies; and to deliver
+motivation, knowledge, skill and confidence to
+effective behavioural interventions to support
+take on the role of managing their health) as
+patients in behavioural change as part of their routine
+the refined knowledge about a population
+clinical work. Regarding the latter, the WHO manual on
+(and its individuals) and their social
+integrated brief interventions for noncommunicable
+determinants of health and enables
+disease risk factors in primary care (134) is an effective tool
+engagement strategies to be tailored. In
+for primary care providers to help people quit tobacco,
+addition, patients actively engaged in their
+reduce or stop alcohol use and increase physical activity
+own care are more likely to adhere to these
+and can also help people achieve healthy eating
+plans and to make shared decisions about
+behaviour and manage weight for those living with
+their own health, which yields better health
+overweight and obesity. In addition, for people with
+outcomes (131). People actively involved in their
+chronic diseases, PHC teams planning
+health tend to have better outcomes and, some
+appointments in advance and following up
+evidence suggests, incur lower health costs (132).
+proactively via phone calls, text messages
+Activated individuals are more likely to engage in
+or other available tools is also
+positive behaviour and have better health outcomes
+relevant for patient
+(133). Patient engagement is key, for instance, for ensuring
+engagement.
+that high-risk patients attend regular and follow-up
+appointments, quit smoking or adhere to medication plans.
+36
+
+=== PÁGINA 47 ===
+A critical initial
+Community engagement: successful models of
+step is establishing
+population health engage partners across their
+clear catchment areas to make
+communities to address community culture,
+PHC responsible for the health
+perceptions of needs and the broader social
+outcomes of a clearly defined
+determinants of health (127). PHC providers are
+population (not only individuals). Once
+in a privileged position for driving this
+this is done, PHC organizations can start
+approach. Engaging communities in population
+by mapping the community resources
+health management can help move away from
+(nongovernmental organizations, patient
+biomedically focused solutions to public health
+organizations, charities, cultural
+ones that address the wider determinants of
+resources etc.) active in their catchment
+health. This can also help PHC providers in
+area and establishing mechanisms to
+fine-tuning population segmentation and risk
+engage them in service delivery
+stratification processes by providing local
+and/or refer patients to
+intelligence.
+them.
+13. An open mindset of health workers can overcome the
+limitations of business as usual and embrace change by co-
+creating new ways of working with each other and with patients and
+reaching out to the community. Increasing the acknowledgement of the
+potential benefits that adopting a population health management
+approach can bring to clinical practice can facilitate PHC personnel to
+engage in a new approach that will often include person-centred care
+and shared decision-making, since these approaches naturally lend
+themselves to addressing the underlying wider determinants driving the
+health outcomes being addressed. The peer-to-peer networks outlined
+above can help to foster this approach.
+Time
+Innovation culture
+37
+gnidnuF
+PHM
+leader
+networks
+Fig. 6. Success factors
+for population health
+management
+System level Organization level Clinical level
+1. Health and well-being 7. Multidisciplinary and 9. Comprehensive and
+mindset networked PHC models systematic data collection
+2. Support of policy and 8. Integration and close 10. Analysts, managers and
+regulatory agencies collaboration with public local finance support
+health and social care
+3. Information governance 11. Guidelines to guide
+agencies
+arrangements multidisciplinary and
+intersectoral workflows for
+4. Fit-for-purpose
+the various risk groups
+information systems
+12. Community
+5. Data stewardship
+engagement for health
+capacity and skills
+13. Patient engagement
+6. Financial incentives
+14. Open mindset for
+embracing change and
+co-creation
+
+=== PÁGINA 48 ===
+RECOMMENDED POLICY ACTIONS
+Table 1 groups the recommended policy actions to help countries move
+towards population health management following the PHC levers of the
+WHO Operational Framework for Primary Health Care (21). This aims to
+underscore three important considerations:
+• Population health management is most effective within a holistic health
+system strengthening approach with PHC at its core.
+• Investing in PHC is paramount. It is the best place to engage in
+population health management approaches and make progress towards
+achieving the quintuple aim (17).
+• To achieve maximum impact, synergistic action spanning over several or
+all PHC levers is required. None of these recommendations will move
+countries closer to population health management if implemented in
+isolation.
+The relationship between population health management and PHC is that of
+a virtuous circle. Population health management helps to make PHC more
+effective, and many elements of a strong PHC model are essential for
+effective population health management. These elements have been
+discussed as success factors in the previous section (multidisciplinary teams
+underpinned by strong family medicine and advanced nursing roles, close
+coordination and integration of primary care and public health services and
+PHC networks). Thus, moving towards population health management
+requires a determined effort for their implementation. Table 1, however,
+focuses specifically on the recommendations more narrowly related to
+population health management.
+Table 1. Recommended policy actions for population health management
+PHC Levers Recommended policy actions
+Governance and policy 1. Establish a clear policy framework and
+frameworks governance arrangements for population
+health management at all levels, ensuring a
+shared vision, properly defined roles and
+responsibilities, a stepwise implementation
+strategy and accountability mechanisms in
+place.
+2. Adjust current legislation and regulations to
+enable population health management by
+promoting interdisciplinary governance
+structures, data sharing, interoperability and
+integration.
+Funding and 3. Use population health management to
+allocation of resources contribute to the informed decision-making
+process for efficient and equity-sensitive
+funding and allocation of resources in PHC.
+38
+
+=== PÁGINA 49 ===
+Table 1. (continued)
+PHC Levers Recommended policy actions
+Engagement of the 4. Establish a network of population health
+community and other management champions to share experience,
+stakeholders draw lessons learned and support
+implementation. Ensure that champions
+include frontline clinical and non-clinical PHC
+workers and professional associations, health
+managers and planners and implementers.
+5. Encourage PHC providers to map the
+community resources and stakeholders (local
+government, nongovernmental organizations,
+patient organizations, charities, cultural
+resources etc.) active in their catchment area
+and establish mechanisms to engage them in
+the whole population health management
+cycle and develop strategies for activating
+patients.
+Models of care 6. Incentivize PHC organizations to engage in
+population health management by making
+them formally responsible for the population
+outcomes of a stable, clearly identified, and
+registered population, usually as part of
+defined catchment area.
+7. Move progressively towards risk-stratified
+models of care in which multidisciplinary PHC
+teams provide coordinated care based on a
+wider range of people’s needs and their
+determinants.
+PHC workforce 8. Create a learning environment for
+population health management by updating
+existing or developing new educational
+programmes and postgraduate professional
+training, including continual review and
+improvement cycles.
+Purchasing and 9. Adjust current payment systems to
+payment systems stimulate population health management and
+promote provider autonomy, early detection
+and condition management, task profile
+expansion, interdisciplinary work and
+intersectoral activities (through, for example,
+capitation, pay for performance, pay for
+coordination or shared savings
+arrangements).
+39
+
+=== PÁGINA 50 ===
+Table 1. (continued)
+PHC Levers Recommended policy actions
+Digital and data 10. Enhance population health management
+technologies for by ensuring the sharing of data within the
+health health system (between services or levels of
+care) and move progressively towards
+sharing, interoperability and integration with
+other sectors, such as social care.
+11. Enhance population health management by
+stimulating data quality, storage, integration
+and stewardship in PHC and invest in tools
+that allow PHC professionals to visualize
+population segmentation and stratification
+results in a clear and digestible manner.
+12. Invest in the digitalization of PHC as part of
+an overall system-wide, long term, health
+information system strategy that sets a clear
+vision and objectives on population health
+management and is context specific.
+Systems for improving 13. Use population segmentation and risk
+data driven quality of stratification tools in PHC to improve the
+care quality of care, enhance clinical decision-
+making, tailor service delivery, reach out
+proactively to patients and seek out
+population cohorts experiencing health
+inequalities.
+14. Create professional awareness and
+competencies among PHC professionals to
+appreciate the use of data analysis and the
+potential of predictive models to contribute
+to improving service delivery and planning
+and implementing targeted programmes for
+all risk strata.
+15. Promote the use of sociodemographic data
+by PHC professionals throughout the
+population health management cycle.
+Monitoring and 16. Regularly plan, monitor and review the
+evaluation performance of the population health
+management inputs, processes and results to
+enhance equity, efficiency, effectiveness and
+impact.
+40
+
+=== PÁGINA 51 ===
+REFERENCES
+1. Jakab M, Farrington J, Borgermans L, Mantingh F. Health systems
+respond to noncommunicable diseases: time for ambition.
+Copenhagen: WHO Regional Office for Europe; 2018 (https://apps.
+who.int/iris/handle/10665/342223, accessed 11 April 2023).
+2. Multimorbidity: a priority for global health research. London:
+Academy of Medical Sciences; 2018 (https://acmedsci.ac.uk/file-
+download/82222577, accessed 11 April 2023).
+3. Health for everyone? Social inequalities in health and health systems.
+Paris: OECD Publishing; 2019 (https://www.oecd-ilibrary.org/social-
+issues-migration-health/health-for-everyone_3c8385d0-en, accessed
+11 April 2023).
+4. European Union. State of health in the EU companion report 2021.
+Luxembourg: Publications Office of the European Union; 2022
+(https://health.ec.europa.eu/state-health-eu/companion-report_en,
+accessed 11 April 2023).
+5. European Observatory on Health Systems and Policies, Rajan S,
+Khunti K, Alwan N, Steves C, Greenhalgh T, MacDermott N et al. In the
+wake of the pandemic: preparing for long COVID. Copenhagen: WHO
+Regional Office for Europe; 2021 (https://apps.who.int/iris/
+handle/10665/339629, accessed 11 April 2023).
+6. European Observatory on Health Systems and Policies, van Ginneken
+E, Reed S, Siciliani L, Eriksen A, Schlepper L, Tille F et al. Addressing
+backlogs and managing waiting lists during and beyond the COVID-19
+pandemic. Copenhagen: WHO Regional Office for Europe; 2022
+(https://apps.who.int/iris/handle/10665/358832, accessed 11 April
+2023).
+7. Transforming the health and social equity landscape: promoting
+socially just and inclusive growth to improve resilience, solidarity and
+peace: executive summary. Copenhagen: WHO Regional Office for
+Europe; 2023 (https://apps.who.int/iris/handle/10665/366213,
+accessed 11 April 2023).
+8. Mackenbach JP, Kulhánová I, Artnik B, Bopp M, Borrell C, Clemens T et
+al. Changes in mortality inequalities over two decades: register based
+study of European countries. BMJ. 2016;353:i1732.
+9. Berwick DM, Nolan TW, Whittington J. The triple aim: care, health, and
+cost. Health Aff (Millwood). 2018;27:759–69.
+10. Health in the well-being economy. Background paper: working
+together to achieve healthy, fairer, prosperous societies across the
+WHO European Region. Copenhagen: WHO Regional Office for Europe;
+2023 (https://www.who.int/europe/publications/i/item/WHO-
+EURO-2023-7144-46910-68439, accessed 11 April 2023).
+11. Regional digital health action plan for the WHO European Region
+2023–2030. Copenhagen: WHO Regional Office for Europe; 2022
+(https://apps.who.int/iris/handle/10665/360950, accessed 11 April
+2023).
+12. Dolley S. Big data’s role in precision public health. Front Public Health.
+2018;6:68.
+41
+
+=== PÁGINA 52 ===
+13. Cozzoli N, Salvatore FP, Faccilongo N, Milone M. How can big data
+analytics be used for healthcare organization management? Literary
+framework and future research from a systematic review. BMC Health
+Serv Res. 2022;22:809.
+14. Wells TS, Ozminkowski RJ, Hawkins K, Bhattarai GR, Armstrong DG.
+Leveraging big data in population health management. Big Data
+Analytics. 2016;1:1.
+15. Silberberg M, Martinez-Bianchi V, Lyn M. What is population health?
+Prim Care. 2019;46:475–84.
+16. McGinnis JM, Williams-Russo P, Knickman JR. The case for more active
+policy attention to health promotion. Health Aff (Millwood).
+2002;21:78–93.
+17. Nundy S, Cooper LA, Mate KS. The quintuple aim for health care
+improvement: a new imperative to advance health equity. JAMA.
+2022;327:521–2.
+18. Population health management flatpack. A guide to starting
+population health management. London: NHS England; 2018 (https://
+imperialcollegehealthpartners.com/wp-content/uploads/2018/07/
+Population-Health-Management-Flatpack-Version-1.0-Final-Sent.pdf,
+accessed 11 April 2023).
+19. Starfield B, Leiyu S, Macinko J. Contribution of primary care to health
+systems and health. Milbank Q. 2005;83:457–502.
+20. Bodenheimer T, Ghorob A, Willard-Grace R, Grumbach K. The 10
+building blocks of high-performing primary care. Ann Fam Med.
+2014;12:166–71.
+21. WHO, UNICEF . Operational framework for primary health care:
+transforming vision into action. Geneva: World Health Organization;
+2020 (https://apps.who.int/iris/handle/10665/337641, accessed 11
+April 2023).
+22. 21st century health challenges: can the essential public health
+functions make a difference? Geneva: World Health Organization; 2021
+(https://apps.who.int/iris/handle/10665/351510, accessed 11 April
+2023).
+23. European Programme of Work, 2020–2025: United Action for Better
+Health. Copenhagen: WHO Regional Office for Europe; 2021 (https://
+apps.who.int/iris/handle/10665/339209, accessed 11 April 2023).
+24. Marmot M, Allen J, Goldblatt P, Boyce T, McNeish D, Grady M et al.
+(2010). Fair society, healthy lives: strategic review of health
+inequalities in England post 2010. London: Strategic Review of Health
+Inequalities in England post-2010 (http://www.instituteofhealthequity.
+org/resources-reports/fair-society-healthy-lives-the-marmot-review,
+accessed 11 April 2023).
+25. Primary care networks. London: NHS England; 2023 (https://www.
+england.nhs.uk/primary-care/primary-care-networks, accessed 11 April
+2023).
+26. Type 2 diabetes in adults: management. London: NICE; 2022 (http://
+www.nice.org.uk/guidance/NG28, accessed 11 April 2023).
+27. Lewis GH. Impactibility models: identifying the subgroup of high-risk
+patients most amenable to hospital-avoidance programs. Milbank Q.
+2010;88:240–55.
+42
+
+=== PÁGINA 53 ===
+28. Hacker K, Walker DK. Achieving population health in accountable care
+organizations. Am J Public Health. 2013;103:1163–7.
+29. Bernstein RH. New arrows in the quiver for targeting care
+management: high-risk versus high-opportunity case identification. J
+Ambul Care Manage. 2007;30:39–51.
+30. Marchildon GP, Brammli-Greenberg S, Dayan M, De Belvis AG, Gandré
+C, Isaksson D. Achieving higher performing primary care through
+patient registration: a review of twelve high-income countries. Health
+Policy, 2021;125:1507–16.
+31. Yan S, Kwan YH, Tan CS, Thumboo J, Low LL. A systematic review of
+the clinical application of data-driven population segmentation
+analysis. BMC Med Res Methodol. 2018;18:121.
+32. Civil registration and vital statistics (CRVS) [website]. Copenhagen:
+WHO Regional Office for Europe; 2023 (https://www.who.int/data/
+data-collection-tools/civil-registration-and-vital-statistics-(crvs),
+accessed 11 April 2023).
+33. De Joong JD. Explaining medical practice variation. Social organization
+and institutional mechanisms. Utrecht: Nivel; 2008 (https://www.nivel.
+nl/sites/default/files/bestanden/Proefschrift-explaining-medical-
+practice-variation-2008.pdf, accessed 11 April 2023
+34. Lafortune L, Béland F, Bergman H, Ankri J Health status transitions in
+community-living elderly with complex care needs: a latent class
+approach. BMC Geriatr. 2009;9:6.
+35. Churruca K, Pomare C, Ellis LA, Long JC, Henderson SB, Murphy LED et
+al. Patient-reported outcome measures (PROMs): a review of generic
+and condition-specific measures and a discussion of trends and issues.
+Health Expect. 2021;24:1015–24.
+36. Black N. Patient reported outcome measures could help transform
+healthcare. BMJ. 2013;346:f167.
+37. Vuik SI, Mayer EK, Darzi A. Patient segmentation analysis offers
+significant benefits for integrated care and support. Health Aff
+(Millwood). 2016;35:769–75.
+38. Huntley AL, Johnson R, Purdy S, Valderas JM, Salisbury C. Measures of
+multimorbidity and morbidity burden for use in primary care and
+community settings: a systematic review and guide. Ann Fam Med.
+2012;10:134–41.
+39. Chong JL, Lim KK, Matchar DB. Population segmentation based on
+healthcare needs: a systematic review. Syst Rev. 2019;8:202.
+40. Low LL, Yan S, Kwan YH, Tan CS, Thumboo J. Assessing the validity of a
+data driven segmentation approach: a 4 year longitudinal study of
+healthcare utilization and mortality. PLoS One. 2018;13:e0195243.
+41. Zhou YY, Wong W, Li H. Improving care for older adults: a model to
+segment the senior population. Perm J. 2014;18:18–21.
+42. Monterde D, Vela E, Clèries M, Garcia-Eroles L, Roca J, Pérez-Sust P.
+Multimorbidity as a predictor of health service utilization in primary
+care: a registry-based study of the Catalan population. BMC Fam
+Pract. 2020;21:39.
+43
+
+=== PÁGINA 54 ===
+43. Primary care home: population health management. London: National
+Association of Primary Care; 2019 (https://napc.co.uk/primary-care-
+home/, accessed 11 April 2023).
+44. Prevention and control of noncommunicable diseases in Belarus: the
+case for investment. Copenhagen: WHO Regional Office for Europe;
+2018 (https://apps.who.int/iris/handle/10665/343979, accessed 11
+April 2023).
+45. Pogosova N, Sokolova O. Governmental efforts for cardiovascular
+disease prevention efforts in the Russian Federation. Cardiovasc Diagn
+Ther. 2017;7:S48–54.
+46. Farrington J, Koylyu A, Staehr Johansen A, Corbex M, Rakovac I, Yordi
+Aguirre I . Better noncommunicable disease outcomes: challenges and
+opportunities for health systems: Turkmenistan country assessment.
+Copenhagen: WHO Regional Office for Europe; 2019 (https://apps.
+who.int/iris/handle/10665/346304, accessed 11 April 2023).
+47. Akkazieva B, Tello J, Smith B, Jakab M, Krasovsky, K, Sautenkova N et
+al. Better non-communicable disease outcomes: challenges and
+opportunities for health systems. Tajikistan country assessment.
+Copenhagen: WHO Regional Office for Europe; 2015 (https://apps.who.
+int/iris/handle/10665/153907, accessed 11 April 2023).
+48. Hospital beds per 10 000. Vilnius: Lithuanian Hygiene Institute; 2023
+(https://sveikstat.hi.lt/chart-trends-timeline.aspx?top_uid=109&top_
+loc=mun&sel_rep_panel=4&lang=eng&hide_filters=&, accessed 11
+April 2023).
+49. Avoidable mortality. Vilnius: Lithuanian Hygiene Institute; 2023
+(https://sveikstat.hi.lt/chart-trends-timeline.aspx?top_uid=92&top_
+loc=mun&sel_rep_panel=4&lang=lit&hide_filters=0 ).
+50. Eissens van der Laan MR, van Offenbeek MA, Broekhuis H, Slaets JP. A
+person-centred segmentation study in elderly care: towards efficient
+demand-driven care. Soc Sci Med. 2014;113:68–76.
+51. Integrated care models: an overview. Copenhagen: WHO Regional
+Office for Europe; 2016 (https://www.euro.who.int/__data/assets/
+pdf_file/0005/322475/Integrated-care-models-overview.pdf,
+accessed 11 April 2023).
+52. Wagner J, Hall JD, Ross RL, Cameron D, Sachdeva B, Kansagara D et al.
+Implementing risk stratification in primary care: challenges and
+strategies. J Am Board Fam Med. 2019;32:585–95.
+53. Girwar SM, Jabroer R, Fiocco M, Sutch SP, Numans ME, Bruijnzeels MA.
+A systematic review of risk stratification tools internationally used in
+primary care settings. Health Sci Rep. 2021;4:e329.
+54. Acheson RM. The definition and identification of need for health care. J
+Epidemiol Community Health. 1978;32:10–5.
+55. SCORE2 working group and ESC Cardiovascular risk collaboration.
+SCORE2 risk prediction algorithms: new models to estimate 10-year
+risk of cardiovascular disease in Europe. Eur Heart J. 2021;42:2439–54.
+56. WHO package of essential noncommunicable (PEN) disease
+interventions for primary health care. Geneva: World Health
+Organization; 2020 (https://apps.who.int/iris/handle/10665/334186,
+accessed 11 April 2023).
+57. HEARTS technical package for cardiovascular disease management in
+primary health care: risk-based cardiovascular disease management.
+Geneva: World Health Organization; 2020 (https://apps.who.int/iris/
+handle/10665/333221, accessed 11 April 2023).
+44
+
+=== PÁGINA 55 ===
+58. Lindstrom J, Tuomilehto J. The diabetes risk score: a practical tool to
+predict type 2 diabetes risk. Diabetes Care. 2003;26:725–31.
+59. Charlson M, Wells MT, Ullman R, King F, Shmukler C. The Charlson
+comorbidity index can be used prospectively to identify patients who
+will incur high future costs. PLoS One. 2014;9:e112479.
+60. Garcia Gonzalez JV, Diaz E, Salamea A, Cabrera D, Menendez A,
+Fernandez Sanchez A et al. Evaluacion de la fiabilidad y validez de una
+escala de valoración social en el anciano [An evaluation of the
+feasibility and validity of a scale of social assessment of older people].
+Aten Primaria. 1999;23:434–40.
+61. Activation of stratification strategies and results of the interventions
+on frail patients of healthcare services. Appraisal standard dashboard.
+ASSEHS project; 2018 (https://appraisalstandard.kronikgune.org,
+accessed 11 April 2023).
+62. The Johns Hopkins ACG® System: excerpt from version 11.0 technical
+reference guide. Baltimore: Johns Hopkins University; 2014 (https://
+www.hopkinsacg.org/documents/system-documentation, accessed 11
+April 2023).
+63. Orueta J-F, Urraca J, Berraondo I, Darpon J, Aurrekoetxea J-J. Adjusted
+clinical groups (ACGs) explain the utilization of primary care in Spain
+based on information registered in the medical records: a cross-
+sectional study. Health Policy. 2006;76:38–48.
+64. Carlsson L, Borjesson U, Edgren L. Patient based “burden-of-illness” in
+Swedish primary health care. Applying the Johns Hopkins ACG case-
+mix system in a retrospective study of electronic patient records. Int J
+Health Plann Manage. 2002;17:269–79.
+65. 3MTM clinical risk groups: measuring risk, managing care. Salt Lake
+City: 3M Health Information Systems; 2016 (https://multimedia.3m.
+com/mws/media/765833O/3m-crgs-measuring-risk-managing-care-
+white-paper.pdf, accessed 11 April 2023).
+66. Hughes JS, Averill RF, Eisenhandler J, Goldfield NI, Muldoon J, Neff JM
+et al. Clinical risk groups (CRGs): a classification system for risk-
+adjusted capitation-based payment and health care management.
+Med Care. 2004;42:81–90.
+67. Huntley AL, Johnson R, Purdy S, Valderas JM, Salisbury C. Measures of
+multimorbidity and morbidity burden for use in primary care and
+community settings: a systematic review and guide. Ann Fam Med.
+2012;10:134–41.
+68. Dueñas-Espín I, Vela E, Pauws S, Bescos C, Cano I, Cleries M et al.
+Proposals for enhanced health risk assessment and stratification in an
+integrated care scenario. BMJ Open. 2016;6:e010301.
+69. D’Avolio LW. Beyond racial bias: rethinking risk stratification in health
+care. Health Affairs. January 15, 2020 (https://www.healthaffairs.org/
+do/10.1377/forefront.20200109.382726/full, accessed 11 April 2023).
+70. Obermeyer Z, Powers B, Vogeli C, Mullainathan S. Dissecting racial bias
+in an algorithm used to manage the health of populations. Science.
+2019;366:447–53.
+71. Nalin M, Bedbrook A, Baroni I, Romano M, Borrás TA, Avolio F et al.
+White paper on deployment of stratification methods. ASSEHS
+Project; 2016 (https://www.researchgate.net/publication/309242777_
+White_Paper_On_Deployment_of_Stratification_Methods, accessed
+11 April 2023).
+72. Freund T, Mahler C, Erler A, Gensichen J, Ose D, Szecsenyi J et al.
+Identification of patients likely to benefit from care management
+programs. Am J Manag Care. 2011;17:345–52.
+45
+
+=== PÁGINA 56 ===
+73. AHRQ quality indicators – guide to prevention quality indicators:
+hospital admission for ambulatory care sensitive conditions. Rockville
+(MD): Agency for Healthcare Research and Quality; 2001.
+74. Freund T, Mahler C, Erler A, Gensichen J, Ose D, Szecsenyi J et al.
+Identification of patients likely to benefit from care management
+programs. Am J Manag Care. 2011;17:345–52.
+75. Monterde D, Vela E, Clèries M; grupo colaborativo GMA. Los grupos de
+morbilidad ajustados: nuevo agrupador de morbilidad poblacional de
+utilidad en el ámbito de la atención primaria [Adjusted morbidity
+groups: a new multiple morbidity measurement for use in primary
+care]. Aten Primaria. 2016;48:674–82.
+76. Cerezo Cerezo J, Arias López C. Population stratification: a
+fundamental instrument used for population health management in
+Spain: good practice brief. Copenhagen: WHO Regional Office for
+Europe; 2018 (https://apps.who.int/iris/handle/10665/345586,
+accessed 11 April 2023).
+77. Catalan model of care for people with frailty, complex chronic (CCP)
+and advanced chronic (ACP) conditions. Barcelona: Directorate-
+General for Health Planning of the Ministry of Health; 2021 (https://
+salutweb.gencat.cat/web/.content/_ambits-actuacio/Linies-
+dactuacio/Estrategies-de-salut/Cronicitat/Documentacio-cronicitat/
+arxius/catalan-model-care-en.pdf, accessed 11 April 2023).
+78. Dueñas-Espín I, Vela E, Pauws S, Bescos C, Cano I, Cleries M et al.
+Proposals for enhanced health risk assessment and stratification in an
+integrated care scenario. BMJ Open. 2016;6:e010301.
+79. Thirty-year retrospective of Catalan health planning: driver of health
+system transformation. Copenhagen: WHO Regional Office for Europe;
+2020 (https://apps.who.int/iris/handle/10665/357862, accessed 11
+April 2023).
+80. Kenward C, Pratt A, Creavin S, Wood R, Cooper J. Population health
+management to identify and characterise ongoing health need for
+high-risk individuals shielded from COVID-19: a cross-sectional cohort
+study. BMJ Open. 2020;10:e041370.
+81. Population health management: a system-wide dataset for Bristol,
+North Somerset, and South Gloucestershire [website]. Healthier
+Together; 2020. (https://bnssghealthiertogether.org.uk/population-
+health-management, accessed 11 April 2023).
+82. Walker DK. Time to embrace public health approaches to national and
+global challenges. Am J Public Health. 2008;98:1934–6.
+83. Frieden TR. A framework for public health action: the health impact
+pyramid. Am J Public Health 2010;100:590–5.
+84. Recomendaciones para el diseño de estrategias de salud comunitaria
+en atención primaria a nivel autonómico [Recommendations for the
+design of community health strategies in primary care at the regional
+level]. Madrid: Ministry of Health, Consumer Affairs and Social Welfare;
+2022 (https://www.sanidad.gob.es/profesionales/saludPublica/
+prevPromocion/Estrategia/docs/recomendaciones_estrategia_salud_
+comunitaria.pdf, accessed 11 April 2023).
+85. Carroll D, Kemner A, Schootman M. Operationalizing population health
+management in practice. Mo Med. 2018;115:533–6.
+46
+
+=== PÁGINA 57 ===
+86. A toolkit on how to implement social prescribing. Manila: WHO
+Regional Office for the Western Pacific; 2022 (https://apps.who.int/
+iris/handle/10665/354456, accessed 11 April 2023).
+87. Drinkwater C, Wildman J, Moffatt S. Social prescribing. BMJ.
+2019;364:l1285.
+88. Benedé-Azagra C, Gallego-Diéguez J, Lou-Alcaine M, Marzo-Arana J.
+Estrategia de atención comunitaria en el sistema de salud de Aragón.
+Atención primaria. Gobierno de Aragón [Community care strategy in
+the health system of Aragon. Primary care. Government of Aragon].
+Huesca: Department of Health; 2019.
+89. Social prescribing: reference guide and technical annex for primary
+care networks. London: NHS England; 2023 (https://www.england.nhs.
+uk/long-read/social-prescribing-reference-guide-and-technical-
+annex-for-primary-care-networks, accessed 11 April 2023).
+90. Heijnders ML, Meijs JJ. “Welzijn op Recept” (social prescribing): a
+helping hand in re-establishing social contacts – an explorative
+qualitative study. Prim Health Care Res Dev. 2018;19:223–31.
+91. Hoffmeister LV, Nunes MF, Figueiredo CEM, Coelho A, Oliveira MFF,
+Massano P et al. Evaluation of the impact and implementation of
+social prescribing in primary healthcare units in Lisbon: a mixed-
+methods study protocol. Int J Integr Care. 2021;21:26.
+92. Golubinski V, Wild EM, Winter V, Schreyögg J. Once is rarely enough:
+can social prescribing facilitate adherence to non-clinical community
+and voluntary sector health services? Empirical evidence from
+Germany. BMC Public Health. 2020;20:1827.
+93. García-Blanco D, Cubillo-Llanes J. Orientación comunitaria en los
+equipos de atención primaria [Community orientation in primary care
+teams]. Atención Primaria Práctica. 2023;5:100165.
+94. Moffatt S, Steer M, Lawson S, Penn L, O’Brien N. Link worker social
+prescribing to improve health and well-being for people with long-
+term conditions: qualitative study of service user perceptions. BMJ
+Open. 2017;7:e015203.
+95. Jensen A. Culture vitamins – an arts on prescription project in
+Denmark. Perspect Public Health. 2019;139:131–6.
+96. Johansson E, Jonsson F, Rapo E, Lundgren AS, Hörnsten Å, Nilsson I.
+Let’s try social prescribing in Sweden (SPiS) – an interventional project
+targeting loneliness among older adults using a model for integrated
+care: a research protocol. Int J Integr Care. 2021;21:33.
+97. Hildebrandt H, Knittel R, Richter-Reichhelm M, Siegel A, Witzenrath W.
+Gesundes Kinzigtal integrated care: improving population health by a
+shared health gain approach and a shared savings contract. Int J
+Integr Care. 2010;10:e046.
+98. Esseling P. The business of population health management. London:
+Advisory Board; 2017 (https://www.advisory.com/topics/population-
+health-roi/2017/12/gesundes-kinzigtal-care-model, accessed 11 April
+2023).
+99. European Observatory on Health Systems and Policies, Groene O,
+Hildebrandt H, Ferrer L, Stein KV. People-centred population health
+management in Germany. Eurohealth. 2016;22( 2) :7–10. Copenhagen:
+47
+
+=== PÁGINA 58 ===
+WHO Regional Office for Europe; 2016 (https://apps.who.int/iris/
+handle/10665/332699, accessed 11 April 2023).
+100. Integrated, person-centred primary health care produces results: case
+study from Slovenia. Copenhagen: WHO Regional Office for Europe;
+2020 (https://apps.who.int/iris/handle/10665/336184, accessed 11
+April 2023).
+101. The family medicine specialist nurse’s role in primary health care
+management of patients with noncommunicable diseases in Slovenia.
+Copenhagen: WHO Regional Office for Europe; 2020 (https://apps.
+who.int/iris/bitstream/handle/10665/336184/9789289055284-eng.
+pdf, accessed 11 April 2023).
+102. Workshops and consultations [website]. Ljubljana: National Institute
+of Public Health; 2023 (https://www.skupajzazdravje.si/en/activities-
+to-improve-your-health/workshops-and-consultations, accessed 11
+April 2023).
+103. Petrič VK, Pribaković Brinovec R, Maučec Zakotnik J. Health promotion
+centres in Slovenia: integrating population and individual services to
+reduce health inequalities at community level: good practice brief.
+Copenhagen: WHO Regional Office for Europe; 2018 (https://apps.
+who.int/iris/handle/10665/345843, accessed 11 April 2023).
+104. Klemenc-Ketis Z, Benkovič R, Poplas-Susič A. A Slovenian model of
+comprehensive care for patients with difficulties accessing healthcare:
+a step towards health equity. J Community Health Nurs. 2019;36:139–
+46.
+105. NIJZ podatkovni portal [National Institute of Public Health data
+portal] [online database]. Ljubljana: National Institute of Public
+Health; 2022 (https://podatki.nijz.si/pxweb/sl/NIJZ%20
+podatkovni%20portal, accessed 11 April 2023).
+106. Report of the National Center for Pediatrics and Pediatric Surgery,
+Kazakhstan. Almaty: National Center for Pediatrics and Pediatric
+Surgery; 2021.
+107. Núñez Sabarís A, Satorras M, Nurmagambetova B, Shevshenko E. The
+evaluation of primary health care (PHC) impact on infant and child
+mortality reduction 2000–2017 in Kazakhstan. Volume 1: Assessment
+of the universal progressive home visiting model. Almaty: UNICEF
+Country Office in Kazakhstan; 2019.
+108. Abdusametov Z. Presentation on implementation of universal-
+progressive model of patronage and its impact on reducing the risks
+of child development in Kyzylorda region. Astana, 2019.
+109. Nwaru BI, Friedman C, Halamka J, Sheikh A. Can learning health
+systems help organisations deliver personalised care? BMC Med.
+2017;15:177.
+110. Jha AK. Population health management: saving lives and saving
+money? JAMA. 2019;322:390–1.
+111. David G, Smith-McLallen A, Ukert B. The effect of predictive analytics-
+driven interventions on healthcare utilization. J Health Econ.
+2019;64:68–79.
+112. Murphy SME, Hough DE, Sylvia ML, Sherry M, Dunbar LJ, Zollinger R, et
+al. Going beyond clinical care to reduce health care spending: findings
+from the J-CHiP community-based population health management
+48
+
+=== PÁGINA 59 ===
+program evaluation. Med Care. 2018;56:603–9.
+113. Grossmeier J, Seaverson EL, Mangen DJ, Wright S, Dalal K, Phalen C et
+al. Impact of a comprehensive population health management
+program on health care costs. J Occup Environ Med. 2013;55:634–43.
+114. Andermann A, Pang T, Newton JN, Davis A, Panisset U. Evidence for
+health. I. Producing evidence for improving health and reducing
+inequities. Health Res Policy Syst. 2016;14:18.
+115. Gervasi SS, Chen IY, Smith-McLallen A, Sontag D, Obermeyer Z,
+Vennera M et al. The potential for bias in machine learning and
+opportunities for health insurers to address it. Health Aff (Millwood).
+2022;41:212–8.
+116. Shadmi E, Freund T. Targeting patients for multimorbid care
+management interventions: the case for equity in high-risk patient
+identification. Int J Equity Health. 2013;12:70.
+117. Orueta J, Nuño-Solinis R, Mateos M, Vergara I, Grandes G, Esnaola S.
+Predictive risk modelling in the Spanish population: a cross-sectional
+study. BMC Health Serv Res. 2013;13:269.
+118. Soto-Gordoa M, de Manuel E, Fullaondo A, Merino M, Arrospide A,
+Igartua JA et al. Impact of stratification on the effectiveness of a
+comprehensive patient-centered strategy for multimorbid patients.
+Health Serv Res. 2019;54:466–73.
+119. Mateo-Abad M, González N, Fullaondo A, Merino M, Azkargorta L, Giné
+A et al. Impact of the CareWell integrated care model for older
+patients with multimorbidity: a quasi-experimental controlled study in
+the Basque Country. BMC Health Serv Res. 2020;20:613.
+120. Population health program description. Seattle: Kaiser Permanente
+Washington; 2020 (https://wa.kaiserpermanente.org/static/pdf/
+public/about/population-health-2020.pdf, accessed 11 April 2023).
+121. Alderwick H, Ham C, Buck D. Population health systems: going beyond
+integrated care. London: King’s Fund; 2015.
+122. Ayanian JZ, Landon BE, Newhouse JP, Zaslavsky AM. Racial and ethnic
+disparities among enrollees in Medicare Advantage plans. N Engl J
+Med. 2014;371:2288–97.
+123. Doubeni CA, Corley DA, Zhao W, Lau Y, Jensen CD, Levin TR.
+Association between improved colorectal screening and racial
+disparities. N Engl J Med. 2022;386:796–8.
+124. Chana N. Five ways to improve patient care and staff morale. Blog 2,
+February 2017. London: NHS England; 2017 (http://www.england.nhs.
+uk/blog/nav-chana, accessed 11 April 2023).
+125. European Health Data Space. Brussels: European Commission; 2023
+(https://health.ec.europa.eu/ehealth-digital-health-and-care/
+european-health-data-space_en, accessed 11 April 2023).
+126. Shock LP. Models of population health. Prim Care. 2019;46:595–602.
+127. de Vries EF, Drewes HW, Struijs JN, Heijink R, Baan CA. Barriers to
+payment reform: experiences from nine Dutch population health
+management sites. Health Policy. 2019;123:1100–7.
+128. The Greater Manchester Population Health Plan 2017–2021.
+Manchester: Greater Manchester Authority; 2017 (https://www.gmhsc.
+org.uk/wp-content/uploads/2018/05/Population-Health-
+49
+
+=== PÁGINA 60 ===
+Plan-2017-2021.pdf, accessed 11 April 2023).
+129. Busse R, Stahl J. Integrated care experiences and outcomes in
+Germany, the Netherlands, and England. Health Aff (Millwood).
+2014;33:1549–58.
+130. European Observatory on Health Systems and Policies, Rechel B. How
+to enhance the integration of primary care and public health?
+Approaches, facilitating factors and policy options. Copenhagen: WHO
+Regional Office for Europe; 2020 (https://apps.who.int/iris/
+handle/10665/330491, accessed 11 April 2023).
+131. Graffigna G, Barello S, Bonamoni A. The role of Patient Health
+Engagement model (PHE-model) in affecting patient activation and
+medication adherence: a structural equation model. PLoS One.
+2017;12:e0179865.
+132. James J. Health policy brief: patient engagement. Health Affairs.
+February 14, 2013 (https://www.healthaffairs.org/do/10.1377/
+hpb20130214.898775/full/healthpolicybrief_86-1567175617979.pdf,
+accessed 11 April 2023).
+133. Hibbard JH. What patient engagement means and why it works.
+Rockville (MD): Agency for Healthcare Research and Quality; 2015
+(https://effectivehealthcare.ahrq.gov/products/eccs-2015/white-
+paper-2015-1, accessed 11 April 2023).
+134. Integrated brief interventions for noncommunicable disease risk
+factors in primary care: the manual: BRIEF project. Copenhagen: WHO
+Regional Office for Europe; 2022 (https://apps.who.int/iris/
+handle/10665/364437, accessed 11 April 2023).
+
+=== PÁGINA 61 ===
+The WHO Regional Office for Europe
+The World Health Organization (WHO) is a specialized agency of the United Nations
+created in 1948 with the primary responsibility for international health matters and
+public health. The WHO Regional Office for Europe is one of six regional offices
+throughout the world, each with its own programme geared to the particular health
+conditions of the countries it serves.
+Member States
+Albania Lithuania
+Andorra Luxembourg
+Armenia Malta
+Austria Monaco
+Azerbaijan Montenegro
+Belarus Netherlands (Kingdom of the)
+Belgium North Macedonia
+Bosnia and Herzegovina Norway
+Bulgaria Poland
+Croatia Portugal
+Cyprus Republic of Moldova
+Czechia Romania
+Denmark Russian Federation
+Estonia San Marino
+Finland Serbia
+France Slovakia
+Georgia Slovenia
+Germany Spain
+Greece Sweden
+Hungary Switzerland
+Iceland Tajikistan
+Ireland Türkiye
+Israel Turkmenistan
+Italy Ukraine
+Kazakhstan United Kingdom
+Kyrgyzstan Uzbekistan
+Latvia
+WHO/EURO:2023-7497-47264-69316
+WHO European Centre for Primary Health Care
+UN Plaza
+303 Baizakova Street
+Almaty A15G7T0
+Kazakhstan
+Email: eurocphc@who.int
+Website: https://www.who.int/europe/teams/
+centre-for-primary-health-care-(kaz)

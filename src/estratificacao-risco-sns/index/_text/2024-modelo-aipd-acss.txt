@@ -1,0 +1,607 @@
+# Fonte: 2024_Modelo-AIPD-ACSS.pdf
+# Páginas: 24
+
+=== PÁGINA 1 ===
+XX
+Ref. AIPD:
+ÍNDICE
+I Identificação da Necessidade de Realização de AIPD
+II Identificação da AIPD
+III Finalidade e Fundamento da Licitude do Tratamento
+IV Descrição da Atividade de Tratamento
+V Medidas de Segurança Técnicas e Organizativas
+VI Avaliação da necessidade e proporcionalidade das operações de tratamento
+VII Critérios de Valoração do Risco
+VIII Identificação e Avaliação de Riscos e Medidas Mitigadoras do Risco
+IX Implementação das Medidas Mitigadoras da AIPD
+X Lista de Documentos usados na Análise
+XI Parecer do EPD
+Conceitos
+Avaliação de Impacto sobre a Proteção de Dados: Quando um certo tipo de tratamento, em particular
+que utilize novas tecnologias e tendo em conta a sua natureza, âmbito, contexto e finalidades, for suscetível
+de implicar um elevado risco para os direitos e liberdades das pessoas singulares, o responsável pelo
+tratamento procede, antes de iniciar o tratamento, a uma avaliação de impacto das operações de tratamento
+previstas sobre a proteção de dados pessoais.
+Especial atenção a tratamentos automatizados, incluindo a definição de perfis, tratamentos em grande
+escala de categorias especiais de dados, controlo sistemático de zonas acessíveis ao público em grande
+escala.
+A CNPD emitiu uma Lista de tratamentos de dados pessoais sujeitos a Avaliação de Impacto (AIPD) sobre a
+Proteção de Dados (Regulamento nº 1/2018).
+• Dados Pessoais: “informação relativa a uma pessoa singular identificada ou identificável («titular dos
+dados»); é considerada identificável uma pessoa singular que possa ser identificada, direta ou indiretamente,
+em especial por referência a um identificador, como por exemplo um nome, um número de identificação,
+dados de localização, identificadores por via eletrónica ou a um ou mais elementos específicos da identidade
+física, fisiológica, genética, mental, económica, cultural ou social dessa pessoa singular.”
+• Categorias Especiais de Dados Pessoais: dados pessoais que revelem a origem racial ou étnica, as
+opiniões políticas, as convicções religiosas ou filosóficas, ou a filiação sindical, bem como os dados
+genéticos, dados biométricos, que identificam uma pessoa de forma inequívoca, dados relativos à saúde ou
+dados relativos à vida sexual ou orientação sexual de uma pessoa.
+• Titular dos Dados Pessoais: pessoa singular identificada ou identificável a quem os dados dizem respeito.
+1 | 24
+
+=== PÁGINA 2 ===
+• Tratamento de Dados Pessoais: qualquer operação ou conjunto de operações efetuadas sobre dados
+pessoais ou sobre conjuntos de dados pessoais, por meios automatizados ou não automatizados, tais como
+a recolha, o registo, a organização, a estruturação, a conservação, a adaptação ou alteração, a recuperação,
+a consulta, a utilização, a divulgação por transmissão, difusão ou qualquer outra forma de disponibilização, a
+comparação ou interconexão, a limitação, o apagamento ou a destruição.
+• Registo das Atividades de Tratamento: cada responsável pelo tratamento ou o seu representante
+conserva um registo de todas as atividades de tratamento sob a sua responsabilidade, contendo: Atividades
+de tratamento; Finalidades; Fundamento de Licitude do tratamento; Categorias de titulares de dados;
+Categorias de dados pessoais tratados; Categorias de destinatários a quem os dados pessoais são
+divulgados; Prazos previstos para a conservação dos dados; Medidas técnicas e organizativas no domínio
+da segurança;
+• Direitos dos titulares: Direito à Informação; Direito de Acesso; Direito de Retificação dos dados; Direito de
+Oposição ao tratamento; Direito à Limitação do tratamento; Direito de Apagamento dos dados; Direito à
+Portabilidade dos dados; Direito a Retirar o Consentimento; Direito de apresentar uma reclamação à
+autoridade de controlo;
+• Terceiro: Pessoa singular ou coletiva, autoridade pública, serviço ou organismo que não seja titular de
+dados, responsável pelo tratamento, subcontratante, funcionário do responsável pelo tratamento/ do
+subcontratante.
+• Prestador de Serviço: Pessoa singular ou coletiva, a autoridade pública, agência ou outro organismo que
+no âmbito do contrato de prestação de serviços pode aceder a dados pessoais, mas trata os mesmos em
+seu nome e por sua conta.
+• Subcontratante: Pessoa singular ou coletiva, a autoridade pública, agência ou outro organismo que trate
+os dados pessoais por conta do responsável pelo tratamento destes;
+• Responsáveis Conjuntos: Dois ou mais responsáveis pelo tratamento que determinam conjuntamente,
+através de acordo entre si, e de modo transparente as finalidades da atividade de tratamento, os meios da
+atividade de tratamento, bem como as responsabilidades de cada um pelo cumprimento do RGPD,
+nomeadamente o Exercício de direitos do titular de dados e a Política de Privacidade a disponibilizar aos
+titulares de dados.
+• Violação de Dados Pessoais: Trata-se de uma violação da segurança que provoque, de modo acidental
+ou ilícito, a destruição, a perda, a alteração, a divulgação ou o acesso, não autorizados, a dados pessoais
+transmitidos, conservados ou sujeitos a qualquer outro tipo de tratamento. Uma violação de dados pessoais,
+deve ser notificada pelo responsável pelo tratamento à autoridade de controlo no prazo de 72 horas após ter
+tido conhecimento da mesma, a menos que a mesma não seja suscetível de resultar num risco para os
+direitos e liberdades das pessoas singulares.
+• Responsável pelo Tratamento: pessoa singular ou coletiva, autoridade pública, serviço ou qualquer outro
+organismo que, individualmente ou em conjunto com outrem, determine as finalidades e os meios de
+tratamento dos dados pessoais recolhidos e tratados. Compete ao Responsável pelo Tratamento cumprir as
+obrigações decorrentes do RGPD.
+• Encarregado de Proteção de Dados (EPD)/ Data Protection Officer (DPO): auxilia o Responsável pelo
+tratamento em todas as questões relacionadas com a proteção de dados pessoais, tendo como principais
+funções como: assegurar as relações com os titulares dos dados nas matérias abrangidas pelo RGPD e pela
+legislação nacional em matéria de proteção de dados, sensibilizar os utilizadores para a importância da
+deteção atempada de incidentes de segurança e para a necessidade de informar imediatamente o
+responsável pela segurança, entre outras.
+O Responsável pelo Tratamento assegura o envolvimento do EPD/DPO de forma adequada e em tempo útil,
+em todas as questões relacionadas com a proteção de dados.
+O EPD/DPO não deve receber instruções do Responsável pelo Tratamento relativamente ao exercício das
+suas funções.
+O EPD/DPO responde diretamente ao mais alto nível do Responsável pelo tratamento.
+2 | 24
+
+=== PÁGINA 3 ===
+Identificação da Necessidade de Realização da AIPD
+Identificar a razão da necessidade de realização de AIPD, assinalando com um "X" a(s) situação(ões) Ref. AIPD: XX
+aplicáveis.
+Utlizado como um Pré-AIPD para identificação da necessidade de realização da AIPD.
+Lista de tratamentos de dados pessoais sujeitos a Avaliação de Impacto (AIPD), emitida pela CNPD
+Se o tratamento corresponder a uma das situações identificadas nesta lista, a realização de AIPD é obrigatória
+O TRATAMENTO ENVOLVE: SIM NÃO OBSERVAÇÃO
+Tratamento de informação decorrente da utilização de
+1 dispositivos electrónicos que transmitam, por redes de
+comunicação, dados pessoais relativos à saúde
+Interconexão de dados pessoais ou tratamento que relacione
+dados pessoais previstos no nº. 1 do artigo 9º (categorias
+2
+especiais de dados) ou no artigo 10º do RGPD (condenações
+penais e infrações) ou dados de natureza altamente pessoal
+Tratamento de dados pessoais previstos no nº 1 do artigo 9º
+(categorias especiais de dados) ou no artigo 10º do RGPD
+(condenações penais e infrações) ou dados de natureza
+3
+altamente pessoal com base em recolha indireta dos mesmos,
+quando não seja possivel ou exequivel assegurar o direito de
+informação nos termos da alínea b) do nº 5 do artigo 14º do RGPD
+Tratamento de dados pessoais que implique ou consista na criação
+4
+de perfis em grande escala
+Tratamento de dados pessoais que permita rastrear a localização
+ou os comportamentos dos respetivos titulares (por exemplo,
+trabalhadores, clientes ou apenas transeuntes), que tenha como
+5
+efeito a avaliação ou classificação destes, excepto quando o
+tratamento seja indispensável para a prestação de serviços
+requeridos especificamente pelos mesmos
+Tratamento dos dados previstos no nº 1 do artigo 9º (categorias
+especiais de dados) ou no artigo 10º do RGPD (condenações
+penais e infrações) ou dados de natureza altamente pessoal para
+6 finalidade de arquivo de interesse público, investigação
+cientifica e histórica ou fins estatisticos, com exceção dos
+tratamentos previstos e regulados por lei que apresente garantias
+adequadas dos direitos dos titulares
+Tratamento de dados biométricos para identificação inequivoca
+dos seus titulares, quando estes sejam pessoas vulneráveis, com
+7 excepção de tratamentos previstos e regulados por lei que tenha
+sido precedida de uma avaliação de impato sobre a proteção de
+dados
+Tratamento de dados genéticos de pessoas vulneráveis, com
+exceção de tratamentos previstos e regulados por lei que tenha
+8
+sido precedida de uma avaliação de impato sobre a proteção de
+dados
+3 | 24
+
+=== PÁGINA 4 ===
+Identificação da Necessidade de Realização da AIPD
+Tratamento de dados pessoais previstos no nº 1 do artigo 9º
+(categorias especiais de dados) ou no artigo 10º do RGPD
+9 (condenações penais e infrações) ou dados de natureza
+altamente pessoal, com utilização de novas tecnologias ou
+nova utilização de tecnologias já existentes.
+Critérios de Avaliação segundo o Grupo do Artigo 29
+Caso o tratamento não conste da lista acima, aplicar os seguintes critérios.
+Os tratamentos que atendam a pelo menos 2 (dois) dos seguintes 9 (nove) critérios devem ser submetidos a uma AIPD:
+O TRATAMENTO ENVOLVE: SIM NÃO OBSERVAÇÃO
+1 Avaliação / scoring (incluindo criação de perfil e previsão)
+Tomada de decisão automatizada com efeitos significativos legais
+2
+ou similares
+3 Monitorização Sistemática
+Recolha de Dados sensíveis ou de natureza altamente pessoal
+4
+(incluindo categorias especiais de dados e dados criminais)
+5 Recolha e tratamento de dados pessoais em grande escala
+Referência cruzada de dados (correspondência, ligação e/ou
+6
+combinação conjunta de dados)
+Recolha e/ou tratamento de dados de pessoas vulneráveis
+7
+(pacientes, idosos, crianças, etc.)
+Uso inovador ou aplicação de soluções tecnológicas ou
+8
+organizacionais
+Exclusão e/ou Impedimento do Titular dos dados de exercer um dos
+9
+seus Direitos, usar um serviço ou contrato
+TOTAL 0 0
+Decisão sobre Necessidade de Realização de AIPD
+SIM Não
+Decisão
+Conclusão
+4 | 24
+
+=== PÁGINA 5 ===
+5 | 24
+
+=== PÁGINA 6 ===
+6 | 24
+
+=== PÁGINA 7 ===
+Identificação da AIPD
+Preencher com os elementos Identificativos base da AIPD Ref. AIPD: XX
+Nome da AIPD
+Responsável pelo Tratamento
+Responsável pela elaboração de AIPD
+Data de elaboração
+Responsável pela validação de AIPD
+Data de validação
+Parecer do EPD (S/N)
+Data do Parecer
+Consulta Prévia CNPD (caso exista)
+Data de submissão
+Parecer obtido
+7 | 24
+
+=== PÁGINA 8 ===
+Finalidade e Fundamento de Licitude
+Identificar a finalidade do tratamento (ex: investigação científica, biometria). Ref. AIPD: XX
+FINALIDADE DO TRATAMENTO
+Assinalar com um "X" o(s) fundamento(s) de licitude do tratamento e, caso seja solicitado, adicionar informação específica
+LICITUDE DO TRATAMENTO
+Consentimento do titular
+Caso se verifique, anexar cópia do formulário de consentimento à AIPD
+Execução de um contrato no qual o titular dos dados é parte, ou para diligências pré-
+contratuais a pedido do titular dos dados
+Caso se verifique, anexar o contrato à AIPD
+Obrigação jurídica
+Caso se verifique, identicar a obrigação jurídica base (usar espaço à direita)
+Defesa de interesses vitais do titular dos dados ou de outra pessoa singular
+Exercício de funções de interesse público ou exercício da autoridade pública
+Interesses legítimos prosseguidos pelo responsável pelo tratamento ou por terceiros
+Caso se verifique, ponderar em que medida os interesses legítimos do responsável
+prevalecem sobre os interesses ou direitos e liberdades fundamentais do titular.
+Tratamento necessário para fins de arquivo de interesse público, para fins de
+investigação científica ou histórica ou para fins estatísticos
+Outros.
+8 | 24
+
+=== PÁGINA 9 ===
+Caso não se verifique nenhum dos anteriores fundamentos, identificar outro no espaço à
+direita
+9 | 24
+
+=== PÁGINA 10 ===
+Descrição da Atividade de Tratamento
+As seguintes perguntas têm como objetivo facilitar a descrição do tratamento que se pretende realizar. Ref. AIPD: XX
+Se não se aplicarem ao tratamento em questão assinalar como N/A
+Descrição Sumária do tratamento ou da alteração pretendida a um
+tratamento existente (Objetivos, Benefícios, Âmbito, Partes Envolvidas)
+Importância da Atividade de Tratamento para a ACSS / Comunidade
+Científica / Outro
+Qual o número estimado de titulares de dados abrangidos (ou dimensão
+da amostra)?
+Qual é a área geográfica coberta pelo tratamento (ou da amostra)?
+10 | 24
+
+=== PÁGINA 11 ===
+Qual a duração do tratamento (dias, semanas, meses, anos)?
+Quem terá acesso aos dados pessoais tratados? Número estimado de
+elementos?
+O tratamento implica a tomada de decisões automatizada sem que haja
+intervenção humana? (ex: uso de algorítmos automatizados)
+Que categorias de titulares são abrangidas (Ex: Cidadãos, Profissionais de
+Saúde. Especificar caso existam Titulares Vulneráveis - ex: utentes, crianças,
+incapazes, idosos, empregados da organização)
+Envolve soluções / Plataformas tecnológicas? Quais?
+Especificar se envolver soluções Cloud
+Envolve recurso a Subcontratantes? Quais?
+Que Medidas de Segurança estão asseguradas?
+Envolve recurso a Prestadores de Serviço? Quais?
+Que Medidas de Segurança estão asseguradas?
+Envolve partilha de responsabilidades com outras Entidades? Quais?
+Que Medidas de Segurança estão asseguradas?
+Envolve transferências internacionais de dados (para países fora do EEE
+– Espaço Económico Europeu)?
+Para que Países? Que modelo foi adoptado? (ex: decisão de adequação)
+11 | 24
+
+=== PÁGINA 12 ===
+Envolve partilha de dados com outras entidades? Quais?
+Como vai ser realizada? Que Medidas de Segurança estão asseguradas?
+Qual a fonte de dados? (Ex. titular, questionário, sistema, terceiros, fonte
+pública)
+Como vão ser recolhidos os dados?
+Qual o período de conservação dos dados? Que fundamentação para o
+período indicado?
+Em caso de Projetos de Investigação de que tipo de estudo de trata?
+Prospectivo / Retrospectivo
+Em caso de estudo de investigação, quais as variáveis tratadas?
+Em caso de estudo de investigação, qual o processo de identificação
+dos casos a considerar para recolha e análise?
+Em caso de Projetos de Investigação que necessidades específicas
+existem para a publicação dos mesmos?
+12 | 24
+
+=== PÁGINA 13 ===
+Categorias de Dados Envolvidos
+Assinalar com um "X" as categorias de dados envolvidos no tratamento. Identificar para cada categoria os dados tratados (caso ainda não tenham sido identificados com detalhe nos
+items anteriores).
+DADOS DE IDENTIFICAÇÃO S N
+Ex: Nome; Morada; Data Nasc.; Idade; Naturalidade; Nacionalidade; Sexo; Filiação;
+Estado Civil; Nº Cartão Cidadão / BI; Data de Validade CC/BI; Nº de Segurança Social;
+Nº Cliente; Nº Carta de Condução; Data Validade; Carta de Condução; Nº Passaporte;
+Data Validade Passaporte; Autorização de Residência / Visto; Nº de colaborador /
+Colaborador; Local de Trabalho; Fotografia; Matrícula Viatura; Dados Viatura; (…)
+entre outros.
+DADOS DE CONTATO S N
+Ex.: Morada; E-mail pessoal / profissional; Nº Telefone Fixo Pessoal / profissional; Nº
+Telefone Móvel Pessoal / profissional; Fax; Local de Trabalho; (…) entre outros.
+DADOS DE FATURAÇÃO S N
+Ex.: NIF; montante cobrado; data cobrança; IBAN; (…) entre outros.
+DADOS VIDA FAMILIAR S N
+Ex: Nome, Data de Nascimento e Parentesco dos elementos que compõe o agregado
+familiar do colaborador / utente.
+DADOS VIDA PROFISSIONAL / ACADÉMICA S N
+Ex.: Categoria Profissional; Função; Departamento; Profissão; Conta de
+User/Rede/Sistemas Inf; E-mail profissional; Nº Telemóvel Móvel Profissional; Nº
+Telefone Fixo Profissional; Data Admissão Vínculo Laboral; Data Cessação Vínculo
+Laboral; Remuneração Fixa e Variável; Louvores; Pensões; Reformas; Antiguidade;
+Empresa; Fundos de Compensação; Renumeração Fixa e Variável; Habilitações
+Literárias; Estabelecimento de Ensino; Qualificações Profissionais; CV's (…) entre
+outros.
+INFORMAÇÃO DE ORDEM FINANCEIRA E PATRIMONIAL S N
+(Ex: Volume Negócios; Valor Liquido; Ativo total; origem fundos depositados; valores
+de poupança; outros)
+DADOS DE TRÁFEGO E LOCALIZAÇÃO
+S N
+13 | 24
+
+=== PÁGINA 14 ===
+(Ex: Geolocalização / dados de GPS; Endereço IP; Logs; identificadores de ligação;
+pontos wifi; GSM; outros)
+DADOS DE NAVEGAÇÃO NA INTERNET
+S N
+Ex: IP cookies de sessão, cookies de utilizador, cookies de terceiros, dados de
+navegação, device fingerprinting, medição de acesso a sites e interação através de
+ferramentas analíticas e de monitorização; (…) entre outros.
+PERFIS
+S N
+(Ex: Hábitos de vida; perfil de investimento e/ou RISCO; PERFIL de conta; hábitos de
+consumo; outros)
+ARTº 9º, Nº 1
+S N
+(Ex: Origem racial ou étnica, opiniões politicas, convições religiosas e filosóficas,
+filiação sindical, dados genéticos, dados biométricos (controlo de acesso fisico,
+controlo de acesso lógico), dados médicos ou de saúde, a vida e orientação sexual)
+ARTº 10º
+S N
+Tratamento de dados pessoais relacionados com condenações e infrações penais
+Lei 58/2019, art 19 e Lei 34/2013, art 31 S N
+Tratamento do dado pessoal imagem
+14 | 24
+
+=== PÁGINA 15 ===
+Ciclo de Vida dos Dados
+Descrever o Ciclo de Vida dos Dados (incluindo a Recolha dos Dados - como é feita, que dados são recolhidos, quem intervém, que tecnologia é utilizada; A Utilização dos Dados - o
+que vai ser feito com os dados recolhidos, com que dados, quem intervém na utilização, que tecnologias são usadas; o Armazenamento - como e onde vão ser armazenados os
+dados, quem intervém no processso, que tecnologias são usadas; a Comunicação ou transferência para terceiros - com que finalidade, que dados são comunicados / transferidos e
+para quem, como são transferidos os dados (que tecnologia é usada), e a Destruição ou eliminação- quando e como é assegurada, quem intervém, que tecnologia é usada).
+ETAPAS DO CICLO DE VIDA DOS DADOS
+Recolha de dados Utilização Armazenamento Comunicação de dados a terceiros Destruição/Eliminação
+Operação
+Dados
+Tratados
+Intervenientes
+no Processo
+Tecnologias
+Usadas
+15 | 24
+
+=== PÁGINA 16 ===
+Avaliação da necessidade e proporcionalidade das operações de tratamento
+Responder às seguintes questões com SIM/NÃO e justificar sumariamente as respostas.
+Questão Sim/Não Justificação
+Está identificada a base de legitimidade do tratamento?
+O tratamento tem em conta a ponderação dos interesses e direitos fundamentais do titular dos dados?
+O tratamento representa um interesse real e atual do responsável?
+Existem meios menos invasivos da privacidade que permitam alcançar a finalidade do tratamento e
+satisfazer o interesse legítimo do responsável?
+Está claramente definido o interesse do responsável para proceder ao tratamento de dados pessoais?
+Estão claramente identificadas as consequências que o não tratamento de dados pode causar ao
+responsável pelo tratamento?
+Existe um desequilíbrio na relação entre o titular dos dados e o responsável?
+O titular dos dados foi devidamente informado acerca do tratamento?
+Os direitos dos titulares são devidamente acautelados?
+O tratamento de dados pode causar risco para os direitos e liberdades do titular?
+Trata-se de um tratamento padronizado no setor?
+O tratamento está de acordo com a legislação nacional e o direito da União Europeia?
+Os dados recolhidos são exclusivamente utilizados para finalidades determinadas, explícitas e legítimas e
+não para qualquer outra que não tenha sido previamente informada ou que seja incompatível com a
+recolha inicial (princípio da limitação da finalidade)?
+Os dados recolhidos são adequados, pertinentes e limitados ao que é necessário relativamente às
+As tecnologias utilizadas para o tratamento são adequadas à finalidade estabelecida do ponto de vista do
+cumprimento dos princípios fundamentais da privacidade?
+Estão definidos os prazos de conservação? Quais são? Qual a justificação?
+Existem mecanismos de eliminação de dados implementados decorrido o prazo de conservação? Quais
+Os dados são conservados de uma forma que permita a identificação dos titulares dos dados apenas
+durante o período necessário para as finalidades são tratados (princípio da limitação da conservação)?
+A organização tem uma estrutura interna de privacidade ou um Encarregado de Proteção de Dados
+designado?
+A organização tem procedimentos de resposta em caso de violação de dados pessoais?
+As obrigações dos Subcontratantes / Prestadores de Serviço / Responsáveis Conjuntos estão claramente
+identificadas em contrato?
+Em caso de transferência de dados para fora do EEE, os dados são adequadamente protegidos?
+16 | 24
+
+=== PÁGINA 17 ===
+Medidas de Segurança Técnicas e Organizativas
+São apresentadas questões para facilitar a identificação de Medidas de Segurança, no entanto, as mesmas não se esgotam nestas questões e dependem da natureza do tratamento.
+Responder às seguintes questões com SIM/NÃO/NA, justificar sumariamente as respostas e completar com outras medidas.
+Questão Sim/Não Justificação
+Os dados são anonimizados? Em caso afirmativo, explicitar o método usado.
+Os dados são pseudonimizados? Em caso afirmativo, explicitar o método usado.
+Os dados quando estão em repouso (sempre que não estiverem a ser usados)
+encontram-se encriptados? Em caso afirmativo, explicitar como.
+Existe um processo de autenticação dos utilizadores que obrigue à utilização de uma
+palavra-passe forte, com limite de tentativas e obrigatoriedade à sua alteração após um
+determinado período?
+É limitado o acesso aos dados apenas a pessoas autorizadas? De que forma?
+É assegurado o controlo de acessos físicos? Como?
+É utilizado o email para transmissão de dados? Que medidas são acauteladas?
+São usadas formas seguras de transmissão / partilhas de dados? Quais?
+São usados protocolos de segurança? Quais?
+Os dados são submetidos a uma função de hash com salt?
+É garantida a proteção do posto de trabalho / rede contra código malicioso? De que
+forma?
+É garantida a proteção da rede informática interna? De que forma? (pode ser limitado o acesso
+à internet ou os acessos a equipamentos via VPN?
+É possível limitar a possibilidade de exportação/ impressão de informação? Como?
+Existem controlos sobre os prazos de conservação estipulados, em repositórios digitais/
+físicos? Que tipo de controlo?
+Existem mecanismos automáticos de eliminação de informação? Quais?
+Os dados arquivados são geridos com a devida segurança relativamente aos acessos e
+à sua destruição?
+Existem mecanismos que assegurem o controlo de acessos ilegítimos? Quais?
+Existem mecanismos que assegurem a atualização de acessos (elimininação,
+alteração)? Quais
+Estão implementados sistemas de rastreabilidade? Quais?
+Estão devidamente identificados e atribuídos os perfis que permitem editar, consultar,
+eliminar informação?
+Existem backups dos dados? De que forma são efetuados? Onde se encontram?
+É garantida a manutenção e atualização dos sistemas? De que forma?
+Existem medidas que permitam controlar o acesso a repositórios de informação (físico
+ou digital) ? Quais?
+Existem cláusulas específicas nos contratos com subcontratantes que assegurem a
+proteção de dados?
+Existem cláusulas específicas nos contratos com Colaboradores que assegurem a
+confidencialidade e proteção de dados?
+Os elementos envolvidos foram capacitados para poderem realizar o tratamento de
+dados em segurança? Que evidências?
+Estão planeadas auditorias ao tratamento de dados?
+Estão definidos procedimentos de resposta em caso de violação da dados pessoais? Se
+sim adicionar à AIPD
+Estão definidas políticas de segurança da informação? Se sim adicionar à AIPD
+17 | 24
+
+=== PÁGINA 18 ===
+18 | 24
+
+=== PÁGINA 19 ===
+Critérios de Valoração do Risco
+A presente folha é meramente consultiva, contendo os critérios base ao preenchimento a efetuar na página seguinte
+Fórmula para cálculo do Risco:
+"Identificação e Avaliação de Riscos e Medidas Mitigadoras do Risco".
+Risco = Probabilidade x Impacto
+Níveis de Valoração de Probabilidade e Impacto:
+Impacto: Quais os possíveis danos causados caso o risco se concretize? Danos Físicos (ex: integridade física), Danos Materiais
+Probabilidade: Qual a possibilidade de concretização do risco?
+(ex: perdas financeiras e patrimoniais) e Danos Morais (ex: depressão, medo)
+Probabilidade Impacto
+Apresenta um impacto muito baixo/ irrelevante para os titulares dos
+dados.
+Muito Baixa Probabilidade de ocorrência é muito baixa Muito Baixo
+Não Desconforto físico irrelevante ou inexistente.
+1 Não SignificativaProbabilidade/ (ex: um evento que pode ocorrer de forma 1 Impacto/
+Significativo Danos materiais irrelevantes ou inexistentes.
+Irrelevante fortuita, por acidente) Irrelevante
+Não estão em causa os direitos e liberdades do titular.
+Pode representar um impacto menor para os titulares dos dados, mas
+não os afeta de forma significativa.
+Danos físicos menores.
+Probabilidade de ocorrência é baixa (ex: um
+2 Limitada Pouco Provável 2 Limitado Baixo Impacto Danos materiais menores (ex: custos extra, não acesso a
+evento que pode ocorrer de forma pontual)
+determinados serviços sem impacto para o titular dos dados).
+Limitação de direitos e liberdades do titular, por exemplo por
+difamação.
+Representa um impacto grave para os titulares de dados.
+Agressões físicas.
+Probabilidade de ocorrência é elevada (ex:
+Danos materiais graves, ex: propriação indevida de recursos, perda do
+3 Significativa Provável um evento que pode ocorrer com 3 Significativo Grave Impacto
+emprego, prejuízos econômicos relevantes.
+frequência)
+Viola os direitos e liberdades do titular com impacto significativo na
+reputação.
+Representa um impacto muito grave para os titulares de dados.
+Agressões físicas com consequências irreparáveis.
+Probabilidade de ocorrência é muito
+Muito Grave Danos materiais irreparáveis, ex: dívidas intransponíveis,
+4 Muito elevada Muito Provável elevada (ex: um evento que pode ocorrer 4 Muito elevado
+Impacto impossibilidade de voltar a trabalhar, danos financeiros irreparáveis.
+com muita frequência)
+Ataque significativo contra os direitos e liberdades do titular com
+sofrimento psíquico e consequências irreparáveis de longo prazo.
+Tabela de Valoração de Risco:
+4 4 8 12 16 Legenda
+3 3 6 9 12 Baixo Valor entre 1 e 2
+Probabili-
+dade 2 2 4 6 8 Médio Valor entre 3 e 6
+1 1 2 3 4 Alto Valor entre 8 e 9
+1 2 3 4 Muito Alto Valor superior a 9
+Impacto
+19 | 24
+
+=== PÁGINA 20 ===
+Principais Riscos Potenciais
+Riscos associados à Conformidade
+- Cumprimento dos direitos dos titulares: ex: ausência de procedimentos para exercício de direitos
+- Princípios relativos ao tratamento, em particular ausência de licitude, tratamento ilícito de dados pessoais (ex: não cumprimento da minimização de dados, da limitação da conservação)
+Riscos associados à Proteção e Segurança da Informação
+- Confidencialidade dos Dados / Acesso Ilegítimo aos dados
+- Integridade dos Dados Pessoais / Modificação ou alteração dos dados de forma indesejada
+- Disponibilidade dos Dados Pessoais / Perda, desaparecimento ou apagamento indesejado dos dados pessoais
+Exemplo de Riscos Exemplo do Impacto causado nos Titulares de Dados
+1. Confidencialidade / Acesso Ilegítimo aos dados
+Impossibilidade de exercício de direitos
+Partilha inadequada de informação Impossibilidade de acesso a serviços
+Acesso alargado / indiscriminado à informação Perda de controlo sobre os dados pessoais
+Inexistência de um sistema de rastreio de logs Discriminação
+Não atualização de acessos Roubo de identidade ou fraude
+Dispersão de informação por diferentes sistemas / bases de dados Impacto financeiro
+Inexistência de prazos de conservação definidos / cumpridos Perdas financeiras
+Recolha de informação não necessária ao tratamento Perda de confidencialidade
+Recolha de informação de diferentes fontes Re-identificação dos dados
+Possibilidade de exportação/ impressão de informação Danos Psicológicos
+Inexistência de mecanismos de reporte para risco de acesso ilegítimo Danos reputacionais
+Inexistência de auditorias previstas ao tratamento Danos físicos
+Falta de mecanismos de proteção contra código malicioso
+Falta de capacitação dos elementos / utilizadores para o uso e segurança da informação
+20 | 24
+
+=== PÁGINA 21 ===
+2. Modificação indesejada
+Permisssões excessivas ao acesso à informação
+Inexistência de controlos de validação de alterações à informação
+Inexistência de rastreabilidade
+Erro humano
+Falta de controlo de acessos previligiados
+Possibilidade de alterações aos logs de sistema
+Falta de mecanismos de proteção contra código malicioso
+Falta de capacitação dos elementos / utilizadores para o uso e segurança da informação
+3. Desaparecimento dos dados
+Inexistência de controlos sobre os prazos de conservação estipulados
+Existência de mecanismos automáticos de eliminação de informação sem controlo adicional
+Inexistência de backups de informação
+Falta de manutenção / atualização dos sistemas
+Falta de controlos de acesso a repositórios de informação (físico ou digital)
+Falta de mecanismos de proteção contra código malicioso
+Falta de capacitação dos elementos / utilizadores para o uso e segurança da informação
+21 | 24
+
+=== PÁGINA 22 ===
+Identificação e Avaliação de Riscos e Medidas Mitigadoras do Risco
+Identificar os potenciais riscos, indicando o Tipo de Risco - Conformidade / Segurança da Informação, o Risco específico, o impacto para os titulares, as fontes do risco e a valoração do mesmo.
+Descrever as ações que podem ser tomadas de imediato para reduzir os riscos, bem como quaisquer outras ações que devam ser realizadas no futuro (por exemplo, realização de testes de segurança ao sistema, redação de orientações etc.).
+Após a indicação das medidas mitigadoras proceder ao cálculo do risco residual.
+Valoração do Risco
+Valoração risco Inerente Valoração risco Residual
+Ref. Tipo de Risco Risco Descrição Impacto Fontes de Risco (Probabilidade X Impacto) Ref. Medida Medida Mitigadora (Probabilidade X Impacto) Consulta Prévia
+Risco Mitigadora CNPD?
+Probalibidade Impacto Valoração do Probalibidade Impacto Valoração do
+Resultado Resultado
+(valor) (valor) Risco (valor) (valor) Risco
+R001 0 Baixo MM001 0 Baixo
+R002 0 Baixo MM002 0 Baixo
+0
+R003 0 Baixo MM003 0 Baixo
+0
+R004 0 Baixo MM004 0 Baixo
+0
+R005 0 Baixo MM005 0 Baixo
+0
+R006 0 Baixo MM006 0 Baixo
+0
+R007 0 Baixo MM007 0 Baixo
+0
+22 | 24
+
+=== PÁGINA 23 ===
+Lista de Documentos
+Identificar os documentos que suportam a análise efetuada (ex: formulário de
+Ref. AIPD: XX
+consentimento, contratos, protocolos, acordos, evidências)
+Nome do Documento
+Observações
+23 | 24
+
+=== PÁGINA 24 ===
+Parecer EPD
+Ref. AIPD: XX
+Análise
+Recomendações
+R01
+R02
+R03
+R04
+Consulta Prévia
+S N Observações / Motivo
+Necessário Realizar
+Consulta Prévia à
+CNPD?
+Parecer: Implementar ou Não Efetuar Tratamento
+Implementar
+Nome / Assinatura
+24 | 24

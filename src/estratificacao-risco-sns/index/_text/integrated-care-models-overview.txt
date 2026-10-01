@@ -1,0 +1,1476 @@
+# Fonte: Integrated-care-models-overview.pdf
+# Páginas: 42
+
+=== PÁGINA 1 ===
+Integrated care
+models: an overview
+Working document
+
+=== PÁGINA 2 ===
+
+
+=== PÁGINA 3 ===
+Integrated care
+models: an overview
+Working document
+October 2016
+Health Services Delivery Programme
+Division of Health Systems and Public Health
+
+=== PÁGINA 4 ===
+Abstract
+Over the past decade many definitions, concepts and theories have emerged explaining and defining what integrated
+care is and what the main building blocks for the successful integration of services are. By means of a scoping
+literature review, this document aims to provide conceptual clarity and consolidate the current understanding of
+integrated care models. In light of the current implementation of the European Framework for Action on Integrated
+Health Services Delivery, this document provides a cross-cutting analysis of components that challenge or support
+integrated care, and delivers an output of generic considerations when designing and implementing integrated care
+models.
+Keywords
+DELIVERY OF HEALTHCARE, INTEGRATED
+HEALTH CARE SYSTEMS
+HEALTH SERVICES
+Address requests about publications of the WHO Regional Office for Europe to:
+Publications
+WHO Regional Office for Europe
+UN City, Marmorvej 51
+DK-2100 Copenhagen Ø, Denmark
+Alternatively, complete an online request form for documentation, health information, or for permission to quote or translate, on the
+Regional Office website (http://www.euro.who.int/pubrequest).
+© World Health Organization 2016
+All rights reserved. The Regional Office for Europe of the World Health Organization welcomes requests for permission to reproduce or
+translate its publications, in part or in full.
+The designations employed and the presentation of the material in this publication do not imply the expression of any opinion
+whatsoever on the part of the World Health Organization concerning the legal status of any country, territory, city or area or of its
+authorities, or concerning the delimitation of its frontiers or boundaries. Dotted lines on maps represent approximate border lines for
+which there may not yet be full agreement.
+The mention of specific companies or of certain manufacturers’ products does not imply that they are endorsed or recommended by the
+World Health Organization in preference to others of a similar nature that are not mentioned. Errors and omissions excepted, the names
+of proprietary products are distinguished by initial capital letters.
+All reasonable precautions have been taken by the World Health Organization to verify the information contained in this publication.
+However, the published material is being distributed without warranty of any kind, either express or implied. The responsibility for the
+interpretation and use of the material lies with the reader. In no event shall the World Health Organization be liable for damages arising
+from its use. The views expressed by authors, editors, or expert groups do not necessarily represent the decisions or the stated policy of
+the World Health Organization.
+
+=== PÁGINA 5 ===
+Table of contents
+List of figures ........................................................................................................................ iv
+List of tables .......................................................................................................................... iv
+List of abbreviations ............................................................................................................... v
+Acknowledgements ............................................................................................................... vi
+Preface ................................................................................................................................ vii
+About this document ........................................................................................................... 1
+Purpose and rationale ........................................................................................................ 1
+Methods and sources of evidence ...................................................................................... 1
+Overview of sections .......................................................................................................... 2
+Sectione one: Integrated care as a multifaceted concept ................................................. 3
+1.1 Definition of integrated care .......................................................................................... 3
+1.2 Taxonomies of integration ............................................................................................ 5
+Sectione two: Models of integrated care ............................................................................ 7
+2.1 Individual models of integrated care ............................................................................. 7
+2.2 Group- and disease-specific models ........................................................................... 10
+2.3 Population-based models ........................................................................................... 15
+Section three: Synthesis of evidence ............................................................................... 18
+Final remarks...................................................................................................................... 21
+References .......................................................................................................................... 21
+Annexes ............................................................................................................................... 26
+
+=== PÁGINA 6 ===
+Integrated care models: an overview
+Page iv
+List of figures
+Fig. 1. Perspectives shaping integrated care ......................................................................... 3
+Fig. 2. Overview of PCMH attributes delivered at Bend Memorial Clinic, USA....................... 9
+Fig. 3. The Chronic Care Model .......................................................................................... 10
+Fig. 4. The Innovative Care for Chronic Conditions Model .................................................. 12
+Fig. 5. The PRISMA model of Integrated Service Delivery System ...................................... 13
+Fig. 6. Extended Kaiser Pyramid ......................................................................................... 15
+List of tables
+Table 1. Typologies of integration ......................................................................................... 5
+Table 2. Key components and strategies of CCM ............................................................... 11
+Table 3. Example measures within VA performance monitoring system.............................. 16
+
+=== PÁGINA 7 ===
+Integrated care models: an overview
+Page v
+List of abbreviations
+AHRQ Agency for Healthcare Research and Quality
+AQuA Advanced Quality Alliance
+CCM Chronic Care Model
+CCU Continuity of Care Units
+EFFA IHSD European Framework for Action on Integrated Health Services Delivery
+GP general practitioner
+IHO integrated healthcare organizations
+IHSD integrated health services delivery
+KP Kaiser Permanente
+PAHO Pan-American Health Organisation
+PCMH Patient-Centred Medical Home
+VA Veterans Health Administration
+USA United States of America
+
+=== PÁGINA 8 ===
+Integrated care models: an overview
+Page vi
+Acknowledgements
+A first draft of this document was prepared by Nick Goodwin, International Foundation for
+Integrated Care. Viktoria Stein, International Foundation for Integrated Care, contributed to
+advance the document. The final document was developed by Altynai Satylganova and
+reviewed by Juan Tello and Erica Barbazza, WHO Regional Office for Europe. The work
+reflects the concepts underpinning activities of the Health Services Delivery Programme,
+together with its office, the WHO European Centre for Primary Health Care in Almaty,
+Kazakhstan. The Programme is a technical unit within the Division of Health Systems and
+Public Health.
+The work has benefitted from the expert input of Lourdes Ferrer, International Foundation for
+Integrated Care, Nicki McNaney and Elizabeth Bradbury, Advancing Quality Alliance
+(AQuA).
+All figures are reproduced with the permission of authors.
+
+=== PÁGINA 9 ===
+Integrated care models: an overview
+Page vii
+Preface
+In 2012, Member States of the WHO European Region endorsed the European health policy
+Health 2020, recognizing health system strengthening as one of four priority action areas in
+setting out a course of action for achieving the Region’s greatest health potential by year
+2020 (1). The vision put forward by Health 2020 calls for people-centred health systems. In
+doing so, it extends the same principles as first set out in the health-for-all and primary health
+care agenda.
+In line with these priorities, strategic entry points over the 2015–2020 period have been
+further delineated in two priority areas: (i) transforming health services to meet the health
+challenges of the 21st century and (ii) moving towards universal coverage for a Europe free
+of catastrophic out-of-pocket payments (2).
+Working to take the first of these priorities forward and in alignment the WHO global strategy
+on people-centred and integrated health services (3), this document is intended to contribute
+to the development of the European Framework for Action for Integrated Health Services
+Delivery (4).
+
+=== PÁGINA 10 ===
+
+
+=== PÁGINA 11 ===
+Integrated care models: an overview
+Page 1
+About this document
+In many health systems, integrated care is seen as a possible solution to the growing
+demand for improved patient experience and health outcomes of multimorbid and long-term
+care patients. During the last decade different models and approaches to integrated care
+have been widely applied and documented across a variety of settings, which has resulted in
+the multiplicity of definitions and conceptual frameworks. A literature review conducted by
+Armitage et al. (5) uncovered some 175 overlapping definitions and concepts of integrated
+care, indicating the absence of consensus in its definition. Such multiplicity stems from the
+polymorphous nature of the concept that has been applied from several disciplinary
+perspectives such as public administration, social science, psychology as well as differing
+professional points of view, such as clinical vs. managerial, holistic care vs. disease
+management and public health vs. long-term care. Integrated care is, therefore, associated
+with a wide range of different objectives (6).
+Today, the lack of common definitions and underlying concepts aggravates the already
+existing difficulty to assess integrated care (7). The need to better understand integrated
+care extends beyond theoretical rhetoric and is based on the emerging pressure on health
+systems to develop and invest in integrated care, which, in turn, calls for a pragmatic
+understanding of the concept and mapping of evidence. This document aims to extract such
+knowledge from the existing conceptual discourse on integrated care and evidence from the
+field. By doing so, it will serve as a tool for understanding and distinguishing integrated care
+models in practice.
+Purpose and rationale
+This document aims to consolidate the insights of conceptual frameworks, as well as provide
+a synthesis of existing integrated care models.
+The following key questions were posed to guide the review process:
+1. How can ‘integrated care’ be defined?
+2. What are the forms and taxonomies of integrated care?
+3. What are the commonly known models of integrated care?
+4. How can findings of this review inform an understanding and practical application of
+European Framework for Action on Integrated Health Services Delivery (EFFA
+IHSD)?
+The ultimate objective of this document is to provide conceptual clarity and consolidate
+practical know-how in designing and implementing integrated care models. Notably, earlier
+versions of the document contributed to the development of EFFA IHSD (4).
+Methods and sources of evidence
+This report has adopted the methodology of a scoping literature review. Guided by the
+specific expertise of its contributors, the report is a synthesis of selective reviews of
+
+=== PÁGINA 12 ===
+Integrated care models: an overview
+Page 2
+definitions, conceptual frameworks and practical models of integrated care. The range of
+reviewed integrated care models is not exhaustive owing both to the limitations in the scope
+and methodology of this review. However, through inclusion of a variety of types and levels
+of integration, the range of components and settings described in reviewed integrated care
+models has reached a certain saturation point, allowing for the subsequent analysis and
+extrapolation of findings.
+Notably, this document represents an ex-post approach: earlier versions served as the
+background document for development of EFFA IHSD, while the current version has been
+shaped by the evolution and adoption of the Framework itself.
+Overview of sections
+Responding to the key questions posed has in-turn informed the sections of the document.
+Section 1 seeks to clarify the concept and taxonomies of integrated care. Section 2
+examines well-known integrated care models. Finally, Section 3 provides a synthesis of the
+reviewed evidence and summarizes the potential input to understanding and practical
+application of EFFA IHSD.
+
+=== PÁGINA 13 ===
+Integrated care models: an overview
+Page 3
+Section one: Integrated care as a multifaceted concept
+1.1 Definition of integrated care
+Integrated care is often contraposed to fragmented and episodic care, and it is used
+synonymously to terms like coordinated care and seamless care, among others. However,
+there is no unifying definition or common conceptual understanding of integrated care, which
+is most likely a result of ‘the polymorphous nature of integrated care itself’ (7). In effect, the
+perspectives that construct the concept are likely to be shaped by views and expectations of
+various stakeholders in the health system (Fig. 1).
+Fig. 1. Perspectives shaping integrated care
+Manager
+Provider Care professional
+Build and sustain shared culture
+Coordinate services, tasks Advocate for service users;
+and values; maintain oversight of
+and patient care across provide and coordinate health
+pooled resources and funding
+professional, organizational
+and social care
+streams; coordinate joint targets;
+and system boundaries
+supervise diverse staff; manage
+complex organizational
+structures and relationships
+Policy-maker
+Design integration-friendly policies,
+regulation and financing
+Service user/carer
+arrangements; develop appropriate Integrated care
+Experience improved access
+care systems, processes and
+and navigation across elements
+quality standards; support holistic
+of care, including information-
+evaluation of integrated systems
+sharing
+and programmes
+Regulator Evaluator
+Community
+Register integrated providers; Measure integration against
+Help to shape local services
+assess care provision; monitor national and local measures;
+joined-up care; eliminate poor contribute to evidence-
+quality and safety informed integration
+Source: Adapted from (8)
+Based on the variety of perspectives and concepts, three principal definitions can be
+distinguished from the literature.
+1. A process-based definition used by many national governments in order to
+understand the different components of integrated care.
+“Integration is a coherent set of methods and models on the funding,
+administrative, organizational, service delivery and clinical levels designed to
+create connectivity, alignment and collaboration within and between the cure
+and care sectors. The goal of these methods and models is to enhance quality
+of care and quality of life, consumer satisfaction and system efficiency for
+people by cutting across multiple services, providers and settings. Where the
+
+=== PÁGINA 14 ===
+Integrated care models: an overview
+Page 4
+result of such multi-pronged efforts to promote integration leads to benefits for
+people, the outcome can be called integrated care” (adapted from (9)).
+This definition imbues integrated care with the qualities of care coordination, as a continuous
+support process over time, yet primarily bounded within the scope of health care. The
+definition rightly describes the complexity and intersectoral nature of integrated care and it
+has the advantage of distinguishing between integration, i.e. the process by which
+professionals and organisations come together; and integrated care understood as the
+outcome experienced by service users. However, the definition is rather a mechanistic one,
+as integrated care is seen as a set of interconnecting processes rather than something that
+has a specific meaning or value to the end user.
+2. A user-led definition that supports a defining narrative and purpose for integrated
+care strategies at all levels of the system.
+“My care is planned with people who work together to understand me and my
+carer(s), put me in control, coordinate and deliver services to achieve my best
+outcomes” (10).
+This definition of integrated care, now employed by the Government of England as part of a
+central narrative to frame its integrated care strategies, is determined by people themselves.
+This user-led definition followed a year-long national consultation process coordinated by
+National Voices – a patient representative group. In this instance, the definition itself is
+perhaps not as important as the process through which it was derived, as it highlights the
+importance of population and individual needs in design, implementation and evaluation of
+integrated care models. The definition has been accepted nationally as the narrative for
+cross-governmental efforts.
+3. A health system-based definition as used by WHO Regional Office for Europe.
+“Integrated health services delivery is defined as an approach to strengthen
+people-centred health systems through the promotion of the comprehensive
+delivery of quality services across the life-course, designed according to the
+multidimensional needs of the population and the individual and delivered by a
+coordinated multidisciplinary team of providers working across settings and
+levels of care. It should be effectively managed to ensure optimal outcomes
+and the appropriate use of resources based on the best available evidence,
+with feedback loops to continuously improve performance and to tackle
+upstream causes of ill health and to promote well-being through intersectoral
+and multisectoral actions” (4).
+This definition adopts a health system perspective and uses the term ‘integrated health
+services delivery (IHSD)’, acknowledging that integrated care is achieved through the
+alignment of all health system functions and effective change management.1
+Implicit to all three of these definitions is the notion that integrated care should be centred on
+the needs of individuals, their families and communities (8). Indeed, there is considerable
+evidence that the use of such a perspective ought to lie at the heart of any discussion about
+integrated care in order to bring together potentially competing factions (11). This is not just
+because a user-centred vision for care delivery overcomes the tendency to choose structural
+1
+In the context of this report, terms ‘integrated care’ and ‘integrated health services delivery’ are used interchangeably
+
+=== PÁGINA 15 ===
+Integrated care models: an overview
+Page 5
+or organisationally-based solutions, but also because it provides a compelling case as to the
+objectives for integrated care and, therefore, how success might be assessed (12).
+1.2 Taxonomies of integration
+Evidence suggests that transformations towards integrated care require a good
+understanding of the various dimensions of integration; which in effect calls for the
+development of a comprehensive overview. Drawing from the definitions described above,
+taxonomies of integrated care can be distinguished.
+Table 1. Typologies of integration
+Integration of organizations are brought together formally by mergers or through 'collectives' and/or
+Organizational virtually through coordinated provider networks or via contacts between separate organizations
+brokered by purchaser
+Functional Integration of non-clinical support and back-office functions, such as electronic patient records
+Integration of different clinical services at an organizational level, such as through teams of
+Service
+multidisciplinary professionals
+Integration of care delivered by professional and providers to patients into a single or coherent
+Clinical
+process within and/or across professions, such as through use of shared guidelines and protocols
+Source: adapted from (12)
+Lewis et al. (12) distinguish four types of integration: organizational, functional, service and
+clinical (Table 1). Organizational integration can be described as bringing together several
+organizations through coordinated provider networks and mergers. Functional integration
+means integration of non-clinical and back-office functions through, for example, shared
+electronic patient records. Service integration refers to integration of different clinical
+services at an organizational level by, for example, establishing multidisciplinary teams.
+Clinical integration is integration of care into a single and coherent process within/or across
+professions by means of, among others, using shared guidelines and protocols.
+Each of these integration types can be further characterized by the mechanism of
+integration. When integration is based on shared values for coordination and collaboration
+that is seen as normative integration; integration characterized by the coherence of rules and
+policies at various levels of the organisation is systemic integration (12).
+Integration can also be described as horizontal or vertical (13). Horizontal integration
+occurs when activities across operating units and/or organizations that are at the same stage
+in the process of delivering services come together. Examples of horizontal integration can
+include mergers of acute hospitals or mergers of social and health care organizations.
+Vertical integration implies coordination of services among operating units that are at
+different stages in the process of delivering services. Vertical integration brings together
+organizations at different levels of the hierarchical structure under one management
+umbrella by, for example, integrating primary and secondary care, or general practice and
+community care.
+Any of the above mentioned integration processes can occur as either real or virtual
+integration (13). The former is characterized by mergers between organizations by for
+example, sharing of physical assets and infrastructure, while the latter depicts rather the
+formation of alliances, networks and contractual arrangements.
+
+=== PÁGINA 16 ===
+Integrated care models: an overview
+Page 6
+Depending on the scope of the integration process, Nolte and McKee (6) distinguish the
+breadth of integration. It can range from care integration for particular individuals, care
+integration for specific diseases or population groups, and care integration for entire
+population. Similar to this, Curry and Ham (13) distinguish levels at which integration can be
+pursued. Integration at the micro-level aims to achieve a seamless care experience for the
+individual, made possible, for example, through personalized care plans. Integration at the
+meso-level aims to provide integrated care for a particular care group or populations with the
+same disease or conditions. Integration at the macro-level can be described as provision of
+integrated care to an entire population through stratification of needs and tailoring services
+according to these needs.
+One can also distinguish the time-span that integration places focus; it can be oriented
+towards a specific episode of care, e.g. hospitalization and follow-up for acute surgical
+condition, or it can be provided adopting a life-course approach, e.g. for chronic conditions
+(6).
+Integrated care can take place at various levels and settings within the health sector, e.g.
+between primary care and hospitals or as integration of health and social sectors, e.g. care
+for long-term patients. In this regard, integration can be categorized according to its
+intensity: full integration involves process of integrating health and social sectors into a new
+organizational model, while partial integration creates non-binding linkages or ties that
+support integration between two sectors in order to improve coordination between them (6).
+The multidimensional nature of the integration processes points to the sophistication of
+building integrated care models, as well as to the multiplicity of possibilities in their design.
+Illustrating this complexity, the following section reviews selected integrated care models.
+
+=== PÁGINA 17 ===
+Integrated care models: an overview
+Page 7
+Section two: Models of integrated care
+This section aims to provide an overview of widely known integrated care models in an
+attempt to capture components and processes involved in their design and implementation.
+To start, the section reviews models of integrated care according to the scale at which
+integration happens – from models designed to integrate care for individuals with chronic
+conditions and disease-specific models to population-based integrated models. The models
+are sequenced in this way reasoning that wider population models will, as a rule, include
+elements of more narrowly targeted models. For example, the population-based Kaiser
+Permanente model described as an example here includes elements of disease
+management for all chronic patients and case-management for high-risk patients.
+2.1 Individual models of integrated care
+This group of integrated care models is concerned with individual coordination of care for
+high-risk patients and/or with multiple conditions and their carers. Individual models of
+integrated care aim to facilitate the appropriate delivery of health care services and
+overcome fragmentation between providers (14). Coordination of care for such patients
+extends beyond one episode of care, where coordination between different providers is
+necessary, but also embraces the concept of integration across the life-course. Individual
+models described in the literature vary in design and integration processes that stand behind
+them. The following sub-sections describe the widely known models.
+2.1.1 Case-management
+According to the American Case Management Association, case-management is “a
+collaborative process that encompasses communication and facilitates care along a
+continuum through effective resource coordination… goals of case management include the
+achievement of optimal health, access to care and appropriate utilization of resources,
+balanced with the patient's right to self-determination” (15). Despite the myriad of
+modifications that have been applied within and outside of the United States of America
+(USA) system, the generic principle of case-management remains the same: to ensure
+coordination of a patient’s care through the assignment of a case manager. The role of a
+case manager can be designated to certified case managers with or without a medical
+background as well as to advanced primary care nurses or allied health professionals
+(15,16). Crucial components of case-management include: (i) defining and selecting target
+individuals for which case management is most appropriate, e.g. patients with
+multimorbidities, patients frequently admitted to hospitals or patients needing coordination
+within and across health and social care; (ii) assessment and individual care planning; (iii)
+regular monitoring of patients; and (iv) adjustment of care plans if necessary. The primary
+tasks of a case manager are therefore to assess the patient’s and carer’s needs, develop
+tailored care plan, organize and adjust care processes accordingly, monitor quality of care
+and maintain contact with the patient and carer (17).
+Evidence shows that case-management decreases the number of hospital (re)admissions
+and improves patient satisfaction, while evidence on cost-effectiveness case-management
+remains controversial (13). In this regard an important consideration in designing and
+delivering case-management is that it should be delivered to carefully selected groups of
+patients that are most likely to benefit from it.
+
+=== PÁGINA 18 ===
+Integrated care models: an overview
+Page 8
+2.1.2 Individual care plans
+Care planning is another approach of integrating care for patients with multimorbidity and
+long-term conditions. The aim is to deliver more personalized and targeted care creating
+shared care plans that map care processes, clearly articulate the role of each provider and
+patients in the care process, and hold retrospective and prospective information about the
+care for a particular patient. Care plans are a point of reference for any provider involved in
+an individual’s care (13). Care coordinators assess the needs of a patient, develop care
+plans and negotiate and coordinate the delivery of multidisciplinary care (18). The success of
+care plans that extend to the interface of health and social sectors rely on the influential
+power that care coordinators are given (19).
+Considerations should be made in the design of care plans to ensure that it brings intended
+outcomes. Similarly to case-management, care plans are costly and labour intensive.
+Therefore, they require clear eligibility criteria and careful selection of beneficiaries. In
+developing care plans it is important that the patient and/or the carer has ownership of and
+understands the plan (13). Moreover, care plans should be dynamic in nature, adjusted
+through periodic assessments and patient feedback. The use of information technology is
+crucial to facilitate the development of shared care plans that can be accessed by providers
+across settings, patients and carers.
+2.1.3 Patient-centred medical home
+Patient-centred medical home(s)2 (PCMH) have been developed and promoted in the USA
+as a model for transforming the organization and delivery of primary care. Interest in PCMH
+emerged due to people’s lack of access to primary care, challenges in navigating
+fragmented care systems and rising costs of care. It was promoted by some of the largest
+primary care physician societies in the country and its principles were endorsed and
+extensively tested by a range of purchasers, professionals and consumer organisations.
+In broad terms, PCMH is a physician-directed group practice that can provide care which is
+accessible, continuous, comprehensive and coordinated and delivered in the context of
+family and community. The PCMH model adopts a holistic approach to managing patients
+with chronic diseases, co- and multimorbidities by offering an alternative individual model of
+primary care where patients are assigned to particular medical homes and physicians (13).
+Therefore, PCMH should not be regarded as a setting where care is delivered but rather as
+a comprehensive model of organization that delivers the core functions of primary care (20).
+The key attributes of PCMH are comprehensiveness, patient-centredness, coordination,
+accessibility, quality and safety.
+The PCMH model argues that all types of care, e.g. sub-speciality care, hospitals, home
+health agencies, nursing homes, and stakeholders, e.g. community, family, public and
+private community-based services, should be brought together by means of either real or
+virtual integration. A distinctive feature of the PCMH model is that it offers more personalized
+care by assigning patients to primary care physicians, ensuring patients know who is
+responsible for their health and providers know the patients they are responsible for. PCMH
+is seen as the gate-opener to care – as opposed to managing or limiting access – through
+actively coordinating people to the most appropriate care. This means that much of the care
+is delivered by multidisciplinary teams in primary care, but in case specialist care is needed,
+primary care teams buy these services on behalf of the patient (13). PCMH employs the
+principles of shared responsibility for a patient’s health, which is also enabled by a coherent
+2 Sometimes also referred as primary care medical home
+
+=== PÁGINA 19 ===
+Integrated care models: an overview
+Page 9
+provider payment mechanism. Patient registries are recognized to play a special role in the
+success of PCMH models along with information technology and health information
+exchanges so that patients get indicated services when and where they need it in a culturally
+and linguistically appropriate manner (Fig. 2).
+Fig. 2. Overview of PCMH attributes delivered at Bend Memorial Clinic, USA
+Source: Adapted from (21)
+Evaluation of the PCMH model shows that it brings a 20 percent reduction in hospital
+admissions and 12 percent reduction in readmission rates among its beneficiaries (22).
+Criticism of the model suggests that in highly fragmented systems, integration among
+providers might not happen unless reimbursement mechanisms specifically incentivize
+integration (23).
+2.1.4 Personal health budgets
+Based on the assumption that the coordination of care can be best performed by patients
+themselves, personal health budgets3 are a model of integrated care that give patients
+greater autonomy over their care. Over the past two decades, personal health budget
+models have been piloted in the USA and United Kingdom in the area of home- and
+community-based long-term services (24) and now are implemented in Austria, Germany,
+Netherlands and Norway (13).
+3 Personal health budgets are sometimes also called self-directed care.
+
+=== PÁGINA 20 ===
+Integrated care models: an overview
+Page 10
+The model suggests that acting as budget holders, patients can better coordinate their care
+according to their needs by purchasing services across providers (25). Cash payments or
+virtual budgets can be used not only for purchasing services, but also for supporting family
+members as carers (13). Evaluations of personal health budgets show higher levels of
+patient satisfaction and lowered rates of unmet needs in comparison to conventional care
+models, especially among younger patients with disabilities (26). Assessments have also
+shown higher efficiency in delivered care, mainly due to better continuity and avoidance of
+duplications. However, studies show that much of the administrative burden and risk falls on
+patients and their carer, and therefore requires patient capacity to manage it. Quality and the
+volume of services purchased heavily relies on patients’ or carers’ ability to adequately
+assess it, which is difficult given the information asymmetry in health (27).
+2.2 Group- and disease-specific models
+2.2.1 Chronic care model
+The chronic care model (CCM) is one of the most well-known and widely applied integrated
+care models. CCM was developed in 1998 by a group of researchers from the MacColl
+Institute for Healthcare Innovation in USA (28). The model was developed in recognition of
+health system failures to meet the needs of people with chronic illnesses and provide a
+comprehensive framework for the organization of health services in order to improve
+outcomes for people with chronic conditions. CCM suggests to shift from acute, episodic and
+reactive care towards care that embraces longitudinal, preventative, community-based and
+integrated approaches. Developed as an outcome of extensive systematic literature review,
+the design of CCM brings together evidence-based factors and components that are widely
+documented to have a positive impact on patient outcomes, quality of care and cost savings.
+CCM consists of six main domains: community, health system, self-management support,
+delivery system design, decision support and clinical information systems (Fig. 3).
+Fig. 3. The Chronic Care Model
+Source: (29)
+Each of the domains can be further unpacked into strategies that are essential for achieving
+integrated chronic care. For example, within the community domain, a key strategy consists
+of mobilizing community resources to meet the needs of patients by establishing effective
+
+=== PÁGINA 21 ===
+Integrated care models: an overview
+Page 11
+partnerships with community organizations and encouraging patients to participate in
+community programmes. Activities within the community domain should also include
+advocacy to adequately represent patient interests in setting the health agenda. An overview
+of strategies within each domain is shown in Table 2. Based on pilot testing and published
+evidence, the model was revised in 2003 and components such as cultural competency,
+patient safety, care coordination, community policies, and case management were added to
+the initial scheme.
+Table 2. Key components and strategies of CCM
+Domain Objective/description Strategies
+Community Mobilize community (cid:131) Encourage patients to participate in effective community programs
+resources to meet needs of (cid:131) Form partnerships with community organizations to support and
+patients develop interventions that fill gaps in needed services
+(cid:131) Advocate for policies to improve patient care*
+Health system Create a culture, organization (cid:131) Visibly support improvement at all levels of the organization,
+and mechanisms that beginning with the senior leader
+promote safe, high quality (cid:131) Promote effective improvement strategies aimed at
+care comprehensive system change
+(cid:131) Encourage open and systematic handling of errors and quality
+problems to improve care*
+(cid:131) Provide incentives based on quality of care
+(cid:131) Develop agreements that facilitate care coordination within and
+across organizations
+Delivery system Assure the delivery of (cid:131) Define roles and distribute tasks among team members
+design effective, efficient clinical (cid:131) Use planned interactions to support evidence-based care
+care and self-management (cid:131) Provide clinical case management services for complex patients*
+support (cid:131) Ensure regular follow-up by the care team
+(cid:131) Give care that patients understand and that fits with their cultural
+background*
+Self-management Empower and prepare (cid:131) Emphasize the patient's central role in managing their health
+support patients to manage their (cid:131) Use effective self-management support strategies that include
+health and health care assessment, goal-setting, action planning, problem-solving and
+follow-up
+(cid:131) Organize internal and community resources to provide ongoing
+self-management support to patient
+Decision support Promote clinical care that is (cid:131) Embed evidence-based guidelines into daily clinical practice
+consistent with scientific (cid:131) Share evidence-based guidelines and information with patients to
+evidence and patient encourage their participation
+preferences (cid:131) Use proven provider education methods
+(cid:131) Integrate specialist expertise and primary care
+Clinical information Organize patient and (cid:131) Provide timely reminders for providers and patients
+systems population data to facilitate (cid:131) Identify relevant subpopulations for proactive care
+efficient and effective care (cid:131) Facilitate individual patient care planning
+(cid:131) Share information with patients and providers to coordinate care*
+(cid:131) Monitor performance of practice team and care system
+* strategies that were added to the original CCM after 2003 revision
+Source: adapted from (28)
+Evidence-based strategies under each domain, in combination, foster productive interactions
+between informed patients who take an active part in their care and providers with resources
+and expertise (28). The key to the success of the CCM, as demonstrated in a number of
+
+=== PÁGINA 22 ===
+Integrated care models: an overview
+Page 12
+projects, has been the productive, bidirectional communication within multidisciplinary team
+as well as the provision of continuous support to patients for self-care (30). Reviews
+conducted in regards to the cost-effectiveness of the CCM have reported that while
+application of CCM and its components lead to better patient outcomes and satisfaction, the
+return of upfront investments requires time (30).
+Other CCM modifications include WHO’s Innovative Care for Chronic Conditions framework
+(31) and the Expanded Chronic Care Model (32). This new generation of chronic care
+models take into account broad determinants of health and focus on a system of coordinated
+interventions across different types, levels and settings of care, extending actions beyond
+the clinical intervention towards health promotion, prevention, screening and early detection,
+management of diagnosed cases, rehabilitation and palliative care (Fig. 4).
+Fig. 4. The Innovative Care for Chronic Conditions Model
+Source: (31)
+2.2.2 Integrated care models for elderly and frail
+Integrated care models organized for the elderly and frail represent another specific group of
+initiatives. This group of integrated care models is distinguished due to the high specificity of
+service individual needs that guide the design of care models and the extent to which care
+requires integration between health and social services.
+PRISMA is a Canadian model designed to integrate service delivery for community-dwelling
+people with moderate-to-severe impairment, who need coordination between two or more
+services (33). The aim of the model is to preserve the functional autonomy of individuals.
+The model is designed to serve as a single entry-point to the system and to coordinate care
+across a network of different providers (Fig. 5). Case-management and the use of
+computerized charts are essential components for coordination (13).
+According to the model, integration is achieved through an established joint governing board
+of health and social care. The board defines the strategy, allocates resources to the network
+and manages provider groups. An assessment of the impact has shown that the PRISMA
+
+=== PÁGINA 23 ===
+Integrated care models: an overview
+Page 13
+model sustained the functional stability of individuals, decreased the extent of unmet needs
+and reduced the burden placed on carers. Individuals enrolled to the PRISMA programme
+also decreased their risk of hospital readmissions (34).
+Fig. 5. The PRISMA model of Integrated Service Delivery System
+CLSC - Centre local de services communautaires (Local community services centre)
+Source: (35)
+To overcome fragmentation of care for older people the borough of Torbay in England has
+established five integrated health and social care teams. The teams are organized according
+to territorial principles and are aligned with general practices in the same localities. The
+model targeted elderly patients with multimorbidities, who require intensive support from
+community matrons (13). The model employs health and social care coordinators, who act
+as the single point of contact within each team. Similar to PRISMA, Torbay Care Trust was
+established as a joint health and social care board with pooled budgets. Budgets are
+allocated according to the needs of population and are not restricted to certain types of care.
+Proactive discharge planning and transitional care have allowed Torbay’s model to achieve
+performance improvements, such as reductions in average length of hospital stay and
+hospital readmissions (36).
+Integrated care models targeting small groups of community-dwelling older people were
+implemented by two Italian municipalities of Rovereto and Vittorio Veneto. In order to
+integrate health and social services in a continuum of care, case managers where
+introduced (37). Similar to abovementioned models targeted at elderly and frail, these
+models focused on case management and multidisciplinary teams with a single entry point.
+During the first entry to the system a geriatric assessment was performed with the
+subsequent provision of community-based medical and social services (37).
+
+=== PÁGINA 24 ===
+Integrated care models: an overview
+Page 14
+2.2.3 Disease-specific integrated care models
+Some countries have developed models aimed to provide better integration of care for
+people with certain diseases and long-term conditions such as diabetes mellitus,
+cardiovascular diseases, COPD and bronchial asthma. The following are examples of
+several such models.
+Chains of care is an integrated care model developed in Sweden with the aim of linking
+primary, hospital and community care through integrated pathways based on local
+agreements with between providers (38). Typical chains of care include screening element in
+a primary care centre, treatment plans developed in specialist centre and rehabilitation
+provided in community (39). Contractual agreements and alignment of incentives that enable
+efficient use of resources are distinctive features of the Swedish model.
+Managed clinical networks were developed in Scotland under the vision of “linked groups of
+health professional and organizations from primary, secondary and tertiary care, working in a
+coordinated manner, unconstrained by existing professional and health board boundaries to
+ensure equitable provision of high quality clinically effective services” (40). The model is a
+virtual integration that puts patients at the centre to enhance access to services and
+decrease variations in the quality of care. Active management of patients has been achieved
+by ensuring the more efficient use of the health workforce.
+Starting in 1993, health reforms have introduced structural frameworks to enable the
+development of integrated care in Germany (41,42). The first comprehensive effort to
+implement a programme of integrated care to address fragmentation and lack of
+coordination across levels in the German health system was the introduction of disease
+management programmes (DMPs) in 2002. DMPs are standardized nationwide programmes
+for individuals with chronic conditions introduced based on a regulatory top-down framework
+(42,43). The Federal Insurance Office defines them as “the coordinated treatment and care
+of patients during the entire duration of a [chronic] disease across boundaries between
+providers and on the basis of scientific and up-to-date evidence” (42). DMPs were devised to
+foster principles of best evidence-based treatment, promotion of service delivery across
+levels of care, patient self-management and the introduction of new quality assurance
+mechanisms (44). Importantly, they have been implemented in the context of existing health
+service delivery structures in Germany (42).
+While enrolment in DMPs for patients and providers occurs on a voluntary basis, enrolled
+patients are expected to play an active role in formulating and adhering to treatment goals
+based on shared decision-making. Patients are also obliged to participate in disease-specific
+education and self-management programmes. Participating providers must comply with
+defined training and infrastructure requirements (44). General practitioners (GPs) usually
+serve as care coordinator ensuring that treatment and patient pathways are consistent with
+evidence-based DMP guidelines. Participation in DMP requires that providers actively
+participate in quality circles and regularly attend continuous medical education trainings.
+DMPs have enhanced the role of GPs in chronic care and contributed to a clear definition of
+provider roles across the continuum of care (44). DMPs also encompass IT-supported
+documentation and patient information, shared-decision making and patient education (45).
+
+=== PÁGINA 25 ===
+Integrated care models: an overview
+Page 15
+2.3 Population-based models
+2.3.1 Kaiser Permanente
+Kaiser Permanente (KP) is one of the largest health maintenance organizations in USA,
+accounting for more than 9.6 million members in eight regions of the country (46). KP is a
+virtually integrated system consisting of three interrelated entities: a non-profit health plan
+that bears insurance risks (Kaiser Foundation Health Plan), self-governed for-profit medical
+groups of physicians (Permanente Medical Groups), and a non-profit hospital system (Kaiser
+Foundation Hospitals). Permanente Medical Groups and Kaiser Foundation Hospitals share
+a global budget. All three components hold mutual exclusivity towards purchasing and
+providing services and are unified by a common mission, representing a mixture of systemic
+and normative integration.
+KP model of integrated care is based on stratification of the population and supply of
+different type of services according to needs. In the KP model, the population receives
+promotion and prevention services with the aim to control exposure to risk factors; the
+majority of chronic care patients receive support for self-management of their illness and
+high-risk patients receive disease and case management, which combines self-management
+and professional care. The stratification model is presented in the well-known Kaiser
+Pyramid (Fig. 6). One of the prominent adaptations of this stratification model is the King’s
+Fund pyramid, which extends beyond health care and stratifies populations according to
+their health and social needs (47).
+Fig. 6. Extended Kaiser Pyramid
+Source: Adapted from (47)
+Integration within the KP model is focused on chronic care and multispecialty practice4,
+rather than primary and secondary care. The core components to the KP model put
+emphasis on prevention, self-management support, disease management and case
+management for members with multiple conditions (13). A crucial component that has
+defined the success of the KP integrated care model is that all entities within the KP group
+are mutually accountable for a patient’s outcomes and positive patient experience and
+provider incentives are linked to quality of care and patient satisfaction. In this regard, an
+4 Multispecialty clinical practice are groups where generalists work alongside specialists to deliver integrated care
+
+=== PÁGINA 26 ===
+Integrated care models: an overview
+Page 16
+episode of acute hospital admission or readmission is seen as failure of the entire system.
+Active management of patients in hospitals is ensured through clearly defined and evidence-
+based clinical pathways and protocols. In doing so, the KP model was innovative in creating
+new professional groups such as hospitalists5, discharge managers, various nurse profiles
+and care coordinators, allowing the efficient use of human resources and seamless
+transitions of care between settings.
+Another crucial element of the KP model is overcoming information asymmetry and
+fragmentation between providers through the introduction of its own extensive information
+system - HealthConnect Programme. It allows providers within the KP group to access both
+inpatient and ambulatory patient records, as well as facilitates patient self-management
+allowing patients to access their records, make appointments and order prescription refills.
+Adopting the clinical governance strategies and continuous focus on performance
+improvement allows KP model to be sustained and evolve over time.
+2.3.2 Veterans Health Administration
+The Veterans Health Administration (VA) is a health system that provides integrated services
+to older people with chronic conditions in the USA. The VA employs physicians, owns and
+runs hospitals, medical offices and manages services within its network. Transformed from a
+hospital-based system, the VA currently consists of 21 regionally based integrated service
+networks. The structural changes were guided by the assumption that gains in effectiveness
+and efficiency can be achieved through better coordination between facilities, the synergy of
+resources and provision of care in the most appropriate settings (48). Resources received
+from the federal government are not allocated to facilities but rather to networks – a
+mechanism through which service integration and shared accountability are achieved.
+Table 3. Example measures within VA performance monitoring system
+Value domain Representative measures
+(cid:131) Prevention index (immunization, cancer and substance use screening)
+(cid:131) Chronic disease index (heart, lung, endocrine diseases, including heart failure, COPD,
+Quality (effective, safe)
+diabetes)
+(cid:131) Palliative care index (pain screening and management)
+(cid:131) Wait times for new primary care appointments
+Access (timely) (cid:131) Wait times for new specialty care appointments
+(cid:131) Percentage of patients seen within 20 minutes of scheduled appointment
+Satisfaction (patient-centred) (cid:131) Perception of quality as very good or excellent
+(cid:131) Perception on Picker-based satisfaction survey
+Function (patient-centered) (cid:131) Percentage of spinal cord injury patients discharged to independent living
+(cid:131) Percentage of homeless patients discharged to independent living
+Community health (cid:131) Accreditation of research programs
+(equitable) (cid:131) Learner perception survey
+(cid:131) Days in accounts receivable and other fiscal measures
+Cost-effectiveness (efficient)
+(cid:131) Value equation
+Source: adapted from (48)
+A transformative vision and change management have been a cornerstone in achieving
+integration within the VA network. A distinctive feature of the VA system is the well-praised
+culture of measurement and reporting which supported the mechanisms of accountability
+and continuous performance improvement. Measures are determined by groups of indicators
+5 Physicians whose primary professional focus is the general medical care of hospitalized patients
+
+=== PÁGINA 27 ===
+Integrated care models: an overview
+Page 17
+distributed according to several value domains, which are closely monitored in each of the
+networks (Table 3).
+The VA model has put a great deal of effort in organizing care processes around patients’
+needs and enabling patient self-management through investments into supportive
+information technology. Much of the transformations were achieved by virtue of fostering
+clinical governance and the VA’s own health service research.
+2.3.3 Integrated care in Basque country
+Integrated care in the Basque country has emerged with the launch of Strategy to tackle the
+challenge of chronicity in the Basque Country, in 2010 (47). The strategy introduced
+integrated care approaches to transform health services delivery to improve care for chronic
+patients. Basque integrated care strategy was developed with acknowledgment of the
+interdependencies between primary care, social services and hospitals to achieve better
+outcomes among patients with chronic conditions.
+Two approaches for integrated care were used in Basque country. A bottom-up
+implementation approach focused on clinical and functional integration that promoted
+coordination of care processes between primary and secondary care. An organizational
+integration was applied by merging hospital and primary care structures under one single
+organization – Integrated Healthcare Organizations (IHOs) (49). Currently, the Basque
+country accounts for 13 IHOs with catchment areas from 30 000 to 400 000 persons.
+Simultaneous activation of all levels of the system and the development of new professions
+that facilitate the delivery of integrated care are important features of this model. IHOs in
+Bidasoa have established Units for Continuity of Care (CCU) to treat high-risk patients with
+co- and multimorbidities. The CCUs use individual continuity of care plans to improve
+coordination across providers. CCUs are staffed with designated referral internists
+responsible for admission and stabilization of chronic patients and with liaison nurses who
+support patients’ discharge and transition from hospital to home where they will then be
+followed-up by their GP. Referral internists work in close collaboration with GPs in care
+planning outside the acute episodes.
+The development of tools and strategies that enable patient education to manage their own
+disease has been another success factor of the Basque integrated care strategy. Shared
+medical records and a new health information system developed together with users have
+facilitated coordination between providers. Performance measurement included tracking of
+specific indicators such as hospital admissions and readmissions for ambulatory care
+sensitive conditions have enabled a means to showcase the positive implications on patient
+outcomes and economic savings. This, in turn, was an essential component in overcoming
+stakeholder resistance and ensuring sustainability of the initiative.
+
+=== PÁGINA 28 ===
+Integrated care models: an overview
+Page 18
+Section three: Synthesis of evidence
+This section provides a synthesis of the reviewed integrated care model components and
+combines it with findings of the similar analyses (7,13,50,51). Notably, it aims to support the
+pragmatic understanding of the EFFA IHSD and assist in its practical application along other
+tools in the Frameworks’ implementation package (52).
+Literature review presented in this document has demonstrated that integrated care models
+have developed as an imperative to respond to the increasing chronicity and co-morbidity in
+population. Most of the described integrated care models have emerged as articulated
+interventions intended to improve care for patients with chronic conditions, multimorbidities,
+and patients from specific groups such as the elderly and frail, making them perhaps the
+most natural entry point for introducing and piloting integrated care models.
+The need for the integration of care across providers, settings and sectors directly correlates
+with the growing burden of chronic diseases and increasing demand for coordination across
+providers in health and social sector. Leutz (53) argues that the more severe demands are in
+terms of needs corresponds to an increase in the introduction of integrated care models. The
+identification of population needs, therefore, should be a starting point in developing any
+integrated care strategy. For example, the needs of elderly and frail populations in integrated
+care models like PRISMA and Torbay were beyond the scope of health sector resulting in
+integration with the social sector. Aligned with the vision set out in the EFFA IHSD,
+integrated care should only be judged successful if it contributes to better care experiences
+and improved care outcomes (54).
+One of the most pressing concerns in adopting integrated care models in practice is an
+understanding of the extent to which systems should seek to develop new organisational
+solutions. A typical challenge faced by the reviewed integrated care models suggests that
+organizational and functional integration did neither guarantee clinical integration at provider
+level, nor was sufficient to achieve it. For example, a study by McAdam (55) of integrated
+health care organisations in the USA and Canada found that at least half of them were not
+providing better coordinated care to clients, but were integrated only through acquiring new
+service lines or merging their operations.
+In order to succeed, integrated care models should rely on a set of components and delivery
+strategies (56,57). The components associated with successful integrated care models
+include enabling patient engagement and self-management support, developing multi-
+professional working culture, adopting evidence-based clinical pathways and protocols,
+aligning incentives, effectively managing resource, continuously monitoring and improving
+performance, and investing in supporting information technologies. In general,
+multicomponent approaches can be characterized as the optimization and innovation of
+service delivery processes (4).
+Nonetheless, in order to sustain transformations over time, integrated care models require
+actions that span from organizational, functional, professional and service delivery levels up
+to transformations on system level. For example, the adoption of multidisciplinary
+approaches goes beyond the organization of providers and requires alignment of health
+workforce policies at the system-level. Similarly, adjustment of incentives at the
+organizational level requires adjustment of wider health system financing mechanisms.
+These findings are echoed by the findings of the study conducted by the Health Service
+Management Centre at the University of Birmingham, which concluded a set of common
+essential features that serve as prerequisite to the success of integrated care models (58):
+
+=== PÁGINA 29 ===
+Integrated care models: an overview
+Page 19
+(cid:131) common cause, i.e. understanding the need to change from a population health
+perspective, often driven by a ‘burning platform’ of rising demand but limited
+resources
+(cid:131) common vision and strategy, which is a process inclusive of all agencies, including
+local people, to develop clear aspirations, measurable goals and time-scales for
+change
+(cid:131) joint funding and planning with a clear focus on shared outcomes and deliverables,
+resource/reward agreements linked to group performance
+(cid:131) joint delivery with strong leadership, high trust, clear governance arrangements,
+effective and dedicated managerial resources, phased in over time
+(cid:131) evaluation so that outcomes can be assessed to see if goals are being met (often
+overlooked)
+(cid:131) quality improvement process through developing a learning organization by using
+data and information to support reviews of performance and instigate changes and
+decisions
+Analogous findings are presented in the concept of the Integrated Health Service Delivery
+Networks developed by Pan American Health Organization (59) (Annex 1), findings of the
+EU-funded INTEGRATE project (50) (Annex 2) and the review conducted by the King’s Fund
+(51) (Annex 3). Each highlights the crucial importance of a health system’s approach in the
+design and delivery of integrated care models.
+In view of the analysed evidence, it becomes clear that establishing integrated care is a
+multifaceted and long-term process. The review found difficulties in showcasing the causality
+between the delivery of integrated care and outcomes. There are many reasons for this.
+Firstly, in the context of integrated care it is not possible to effectively separate
+multicomponent strategies that are needed to achieve results. Secondly, the criteria for
+assessing the success of integrated care models are not necessarily specific or measurable.
+Lastly, there are few opportunities for making comparisons with alternative models or control
+cases. Importantly, the transformation of health services delivery towards integrated care
+requires an understanding of the process of change itself. For example, the PCMH model
+(60) shows that implementation of integrated care models has been beset by a range of key
+implementation challenges such as:
+(cid:131) predominant professional cultures and behaviours, including physician reluctance to
+participate;
+(cid:131) continuation of fee-for-service payment mechanisms, when otherwise thinking about
+a population-health perspective;
+(cid:131) lack of scale in the size and scope of practices taking forward the idea;
+(cid:131) overreliance on electronic medical records as key to transformational change;
+(cid:131) lack of focus or prioritisation on the target population that would most benefit from
+interventions and too many peripheral responsibilities;
+(cid:131) lack of physician leadership and adequate managerial support;
+(cid:131) unrealistic expectations;
+(cid:131) resistance to change among care users and fear to lose existing entitlements.
+Literature offers evidence that integrated care models should be introduced and
+implemented by means of a change management strategy. There is remarkable coherence
+
+=== PÁGINA 30 ===
+Integrated care models: an overview
+Page 20
+in the evidence for some key components of such a strategy (11,51,61). For example,
+integrated care does not apply to business redesign processes that have been used
+elsewhere in health reform, so change management strategies need to recognise the key
+issue of its’ multifaceted nature. This is further underlined by the many different generic
+technical components described above that are observed as core components of integrated
+care. However, there does appear to be some guidance on the first steps required to make
+change happen; specifically, development of a common vision should be based on a clear
+articulation of the population’s needs in local communities, which then can develop into a
+shared strategy for change (13,62,63). It is clear that even these first steps for integrated
+care require careful planning and that the process of change needs strong leadership and
+good management support.
+
+=== PÁGINA 31 ===
+Integrated care models: an overview
+Page 21
+Final remarks
+In the absence of a unifying definition and an overarching approach, this document has
+attempted to consolidate and align evidence on integrated care. It provides an analysis of
+definitions and components that challenge or support integrated care. In doing so, it delivers
+a synthesis of generic considerations when designing and implementing integrated care
+models.
+Recalling the key questions posed, this report finds the following:
+1. How can ‘integrated care’ be defined? The concept of integrated care is strongly
+shaped by perspectives and expectations of various users in the health system,
+making a unified definition difficult. Interestingly, all definitions converge around
+highlighting the central role of population and individual needs. Furthermore,
+adopting a health system perspective, the use of the term ‘integrated health service
+delivery’ is seen as more reflective of the notion.
+2. What are the forms and taxonomies of integrated care? Integrated care can be
+distinguished according to the processes of integration. However, dimensions are
+multiple including type, mechanism, level and intensity of integration. The
+multidimensional nature of integration points to the complexity in building integrated
+care models, as well as to the multiplicity of possibilities in their design.
+3. What are the commonly known models of integrated care? Reviewed literature
+shows a wealth of implemented and evaluated integrated care models that range
+from individual and disease-specific models to models that embrace entire
+populations. Individual integrated care models include case management, individual
+care planning, patient-centred medical home and personal health budgets. Group
+and disease specific models include CCM, disease management programmes and
+integrated care models for elderly and frail. Population-based models include those
+implemented by KP, VA and Basque country.
+4. How can findings of this review inform an understanding and practical
+application of EFFA IHSD? Horizontal analysis of evidence on integrated care
+models allows for consolidating a pool of generic considerations in designing and
+implementing integrated care strategies such as the importance of designing care
+around population needs, aligning wider health system functions and developing a
+change management strategy.
+In conclusion, while it has been possible to identify general principles and core components,
+it cannot be concluded that one model best supports integrated care (51). Any integrated
+model development is strongly contextually-bound, nearly impossible to replicate and can
+only be successful if it does account for unique needs and characteristics of the population it
+aims to serve.
+
+=== PÁGINA 32 ===
+Integrated care models: an overview
+Page 22
+References6
+1. WHO Regional Office for Europe. Health 2020: a European policy framework
+supporting action across government and society for health and well-being.
+Copenhagen: WHO Regional Office for Europe; 2013
+(http://www.euro.who.int/__data/assets/pdf_file/0006/199536/Health2020-
+Short.pdf?ua=1).
+2. WHO Regional Office for Europe. European strategic directions towards Health 2020
+goals. Copenhagen: WHO Regional Office for Europe; 2015.
+3. WHO. WHO global strategy on people-centred and integrated health services. 2016
+(http://apps.who.int/iris/bitstream/10665/155002/1/WHO_HIS_SDS_2015.6_eng.pdf?ua
+=1).
+4. WHO Regional Office for Europe. Strengthening people-centred health systems in the
+WHO European Region: framework for action on integrated health services delivery.
+2016
+(http://www.euro.who.int/__data/assets/pdf_file/0004/315787/66wd15e_FFA_IHSD_16
+0535.pdf?ua=1).
+5. Armitage GD, Suter E, Oelke ND, Adair CE. Health systems integration: state of the
+evidence. Int J Integr Care. 2009;9(2) (http://www.ijic.org/article/10.5334/ijic.316/).
+6. Nolte E, McKee M. Caring for people with chronic conditions: a health system
+perspective. Copenhagen: WHO on behalf of the European Observatory on Health
+Systems and Policies; 2008.
+7. RAND Europe. National Evaluation of the Department of Health’s Integrated Care
+Pilots. Cambridge: RAND Europe; 2012.
+8. Shaw S, Rosen R, Rumbold B. What is integrated care? An overview of integrated care
+in NHS. Nuffield Trust;
+2011(http://www.nuffieldtrust.org.uk/sites/files/nuffield/publication/what_is_integrated_c
+are_research_report_june11_0.pdf).
+9. Kodner DL, Spreeuwenberg C. Integrated care: meaning, logic, applications, and
+implications – a discussion paper. Int J Integr Care. 2002 Nov 14;2(4)
+(http://www.ijic.org/article/10.5334/ijic.67/).
+10. National Voices. A narrative for person-centred coordinated care. 2013
+(http://www.england.nhs.uk/wp-content/uploads/2013/05/nv-narrative-cc.pdf).
+11. Ham C, Walsh N. Making integrated care happen at scale and pace. The King’s Fund;
+2013 (http://www.kingsfund.org.uk/sites/files/kf/field/field_publication_file/making-
+integrated-care-happen-kingsfund-mar13.pdf).
+12. Lewis R, Rosen R, Goodwin N, Dixon J. Where next for integrated care organizations
+in the English NHS? London: The King’s Fund; 2010.
+13. Curry N, Ham C. Clinical and service integration. The route to improved outcomes. The
+King’s Fund; 2010 (https://www.kingsfund.org.uk/sites/files/kf/Clinical-and-service-
+integration-Natasha-Curry-Chris-Ham-22-November-2010.pdf).
+14. Bodenheimer T. Coordinating care--a perilous journey through the health care system.
+N Engl J Med. 2008 Mar 6;358(10):1064–71.
+15. American Case Management Association. Definition of case management [website].
+(http://www.acmaweb.org/section.aspx?sID=4)
+16. Boaden R, Dusheiko M, Gravelle H, Parker S, Pickard S, Roland M, et al. Evercare:
+Evaluation of the Evercare approach to case management: final report. University of
+Manchester: National Primary Care Research and Development Centre; 2006
+(http://www.population-health.manchester.ac.uk/primarycare/npcrdc-
+archive/Publications/NOV06%20EVERCARE%20FINAL%20REPORT.pdf).
+6 Accessed 17 October 2016
+
+=== PÁGINA 33 ===
+Integrated care models: an overview
+Page 23
+17. Singh D, Ham C. Improving Care for People with Long term Conditions: A Review of
+UK and International Frameworks. Health Services Management Centre: Birmingham
+and NHS Institute for Innovation and Improvement; 2006
+(http://www.improvingchroniccare.org/downloads/review_of_international_frameworks_
+_chris_hamm.pdf).
+18. Goodwin N, Lawton-Smith S. Integrating care for people with mental illness: the Care
+Programme Approach in England and its implications for long-term conditions
+management. Int J Integr Care. 2010;10(1) (http://www.ijic.org/article/10.5334/ijic.516/)
+19. Goodwin N, Perri 6, Peck E, Freeman T, Posaner R. Managing Across Diverse
+Networks of Care: Lessons from Other Sectors. 2004
+(http://www.netscc.ac.uk/hsdr/files/adhoc/39-policy-report.pdf)
+20. Agency for Healthcare Research and Quality. Defining the PCMH | PCMH Resource
+Center [website] (https://pcmh.ahrq.gov/page/defining-pcmh).
+21. Bend Memorial Clinic. Patient Centered Medical Home [website]
+(https://www.bendmemorialclinic.com/specialities/primary-care/family-medicine/patient-
+centered-medical-home/).
+22. Schram AP. Medical Home and the Nurse Practitioner: A Policy Analysis. J Nurse
+Pract. 2010 Feb 1;6(2):132–9.
+23. Rittenhouse DR, Shortell SM, Fisher ES. Primary care and accountable care--two
+essential elements of delivery-system reform. N Engl J Med. 2009 Dec
+10;361(24):2301–3.
+24. Alakeson V. Let patients control the purse strings. BMJ. 2008 Apr 10;336(7648):807–9.
+25. Glasby J, Littlechild R. Direct payments and personal budgets: Putting personalisation
+into practice. Policy Press; 2016. 270 p.
+26. Carlson BL, Foster L, Dale SB, Brown R. Effects of Cash and Counseling on Personal
+Care and Well-Being. Health Serv Res. 2007 Feb;42(1 Pt 2):467–87.
+27. Jones K, Caiels J, Forder J, Windle K, Welch E, Dolan P, et al. Early Experiences of
+Implementing Personal Health Budgets. First interim report. 2010
+(http://php.york.ac.uk/inst/spru/pubs/ipp.php?id=1759).
+28. The Improving Chronic Illness Care Program. The Chronic Care Model: Improving
+Chronic Illness Care [website]
+(http://www.improvingchroniccare.org/index.php?p=The_Chronic_Care_Model&s=2).
+29. Wagner EH. Care of older people with chronic illness. Older People Build Syst Ased
+Evid. 1999;39–64.
+30. Coleman K, Austin BT, Brach C, Wagner EH. Evidence on the Chronic Care Model in
+the new millennium. Health Aff Proj Hope. 2009 Feb;28(1):75–85.
+31. WHO. Innovative Care for Chronic Conditions: Building Blocks for Action. 2002
+(http://www.who.int/chp/knowledge/publications/icccglobalreport.pdf?ua=1).
+32. Barr VJ, Robinson S, Marin-Link B, Underhill L, Dotts A, Ravensdale D, et al. The
+expanded Chronic Care Model: an integration of concepts and strategies from
+population health promotion and the Chronic Care Model. Hosp Q. 2003;7(1):73–82.
+33. Ham C, Glasby J, Parker H, Smith J. Altogether now? Policy options for integrating
+care. Health Services Management Centre. 2008
+(http://www.wales.nhs.uk/sitesplus/documents/829/HSMC%20Report%20-
+%20Altogether_Now_Report.pdf).
+34. Hébert R, Raîche M, Dubois M-F, Gueye NR, Dubuc N, Tousignant M, et al. Impact of
+PRISMA, a coordination-type integrated service delivery system for frail older people in
+Quebec (Canada): A quasi-experimental study. J Gerontol B Psychol Sci Soc Sci. 2010
+Jan;65B(1):107–18.
+35. Hébert R, Durand PJ, Dubuc N, Tourigny A. PRISMA: a new model of integrated
+service delivery for the frail older people in Canada. Int J Integr Care. 2003;3(1)
+(http://www.ijic.org/article/10.5334/ijic.73/).
+
+=== PÁGINA 34 ===
+Integrated care models: an overview
+Page 24
+36. Ham C. Working together for health achievements and challenges in the Kaiser NHS
+beacon sites programme. Birmingham: University of Birmingham; 2010. Report No.:
+Health services management centre: policy paper 6.
+37. Johri M, Beland F, Bergman H. International experiments in integrated care for the
+elderly: a synthesis of the evidence. Int J Geriatr Psychiatry. 2003 Mar;18(3):222–35.
+38. Åhgren B. Chain of care development in Sweden: results of a national study. Int J
+Integr Care. 2003;3 (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1483939/).
+39. Nolte E, Knai C, McKee M. Managing chronic conditions. Experience in eight countries.
+2008 (http://www.euro.who.int/__data/assets/pdf_file/0008/98414/E92058.pdf).
+40. Scottish Executive. Scottish Diabetes Framework. 2002
+(http://www.gov.scot/Resource/Doc/46905/0033884.pdf).
+41. Busse R, Blumel M. Health Systems in Transition. Germany. Health system review.
+2014 (http://www.euro.who.int/__data/assets/pdf_file/0008/255932/HiT-
+Germany.pdf?ua=1).
+42. Nolte E, Knai C, Hofmarcher M, Conklin A, Erler A, Elissen A, et al. Overcoming
+fragmentation in health care: chronic care in Austria, Germany and The Netherlands.
+Health Econ Policy Law. 2012 Jan;7(1):125–46.
+43. Fuchs S, Henschke C, Blümel M, Busse R. Disease management programs for type 2
+diabetes in Germany: a systematic literature review evaluating effectiveness. Dtsch
+Arzteblatt Int. 2014 Jun 27;111(26):453–63.
+44. Siering U. Germany. Managing chronic conditions: experience in eight countries. 2008.
+45. Redaelli M, Meuser S, Stock S. Ambulatory care trends in Germany: a road toward
+more integration of care? J Ambulatory Care Manage. 2012 Sep;35(3):182–91.
+46. Pines J, Selevan J, McStay F, George M, McClellan M. Kaiser Permanente –
+California: A Model for Integrated Care for the Ill and Injured. The Brookings Institution;
+2015 (https://www.brookings.edu/wp-
+content/uploads/2015/04/050415EmerMedCaseStudyKaiser.pdf).
+47. Osakidetza. Chronicity in Basque country. 2010
+(http://www.osakidetza.euskadi.eus/r85-
+gkgnrl00/es/contenidos/informacion/documentos_cronicos/es_cronic/adjuntos/Chronicit
+yBasqueCountry.pdf).
+48. Perlin J, Kolodner R, Roswell R. The Veterans Health Administration: Quality, Value,
+Accountability, and Information as Transforming Strategies for Patient-Centered Care.
+Am J Manag Care. 2004;10 (http://www.ajmc.com/journals/issue/2004/2004-11-vol10-
+n11Pt2/Nov04-1955p828-836/).
+49. Polanco NT, Zabalegui IB, Irazusta IP, Solinís RN, Del Río Cámara M. Building
+integrated care systems: a case study of Bidasoa Integrated Health Organisation. Int J
+Integr Care. 2015;15 (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4491322/).
+50. Borgemans L, Goodwin N, Vrijhoef B. Project INTEGRATE: A conceptual background
+on integrated care for chronic conditions (unpublished paper submitted as deliverable
+to European Commission). 2014.
+51. Goodwin N, Dixon A, Andreson G, Wodchis W. Providing integrated care for older
+people with complex needs. Lessons from seven international case studies. 2014
+(http://cdn.basw.co.uk/upload/basw_102418-7.pdf).
+52. WHO Regional Office for Europe. The European Framework for Action on Integrated
+Health Services Delivery: an overview. 2016
+(http://www.euro.who.int/__data/assets/pdf_file/0010/317377/FFA-IHS-service-delivery-
+overview.pdf?ua=1).
+53. Leutz WN. Five laws for integrating medical and social services: lessons from the
+United States and the United Kingdom. Milbank Q. 1999;77(1):77–110, iv – v.
+54. Goodwin N, Smith J. The evidence base for integrated care.
+2011(http://www.slideshare.net/kingsfund/the-evidence-base-for-integrated-care).
+
+=== PÁGINA 35 ===
+Integrated care models: an overview
+Page 25
+55. McAdam M. Frameworks of Integrated Care for the Elderly: A Systematic Review. 2008
+(http://www.cprn.org/documents/49813_EN.pdf).
+56. Davies GP, Williams AM, Larsen K, Perkins D, Roland M, Harris MF. Coordinating
+primary health care: an analysis of the outcomes of a systematic review. Med J Aust.
+2008;188(8) (https://www.mja.com.au/journal/2008/188/8/coordinating-primary-health-
+care-analysis-outcomes-systematic-review).
+57. Nolte E, Pitchforth E. What is the evidence on the economic impacts of integrated
+care? European Observatory on Health Systems and Policies; 2014
+(http://www.euro.who.int/__data/assets/pdf_file/0019/251434/What-is-the-evidence-on-
+the-economic-impacts-of-integrated-care.pdf).
+58. Goodwin N, Shapiro J. The road to integrated care working. Health Services
+Management Centre, University of Birmingham; 2001.
+59. Pan American Health Organization. Integrated Health Service Delivery Networks:
+Concepts, Policy Options and a Road Map for Implementation in the Americas. 2011
+(http://new.paho.org/hq/dmdocuments/2011/PHC_IHSD-2011Serie4.pdf).
+60. Berenson RA, Hammons T, Gans DN, Zuckerman S, Merrell K, Underwood WS, et al.
+A house is not a home: keeping patients at the center of practice redesign. Health Aff
+Proj Hope. 2008 Oct;27(5):1219–30.
+61. Bengoa R. Transforming health care: an approach to system-wide implementation. Int J
+Integr Care 2013:13(3) (http://www.ijic.org/article/10.5334/ijic.1206/).
+62. Minkman MM. The current state of integrated care: an overview. J Integr Care.
+2012;20(6):346–58.
+63. Advancing Quality Alliance (AQuA). System Integration Improvement Resources. 2014
+(http://www.nhsemployers.org/~/media/Employers/Documents/Campaigns/Do%20OD/
+AQuASystemIntegrationImprovementResourcesFinal0404141.pdf).
+
+=== PÁGINA 36 ===
+Integrated care models: an overview
+Page 26
+Annexes
+Annex 1. Domains and essential attributes for the development of integrated health
+service delivery networks
+Level of progress in the attributes that make up the Integrated Health
+Service Delivery Network
+Essential
+Domain
+I II
+attribute III
+Fragmented Partially integrated
+Integrated network
+Network network
+1. Population No definition of Defined population/ Defined population/
+and territory population/territory territory under its territory under its
+under its responsibility responsibility, but with responsibility and
+limited knowledge of extensive knowledge of
+the health needs of the health needs of this
+this population population, which
+determine the supply of
+health services
+2. Service Non-existent, very Includes all or most An extensive network of
+delivery limited or restricted to levels of care, but with health care facilities that
+the first level of care high predominance of includes all levels of care
+personal health and provides and
+services integrates both personal
+and public health
+services
+3. First level of Predominance of Acts as a gateway to Acts as a gateway to the
+Model of care care vertical programs with the system but with system, integrates and
+no integration or very low capacity to coordinates care, and
+coordination resolve health meets the majority of the
+problems and poor population’s health needs
+integration of services
+4. Specialized Deregulated access to Regulated access to Delivery of specialized
+care specialists specialized care, but services is done
+predominance of preferably in non-hospital
+hospitals settings
+5. No coordination of Existence of Existence of coordination
+Coordination care coordination mechanisms throughout
+of care mechanisms, but that the entire continuum of
+do not cover the entire care
+continuum of care
+6. Focus of Centred on disease Centred on the person Centred on the person,
+care the family and the
+community/ territory
+
+=== PÁGINA 37 ===
+Integrated care models: an overview
+Page 27
+Domains and essential attributes for the development of integrated health service
+delivery networks (continued)
+Level of progress in the attributes that make up the Integrated Health
+Service Delivery Network
+Essential
+Domain I II
+attribute III
+Fragmented Partially integrated
+Integrated network
+Network network
+7. Governance No clear governance Multiple instances of A unified system of
+function governance that governance for the entire
+function independently network
+of each other
+Governance
+8. Participation No instances for Instances for Broad social participation
+and strategy social participation participation are
+limited
+9. Intersectoral No links with other Links with other social Intersectoral action
+approach sectors sectors beyond the social sectors
+10. Non-integrated Integrated Integrated management
+Management management of management of clinical of the clinical,
+of support support systems support but without administrative and
+systems integration of the logistical support
+administrative and systems
+logistical support
+systems
+11. Human Insufficient for the Sufficient, but with Sufficient, competent,
+resources needs of the network deficiencies in the committed and valued by
+technical the network
+competencies and
+Organization
+commitment to the
+and
+network
+management
+12. No information system Multiple systems with Integrated information
+Information no communication system that links all
+systems among them network members with
+data disaggregated
+according to pertinent
+variables
+13. No measurement of Measurement of Measurement of
+Performance performance and performance centered performance centered on
+and results results on inputs and health outcomes and
+processes user satisfaction
+
+=== PÁGINA 38 ===
+Integrated care models: an overview
+Page 28
+Domains and essential attributes for the development of integrated health service
+delivery networks (continued)
+Level of progress in the attributes that make up the Integrated Health
+Service Delivery Network
+Essential
+Domain I II
+attribute III
+Fragmented Partially integrated
+Integrated network
+Network network
+14. Funding Insufficient and Adequate financing but Adequate funding and
+Financial
+irregular with unaligned financial incentives
+allocation and
+financial incentives aligned with network
+incentives goals
+Source: PAHO. 2011. Integrated Health Service Delivery Networks: Concepts, Policy Options and a Road Map for
+Implementation in the Americas. Washington, D.C.: PAHO.
+
+=== PÁGINA 39 ===
+Integrated care models: an overview
+Page 29
+Annex 2. Overview of the project INTEGRATE findings
+Project INTEGRATE is a research project initiated in 2012 within the European Union
+Framework Programme 7 with the purpose of understanding how to best build integrated
+systems of care through a comparison of different approaches (e.g. disease and non-
+disease based) in different country contexts (Borgemans et al 2014). As part of the design of
+the case methodology, a systematic review of the evidence for the successful adoption of
+integrated care was undertaken. As a result, a composite list of 22 key variables for the
+successful development of integrated care was defined:
+1. Leadership at the national, regional and local level of care:
+a. macro-goals of care
+b. health in all policies
+c. evaluation of integrated care policies against attributes of high quality integrated
+care
+d. clinical leadership
+e. standardization of the system's gatekeeper role
+f. regulation of access to specialized care
+2. Data on chronic illnesses
+3. Adequate financing system linked with quality improvement
+4. An adequate workforce (in terms of numbers)
+5. An adequate workforce (in terms of competencies and distribution)
+6. Essential and new pharmaceuticals and medical devices
+7. Investments in health services research
+8. Roles of actors and their added value to the care process are defined (primary,
+secondary, tertiary and social care)
+9. Revision of professional roles wherever appropriate
+10. Coordination (structures) and ‘shared-care protocols’
+11. Access to expertise to help with changes
+12. Project managers (owners) and solid project management
+13. Evidence-based guidelines
+14. [Clinician] [post-graduate] education
+15. Decision aids to patients
+16. Reminders to clinicians and patients
+17. Techniques for quality control: audit and feedback
+18. Patient education
+19. Patient empowerment
+20. Intelligence systems for data collection
+21. Computerized clinical support systems
+22. Interactive health communication applications for patients
+Source: Borgermans L, Goodwin N, Vrijhoef B, Ovretveit J, Calciolari S. 2014. Project INTEGRATE: A conceptual
+background on integrated care for chronic conditions (unpublished paper submitted as deliverable to European
+Commission).
+
+=== PÁGINA 40 ===
+Integrated care models: an overview
+Page 30
+Annex 3. Key lessons for the successful adoption of integrated care
+System level
+(cid:131) Recognise the importance of addressing this agenda of integrated care for frail older people
+(cid:131) Provide stimulus through funding or other means to support the development of local initiatives to improve care
+for this group of people
+(cid:131) Avoid a top-down policy that requires structural or organisational mergers
+(cid:131) Remove barriers that make it more difficult for localities to integrate care, such as differences in financing and
+eligibility
+Organizational level
+(cid:131) There is no single organisational model or approach that best supports integrated care
+(cid:131) The starting point should be a clinical/service model designed to improve the care that is provided rather than an
+organisational model with a pre-determined design
+(cid:131) It takes time for approaches to integrated care to develop and mature, with most programmes constantly evolving
+(cid:131) Fully integrated organisations are not the (end) goal
+Functional level
+(cid:131) Success appears to be related to good communication and relationships between those receiving care and the
+professionals and managers involved in delivering care
+(cid:131) Greater use of ICT is potentially an important enabler of integrated care, but does not appear to be a necessary
+condition for it
+(cid:131) Building relationships to support integrated care requires time to build social capital and foster trust
+Professional level
+(cid:131) Professionals need to work together in multidisciplinary teams or provider networks – generalists and specialists,
+in health and social care
+(cid:131) Within teams, professionals need to have well-defined roles, and work in partnership with colleagues in a shared
+care approach
+(cid:131) In most of the case study programmes, care co-ordination was being delivered alongside rather than by primary
+care physicians. This suggests that patients with complex needs that span health and social care may require an
+intensity of support that is beyond what primary care physicians can deliver.
+Service level
+(cid:131) A number of common elements in the design of the care process at a service level appear to be important. These
+include:
+— holistic care assessments
+— care planning
+— a single point of entry
+— care co-ordination
+— the availability of a well-connected provider network that can facilitate access to the necessary support,
+particularly for self-management
+
+=== PÁGINA 41 ===
+Overview of models for integrated health services delivery
+Page 31
+Key lessons for the successful adoption of integrated care (continued)
+Personal level
+(cid:131) All case studies had a specific focus on working with individuals and informal carers to support self-management
+(cid:131) Continuity of care and care co-ordination to meet individuals’ specific needs is important and highly valued
+(cid:131) Personal contact with a named care co-ordinator and/or case manager is more effective than remote monitoring or
+telephone-based support
+Source: Goodwin N, Sonola L, Thiel V, Kodner D. 2014. Coordinated care for people with complex chronic conditions. Key
+lessons and markers for success. The King’s Fund, London.
+
+=== PÁGINA 42 ===
+Page 32
+The WHO R e gional
+Office for Europe
+The World H ealth
+Organization (WHO) is a
+specialized agency of the
+United Nations created in
+1948 with the primary
+responsibility for
+international health matters
+and public health. The WHO
+Regional Office for Europe
+is one of six regional offices
+throughout the world, each
+with its own programme
+geared to the particular
+health conditions of the
+countries it serves.
+Member States
+Albania
+Andorra
+Armenia
+Austria
+Azerbaijan
+Belarus
+Belgium
+Bosnia and Herzegovina
+Bulgaria
+Croatia
+Cyprus
+Czechia
+Denmark
+Estonia
+Finland
+France
+Georgia
+Germany
+Greece
+Hungary
+Iceland
+Ireland
+Israel
+Italy
+Kazakhstan
+Kyrgyzstan
+Latvia
+Lithuania
+Luxembourg
+Malta
+Monaco
+Montenegro
+Netherlands
+Norway
+Poland
+Portugal
+Republic of Moldova
+Romania
+Russian Federation
+San Marino
+Serbia
+Slovakia
+Slovenia
+Spain
+Sweden
+Switzerland
+Tajikistan
+The former Yugoslav
+Republic of Macedonia
+Turkey
+Turkmenistan
+Ukraine
+United Kingdom
+Uzbekistan
+World Health Organization
+Regional Office for Europe
+UN City, Marmorvej 51, DK-2100 Copenhagen Ø, Denmark
+Tel.: +45 45 33 70 00 Fax: +45 45 33 70 01 Email: contact@euro.who.int
+Website: www.euro.who.int

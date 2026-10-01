@@ -1,0 +1,184 @@
+# Fonte: Circular-normativa-12_2024_Registo-diagnosticos-consultas-e-urgencias.pdf
+# Páginas: 6
+
+=== PÁGINA 1 ===
+N. 12/2024/ACSS
+DATA: 2024-05-27
+CIRCULAR NORMATIVA
+PARA: ULS e IPO
+ASSUNTO: Registo de Códigos de Diagnósticos nas Consultas Externas e
+Urgência
+A caracterização sistematizada da morbilidade do utente atendido em ambiente hospitalar constitui-se como
+informação fundamental no planeamento e gestão dos cuidados de saúde, permitindo conhecer de forma
+transversal a carga de doença de cada utente. Adicionalmente, conforme Despacho n.º 12986/2023 de 7 de
+dezembro, é da responsabilidade das instituições hospitalares proceder ao registo obrigatório dos dados
+necessários à consolidação da informação de suporte à estratificação pelo risco, nomeadamente através do
+referido registo estruturado de códigos de diagnóstico em consultas externas hospitalares e em episódios de
+urgência.
+Importa, por isso, proceder ao registo estruturado de códigos de diagnóstico em consultas externas
+hospitalares realizadas por médicos e em episódios de urgência hospitalares, com o objetivo de se obter
+informação normalizada assim como registos clínicos completos e de qualidade. Sendo certo que muitas
+instituições já procedem ao registo de diagnósticos em sede das consultas externas e das urgências
+hospitalares, entende-se necessário proceder à definição de regras de registo que devem ser adotadas por
+todas as instituições e que se apresentam de seguida.
+Devem, assim, as instituições organizar-se, nomeadamente provendo a necessária e adequada formação
+dos médicos assistentes, para que o registo ocorra de acordo com os seguintes critérios de informação a
+registar/recolher:
+Administração Central do Sistema de Saúde, I.P.
+Parque de Saúde de Lisboa | Edifício 16 | Avenida do Brasil, 53 | 1700-063 Lisboa | Portugal
+Tel. Geral: 21 792 58 00 | Email: geral@acss.min-saude.pt | www.acss.min-saude.pt
+Página 1 de 6
+
+=== PÁGINA 2 ===
+a) Informação transversal a episódios de consulta externa e de urgência
+Campo Descrição
+Instituição Identificação da instituição onde ocorre o episódio de Consulta externa
+ou Urgência.
+Módulo Identifica se o episódio é relativo a uma Consulta externa ou Urgência.
+Episódio hospitalar Registo do número do episódio atribuído pelo hospital.
+Processo hospitalar Registo do número do processo clínico atribuído pelo hospital.
+Data e hora do episódio Data e hora de realização do episódio.
+Especialidade, valência e De acordo com a circular normativa da ACSS nº 20/2015 - Uniformização
+sub valência da nomenclatura dos serviços clínicos, cujas tabelas anexas podem ser
+solicitadas pelo endereço de mail sim-sns@spms.min-saude.pt
+Diagnóstico Diagnóstico que melhor caracteriza o problema de saúde do utente no
+episódio de Consulta externa/Urgência (ICD10CM/PCS ou ICD9CM).
+Campo de registo obrigatório com, pelo menos, um diagnóstico.
+Causa externa Circunstância em que determinada lesão, intoxicação ou efeito adverso
+acontece.
+Registo facultativo de códigos de causa externa sem limite.
+Data e hora da alta Data e hora de alta do episódio
+De acordo com tabela uniformizada publicada no site do CTC
+Destino após alta (https://www.ctc.min-saude.pt/catalogos/apoio-ao-registo-administrativo/).
+Nº Ordem Profissional Número de ordem profissional do médico.
+Apenas disponível para o hospital de pertença do médico
+Nome médico Nome do médico responsável pelo episódio hospitalar.
+Apenas disponível para o hospital de pertença do médico.
+Administração Central do Sistema de Saúde, I.P.
+Parque de Saúde de Lisboa | Edifício 16 | Avenida do Brasil, 53 | 1700-063 Lisboa | Portugal
+Tel. Geral: 21 792 58 00 | Email: geral@acss.min-saude.pt | www.acss.min-saude.pt
+Página 2 de 6
+
+=== PÁGINA 3 ===
+b) Informação inerente aos episódios de Consultas Externas
+Campo Descrição
+Data e hora de marcação Data e hora de marcação da consulta externa.
+Tipo de consulta Primeira consulta ou subsequente.
+Tipologia Consulta Consulta médica presencial, Teleconsulta médica em tempo real
+presencial, Consulta médica sem a presença do utente, Teleconsulta
+médica em tempo real sem a presença do utente, Teleconsulta médica
+em tempo diferido presencial, Teleconsulta médica em tempo diferido
+sem a presença do utente, Teleconsulta médica urgente em tempo real
+sem a presença do utente, Teleconsulta médica urgente em tempo real
+presencial
+Tipo de marcação Além vagas, De rotina, Urgente
+c) Informação inerente aos episódios de Urgências
+Campo Descrição
+Local da urgência Hospital da urgência
+Código do tipo de urgência Código do tipo de urgência atribuído ao episódio: SUB, SUMC e SUP
+Tipo de urgência Tipo de urgência atribuído ao episódio: Serviços de Urgência Básicos,
+Serviços de Urgência Médico-Cirúrgico e Serviços de Urgência
+Polivalente
+Cor da triagem Cor da triagem atribuída à urgência (Sem triagem, Branca, Verde, Azul,
+Amarelo, Laranja, Vermelho)
+Data e hora da triagem Data e hora em que foi realizada a triagem na urgência
+Prioridade Prioridade atribuída à urgência (Sem prioridade, Prioritário e Muito
+Prioritário)
+Informa-se que, a partir de 1 de junho de 2024 e no caso das Consultas Externas, o SClinico passará a
+acomodar as normas de registo transcritas, cuja adoção será de caracter facultativo até 1 de janeiro de
+2025, data a partir da qual passará a ser obrigatório. Existirá a possibilidade, de acordo com a intenção de
+cada instituição, de tornar os registos obrigatórios em data anterior a esta. Mais se informa que, também a
+partir de 1 de junho, será disponibilizada no SClinico a funcionalidade de o médico poder selecionar
+diagnósticos registados em consultas anteriores.
+Relativamente ao registo de diagnósticos na Urgência, este registo já tem caracter obrigatório no SClinico,
+estando já de acordo com as normas de registo transcritas.
+Administração Central do Sistema de Saúde, I.P.
+Parque de Saúde de Lisboa | Edifício 16 | Avenida do Brasil, 53 | 1700-063 Lisboa | Portugal
+Tel. Geral: 21 792 58 00 | Email: geral@acss.min-saude.pt | www.acss.min-saude.pt
+Página 3 de 6
+
+=== PÁGINA 4 ===
+As instituições que utilizam SI sucedâneos ao SClinico devem desenvolver e disponibilizar nos seus
+sistemas funcionalidades equivalentes às apresentadas, de acordo com as especificações técnicas a
+disponibilizar pelos Serviços Partilhados do Ministério da Saúde, EPE (SPMS), mediante pedido através do
+endereço eletrónico sim-sns@spms.min-saude.pt, colocando no assunto o tema “SIM@SNS”.
+Por ultimo, informa-se que, à semelhança do que já sucede, a informação relativa a diagnósticos registados
+em consultas externas e urgências hospitalares ficará disponível no BI de Morbilidade Hospitalar - BIMH,
+sistema disponível em todas as ULS e IPO.
+A Vogal do Conselho Diretivo
+Digitally signed by Sandra Brás
+CN=Sandra Brás, G=Sandra, SN=Isabel
+Baptista Brás, O=Administração Central do
+Sistema de Saúde IP, T=Vogal do Conselho
+Diretivo, C=PT
+Date: 2024-05-29T09:56:30 +01:00
+Reason:
+Sandra Brás
+Administração Central do Sistema de Saúde, I.P.
+Parque de Saúde de Lisboa | Edifício 16 | Avenida do Brasil, 53 | 1700-063 Lisboa | Portugal
+Tel. Geral: 21 792 58 00 | Email: geral@acss.min-saude.pt | www.acss.min-saude.pt
+Página 4 de 6
+
+=== PÁGINA 5 ===
+Anexo – Modelo de Registo de Atividade de Consulta
+Principais conceitos associados à consulta
+Importa considerar os seguintes conceitos, associados à área das consultas:
+Conceito Descrição
+Ato em Saúde Prestação de cuidados de saúde a um indivíduo que pode consistir em
+avaliação, diagnóstico, intervenção, prescrição de uma terapêutica ou sua
+execução.
+Consulta Ato em saúde no qual um profissional de saúde avalia a situação clínica de
+uma pessoa e procede ao planeamento da prestação de cuidados de saúde. A
+consulta pressupõe um registo que contenha a identificação da pessoa, a
+data/hora, os profissionais envolvidos, as informações recolhidas, as
+avaliações/diagnósticos efetuados e as ações tomadas. A consulta pode ser
+presencial e/ou mediada por tecnologias de informação, ou não presencial, e
+ser realizada por um profissional de saúde ou vários.
+Consulta de grupo Consulta realizada a mais de um utente em simultâneo, por um ou mais
+profissionais de saúde. Incluem-se as consultas de adição e de apoio ao luto,
+entre outras.
+Consulta médica Consulta realizada por um médico.
+Consulta multidisciplinar Consulta realizada por diferentes profissionais de saúde cujas abordagens se
+complementam na avaliação / diagnóstico e no planeamento de prestação de
+cuidados da pessoa.
+Consulta presencial Consulta realizada com a presença física do utente e do profissional de saúde,
+no mesmo local.
+Consulta sem a presença do Consulta em que o utente não está fisicamente presente, podendo estar
+utente associada a várias formas de comunicação (inclui videochamada, telefone
+móvel ou fixo, correio postal, correio eletrónico e outros meios digitais). É
+imprescindível assegurar o consentimento informado do utente, cópia dos
+documentos enviados ao utente e registo escrito da consulta.
+Administração Central do Sistema de Saúde, I.P.
+Parque de Saúde de Lisboa | Edifício 16 | Avenida do Brasil, 53 | 1700-063 Lisboa | Portugal
+Tel. Geral: 21 792 58 00 | Email: geral@acss.min-saude.pt | www.acss.min-saude.pt
+Página 5 de 6
+
+=== PÁGINA 6 ===
+Conceito Descrição
+Teleconsulta Consulta realizada à distância com recurso à utilização de comunicações
+interativas, audiovisuais e de dados (inclui videochamada, telefone móvel ou
+fixo, correio eletrónico e outros meios digitais), com registo opcional no
+equipamento e obrigatório no processo clínico do utente. A teleconsulta pode
+ser feita em tempo real com a presença do doente numa outra localização ou
+em tempo diferido, com dados recolhidos na presença do doente que são
+enviados a uma entidade recetora para os avaliar e opinar posteriormente. A
+teleconsulta pode ser feita por um ou vários profissionais de saúde, a um ou
+mais utentes.
+Teleconsulta em tempo Teleconsulta fornecida em forma assíncrona, por um ou vários profissionais de
+diferido (Store and forward) saúde, a partir de dados previamente recebidos e que foram recolhidos na
+presença do utente.
+Teleconsulta em tempo real Consulta fornecida em forma síncrona por um ou vários profissionais de saúde.
+Telemedicina Utilização da informática e das telecomunicações aplicadas às três tarefas
+tradicionalmente executadas por médicos e outros profissionais de saúde,
+como a assistência clínica, o ensino e a investigação biomédica e a prestação
+de cuidados de saúde quando os intervenientes se encontram física ou
+temporalmente afastados.
+Telemonitorização Supervisão médica à distância com recurso às tecnologias de informação e
+comunicação, nomeadamente através de videoconferência e de equipamento
+médico de manipulação remota.
+Para qualquer um dos tipos de prestação de cuidados de saúde aqui referidos, é necessário o registo do
+resultado da discussão do caso no processo clínico de cada utente abordado.
+Administração Central do Sistema de Saúde, I.P.
+Parque de Saúde de Lisboa | Edifício 16 | Avenida do Brasil, 53 | 1700-063 Lisboa | Portugal
+Tel. Geral: 21 792 58 00 | Email: geral@acss.min-saude.pt | www.acss.min-saude.pt
+Página 6 de 6

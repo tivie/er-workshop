@@ -1,0 +1,1256 @@
+# Fonte: Weiner 1996 Risk-Adjusted Medicare Capitation Rates Using Ambulatory and Inpatient Diagnoses (HCFR).pdf
+# Páginas: 23
+
+=== PÁGINA 1 ===
+Risk-Adjusted Medicare Capitation Rates Using
+Ambulatory and Inpatient Diagnoses
+Jonathan P. Weiner, Dr.P.H., Allen Dobson, Ph.D., Stephanie L Maxwell, Kevin Coleman, M.A,
+Barbara H. Starfield, M.D., M.P.H., and Gerard F. Anderson, Ph.D.
+Researchers at The fohns Hopkins ment methodologies (Hornbrook, 1991;
+University (]HU) developed two new diag­ Beebe, Lubitz, and Eggers, 1985; Lubitz,
+nosis-oriented methodologies for setting risk­ Beebe, and Riley, 1985; Ellis, Pope, and
+adjusted capitation rates for managed care Jezzoni, 1996).
+plans contracting with Medicare. These If capitated payment systems were
+adjusters predict the future medical expendi­ based on risk-adjuster models that incorpo­
+tures of aged Medicare enrolkes based on rate diagnostic data, the functioning of
+demographic factors and diagnostic inform­ markets for Medicare MCOs would likely
+ation. The models use the Ambulatory Care improve. Accurate risk adjustment would
+Group (ACG) algorithm to categorize ambu­ benefit plans by more fairly paying them if
+latory diagnoses. Two alternative approach­ they serve high-risk persons; it would ben­
+es for categorizing inpatient diagnoses were efit HCFA by reducing the possibility of
+used. Lewin-VHI, Inc. evaluated the models overpayment to plans for low-risk benefici­
+using data from 624,000 randomly selected aries who on average use fewer services.
+aged Medicare beneficiaries. The models As the number of Medicare beneficiaries
+predict expenditures far better than the enrolled in managed care plans rises, so
+Adjusted Average per Capita Cost (AAPCCJ too does the need for improved capitation
+payment method. It is possible that risk­ payment methodologies.
+adjusted capitation payments could encour­ This article describes two new diagno­
+age health p!ans to compete on the basis of sis-based risk-adjuster models that could
+efficiency and quality and not risk selection. be used to set Medicare capitation rates.
+The remainder of this section discusses
+INTRODUCITON AND OVERVIEW "risk assessment" and "risk adjustment"
+and briefly reviews the current AAPCC
+HCFA uses a demographic-based sys­ method. The second section describes the
+tem, the AAPCC method, to reimburse two new diagnostic-based Medicare risk­
+health maintenance organizations (HMOs) adjuster models developed by researchers
+and other managed care organizations at The JHU School of Public Health. After
+(MCOs) that enroll Medicare benefici­ the two models were developed, they were
+aries. The limitations of the AAPCC model evaluated by a separate collaborating team
+provide both a context and a rationale for at Lewin-VHI Inc., which assessed the risk
+the development of improved risk-adjust- adjusters' predictive accuracy, resistance
+to gaming, and administrative feasibility.
+The research in this article was supported in part by the Health Results of this evaluation are described in
+Care F'manclng Administration (HCFA) under ORD Contract section three. The article concludes with a
+Number 93-026/EE. Jonathan P. Weiner, Stephanie L Maxwell,
+Barbara H. Starfield, and Gerard F. Anderson are with The JHU discussion of some strengths and weak­
+School of Public Health. Allen Dobson and Kevin Coleman are
+nesses of the JHU Medicare risk-adjuster
+with Lewin/VHI Inc. The views and opinions expressed are
+those of the authors and do not necessarily reflect the views of models.
+JHU, Lewin!VHI Inc., or HCFA
+HEALTH CARE FINANCING REVIEW/Spring 1996/Volumel7,Number3 77
+
+=== PÁGINA 2 ===
+Risk Assessment and Risk adjusted for differences in local prices and
+Adjustment practice patterns (Health Care Financing
+Administration, 1988).
+Differences in the use of medical serv­ The AAPCC has been criticized on tech­
+ices across individuals are in part pre­ nical and conceptual grounds. Technical
+dictable. The use of medical services criticisms center on the methods used to
+depends on health status, which largely calculate payment amounts, as well as on
+can be described by a patienfs sociodemo­ the specific sociodemographic and geo­
+graphic characteristics, clinical history and graphic adjustments applied to the pay­
+previous use of medical services ments. Conceptual criticisms center on five
+(Hornbrook, 1991). "Risk assessment" concerns: (1) the payment system's poor
+methods use some combination of these ability to explain variations in individual
+data to classify individuals and thus to medical expenditures, which results in
+assess their expected use of medical serv­ plans having the latitude to select healthy
+ices. "Risk adjustment" converts these risk enrollees or deselect sicker enrollees with­
+assessment classes into insurance premi­ in each rating cell (Beebe, Lubitz, and
+um dollars for an insured group (e.g., per Eggers, 1985); (2) the reliance on FFS
+member per month capitation payments to costs to set payments for capitated set­
+a contracting HMO). While a risk-adjust­ tings; (3) the possible financial incentives
+ment methodology is the foundation of a (created by the institutional adjustment
+risk-adjusted capitation payment system, factor) to enroll "marginal" patients in insti­
+other technical and policy issues must be tutional settings; (4) the possible financial
+addressed during the design of the overall incentives (created by the county-level
+reimbursement system. These issues geographic adjustment factor) to perpetu­
+include, for example, the administrative ate inefficiencies in services delivery; and
+feasibility of implementation, system mon~ (5) the increasing divergence of capitated
+toring and regulation, and approaches for payments based on FFS costs relative to
+updating or revising payments reflecting capitated plan costs in areas where capitat­
+changes in medical inputs or technology. ed health plan market share is growing.
+The aim of this project was to develop
+The Current AAPCC risk-adjuster models that would predict the
+medical expenditures of Medicare
+Medicare currently uses a demographic enrollees more accurately than the AAPCC
+risk-adjustment method, the AAPCC sys­ payment system, and to more fairly pay
+tem, to help establish capitated payments capitated health plans for the mix of
+to MCOs for Medicare enrollees. The Medicare patients they attract and serve.
+AAPCC uses age, sex, welfare status, and
+institutional (nursing home) status to cre­ MODEL DEVEWPMENT
+ate a series of mutually exclusive rate cells.
+These rate cells are designed to reflect the Conceptual Framework
+costs of providing care to Medicare
+enrollees treated in the fee-for-service Using diagnostic data to improve the
+(FFS) setting. HCFA sets capitated pay­ precision of risk adjusters was a major
+ments at 95 percent of Medicare expendi­ focus of this project. As such, the objective
+tures predicted by the AAPCC, which is was to integrate two diagnostic risk-assess­
+78 HEAU1I CARE FINANCING REVIEW/Spring 1996/Volume 11. Number 3
+
+=== PÁGINA 3 ===
+ment/risk-adjustment systems previously 1 year) time window.
+developed by researchers atJHU. The first Aspects of the new JHU risk-adjuster
+system is the Ambulatory Care Group models are also based on the PACS model.
+(ACG) case-mis measure, designed pri­ The new models derive from PACS the
+marily as an ambulatory case-mix measure use of three demographic risk asses­
+for concurrent and retrospective use sors (age, sex, and prior disability status)
+among the non-aged population (Weiner et and an inpatient measure based on the
+al., 1991; Starfield et al., 1991).' The sec­ Major Diagnostic Category (MDC)' asso­
+ond original JHU risk-adjustment model ciated with a patient's prior-year hospital
+was the Payment Amount for Capitated admissions.
+System (PACS), funded by HCFA and
+designed as a prospective, inpatient-orient­ Sources of Data
+ed risk adjuster for the Medicare aged pop­
+ulation (Anderson et al., 1989; Anderson et This project made use of HCFNs
+al., 1990). The use of the diagnostic-based Standard Analytical files (SAFs) created
+ACG and PACS risk assessment technolo­ from the National Claims History file
+gies is a fundamental difference between (NCHF). SAFs contain 100 percent of insti­
+the two new JHU Medicare risk-adjuster tutional bills and a 5-percent sample of all
+models and traditional demographic mod­ physician/supplier claims. Since 1991, the
+els such as the AAPCC. physician/s upplier (Part B) claims include
+Both JHU Medicare risk-adjuster mod­ diagnosis information on almost all
+els described in this article incorporate records. Data for the development and
+Ambulatory Diagnosis Groups (ADGs), evaluation of the JHU models were drawn
+which are the basic morbidity classification from five SAFs (inpatient, outpatient,
+system of ACGs. This system groups physician/supplier, hospice, and home
+International Classification ofDiseases, 9th health) for the years ·1991 and 1992.
+Revision, Clinical Modification (ICD-9-CM) Sociodemographic information on the 5
+diagnosis codes into 34 distinct ADGs, percent of beneficiaries for whom data
+based on the codes' expected impact on were retained in the physician/ supplier
+medical service use and cost Seven specif­ SAF were obtained from the HCFA
+ic clinical and epidemiologic criteria were Hospital Insurance Skeleton Eligibility
+used to assign ICD-9-CM codes to ADGs.z Write-Off (HISKEW) file. In total, data
+A patient is assigned one or more (up to were obtained from a national 5 percent
+34) ADGs based on the diagnoses docu­ sample of approximately 1.5 million aged
+mented by providers on their claims Medicare beneficiaries.
+records during a predetermined (generally This project was one of the first to apply
+ambulatory diagnosis codes to the task of
+I In 1996, approximately 100 organizations (mainly HMOs) are
+using ACGs to manage, evaluate, and finance health care for risk adjustment of Medicare beneficiaries.
+their enrolled working-age populations. These uses include clin· A major advantage of using this inform­
+ician profiling, withhold pool adjustment, and provider capitation
+payment ation to develop risk measures is that annu­
+2 The specific criteria for the assignment of ICD-9-CM codes to ally over 85 percent of beneficiaries receive
+ADG are: (1) likelihood of persistence or recurrence of the diag­
+nosis; (2) likelihood of return visits and/or the need for contin­
+3 MDCs group patients into one of 27 broad organ-system cate­
+ued treatment; (3) likelihood of the need for specialist services;
+(4) likelihood of decreased life expectancy; _(5) likelihood of gories based on the patient's principal hospital discharge ICD·~
+.CM diagnosis. For example, all diseases of the nervous system
+short-term or long-term patient disability; (6) expected need and
+are grouped into MDC No. 1. MDCs were developed as a base
+cost of diagnostic and therapeutic procedures; and (J) likelihood
+component of the diagnosis-related group (DRG) system.
+of a required hospitalization.
+HEALTH CARE FINANCING REVIEW/Spring 1996/Volume 11, Number3 79
+
+=== PÁGINA 4 ===
+ambulatory services and are diagnosed to develop the best sub-set of significant
+with one or more conditions in this setting. (p • 0.05), stable, and clinically acceptable
+In contrast, less than 20 percent of bene­ ADGs that were predictive of future medi­
+ficiaries annually receive one or more cal expenditures. We performed this itera­
+diag~
+noses in the inpatient setting. tive process on five random sub-popula­
+Several beneficiary groups with incom· tions constructed from the development­
+plete data were excluded before creating half of the data. Based on these activities,
+the project's final data base. Excluded were 13 of the 34 ADGs were included in the
+beneficiaries who were: (1) under age new JHU Medicare risk-adjuster models.s
+65 (i.e., non-aged disabled beneficiaries); This process resulted in the exclusion of
+(2) end stage renal disease (ESRD) bene­ ADGs that were relatively poor predictors
+ficiaries; (3) enrolled in HMOs; (4) treated (i.e., their coefficients were not significant
+in Indian health service hospitals; (5) rail· across the data subsamples) of future
+road Board retirees; (6) lacked Part B cov­ medical costs in the elderly population. For
+en
+erage; and not continuous~ enrolled example, ADG 2, which clusters diagnoses
+for 1991 and 1992 (those who died in 1991 that are "time-limited minor, infections"
+were also excluded, but those who died in was omitted from the models, whereas
+1992 were retained in the study popula· ADG 9, which clusters diagnoses that are
+tion). After these restrictions were applied, "likely to recur, progressive" was included.
+the final data base included 1.24 million Based on a similar process of iterative
+aged individuals. The final data base was model refinement and review of the origi­
+then split into two half-samples, a "develop­ nal PACS risk-adjuster variables, new com­
+ment" half-sample and an "evaluation" half­ binations and deletions of MDCs were ulti­
+sample. mately incorporated into one of the final
+JHU models. For example, MDC 25 (HIV­
+Modifying ADGs and PACS for the AIDS) was added to the original PACS
+Medicare Population grouping of MDCs 16-17 (Blood,
+Immunological, and Myeloproliferative
+Before testing the applicability of the Diseases). In addition, five MDCs from the
+existing ADG classification system to the PACS model were excluded from the new
+elderly, several enhancements to the ICD­ JHU models. The first of the JHU Medicare
+to-ADG grouping algorithm were made.< models used this project's subset of MDCs
+For example, based on an empirical analy­ to incorporate inpatient diagnoses, and the
+sis of actual diagnosis codes assigned in final subset of ADGs to capture ambulatory
+the inpatient and ambulatory settings to diagnoses.
+elderly patients and using assignment cri­ For the second JHU model, we devel­
+teria described above, several hundred oped a new approach for incorporating
+new ICD-9-CM codes were incorporated inpatient diagnoses. Our motivation was to
+into the ADG system In addition, a num­ design a model that did not incorporate
+ber of previous ICD-to-ADG mappings count variables and explicit prior-hospital
+were modified. admission variables, and thus would not
+An iterative process of model refinement reward a specific practice pattern. Thus we
+and review was performed on the 34 ADGs created a new risk measure, termed the
+4 Readers are referred to the project's final report for the "map~ s All 34 ADGs continue to be recommended fur use in other
+of Medicare population ICD-9-CM code assignments to ADGs applications, such as concurrent profiling; capitation adjustment
+used in the JHU models (Weiner et at, 1996). for non-aged enrollees; and research.
+80 HEAL'nl CARE FINANCING REVIEW/Spring 1996/Vo\ume !7, Number3
+
+=== PÁGINA 5 ===
+"Hospital Dominant" (abbreviated as risk measures were then summed to deter­
+"Hosdom") marker, which reflects the mine a unique risk-adjusted capitation rate
+presence of diagnoses treated predomi­ for each person. In contrast to an actuarial
+nately, but not always or necessarily, in the cell-based rate setting method where only
+inpatient hospital setting.• a few characteristics (for example, age and
+The Hosdom marker was developed sex) can be used to develop an average
+through a multi-step empirical analysis of expected rate for all persons, a multiple
+the 1.24 million beneficiaries in the com­ regression approach can calculate an indi­
+bined development and evaluation files. vidualized expected payment for each per­
+For every ICD-9-CM diagnosis, we deter­ son based on several characteristics.
+mined the likelihood that a beneficiary The risk measures (independent vari­
+received at least some care during the year ables) included in the regression equations
+in either an inpatient or ambulatory setting are presented on Table 2 for the first JHU
+for that condition. We then ranked the model, termed the "ADG-MDC Model,"
+diagnosis codes based on the proportion of and Table 3 for the second JHU model, the
+patients that had been hospitalized during "ADG-Hosdom Model." The weights listed
+the year for that diagnosis. Based on this on the tables correspond to the year-2
+list we ultimately defined the hospital dom­ expected medical expenditures associated
+inant conditions to include 843 diagnoses with the presence of each independent
+for which at least 50 percent of patients had variable.
+been hospitalized for that condition once or
+more during the year. The percentage of Dependent Variable
+patients hospitalized for most of the mark­
+er's diagnoses was much higher than the The measure predicted by the JHU risk­
+50 percent level. (See Table 1 for examples adjuster models (the dependent variable)
+of ICD-9-CM codes that are considered is "total annual Medicare expenditures."
+Hospital Dominant conditions). These expenditures were defined as: (1)
+DRG payments with outlier and capital
+RESULTS adjustments for inpatient hospital expendi­
+tures; (2) actual Medicare reimbursements
+Multiple Regression Modeling for other institutional expenditures; and
+Teclmique (3) resource-based relative value scale
+(RBRVS) payment estimates for physi­
+The JHU risk-adjuster models used the cian/supplier services. In order to track
+multiple regression method to identify the current geographic-based payment differ­
+degree to which year-1 risk measures inde­ entials, HCFA:s geographic adjusters were
+pendently contribute to year-2 medical applied to the RBRVS and DRG compo­
+expenditures. This statistical method nents of the dependent variable.
+results in the calculation of a weight for Geographic Practice Cost Index (GPCI)
+each demographic and diagnostic risk weights were applied to RBRVS units, and
+characteristic used in the risk- adjustment the wage index was applied to D RGs.
+model. The weights (regression coeffi­ To capture only the medical expendi­
+cients) associated with each individual's tures incurred by the Medicare program,
+expenditures were adjusted to exclude
+GReaders are referred to the final report for the list of Medicare patient copayments and deductible
+population ICD-9-CM codes included in the Hosdom marker
+amounts. Medical expenditures for which
+(Weiner eta!., 1996).
+HEALTII CARE FINANCING REVIEW/Spring 1996/Volume 11, Number3 81
+
+=== PÁGINA 6 ===
+Table 1
+Example of Diagnoses in JHU Models' ADG and HOSDOM Variables
+Variable Example ICD-9-CM Diagnoses
+Hospital Dominant {HOSOOM) marker 384.9 Other Septicemia Due to Gram-Negative Organisms
+157.1 Malignant Neoplasm of Body of Pancreas
+276.5 Volume Depletion Disorder
+410.01 Acute Myocardial Infarction, Anterolateral Wall, Initial
+Episode Care
+540.0 Acute Appendicitis With Generalized Peritonitis
+Ambulatory Diagnostic Groups
+3 "Time limited: Major 361.0 Retinal Detachment With Retinal Defect
+4 "T"im"em liam ited: Mator-Primary Infections 466.1 Acute Bronchiolitis
+6 493.0 Extrinsic Aslhma
+7 Likely to Recure: OiScn~te 531.9 Gastric UlCer, UnspeCified as Acute or Chronic
+9 Likely to Recur: Progressive 250.10 AduH-Onset Type Diabetes Mellitus Wrth Ketoacidosis
+11 Chronic Medical: Unstable 424.1 AortiC Valve Disorders
+16 Chronic Specialty: Unstable, Orthopedic 723.0 Spinal Stenosis in Cervical Region
+22 Injuries/Adverse Effects: Major 820.8 Fracture of Unspecified Part of Neck of Femur, Closed
+23 PsychOSocial: Time Limited, Not Severe 309.01 Adjustment Reaction With Brief Depressive Reaction
+25 Psychosocial: Recurrent or Persistent, Unstable 290.0 Senile Dementia, Uncomplicated
+27 Signs/Symptoms: Uncertain 458.0 Orthostatic Hypertension
+28 Signs/Symptoms: Major 429.3 cardiomegaly
+32 Malignancy 174.9 Malignant Neoplasm of Breast (Female)
+NOTE: ADG Is ambulatory diagnosis group morbidity ClassfficaCfon method of tile Ambulatory Care Group case-mix system. HOSDOM Is diagnosis
+(843 total) that is usually (50 percent or more) treated in the inpatient sening.
+SOURCE: Analyses on 1991-92 project data by aulho~ during 1994.-95.
+Medicare was the secondary payer also who has not received any disability-based
+were excluded. Finally, expenditures were Medicare benefits in the past; was not eli­
+adjusted to account for the partial year gible for Medicaid benefits during year 1;
+experience and expenditures of benefici­ and had no health system encounters dur­
+aries who died during year 2 of the project ing year 1 where any ICD-9-CM codes
+data.? In the development data, the average were assigned to the diagnosis-based vari­
+annualized 1992 payment per beneficiary ables (described later) included in the JHU
+was $4,266. The average actual (non-annu­ models. The total1992 expected payments,
+alized) payment was $3,214. or annual capitation amount, for a baseline
+enrollee using the ADG-MDC risk-adjuster
+Independent Variables model was $608 (fable 2). Using the ADG­
+Hosdom model, payment for a base-line
+The JHU models used several year 1 enrollee was $434 (fable 3).
+(1991) risk measures (or independent vari­ Both JHU models incorporate the same
+ables) to predict year 2 (1992) medical four sociodemographic variables: sex, age,
+expenditures. prior disability status, and Medicaid eligi­
+First, the "intercepf' variable weight is bility. The weights corresponding to these
+equivalent to the total annual expected pay­ risk measures slightly differ for each of the
+ment for a "baseline" enrollee-one whose two models.
+characteristics do not trigger any of the The first sociodemographic variable is
+models' other risk measurement variables. "male." (Forty percent of beneficiaries
+Given our structure of the variables, the were male in the development data). The
+baseline enrollee is a 65 year old female weight corresponding to this independent
+variable indicates how much greater a cap­
+7 Readers are referred to this project's final report for a descrip­
+tion of the weighted adjustment method applied to expenditures itated payment should be for males relative
+of year 2 decedents, and lor examples illus!Tating the effect of
+to females in 1992. This amount is $604
+adjusting these expenditures (Weiner eta!., 1996).
+82 HEAL1H CARE FINANCING REVIEW/Spring 1996/Volume 11, Numbed
+
+=== PÁGINA 7 ===
+Table 2
+JHU Medicare Capitation Adjustment Model Number 1: The ADG·MDC Model
+Year 1 Variable Year 2 Weight (SE) Label Population
+(Dollars) (Percent)
+Intercept 608 (28) Base Expected Payment
+Male 604 (26) Male/Female 39.2
+Years Over 65 67 (2) Number of Years OVer Age 65 10.1(Mean)
+Ever Disabled 1,119 (51) Ever Received Sl Disability 6.3
+Medicaid 761 (43) CurrenUy Medicaid Eligible 9.6
+MDC 1 1,533 (36) Nervous System Inpatient Admission 1.9
+MDC 314 3,237 (46) Ears, Nose, Throat, Respiratory Systems 2.9
+MDC 5 1,897 (79) Circulatory System 5.5
+MDC 6 1,759 (30) Oigesll~ System 2.7
+MDC 7 1,030 (53) Hepatobilllary System, Pancreas 0.8
+MDC 8 1,117 (27) Musculoskeletal, Connective Tissue 2.7
+MDC 9 t,762 (n) Skin, Subcutaneous Tissue and Breast 0.7
+MDC 10 2,938 (43) Endocrine, Nutritional, Metabolic Systems 0.8
+MDC 11 2,526 (116) Kidney, Urinary Tract 1.0
+MOC18 3,061 (79) Infectious, Parasitic Diseases 0.5
+MDC 19120 1,957 (32) Mental Disease, AlCOhol, Drug Abuse 0.7
+MDC21 1,882 (29) Injuries, Poisonings, Bums 0.2
+MDC 23/24 1,481 (40) Health Status Factors, Trauma 0.5
+MDC 25/16/17 3,875 (79) Blood, Immunological, Myeloproliferative
+Diseases, HIV, AIDS 0.4
+MOC26 3.944 (60) Transplants 0.4
+VAOG 3 542 (36) .T,im.,e. .L.im ited, Major Diagnosis 15.7
+VAOG 4 734 {64) Time Limited, Major, Primary Infections 8.4
+VAOG 6 818 (123) 2.5
+VADG 7 225 (65) Likely to Recur, Discrete 23.6
+VADG 9 965 {134) Likely to Recur, Progressive 6.7
+VAOG 11 1,345 (126) Chronic Medical, Unstable 42.0
+VADG 16 650 (107) Chronic Specialty, Unstable, Orthopedic 2.7
+VADG 22 525 (tnJ Injuries/Adverse Effects, Major 10.0
+VAOG 23 698 (110) Psychiatric, Time Limited, Minor 1.2
+VAOG 25 804 (245) Psychiatric, Persistent or Recurrent, Unstable 2.8
+VAOG 27 460 (163) Signs/Symptoms, Uncertain 20.2
+VADG 28 551 (97) Signs/Symptoms, Major 30.7
+VADG 32 1,347 (206) Malignancy 11.1
+NOTES: JHU is Johns Hopkins University. AOG is arrbulatory diagnosis group mort:Jidity classification method of the Ambulatory Care Group case­
+mix system. MDCs are majOr diagnostic categories (clusters of dlagnosls-related groups). VADGs are "visit" ambulatory diagnostic group categories
+(of ACG system) der1ved from all available diagnoses on face-to face ambulatory visit claims. (See Table 1 lor egmples of IC0-9--CMs grouped Into
+each AOG.) Independent variables are derived from 1991 claims data of a sa~le of approximately 620,000 Medicare beneficiaries. SEs are stan·
+dard errors of the coefficients. Population Is the percent of patients !lagged by each model variable. As the MDCs are count variables, their percent·
+ages reflect the percent of patients who had one or more admissions per MDC. However, of those patients hospitalized In 1991 within an MDC, an
+average of 92 peTCeflt were admitted only once in that MDC. The o:lependent variable is 1992 Melicare total expenditures.
+SOURCE: Analyses on 1991-92 project data by authors during 1994·95.
+based on the ADG-MDC model, and $613 able is year 1 Medicaid eligibility status.
+based on the ADG-Hosdom model. The This variable is triggered if an individual is
+second sociodemographic variable is age, eligible for Medicaid benefits during at
+defined by the number of years over age least 1 month in year 1 (1991).
+65. The weight corresponding to this risk The ADG-MDC model captures year 1
+assessor indicates the payment amount inpatient data using 15 selected MDC cate­
+allowed for each year over the age of 65. gories. (fwenty percent of the develop­
+The third sociodemographic variable is ment-half beneficiaries were admitted at
+labeled "ever disabled." This indicates past least once during 1991). The MDCs are
+eligibility (i.e., before beneficiaries turned "counf' variables-the weight correspond­
+65) for Social Security Disability Insurance. ing to each MDC variable is the expected
+(When disabled Medicare eligibles reach year 2 expenditure associated with each
+65 their status in the system changes to hospital admission in that category during
+"aged''). The final sociodemographic vari­ year 1. For example, ifan enrollee is admit-
+HEALTH CARE FINANCING REVIEW/Spring 1996/Volume 11, Number3 83
+
+=== PÁGINA 8 ===
+Table a
+JHU Medicare CapHation Adjustment Model Number 2: The ADG·HOSDOM Model
+Year 1 Variable Year 2 Weight (SE) Label Population
+(Dollars) (Percent)
+Intercept 434 (28) Intercept
+Male 613 (26) Male/Female 39.2
+Years OVer 65 64 (2) Number of Years Over Age 65 10.1(Mean)
+Ever Disabled 1,176 (52) Ever Received Sl Disability 6.3
+Medicaid 802 (43) Currently Medicaid Effgible 9.6
+HOSDOM 1,749 (43) Hospital Dominant Diagnosis 16.4
+ALADG 3 663 (35) Time Limited, Major Diagnosis 18.6
+ALADG 4 1,503 (44) Time Limited, Major, Primary Infections 9.9
+ALADG 6 1,216 (76) Mlhma 2.7
+ALADG 7 365 (30) Ukely to Recur, Discrete 25.3
+ALADG 9 1,696 (49) Likely to Recur, Progressive 6.3
+ALADG 11 1,415 (27) Chronic Medical, Unstable 44.2
+ALADG 16 593 (74) Chronic Specialty, Unstable, Orthopedic 2.9
+ALADG 22 462 (40) Injuries/Adverse Effects, Major 11.9
+ALADG 23 1,222 (107) Psychiatric, Time Limited, Minor 1.4
+ALADG 25 1,088 (69) Psychiatric, Persistent or Recurrent, Unstable 3.7
+ALADG 27 568 (32) Signs/Symptoms, Uncertain 21.5
+ALADG 28 753 (30) Slgns/Symptoms, Major 33.5
+ALADG 32 1,429 (40) Malignancy 1.5
+NOTES: JHU Is Johns Hopkins University. AOG is ambulatory Giagnos/s group molbktity cJassHicallon method of the Ambulatory Care Group case·
+mix system. HOSOOM is a "hospital domlnanr diagnosis (presence of one or more diagnoses that usually are treated in the Inpatient setting).
+ALADGs are "all" ADG categories (of ACG system) dellved from all available ambulatory and inpatient diagnoses on face·to-face claims. (See Table
+1 for examples of ICD·9·CMs grouped into HOSOOM and eactl ADG.) lnclependent variables are derived from 1991 claims data of a sample of
+approximately 620,000 Medicare beneliclaries. SEs are standard errors of the coefficients. Population Is the percent of patients flagged by each
+modal variable. The dependent variable is 1992 Medicare total expenditures.
+SOURCE: AnaiY$eS on 1991·92 project data by autllors during 1994-95.
+ted to the hospital multiple times within the Unlike the MDC "count" count vari­
+same MDC, one would multiply that ables, each VADG is a dummy variable
+MDC's weight by the number of year 1 (1•yes, 0-no) that can be triggered only
+admissions when calculating the individ­ once during the base year, regardless of
+ual's expected year 2 payments. The 1992 the number of diagnoses an individual may
+weights corresponding to the MDC vari­ have in each VADG. For example, VADG 3
+ables of the ADG-MDC model range from
+roughly $1,000 to $4,000.
+8 "Face-to-face encounters~ are defined as visits involving an
+Both the ADG-MDC and ADG-Hosdom evaluation and/or management service or a procedure per·
+risk-adjuster models incorporate 13 formed by a physician (MD or DO) or a limited license profes­
+sional (nurse practitioner, physician's assistant, dentist, podia·
+selected ADG groupings. However, the trist. social worker, chiropractor, or psychologist). A range of
+claims source of diagnostic information in HCFA Common Procedure Coding System (HCPCS) procedure
+codes (which is an expansion of the CPT4 system) were used in
+these 13 ADGs differs in the two JHU developing the JHU risk-adjustor models in order to identify and
+limit diagnoses to those during face-to-face encounters. The pro­
+models. The ADG-MDC risk adjuster uses
+cedure code ranges are: (1) 001()()..()1999 fur anesthesia; (2)
+13 ''VisitADGs" (VADGs). VADGsreferto 101£0.69979 fur surgery (excluding maternal care); (3) 77261­
+77799 for therapeutic radiology; (4) 780()0.79999 for nuclear
+ADGs that are assigned from diagnoses
+medicine; (5) 90701·99199 for medicine (includes 1991 evalua·
+(either primary or secondary) noted by tion and management codes); and (6) 99000.99499 for 1992 eva\·
+uation and management codes.
+providers during "face-to-face"s encoun­
+9 Diagnosis codes designated as ""ambulatory visit" codes derive
+ters in the ambulatory visit setting.• (See from all available line-items and header diagnoses from hospital
+outpatient facility claims, and all available line-item and header
+Table 1 for examples of ICD-9-CM codes
+diagnoses (four maximum of each) from physician/supplier
+that fall into each of the ADG categories.) claims-that are associated with one or more of eight ambulato­
+ry~riented places of service. These eight places, drawn from
+Seventy-one percent of the development
+the HCFA provider data file, are the following: (1) office; (2)
+data beneficiaries had one or more VADG home; (3) outpatient hospital department; (4) hospital emer­
+gency room; (5) ambulatory surgical center; (6) State and local
+variables.
+clinic; (l) outpatient rehabilitation clinic; and (8) intennediate
+care facility for the mentally retarded.
+" HEAL'nl CARE FINANCING REVIEW/Spring 1996/Volume 11, Number3
+
+=== PÁGINA 9 ===
+(which clusters diagnoses that are time model similar to the AAPCC. For baseline
+limited, but major) is associated with an comparison purposes throughout this pro­
+increase in year 2 individual capitation pay­ ject, JHU tested a multiple regression risk­
+ments of $542, regardless of the number of adjuster model that approximates the com­
+similar diagnoses or visits that a patient ponents of HCF~s AAPCC payment sys­
+had during year 1. The 1992 weights cor­ tem. (As described earlier, the AAPCC
+responding to the VADG risk assessors of makes HMO-specific adjustments for the
+the ADG-MDC model range from roughly age, sex, welfare status, and nursing home
+$225 to $1,350. residence status of risk contract enrollees).
+In contrast, the ADG-Hosdom risk­ JHU's comparison model, hereinafter
+adjuster model uses 13 "All ADGs" referred to as the "AAPCC" model,
+(ALADGs.) ALADGs refer to ADGs that includes four sociodemographic compo­
+are assigned from all available (primary nents as constructed for JHU's two risk
+and secondary) diagnoses noted on inpa­ adjusters: sex, age, Medicaid eligibility
+tient and outpatient facility claims, as well status, and prior disability status. Medicaid
+as those noted by clinicians during face-to­ and prior disability status were included as
+face encounters in both the ambulatory risk assessors in the comparison model to
+and inpatient settings. The 1992 weights serve as rough proxies for the AAPCC wel­
+corresponding to the ALADG risk asses­ fare and nursing home residence status
+sors of the ADG-Hosdom model range risk assessors. (Welfare and nursing home
+from roughly $460 to $1,700. Seventy-two status were not available in the project's
+percent of development data beneficiaries data.)
+had one or more ALADG variables. As seen on Table 4, the ADG-MDC
+Finally, the ADG-Hosdom risk-adjuster model explains 6.3 percent of total varia­
+model incorporates the new "Hospital tion at the individual level in year 2 medical
+Dominant" marker (in lieu of the prior eXPenditures based' on year 1 variables.
+admission-based MDCs). The Hosdom The ADG-Hosdom model explains 5.5 per­
+marker is a binary variable indicating the cent of total variation in individual year 2
+presence within an individual's claims medical expenditures based on year 1 vari­
+records of one or more of 843 ICD-9-CM ables. The "AAPCC" comparison model
+codes that are serious enough to usually be explains only 1.0 percent. When the data
+treated on an inpatient basis. Ifthe marker are truncated (i.e. medical expenditures
+is triggered, then a payment weight of above specific thresholds are capped at the
+$1,749 is applied (only once) when sum­ thresholds), the explanatory power
+ming scores to calculate an individual's improves significantly. This indicates how
+annual capitation payment amount The reinsurance improves the explanatory
+Hosdom amount is in addition to the power of risk adjusters, and how reinsur­
+weight of the ADG in which the Hosdom ance thresholds may decrease the risk of
+diagnosis may fall. About 16 percent of very high cost (outlier) beneficiaries.
+development data beneficiaries had one or Table 4 also shows the adjusted R­
+more Hosdom diagnosis in 1991. square statistics when the three risk­
+Table 4 summarizes and compares the adjuster models use year 1 variables to pre­
+percent of total variation in individual dict concurrent year 1 medical expendi­
+expenditures explained (using adjusted R­ tures. Most capitation models incorporate
+square statistics) by the two JHU risk­ risk variables in a predictive manner (i.e .•
+adjuster models and by a comparison using year 1 variables to predict year 2
+REALm CARE FINANCING REVIEW/Spring 1996/Votume t1, N\111\ber 1
+
+=== PÁGINA 10 ===
+Table4
+Percent of Variation in 1992 and 1991 Expenditures Explained by 1991 Models
+Medicare Expenditures
+Not Truncated Truncated
+Truncated at $100,000 at $50,000
+Model (1991) 1992 1991 1992 1991 1992 1991
+ADG·MDC 6.3 64.4 8.0 66.3 9.0 69.2
+ADG-Hosdom 5.5 40.9 7.0 42.3 8.0 45.6
+"AAPCC" 1.0 1.2 1.3 1.3 1.6 1.4
+NOTES: ADG-MDC is ambulato.y diagnostic groop-major diagnostic cai61J0ry. AOG-Hosdom Is ambulatory diagnostic group-hospital dominant diag­
+nosis. "AAPCC" is adjusted average per capita cost. HCFA's actual AAPCC system is approximated in this study by iiiCOrporati'lg age, sex, Medicaid
+eligibility and prior disability status into a linear r&pJession model.The percentages represent the adjusted R-square statistic of the Individual level
+multivariate regression models as seen on Tables 1 and 2 lor lh8 approximately 620,000 bBfletlciafles in !he development data base. StatiStics are
+shown for the prospective model (1991 model predlcling 1992 expenditures) aod for a concurrent model (1991 model predicting 1991 expenditures).
+SOURCE: Analyses on 1991·92 project data by authors during 1994-95.
+medical expenditures). However some pro­ mographic and diagnostic assignments;
+posed risk-adjustment models are based and (3) compares the capitation rates
+partly on retrospective payments (pay­ determined from the two JHU models and
+ments made when services are actually the baseline comparison "AAPCC" model.
+delivered) that are linked to the presence The ADG-MDC and ADG-Hosdom Tables
+of certain high-cost conditions. In addition, 1 and 2 serve as "look-up" tables for identi­
+other applications of risk-adjustment mod­ fying the payment weights associated with
+els, such as provider profiling, use inde­ each risk assessor in the models and apply­
+pendent variables to explain resource use ing them as necessary to the enrollees pre­
+in the concurrent year. sented on Table 5.
+For example, "Enrollee 1" on Table 5
+Using JHU Models to Set represents an 85 year old male who had no
+Capitation Rates ambulatory visits or inpatient admissions
+during year 1 (as defined by the risk­
+As described, the two JHU risk-adjuster adjuster models.) Table 5 sums the risk
+models use the multivariate regression scores calculated on Table 2 that are asso­
+method to assign a unique risk score to ciated with the relevant three characteris­
+each Medicare enrollee. While the multi­ tics (male, 20 years over age 65, and no
+variate regression approach used to deter­ health system encounters) of the individ­
+mine the weights associated with each risk ual. The ADG-MDC model predicts this
+measure is fairly complex, the process individual's year 2 expenditures (equiva­
+needed to calculate an individual enrollee's lent to his adjusted capitation rate) to be
+score and an overall group capitation rate $2,552; the ADG-Hosdom model predicts
+involves straight-forward addition. Table 5 this individual's year 2 expenditures to be
+illustrates the arithmetic necessary to $2,327. The baseline comparison "AAPCC"
+determine annual capitation rates for five model predicts this individual's year 2
+hypothetical health plan enrollees. To illus­ expenditures to be $4,785.
+trate the process, this table: (1) presents Two important features become appar­
+five beneficiaries with varying morbidity ent upon comparing the individual risk
+levels and health system encounters in scores, or payment amounts, across risk
+year 1; (2) calculates the year 2 capitation adjusters of the five hypothetical enrollees
+rate of each patient based on his sociode­ on Table 5. First, regardless of the year 1
+86 HEALTII CARE FINANCING REVIEW/Spring 1996/Volume 11, Number3
+
+=== PÁGINA 11 ===
+Table 5
+Determining Year 2 Capitation Rates For Five
+Health Plan Enrollees Using Year 1 Risk Measures
+Risk-Adjustment Models
+Enrollee ADG-MOC ADG·Hosdom
+Enrollee 1 (No Health System Encounters)
+Mo1e $604 $613 $732
+85 Years (20 Years • Payment Weight) -1-,3-4­0 1,280 2,160
+Base Cost (Model Intercept) ~ ~
+Capitation Rate ... ...2,552 2,327 4,785
+Enrollee 2 (No MOCs, 3 ADGs)
+Mme 6~ 613 732
+85 Years 1,340 1,280 2,160
+Base Cost (Model Intercept) 60& 434 ~
+Depression (ADG 23) 698 1,222
+Gastric Ulcer (ADG 7) 225 365
+Coronary Atherosderosis (ADG 11) ~ ~
+capitation Rate ....................................4,820 5,329 4,785
+Enrollee 3 (No MDCs, 3 AOGa, Hoadom Marker)
+Male 604 613 732
+85 Years 1,340 1,280 2,160
+Base Cost (Model Intercept) 600 434 ~
+Depression (ADG 23) 698 1,222
+Gastric Ulcer (AOG 7) 225 356
+Coronary Atherosclerosis (ADG 11) 1,345 1,415
+Hosdom Diagnosis Marker _Q ~
+Capitation Rate ..................... . . ....4,820 7,078 4,785
+Enrollee 4 (2 MDCs, 6 ADGs, Hosdom Marker)
+Male 604 613 732
+85 Years 1,340 1,280 2,160
+Base Cost (Model intercept) 608 434 ~
+Depression (ADG 23) 698 1,222
+Gastric Ulcer (ADG 7) 225 365
+Coronary Atherosclerosis (ADG 11) 1,345 1,415
+Comeal Edema (ADG 3) 542 663
+Diabetes (ADG 9) 965 1,696
+Heart Palpitations (ADG 27) 460 568
+2 Circulatory Admissions (MDC 5 x2) 3,794 0
+or 1 Hosdom Diagnosis Marker _____o. ~
+capitation Rate ....................................10,581 10,005 4,785
+Enrollee 5 (4 MDCs, 6 ADGs, Hosdom Marker)
+M~e 604 613 732
+85 Years 1,340 1,280 2,160
+Base Cost (Intercept) 608 434 ~
+Depression (ADG 23) 698 1,222
+Gastric Ulcer (ADG 7) 225 365
+Coronary Atherosclerosis (ADG 11) 1,345 1,415
+Comeal Edema (ADG 3) 542 663
+Diabetes (ADG 9) 965 1,896
+Heart Palpitations (ADG 27) 460 568
+2 Circulatory Admissions (MDC 5 x 2) 3,794 0
+or 1 Hosdom Diagnosis Marker 0 _1_,_7_4_9.
+2 Respiratory Admissions (MDC 3 x 2) ___Mll
+capitation Rate ................. . ............17,055 10,005 4,785
+NOTES: ADG·MDC Is ambulatory diagnostic group·major diagnostic categ01y. AOG·Hosdom is ambulatory diagnostic group·hospital dominant dlag·
+nosls. AAPCC Is adjusted average per capita cost. HCFA's actual AAPCC system is approximated In this study by Incorporating age, sex, Medicaid
+eligibility, and prior disability status into a linear regression model. See Tables 2 and 3 for weights associated with each risk measure.
+SOURCE: Analyses on 1991-92 project data by authors duling 1994-95.
+HEALTH CARE FINANCING REVIEW/Spring 1996/Volume 17, Number3 87
+
+=== PÁGINA 12 ===
+diagnostic history of the enrollees, the explaining and predicting year 2 expendi­
+"MPCC" system predicts the same year 2 tures based on year 1 data. The first meas­
+adjusted capitation amount-$4785. On an ure, the adjusted R-<lquare statistic, indi­
+individual level, the "MPCC" comparison cates the fraction of the total variance in
+model generally overpays health plans for year 2 (1992) medical expenditures at an
+healthy enrollees, and underpays health individual level accounted for by a risk­
+plans for less healthy enrollees. Second, adjuster model based on 1991 variables.
+the ADG-Hosdom risk-adjuster model gen­ The model with the higher adjusted
+erally results in higher year 2 capitation R-square statistic for a given population
+rates for enrollees who were not hospital­ explains the higher fraction of variance in
+ized in year 1 (enrollees two and three). the individual-level expenditures for that
+For enrollees who were hospitalized group, and is viewed as the best model
+(enrollees four and five), the ADG-MDC according to these criteria.
+risk-adjuster model results in higher year 2 The second empirical measure assessed
+capitation rates. the ability of each model to predict year 2
+expenditures of groups of individuals. This
+INDEPENDENT EVAUJATION measure, the predictive ratio, was calculat­
+METHODS ed using the following equation:
+pExpected Expenditures;/
+The JHU Medicare risk-adjuster models
+pActual Expenditures;
+were evaluated by I.ewin-VHI, Inc. along
+two dimensions. First, the ability of each for all members "i" of a beneficiary group.
+model to predict the future medical expen­ The predictive ratio for a particular group
+ditures of Medicare beneficiaries, particu­ is the ratio of the sum of expected year 2
+larly of non-random enrollee groups, was expenditures for all individuals in that
+assessed. Second, the potential that either group as predicted by the risk-adjuster
+JHU risk-adjuster model could be "gamed" models using year 1 diagnostic data, divid­
+by health plans and providers, and the ed by the sum of actual year 2 expenditures
+administrative feasibility of implementing of all individuals in that group. A predictive
+each model, were considered. ratio of 1.00 indicates that a risk-adjuster
+The evaluation was conducted using the model predicts the expenditures of a group
+"evaluation" half (approximately 620,000 perfectly. Predictive ratios less than 1.00
+beneficiaries) of the data base JHU devel­ indicate that a model under-predicts the
+oped from the random sample ofMedicare expenditures of the group: predictive ratios
+enrollees in 1991 and 1992. The payment greater than 1.00 represent over-predic­
+amounts (i.e., the regression coefficients) tion.
+of the models derived from the JHU devel­ The adjusted R-square statistics and pre­
+opment data were applied to the evaluation dictive ratios of the JHU Medicare risk­
+data in order to develop expected capita­ adjuster models were compared with those
+tion rates for the population in the evalua­ of the comparison "AAPCC" model for sev­
+tion data. eral groups of Medicare enrollees.
+Comparisons with the latter model indicate
+Statistical Measures the magnitude of the improved perform­
+ance of the JHU models relative to current
+Two statistical measures were used to demographic payment systems.
+evaluate the accuracy of the JHU models in
+88 HEAL1H CARE FINANCING REVIEW/Spring 1996/V~Iume 17, Number3
+
+=== PÁGINA 13 ===
+Random and Non-Random with uniformly low (or high) medical
+Enrollee Groups expenditures.
+The non-random groups were construct·
+The first set of Medicare enrollee groups ed as follows:
+used for the empirical evaluation of the
+• Age-Sex Cells-individuals of each sex
+risk-adjuster models was of several differ·
+were grouped into 5-year bands (based
+ently-sized random enrollee groups. Three
+on their age in year 1): 65-69; 70-74; 75­
+sets of 100 groups, each set consisting of
+79; 80-84; and 85+.
+500, 5,000, and 50,000 individuals, were
+• Medical Conditions-individuals with
+selected at random from the evaluation
+one or more of 17 mainly chronic medi·
+data base. Predictive ratios were calculated
+cal conditions, as found in the 1991 data,
+for each set of 100 groups; adjusted
+were grouped into: (1) depression; (2)
+R-square statistics were not calculated for
+alcohol and drug abuse; (3-4) hyperten·
+these groups.
+sion; (5-6) diabetes; (7-9) cardiac condi·
+The predictive ratios for the repeated
+tions; (10) pulmonary conditions; (11­
+random groups indicate the underlying
+13) cancers; (14-15) stroke; (16) hip frac­
+risks of losses or gains that health plans
+ture; and (17) arthritis.
+would face under each risk-adjuster model
+• Expenditure Groups-individuals were
+assuming they enroll beneficiaries pure!~
+placed in one of five groups based
+at random. Capitated health plans do not
+on their 1991 Medicare total ;xpendi­
+enroll beneficiaries at random, but instead
+tures. Quintile one includes the least
+seek to have "positive" enrollment relative
+expensive 20 percent of the evaluation
+to their capitated payment system. Thus it
+group population.
+is possible that results from rand~m
+groups may overstate the actual risk faced
+EVAUJATION RESULTS
+by capitated health plans.
+The remaining sets of patient groups
+Random Groups
+used to test the JHU risk- adjuster models
+were non-random groups of individuals.
+Ideally, predictive ratios should cluster
+Evaluating risk adjusters using non-ran­
+around 1.00, particularly for random
+dom groups provides information on the
+groups. In addition, based on the Law of
+relative ability of the JHU (and comparison
+Large Numbers, disiributions of predictive
+"AAPCC") risk-adjuster models to limit
+ratios should cluster more tightly around
+health plan selection bias. For example
+1.00 as the size of a random group increas­
+one risk-adjuster model may better predict
+es. The range and disiribution of predictive
+the expenditures of enrollees grouped by
+ratios for the 100 random groups of three
+age and sex, but may more poorly predict
+sizes are shown on Table 6.
+the expenditures of other types of enrollee
+The results on Table 6 support both
+g_roups. Or, a risk-adjuster model may con­
+hypotheses. First, the median predictive
+sistently over- or underestimate the medi­
+ratios for the three sizes of random groups
+~al expenditures of particular groups. It is
+are close to 1.00 for all three models (the
+unportant to note that these non-random
+JHU models and the "AAPCC" comparison
+groups represent extreme cases-i.e., they
+model). The median predictive ratio
+~epresenta health plan's enrollment profile
+ranges from 1.03-1.04 for groups of 500
+if the plan enrolled only individuals with a
+enrollees; 0.9S.0.99 for groups of 5,000
+specific medical condition or individuals
+HEAL1H CARE FINANCING REVIEW/Spring 1996/Volume 17, Number 3 89
+
+=== PÁGINA 14 ===
+Table6
+Distribution of Predictive Ratios for Repeated Random Samples to Compare Three
+Risk-Adjustment Models
+Model 5th Percentile 25th Percentile Median 75th Percentile 95th Percentile
+Group Size "' 500 Enrollees
+ADG·MDC 0.8355 0.9092 1.0312 1.1047 1.2968
+AOO·Hosdom 0.8304 0.9169 1.0370 1.0977 1.2879
+"AAPCC" 0.8115 0.9073 1.0367 1.1140 1.3352
+Group Size=-5,000 Enrollees
+AOO-MDC 0.8602 0.9297 0.9839 1.0593 1.1477
+ADG-Hosdom 0.8683 0.9391 0.9892 1.0582 1.1444
+"AAPCC" 0.8590 0.9175 0.9776 1.0521 1.1698
+Group Size"' 50,000 Enrollees
+AOO-MOC 0.9063 0.9344 0.9972 1.0545 1.1127
+ADG·Hosdom 0.9129 0.9363 1.0002 1.0410 1.1139
+"AAPCC" 0.8901 0.904<> 1.0040 1.0461 1.1325
+NOTES: ADG·MOC is ambulatory diagnostk: group-major diagnostiC category. ADG·Hosdom is ambulatory diagnostic group-hospital dominant diag­
+nosis. AAPC Is adjusted average per capita cost. See text for description of three ~sk-adjuster moclels. Results are based on 100 randomly selected
+groups of 500, 5,000, and 50,000 Medicare beneficiaries. Predictive ratios= expected expenditures I aclual expenditures.
+SOURCE: Analyses on 1991-92 pro;ect data by authors du~ng 1994-95.
+enrollees; and 1.00 for groups of 50,000 surance.lO Reinsurance would provide
+enrollees. Second, the distribution of pre­ plans with protection against the losses
+dictive ratios for all three models clusters associated with patients who incur cata­
+more tightly around 1.00 as the size of ran­ strophic expenditures. The presence (or
+dom groups increases. absence) of an unusually large number of
+The actual range of the predictive ratios, high-cost enrollees in the random groups
+however, was relatively large for each of of 50,000 could account for the Table 6 find­
+the models, even for random groups of ing that 5 percent of these groups incur
+50,000 individuals. For example, the 5th losses (or gains) of 10 percent or more.
+and 95th percentile values on Table 6 show The stop-loss reinsurance results on
+that 5 percent of random groups of 50,000 Table 7 reflect reinsurance set at 80 per­
+enrollees have predictive ratios of less than cent of individual expenses above the
+0.90 or more than 1.10 for the JHU models $50,000 threshold (with health plans at-risk
+and the comparison model. These results for the remaining 20 percent). The results
+suggest that health plans with 50,000 ran­ show that reinsurance has a small effect on
+dom enrollees face a 5 percent likelihood, the range of predictive ratios for random
+due solely to chance of incurring losses or groups of 50,000 individuals. For example,
+gains of 10 percent or more if payments on Table 7 the range of predictive ratios
+were based on the three models evaluated. between the 5th and 95th percentiles nar­
+rows only slightly when stop-loss reinsur­
+Reinsurance Simulations ance is introduced for the ADG-MDC
+model (from 0.91-1.11 to 0.92-1.09); for the
+The predictive ratios for the random ADG-Hosdom model (from 0.91-1.11 to
+groups discussed above were estimated 0.92-1.09); and for the "AAPCC" compari­
+using non-truncated expenditure data. By son model (from 0.89-1.13 to 0.90-1.11).
+truncating 1992 medical expenditures at There are two possible explanations for
+$50,000, and re-estimating each risk why the reinsurance analysis indicates that
+adjuster model regression equation, one
+111 Readers are referred to the project's final report for a discus­
+can simulate the effects of stop-loss rein­
+sion and tables oo reinsurance analyses for random groups
+smaller than 50,000 (Weiner et al., 1996).
+90 HEALTII CARE FINANCING REVIEW/Spring 1996/Volume 11, Numberl
+
+=== PÁGINA 15 ===
+Table7
+Distribution of Predictive Ratios for
+Repeated Random Groups of 50,000 Individuals With Reinsurance
+Stop/Loss Threshold 5th Percentile 25th Percentile Median 75th Percentile 95th Percentile
+ADG·MDC Model
+None 0.9063 0.9344 0.9972 1.0545 1.1127
+$50,000 o.91n 0.9357 0.9838 1.0350 1.1047
+ADG·HOSDOM Model
+None 0.9144 0.9363 1.0002 1.0410 1.1139
+$50,000 0.9224 0.9369 0.9882 1.0235 1.0891
+"AAPCC" Comparison Model
+None 0.8923 0.9040 1.0040 1.0461 1.1325
+$50,000 0.9017 0.9124 0.9867 1.0273 1.1061
+NOTE: AOG-MOC Is ambulatory diagnosllc group-major diagnostic category. ADG-Hosdom is ambulatory diagnostic group-hospital dominant diagno­
+sis. AAPCC Is adjusted average per capita cost. See text lor description of three risk-adjuster models. Results are based on 100 randomly selected
+groups oiSO,OOO Meo:licare benefiCiaries. Predictive ratios • expected expenditures I actual e)(jlendltures. The reinsurance system tested Included a
+2()-percent plan coinsurance rate OVflr $50,000, with Medicare being responsible lor 80 percent
+SOURCE: Analyses on 1991·92 project clete by euthors during 1994·95.
+stop-loss reinsurance does not signiJicantly 80 percent of the individual's expenses
+affect the predictive ratios of random above $50,000--0.80 ($80,000-$50,000) =
+gronps of 50,000 individuals, even though $24,000-or a total of $34,000, Even with
+reinsurance can be expected to improve the reinsurance, the plan thus receives pay­
+predictive ratios of smaller enrollee groups. ments of only 42.5 percent of that individ­
+Frrst, the Law of Large Numbers predicts ual's medical expenses ($34,000/$80,000 =
+that as the size of a random group increas­ 42.5). This example indicates that while
+es, the probabilily of that group (mcluding reinsurance does limit a plan's losses on its
+an unusually high proportion of individuals high cost enrollees, plans still incur signifi­
+with catastrophic medical expenditures) cant losses for many enrollees with expens­
+declines. Thus, stop-loss reinsurance did es above the stop-loss threshold. In turn,
+not affect the predictive ratios of the 100 these losses imply that reinsurance may
+random groups of 50,000 likely because not signiJicantly alter predictive ratios of
+none of these groups included a large large random groups of enrollees.
+enough proportion of individuals with medi­
+cal expenses above the $50,000 threshold. Non-Random Groups
+A second reason reinsurance does not
+affect the predictive ratios of groups of Age and Sex Cohorts
+50,000 individuals may be due to the limit­
+ed protection afforded health plans by rein­ Adjusted R-square statistics and predic­
+surance schemes. This point is best under­ tive ratios for the first set of non-random
+stood through a numeric example. groups, 5 year age-sex cohorts, are pre­
+Suppose an individual with $80,000 of sented on Table 8. The adjusted R-square
+medical expenses is included in a random statistics from all of the age-sex cohorts
+group. Next, suppose a risk adjuster, trun­ groups are considerably higher for the two
+cated at the stop-loss threshold of $50,000, JHU models than for the "AAPCC" com­
+predicts the expenditures of this individual parison model. These statistics range from
+to be $10,000. The total expenditures paid 3.9-7.9 percent for the ADG-MDC model;
+to a reinsured health plan for this indi­ 3.6-6.6 percent for the ADG-Hosdom
+vidual equals the predicted $10,000 plus model; and 0.1-1.2 percent for the compari-
+HEALTif CARE FINANCING REVIEW/Spring 1996/v..tumel7,Number3 91
+
+=== PÁGINA 16 ===
+Table 8
+Adjusted fi.Square Statistica and Predictive Ratios of
+Three Risk-Adjustment Models for Age-Sex Groups
+ADG-MDC Model AOG-HOSDOM Model "AAPCC" Model
+Adjusted Adjusted Adjusted
+Group A-Square PR A-Square PR A-Square PR
+(Percent) (Percent) (Percent)
+Female, Age 65 to 69 7.89 1.0117 6.62 1.0150 1.22 1.0178
+Female, Age 70 to 74 6.12 0.9937 5.37 0.9959 0.60 0.9832
+Femal&, Age 75 to 79 5.94 0.9928 5.17 0.9933 0.33 0.9728
+Female, Age 80 to 84 5.39 1.0042 4.73 1.0055 0.23 0.9926
+Female, Age 85+ 4.45 1.0266 3.68 1.0247 0.18 1.0673
+Male, Age 65 to 69 5.80 1.0357 5.11 1.0338 0.55 1.0937
+Male, Age 70 to 74 5.10 1.0023 4.40 1.0023 0.35 1.0120
+Male, Age 75 to 79 4.66 0.9516 4.07 0.9554 0.22 0.9307
+Male, Age 80 to 84 4.71 0.9821 4.35 0.9842 0.12 0.9455
+Male, Age 85+ 3.93 1.0099 3.60 1.0075 0.08 0.9986
+NOTE: ADG·MDC is ambUlatory diagnostic group-major diagnostic category. ADG.f-losdom Is ambulatol)' diagnostic group-hospital dominant dlag­
+nosls. AAPCC is adjusted average per capita oost PR Is prediCtive raUo. Predictive ratios = expected expenditures/actual experlditUres. Groups were
+defined by age In year 1 (1991) and sex. See text for description of three risk-adjuster models.
+SOURCE: Analyses on 1991-92 project data by authofs during 1994-95.
+son "AAPCC" model. Thus, both JHU ments is the ability of some health plans to
+models account for several times more "cream-skim," or engage in biased, positive
+individual variation in year 2 medical enrollee selection. However, beneficiaries
+expenditures than does the comparison also self-select into health plans. Younger
+"AAPCC" model for each age/sex cohort. or healthier elderly, for example, may be
+In contrast, the predictive ratios of the more likely to enroll in Medicare MCOs
+two JHU and "AAPCC" models for these than elderly with multiple or severe illness­
+age-sex cohorts are fairly similar. For the es (Brown, 1994). For whatever reason,
+"AAPCC" modeL predictive ratios range health plans that enroll beneficiaries who
+from 0.93-1.09-a range that is only slight­ have not been heavy users of medical serv­
+ly larger than that for the ADG-MDC ices may be rewarded financially by the
+model (0.95-1.04) and ADG-Hosdom model AAPCC payment system, while plans
+(0.96-1.02). The similarities between the enrolling a disproportionate share of heavy
+predictive ratios of the "MPCC" model users will be penalized. A well-functioning
+and the JHU models for the age-sex groups risk-adjustment system should adjust for
+are not surprising, given that each of the differences in the expected use of medical
+models include age and sex as indepen· services by enrollees, thus encouraging
+dent variables. plans to compete on the basis of price and
+The results on Table 8 also show that quality, and not through risk selection.
+adjusted R-square statistics for the age-sex The extent of the potential rewards for
+cohorts are highest for the ADG-MDC cream-skimming under the MPCC are
+model. However, for seven of the 10 age­ apparent in the predictive ratio results of
+sex cohorts the ADG-Hosdom model has enrollees grouped into medical expendi­
+predictive ratios closest to 1.00. ture quintiles. Expenditure quintiles were
+defined according to each individual's
+Expenditure Quintiles medical expenditures in year 1 (1991). The
+20 percent of individuals with the lowest
+A common criticism of HCFNs AAPCC annual medical expenditures in year 1
+system for setting capitate<! Medicare pay­ formed the first expenditure quintile; the
+92 HEAL1H CARE F1NANCING REVIEW/Spring 1996/Volume 11. Number 3
+
+=== PÁGINA 17 ===
+Table 9
+Adjusted R-Square Statistics and Predictive Ratios of
+Three Risk-Adjustment Models for Expenditure Quintiles
+ADG-MDC Model ADG-HOSDOM Model "AAPCC" Model
+Adjusted Adjusted Adjusted
+Ouintile (Average Cost) R-Square PR R-5quare PR R..Square PR
+(Percent) (Percent) (Percent)
+First Quintile ($1,415) 0.65 1.1913 0.66 1.0777 0.53 2.3417
+Second Ouintile ($2,007) 1.00 1.1788 1.00 1.1736 0.73 1.6819
+Third Ouintlle ($2,807) 1.05 1.0693 1.07 1.1258 0.75 1.2379
+Fourth Oulntile ($4,132) 1.30 0.9297 1.35 1.0019 0.60 0.8667
+Fifth Quintile ($7,569) 3.45 0.9212 2.60 0.8759 0.45 0.5014
+NOTES: ADG-MDC is ambUlatory dlaQilOSiiC group-ma.jOr diagnostic category. ADG-Hosdom Is ambulatory diagnostic group-hospital dominant dlag·
+nosls. AAPCC Is adjusted average per capita cost PR Is prediCtive ratic>-&xpecled expendHures I actual expencltures. Groups ware defined by
+expenditures In year 1 (1991). See text lor description of three risk-a<41Jster models.
+SOURCE: Analyses on 1991-92 project data by aulhofs during 1994-95.
+20 percent with the highest medical expen­ In contrast, the rewards for cream-skim­
+ditures in year 1 form the fifth expenditure ming were much lower for JHU's ADG­
+quintile. Table 9 shows the mean year 1 MDC and ADG-Hosdom models. The
+(1991) expenditures of each quintile, and ADG-MDC model over-predicts the medi­
+the adjusted R-square statistics and predic­ cal expenditures of the first quintile by 19
+tive ratios for each model by quintile. percent and the ADG-Hosdom model by 8
+As seen on the table, the comparison percent." Conversely, for the fifth quintile,
+"AAPCC" model predictive ratio is 2.34 for the ADG-MDC model under-predicts medi­
+the first (lowest) quintile. This indicates cal expenditures by 8 percent and ADG­
+that the "AAPCC" model over-predicts the Hosdom model under-predicts medical
+year 2 (1992) medical expenditures of the expenditures by 12 percent The rewards
+first quintile by 134 percent Thus, health for cream-skimming are greatly reduced
+plans receiving capitated payments adjust­ by the ADG-MDC and ADG-Hosdom mod­
+ed only for demographic risk measures els, which would encourage plans to com­
+would likely receive substantial profits if pete more strongly through price and
+they enrolled individuals whose use of quality.
+medical services in the past has been low.
+Conversely, the predictive ratio of 0.50 for Diagnosis-Based Categories
+the fifth (highest) quintile for the "AAPCC"
+model indicates that this model under-pre­ The performance of the two JHU models
+dicts the year 2 medical expenditures of and the comparison model was also
+the heaviest year 1 users of medical serv­ assessed for 17 mainly chronic disease cat­
+ices by 50 percent. Plans that avoid egories. Presumably capitated health plans
+enrolling or disenroll heavy users of medi­ can detect the presence of many of these
+cal services avoid substantial losses iftheir diseases in current or prospective
+capitated payments are based only on enrollees. If a risk-adjuster model tends to
+demographic factors. Since the mean per over-predict the medical expenditures of
+person expenditure is much greater in the individuals with one or more of these con­
+higher quintiles, the financial impact of
+predictive inaccuracies in the higher quin­ 11 A curious result is that the ADG-Hosdom model predictive
+tiles is much greater than it would be in the ratios are ~inverted,'' i.e., the predictive ratio for the first quintile
+(1.08) is nearer to 1.00 than that of the second quintlle (1.17);
+lower quintiles. however the predictive ratios for the third (1.13) and fourth
+(l.OO) quintiles become closer to 1.00. We have no particular
+explanation for this intriguing statistical artifact.
+HEALTH CARE nNANCING REVIEW/Spring 1996/Volome l7, Number3 93
+
+=== PÁGINA 18 ===
+ditions, then plans would have incentives sus 0.91 for the ADG-MDC and ADG­
+to enroll these beneficiaries. Conversely, if Hosdom models respectively); and for
+a risk adjuster consistently under-predicts three or more admissions in year 1 (0.97
+the expenditures of a disease category, versus 0.66). The ADG-MDC model has a
+then individuals with that condition could greater predictive power for these groups
+experience problems in access to capitated because the model includes MDC variables
+health plans. to capture year 1 hospital admissions.
+As seen on Table 10, in 15 outof17 cases
+both the ADG-MDC and ADG-Hosdom Gaming and Administrative Feasibility
+models do a far better job of predicting the
+year 2 medical expenditures of patient Gaming
+groups with these chronic conditions in
+year 1 than does the "AAPCC" model. In One potential concern with either JHU
+two disease groups, the second diabetes risk-adjuster model is the possibility for
+and second cancer groups, the "AAPCC" "upcoding" by health plans and providers.
+comparison model has predictive ratios Upcoding occurs when plans engage in
+closer to 1.00 than the JHU risk-adjuster strategic behaviors, including recording
+models. Of the two JHU models, the ADG­ additional diagnoses or reclassifying diag­
+MDC model has predictive ratios closer to noses, designed to increase risk-adjusted
+1.00 for 10 diagnosis groups; the ADG­ capitated payments to the plans. The main
+Hosdom model has predictive ratios closer advantage of a demographic risk-adjuster
+to 1.00 for five diagnosis groups. All three model such as HCFXs AAPCC payment
+risk-adjuster models over- or under-predict system is its resistance to this type of gam­
+the year 2 medical expenditures of some ing-health plans cannot change the age
+disease groups, such as the first hyperten­ and sex, nor likely the welfare and nursing
+sion group. These disease category results home residence status of their enrollees.
+suggest areas of concentration for improv­ However diagnosis-based risk adjusters
+ing the discriminatory powers of the mod­ such as the ADG-MDC and ADG-Hosdom
+els within the limits of the ICD-9-CM cod­ models are susceptible to gaming through
+ing system. excessive coding, upcoding, and reclassify­
+ing of diagnoses. This concern may be par­
+Other Findings ticularly relevant for the ADG and Hosdom
+variables, in which a single ambulatory
+One set of analyses conducted in the code in year 1 results in higher payments
+model evaluation (but not included on the in year 2.
+tables) compares the predictive ratios of In general, however, several factors limit
+the three risk-adjuster models for patient the ability of health plans to engage in code
+groups defined by the number of hospital gaming under either the ADG-MDC or
+admissions (none, one, two, and three or ADG-Hosdom models. Frrst, health plans
+more) experienced by each individual in would need time to identify the best
+year 1 (1991). These analyses indicated an options and model variables for gaming,
+important difference between the two JHU and yet more time to acquire or purchase
+models. Compared with the ADG-Hosdom the data collection and manipulation skills
+model, the ADG-MDC model had predic­ necessary for successful upcoding.
+tive ratios much closer to 1.00 for individu­ Second, HCFA could adopt auditing and
+als with two admissions in year 1 (1.01 ver­ enforcement procedures designed to iden-
+94 HEALTII CARE FINANCING REVIEW/Spring 1996/Volume l7, Numberl
+
+=== PÁGINA 19 ===
+Table10
+Adjusted R-Square Statistics and Predictive Ratios of
+Three Rlsk-Adjusbnent Models for 17 Conditions
+ADG·MOC Model ADG-HOSDOM Model "AAPCC" Model
+ConditiOn Adjusted R-Square PR Adjusted R-Square PR Adjusted R-Square PR
+Depression 0.45 0.9921 4.69 1.0215 0.76 0.9437
+Alcohol and Drug Abuse 1--6,12 1.1128 1-3.20 1.2096 1-Q,13 0.7918
+Hypertensive Heart'Renal Disease 3.54 1.1664 2.57 1.2091 0.77 1.1712
+Benign/UnspeCified Hypertension 2.51 1.0564 2.23 1.0643 0.62 1.3546
+Diabetes with Complications 3.83 1.0301 2.65 1.0591 0.96 0.8654
+Diabetes without Complications 3.44 0.6528 3.03 0.8621 0.63 0.9260
+Heart Failure/Cardiomyopathy 3.80 0.8965 3.16 0.8810 0.17 0.7133
+Acute Myocardial infarction 1.92 0.8827 1.98 1.0071 0.09 0.6335
+Other Heart Disease 3.37 1.0353 2.78 1.0354 0.53 0.7673
+Chronic Obstructive Pulmonary Disease 5.83 0.9415 4.59 0.9238 0.86 0.6934
+Colorectal cancer 5.42 0.8734 3.95 0.8981 0.30 0.5383
+Breast Cancer 6.22 1.4189 5.16 1.4223 0.54 0.9270
+LunWPancreas Cancer 4.93 0.7150 3.97 0.6589 3.10 0.3360
+Other Stroke 4.91 0.9355 4.19 0.9911 0.49 0.5638
+Intracerebral Hemorrhage 1-1.54 0.8111 1-0.11 0.9203 1-Q.53 0.4415
+Hlp Fracture 3.63 0.9704 2.68 1.0531 0.16 0.6525
+Arthritis 5.15 0.9572 4.57 0.9773 0.80 0.8151
+'It is possible for the adjusted A-square statistic to be negative.
+NOTES: AOG·MOC iS ambUlatory diagnostic group-major diagnostiC category. AOG-Hosdom iS ambulatory diagnoslic group-hospital dominant diag ­
+oosis. AAPCC is adjusted average per capita cost PA is predictive ratio. Predictive ratios = expected expenditures/actual expenditures. Groups were
+defined by IC0-9-cM codes noted in year 1 (1991) claims data. See text for description olthr&e risk-adjuster models.
+SOURCE: Analyses on 1991·92 project data by authors during 1g94-95.
+tify the most obvious examples of code advantages to risk select against a risk­
+gaming. For example, dramatic increases adjusted capitation payment system. Some
+in the percentage of a health plan's argue that health plans have better access
+enrollees with a Hosdom diagnosis, or in to expenditure and encounter data to pre­
+the percentage of a plan's enrollees with dict future medical expenditures than
+relatively expensive ADG diagnoses, may would some risk-adjuster systems. If so,
+indicate to a monitoring agent upcoding plans may be able to identify the best risks
+activities by the health plan. In addition, if relative to the risk-adjuster model used for
+most health plans engaged in some level of capitated-payment model-i.e., identify
+code creep or excessive code documenta­ individuals that a health plan predicts will
+tion, HCFA could make adjustments to the have lower medical expenditures than
+payment system. For example, specific does the risk-adjuster payment model.
+payment amount could be rebased, and Plans that can identify and enroll these bet­
+overall payments could be lowered ter risks can thus cream-skim the risk­
+through a conversion factor. Fmally, it is adjuster payment model. The results of
+recommended that any new risk-adjust­ selection in a risk-adjusted environment
+ment system be used to allocate a prede­ could differ markedly from that of the cur­
+termined dollar amount across participat­ rent environment. It may indeed be prof­
+ing plans, and not to determine the amount itable to enroll people with poor health stat­
+of overall funds allocated to the Medicare us if the system does not underpay, or even
+budget As such, gaming across health overpays, for such people.
+plans would be budget neutral. It is not known how many health plans
+Another gaming concern is whether have the data capabilities and knowledge
+health plans can exploit informational required to adopt such strategies to game
+HEALTII CARE FINANCING REVIEW/Spring 1996/Volume 11. Number3 95
+
+=== PÁGINA 20 ===
+diagnosis-based risk-adjuster models such enrollment data bases, a significant minor­
+as the ADG-MDC or ADG-Hosdom mod­ ity of health plans do not yet collect the
+els. Whether this is possible, it does appear diagnostic data required to assign ADGs
+that the JHU models provide much Jess and MDCs. Second, a method to annually
+scope for plans to cream-skim than do Jess update payment weights would be needed
+powerful demographic risk-adjuster mod­ in order to account for inflation, advances
+els such as HCFA's AAPCC payment sys­ in the state of care, and the aging of the
+tem. In addition, as experience with more population. Two options for updating the
+comprehensive methods of risk adjust­ JHU models' weights are to employ the
+ment is gained, capitated payment systems U.S. per capita cost (USPCC) for aged
+will become more sophisticated and will Medicare enrollees, and to rebase, or rees­
+develop better defenses to cream-skim­ timate, the models' regression equations
+ming. on more recent data. Reestimating the
+Finally, one concern regarding the ADG­ equations also would allow for modifica­
+MDC model is whether its use of prior­ tions of the ADG, MDC and Hosdom
+admission based variables would encour­ grouping algorithms.
+age inappropriate hospital admissions, or Third, a 2- to 3-year lag could exist
+multiple admissions instead of a single hos­ between when a full year of claims data
+pitalization. However, the model's year 2 would be available for assigning ADGs and
+payments triggered by year 1 admissions MDCs and the year in which capitated pay­
+are much Jess than the costs of actual ments would be made to plans. Given this
+year 1 admissions. 1n addition, it is possible lag period, payment rates would need to be
+that health plans would lose the year 2 updated with, for example, an inflation fac­
+membership of enrollees with year 1 tor. Fourth, a risk adjuster would also have
+admissions through disenrollment or to address the lack of prior data of
+death, and thus lose all year 2 payments for enrollees who "age-in" to the Medicare
+such enrollees. In theory, however, cases program throughout each year, and of
+could exist where the expected increase in other partial-year enrollees. For example,
+year 2 payments exceed the difference in HCFA could make interim payments for
+year 1 costs of treating some beneficiaries individuals who age-in based on the
+in ambulatory versus inpatient settings. As AAPCC, until sufficient diagnostic data are
+such, this would provide incentives under available to assign payments based on the
+the ADG-MDC model for health plans to full models. 1n addition, policy decisions
+increase admissions. regarding issues such as geographic
+adjustments to payments, stop-loss reinsur­
+Administrative Feasibility ance, or high-cost disease carve-out mech­
+anisms would require modifications of risk­
+Several administrative issues would adjuster models. Finally, a method would
+need to be addressed in order to develop a be needed to phase-in any new, more
+comprehensive, risk-adjusted capitated sophisticated risk-adjusted payment sys­
+payment system using either of the JHU tem, particularly so that health plans more
+(or any other new) risk-adjuster models. familiar with actuarial rate-cell systems
+First, although all of the data required by would have time to gear-up for the individ­
+the two JHU models are available in most ualized scoring approach of the ADG-MDC
+existing health plan claims, encounter and and ADG-Hosdom models. Demonstra-
+96 HEALnl CARE FINANCING REVIEW/Spring 1996/Volume 11, Number3
+
+=== PÁGINA 21 ===
+lions conducted by HCFA would give an models to predict the year 2 medical
+indication of the degree to which health expenditures of groups that either used
+plans have difficulty adapting to a new pay­ few medical services or a great deal of
+ment system. medical services in year 1 (the first and
+fifth expenditure quintiles). In contrast, the
+CONCLUSION •MPCC" model grossly over-predicted the
+year 2 medical expenditures of the first
+Diagnoses-based risk-adjuster models quintile group and under-predicted the
+have considerable promise to improve cur­ year 2 medical expenditures of the fifth
+rent methods of calculating risk adjusted, quintile group. This finding indicates that
+capitated premiums for HMOs and other the rewards of cream-skimming plans are
+MCOs. One of the most important greatly reduced under either JHU
+strengths of JHU's ADG-MDC and ADG­ Medicare risk-adjustor model relative to
+Hosdom models is their clinical founda­ theMPCC.
+tion. The diagnosis-based variables (ADGs, The incorporation of diagnostic inform­
+MDCs and the Hosdom marker) incorpo­ ation, however, comes at some cost It is
+rated into the JHU Medicare risk-adjuster possible that plans would engage in code­
+models are based on epidemiology and the creep activities. Health plans could recode
+natural history of disease. In addition, the diagnoses or code additional diagnoses to
+ADGs and MDCs used in the JHU models increase their enrollee's risk scores, and
+are already widely used and accepted by thus their premiums under either the ADG­
+clinicians, HMOs, and researchers. MDC or ADG-Hosdom models. HCFA
+The ADG-MDG and ADG-Hosdom risk­ could respond to code-creep by implement­
+adjuster models are regression-based mod­ ing auditing and enforcement activities or
+els that are more complex conceptually by reducing the conversion factor used to
+than traditional rate-cell risk models. set premium payments to plans.
+Despite the added complexity, calculating Another possible limitation of the ADG­
+risk scores and capitated premiums using MDC and ADG-Hosdom models is that
+either JHU risk-adjuster model is a matter they do not explicitly address or exclude
+of simple arithmetic. In addition, the diag­ "discretionary" hospital admissions or
+nostic data required by the ADG-MDC and diagnoses. While some conditions may be
+ADG-Hosdom models are now being col­ more discretionary than others, JHU clini­
+lected by HCFA and most MCOs. cians could not identify any ICD-9-CM
+By incorporating diagnostic information, codes for which hospital admissions are
+JHU's ADG-MDC and ADG-Hosdom mod­ always discretionary. In addition, claims
+els are better able to predict future medical data do not currently contain the detailed
+expenditures than demographic risk­ clinical information required to determine
+adjuster models such as the AAPCC, for whether a patient's diagnosis or hospital
+both randomly selected and non-randomly admission is discretionary.
+selected individuals and groups. In particu­ To limit discretionary hospital admis­
+lar, however, the JHU ADG-MDC and sions, the ADG-Hosdom model uses the
+ADG-Hosdom models better predicted the Hosdom marker variable, thus avoiding
+expenditures of non-random groups. increases in capitation payment directly
+One of the most important findings of related to hospital admissions. This is per­
+the evaluation was the ability of both JHU haps its main advantage over our second
+HEALTII CARE FINANCING REVIEW/Spring 1996/v..tume 17, Numberl 97
+
+=== PÁGINA 22 ===
+model. On the other hand, the ADG-MDC nity to test and evaluate the JHU Medicare
+model does increase second-year capita­ risk-adjuster models.
+tion payments as the result of explicit hos­ In conclusion, there is reason for some
+pital admissions during the prior year. This optimism that risk-adjusted payments can
+could induce some plans to admit benefici­ be made powerful enough to help create a
+aries to hospitals who otherwise might be more level playing field for capitated
+treated in the ambulatory setting. MCOs to compete for Medicare enrollees.
+However, the relatively low year 2 pay­ In such an environment, competition based
+ments that plans would receive for a year 1 on premium price and quality, rather than
+hospital admission under the ADG-MDC on selection of "good risks," would be
+model, as well as the chance that benefici­ encouraged.
+aries admitted might not be enrolled in
+year 2, limits the incentives for plans to ACKNOWLEDGMEN1S
+increase discretionary hospital admis­
+sions. The main advantage of the ADG­ The authors gratefully acknowledge
+MDG model is that for some very high use Yifei Hu and Andrew Baker for their tire­
+patient groups, this model's predictive less data base development efforts and
+power may be somewhat higher than that model programming, and Chad Abrams for
+of the ADG-Hosdom model. his ACG systems work. The substantive
+While the ADG-MDC and ADG-Hosdom input of Melvin J. Ingber, Ph.D., our HCFA
+models build on over a decade of research, project officer, is gratefully acknowledged.
+there are areas where additional research The constructive criticism of three anony­
+could further improve both models. First, mous reviewers is also acknowledged.
+the Hosdom and ADG variables could be
+modified to require more than a single REFERENCES
+code to trigger the variables. This could
+reduce the susceptibility of these variables Anderson, G., Lupu, D., Powe, N., et al.: Payment
+Amounts for Capitated Systems. Report prepared
+to upcoding by plans or the inaccuracy
+for the Health Care Financing Administration under
+associated with temporary diagnoses such
+Contract Number 17..C98990/3. Baltimore, MD.
+as "rule-out" codes. Second, either JHU Johns Hopkins University, December 1989.
+model could be enhanced by incorporating Anderson, G., Steinberg, E.P., Powe, N.R, et al.:
+reinsurance and/or diagnostic-based Setting Payment Rates for Capitated Systems: A
+Comparison of Various Alternatives. Inquiry 27:225­
+carve-outs of high cost cases. JHU and
+233, Fall!990.
+Lewin-VHI currently are working on a
+Beebe, ]., Lubitz, )., and Eggers, P.: Using Prior
+HCFA-sponsored project to develop risk­
+Utilization Information to Determine Payments for
+adjuster models that include reinsurance Medicare Enrollees in HMOs. Health Care
+and diagnosis-specific high-cost carve-outs Financing Review 6(3):27-38, 1985.
+for the under-65 population (Lewin-VHI Brown, R, in Luft, H. (ed.): HMOs and the Elderly.
+Ann Arbor, MI. Health Administration Press, 1994.
+and Johns Hopkins University, 1996).
+Any new risk-adjuster model will require Ellis. RP., Pope, G.C.,lezzoni, Ll., et aJ.: Diagnosis­
+Based Risk Adjustment for Medicare Capitation
+multiple demonstrations before it can be
+Payments. Health Care Financing Review 17 (3): XX­
+used to establish risk-adjusted capitated XX, Spring 1996.
+payments to MCOs that enroll Medicare
+Health Care Financing Administration: Study and
+beneficiaries. In particular, HCFA's Recommendations to Congress on Ways to Refine
+planned demonstrations in this area the Adjusted Average Per Capita Cost (AAPCC)
+and the Adjusted Community Rate (ACR).
+(Vladeck, 1995) offer an excellent opportu­
+Washington, DC, November 1988.
+98 HEA.LTII CARE FINANCING REVIEW/Spring 1996/Volume 11, Number3
+
+=== PÁGINA 23 ===
+Hornbrook, M. (ed.): Risk-Based Contributions to Weiner, j.P., Starfield, B., Steinwachs, D., and
+Private Health Insurance. Advances in Health Mumford, L: Development and Application of a
+Economics and Health Services Research 12, 1991. Population Oriented Measure of Ambulatory Care
+Case-Mix. Medical Care 29:452-472, 1991.
+Lewin-VHI, Inc., and The Johns Hopkins
+University: Development of a Risk-Adjustment Weiner, J.P., Powe, N., Steinwachs, D., and Dent, G.:
+System Under Health Reform. Final report of Applying Insurance Claims Data to Assess Quality
+Year 1, Contract Number 500-92-0021. April, 1996. of Care: A Compilation of Potential Indicators.
+Lubitz, j,, Beebe, J.. and Riley, G.: Improving the Quality Review Bulletin 16(12):424-438, 1990.
+Medicare HMO Payment Formula to Deal with Weiner, J.P.: Application of ACGs to Risk
+Biased Selection. Advances in Health EcoiUJmics Adjustment. Paper presented at HCFA-ORD
+and Health Services Research 6:101-122, 1985. Conference on Risk Adjustment and Health Policy
+Reform. Baltimore, MD. September 1993.
+Starfield, B., Weiner, J,P., Mumford, L., and
+Steinwachs, D.: Ambulatory Care Groups: A
+Categorization of Diagnosis for Research and Reprint Requests: Jonathan P. Weiner, Dr.P.H.. Professor of
+Management. Health Services Research 26(1):53-74, Health Policy and Management, The Johns Hopkins School of
+Public Health, 624 N. Broadway, Room 605, Baltimore, Maryland
+1991.
+21205.
+Vladeck, B.: The Medicare Choice Initiative.
+Proposed Solicitation. Baltimore, MD. Health Care
+Fmancing Administration, 1995.
+Weiner, j.P., Dobson, A, Maxwell, S.L, et al.: 111e
+Development and Testing of Risk Adjusters Using
+Medicare Inpatient and Ambulatory Data. Final
+report prepared for the Health Care Financing
+Administration under ORD Contract Number 93­
+026/EE. Baltimore, MD. The Johns Hopkins
+School of Public Health, 1996.
+HEAL1H CARE FINANCING REVIEW/Spring 1996/Volume 11. Number 3 99

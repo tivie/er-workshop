@@ -1,0 +1,757 @@
+# Fonte: Weir 2008 Case Selection for a Medicaid Chronic Care Management Program - Vermont (HCFR).pdf
+# Páginas: 14
+
+=== PÁGINA 1 ===
+Case Selection for a Medicaid Chronic Care Management
+Program
+Sharada Weir, D.Phil., Gideon Aweh, M.S., and Robin E. Clark, Ph.D.
+Medicaid agencies are beginning to turn care management is another approach to
+to care management to reduce costs and defending limited funds against increasing
+improve health care quality. One challenge health care costs. The care management
+is selecting members at risk of costly, pre­ approach seeks to engage consumers in
+ventable service utilization. Using claims self-management of chronic conditions,
+data from the State of Vermont, we com­ while supporting physician adherence to
+pare the ability of three pre-existing health evidence-based care guidelines in an effort
+risk predictive models to predict the top 10 to reduce the demand for future high cost,
+percent of members with chronic conditions: preventable utilization. Cost savings are
+Chronic Illness and Disability Payment not guaranteed, but the potential to simul­
+System (CDPS), Diagnostic Cost Groups taneously reduce costs and improve health
+(DCG), and Adjusted Clinical Groups outcomes is appealing.
+Predictive Model™ (ACG-PM™). We find As part of Act 191, Vermont’s health care
+that the ACG-PM™ model performs best. reform legislation, OVHA, which manages
+However, for predicting the very highest-cost their publicly-funded health insurance pro­
+members (e.g., the 99th percentile), the DCG grams, established a pair of integrated pro­
+model is preferred. grams to offer care management services to
+all chronically ill members in the State who
+introduCtion meet qualifying criteria (Maxwell, 2007;
+Office of Vermont Health Access, 2007a).
+As health care costs rise for all payers, In general, members must have been di ­
+Medicaid programs are faced with the agn osed with one or more of 11 chronic
+dual challenges of providing appropriate conditions1: (1) asthma, (2) diabetes, (3)
+health care for some of society’s most vul­ chronic obstructive pulmonary disease, (4)
+nerable members and containing costs. low back pain, (5) congestive heart failure,
+Direct controls, such as limiting eligibility (6) ischemic heart disease, (7) rheuma­
+for programs or access to needed services, toid arthritis, (8) hypertension, (9) disor­
+are unlikely to produce net budgetary ders of lipid metabolism, (10) depression,
+relief, since public funds ultimately may and (11) chronic renal failure.2 Members
+be tapped for costly urgent care for those with Medicare or other major third party
+who cannot get treatment by other means. insurance are ineligible, as are those in
+Targeting high-cost patients for enhanced pharmacy-only benefit programs and pro­
+grams that are paid from non-Medicaid
+The authors are with the Center for Health Policy and Research,
+funding sources.
+University of Massachusetts Medical School. The research
+in this article was supported by the Office of Vermont Health
+Access (OVHA) under Contract Number 10733. The state­ 1 Members without one of the selected chronic conditions may
+ments expressed in this article are those of the authors and do gain access to the program through provider referral.
+not necessarily reflect the views or policies of the Center for
+2 Exploration of Vermont claims data determined that those with
+Health Policy and Research, University of Massachusetts Medi­
+one or more of the selected chronic conditions were typically
+cal School, OVHA, or the Centers for Medicare & Medicaid
+substantially more costly than others, overall and within specific
+Services (CMS).
+diagnoses.
+HealtH Care FinanCing review/Fall 2008/Volume 30, Number 1 61
+
+=== PÁGINA 2 ===
+The Chronic Care Management Pro­ CCP, basing initial case selection on health
+gram (CCMP) serves the majority of the risk predictive modeling output enables
+State’s Medicaid beneficiaries with one or the program to efficiently evaluate all eli­
+more chronic conditions. Member-level gible members. It may help to identify
+interventions range from mailings of con­ at-risk patients who do not have effective
+dition-specific self-management literature physician advocates and provide timely
+and telephone access to health coaches to assessment of risk before patients require
+the development of an individual care plan emergency department or inpatient care.
+and face-to-face patient support, depend­ Predictive models can be customized for
+ing on the needs of the member (Office of a particular insurer or Medicaid Program,
+Vermont Health Access, 2008). The Care implicitly incorporating the effects of ben­
+Coordination Program (CCP) is an inten­ efits, practice patterns, and characteristics
+sive case management program staffed by of the population served. Customization is
+teams of nurses and social workers and costly and beyond the capacity of Medicaid
+funded to serve the top 5 to 10 percent of budgets in many States; models developed
+eligible members with chronic conditions. in other States can be adopted at much
+One challenge for the CCP is predict­ lower cost. However, selecting a model can
+ing which members are at greatest risk prove challenging, as the best model for
+for costly and preventable service utili­ the intended use generally is not obvious.
+zation. In the initial phase of program The purpose of this study was to help
+development, cases were selected based the State of Vermont choose a predictive-
+on prior cost and health care utilization modeling software tool that would select
+(i.e., emergency department and acute members with one or more chronic ill­
+inpatient hospitalization). Systems were ness es who are most likely to need and
+put in place to facilitate referrals from hos­ benefit from participation in an intensive
+pitals and emergency departments, and care management program. As a small
+cases could also be referred from outside State without the population necessary to
+sources (e.g., primary care physicians) create a custom model, Vermont needed to
+(Office of Vermont Health Access, 2007b). find the best model from among the read­
+Adoption of these recruitment techniques ily available alternatives. Criteria for the
+was expedient, helping the program get off selected tool included the ability to predict
+the ground. However, as the CCP develops future costs with reasonable accuracy, cost
+and matures, considerations of efficiency effectiveness, and a clinically-meaningful
+and equity become increasingly important. condition classification system.
+Although prior cost and utilization can help We used 2 years of historical claims data
+to predict future resource use, by them­ to evaluate the potential of the diagnosis-
+selves they are somewhat crude indicators based health risk predictive modeling ap ­
+in that they do not distinguish between proach to select high cost cases for the
+transitory and chronic needs. Prediction CCP. Three models were chosen for testing
+of future cost can be greatly enhanced by based on their methodological attributes
+taking into account prior diagnoses. and history of use with Medicaid popula­
+Health risk predictive modeling is a tions: The CDPS Version 2.5 (University
+meth od ological approach that uses clini­ of California, 2008); DCG RiskSmart™
+cal diagnostic information to predict future Version 2.2 (DxCG, 2008); and ACG-PM™
+cost. While there will always be room for Version 7.0 (Johns Hopkins University,
+referral systems in a program such as the 2008). We examined and compared the
+62 HealtH Care FinanCing review/Fall 2008/Volume 30, Number 1
+
+=== PÁGINA 3 ===
+potential of each pre-existing model to rely on data on prior health care service
+predict high cost Medicaid members in utilization and procedures (e.g., surgery),
+Vermont. Given scarce public resources, owing to data limitations, though such
+appropriate case selection is crucial. information would be expected to improve
+model performance.
+Models We chose to focus on readily-available
+models developed using clinically-mean­
+Well-established tools are available to ingful and transparent methods for Medic­
+estimate current illness burden from ad ­ aid populations and utilizing Inter national
+mini strative claims data and predict future Classification of Disease, 9th Edition, Clini­
+overall resource use. Health risk predic­ cal Modification (ICD-9-CM) diagnosis
+tive models use demographics, diagno­ data from claims. All three models chosen
+ses, prior cost and service utilization, or for comparison were developed for Medic­
+some combination of these data to predict aid populations and are being used in one
+cost and stratify the population into low, or more States currently; none were devel­
+medium, and high-risk cases relative to oped with Vermont data. We compare
+the average health risk of the population. model performance in selecting high cost
+Statistical techniques distinguish between cases in Vermont.
+diagnoses that are likely to be costly in
+the future versus those that are transitory aCg-PM™
+in nature.
+Model properties vary. Models devel­ The ACG® Case-Mix System was devel­
+oped using data mining techniques, such oped at Johns Hopkins University using
+as neural networks or artificial intelli­ health care claims data from a combination
+gence, were not considered for this study. of commercial managed care and Medicaid
+Such models typically perform well, but populations (Smith and Weiner, 1994;
+may be “overfit” to the development Weiner et al., 1996; Weiner et al., 1998).
+popu lation, performing less well when The ACG-PM™ uses demographics, diag­
+applied to other datasets. They are not noses, and pharmacy expenditures to pre­
+methodologically transparent and often dict future cost. First, patients are assigned
+fail to produce clinically-meaningful find­ to ACG® actuarial cells, which are mutually
+ings (Hartnell and MacKinnon, 2003; exclusive patient clusters defined by
+Martin, Rogal, and Arnold, 2004). Models age, sex, and combinations of diagnoses.
+based solely on pharmacy data, such as Resource utilization scores are assigned
+MedicaidRx (Gilmer et al., 2001; University to each cluster based on the mean cost
+of California, 2007), are also excluded from of patients in that cell in the development
+consideration here. Although these models dataset. In the second stage, risk scores
+have the advantage of utilizing timely phar­ are created using linear regression of fu ­
+macy claims data, which are not subject ture cost as a function of ACG® re source
+to the long run out period common with utilization score plus indicators of frailty,
+other types of claims (e.g., inpatient facil­ hospital dominant conditions, specific
+ity claims), their clinical classifications are chron ic conditions, and optionally, prior
+less precisely defined, by nature, and they pharmacy spending (Weiner, 2005). This
+perform less well overall than models that two-stage method, which allows the model
+include diagnoses from claims (Zhao et al., to give higher weight to certain conditions
+2005). We have also excluded models that and includes some prior expenditure data,
+HealtH Care FinanCing review/Fall 2008/Volume 30, Number 1 63
+
+=== PÁGINA 4 ===
+improves prediction compared with using come (SSI) beneficiaries. The model also
+ACG® resource utilization scores alone distinguishes between adults and children
+to forecast future resource use. Although in creating risk scores.
+ACG® cells contain broad groupings of dis­
+ease, the software produces for each mem­ dCg
+ber a complete list of conditions, grouped
+into clinically-meaningful categories. A ver­ The DCG Hierarchical Condition Cate­
+sion of the ACG® software is available with­ gory (HCC) approach was developed by
+out a fee to State Medicaid agencies. For researchers from Boston University who
+information on ordering: see http://www. were part of the team that created the
+acg.jhsph.edu/html/OrderACGProducts_ CMS-HCC model to adjust Medicare capi­
+Medicaid.htm#cons. tation payments (Pope et al., 2004). DxCG,
+Inc. offers an annual license arrange­
+CdPs ment for it’s RiskSmart™ software which
+assesses illness burden and predicts future
+The CDPS model was developed at the cost using the DCG methodology (http://
+University of California, San Diego, and is www.dxcg.com/). Like CDPS, DCG mod­
+made available at http://cdps.ucsd.edu/ els are additive across condition categories
+(Kronick and Dreyfus, 1996; Kronick et with cost predictions developed using lin­
+al., 2000; Chronic Illness and Disability ear regression. The DCG model includes
+Payment System, 2005). The CDPS uses several disease interaction terms and
+only diagnoses and demographic data to child-specific weights for certain condi­
+predict cost. The model was developed tions. DxCG’s Medicaid model was devel­
+using linear regression under the assump­ oped using Massachusetts data and was
+tion that the effects of different categories most recently updated in 2007. Separate
+of diagnoses on costs are additive. That risk scores are available for Medicaid
+is, an individual’s risk score generally fee-for-service and managed care applica­
+increases with each additional separate tions. Nearly all ICD-9-CM diagnoses are
+condition identified. The most recent ver­ grouped into detailed sets of clinically
+sion of the model was developed with meaningful disease and condition cate­
+Medicaid claims from a group of mainly gories. Although the DCG classification
+Midwestern States (California, Colorado, system is sometimes criticized for its han­
+Georgia, Michigan, Missouri, Ohio, and dling of behavioral health conditions, one
+Tennessee) covering the period from the recent study predicting mental health and
+early to middle 1990s. The CDPS disease substance abuse cost in a Veterans Affairs’
+classification system focuses on chronic population found slightly better perfor­
+conditions; a subset of ICD-9-CM diagno­ mance for DCG models compared with
+sis codes is grouped into condition catego­ CDPS (Sloan et al., 2006).
+ries. A potential advantage of CDPS is that In recent research by Winkelman and
+its classification system was developed Mehmud (2007) the DCG and ACG-PM™
+specifically for Medicaid populations, so commercial prospective models were found
+particular emphasis was placed on classify- to perform similarly in terms of R2
+ing mental health and substance use disor­ (ACG-PM™: 18.7 percent; ACG-PM™ with -
+ders. Separate risk scores are produced for out prior pharmacy cost: 16.2 percent;
+Temporary Assistance for Needy Families DCG: 17.4 percent) and mean absolute pre­
+(TANF) and Supplemental Security In- diction error (MAPE) as a percentage of
+64 HealtH Care FinanCing review/Fall 2008/Volume 30, Number 1
+
+=== PÁGINA 5 ===
+total actual costs (ACG-PM™: 85.6 percent; 16,708 had one or more of the qualifying
+ACG-PM™ without prior pharmacy cost: chronic conditions.
+90.4 percent; DCG: 88.0 percent). Both Winkelman and Mehmud (2007) com­
+models outperform CDPS’ Medicaid model pared predictive modeling tools using both
+with TANF cost weights (R2 = 12.4 percent; the offered models with out-of-the-box
+MAPE = 95.8 percent). However, it is cost weights, which reflect the relation­
+impossible to know whether these results, ship between illness burden and cost from
+which used data from a commercially- the model development population, and
+insured study population and compared customized models with cost weights that
+overall model performance, are applicable were recalibrated to the study’s commer­
+to Vermont’s Medicaid popul ation and the cially-insured population dataset. The cus­
+task of selecting high cost cases. tomized models were modified to include
+prior cost data; all outperformed the
+MetHods offered models. Prospective R2 results for
+each of the three customized models were
+We used 2 years of prior Vermont nearly indistinguishable (ACG-PM™: 22.1
+Medicaid claims data to test the ability percent; CDPS: 21.2 percent; and DCG:
+of each model to correctly identify future 22.9 percent). Unfortunately, we were not
+high-cost members. Diagnoses recorded able to recalibrate the three models to fit
+during State fiscal year (SFY) 2005 (July Vermont Medicaid data owing to the small
+2004–June 2005) were used to predict cost population of members with chronic con­
+in SFY 2006 (July 2005-June 2006). ditions. Model calibration is usually per­
+Data for this study were supplied by the formed with populations in the hundreds of
+OVHA, which granted the authors access thousands to 1 million or more members.
+to six distinct data sets linkable using Running each software product pro­
+unique member and claim identifiers: (1) duced a set of prospective risk scores for
+professional claims (e.g., emergency room, the study population using the model’s
+office visits, and other outpatient services); out-of-the-box cost weights. Since all three
+(2) institutional claims (e.g., hospital and models were developed on beneficia­
+nursing home utilization); (3) pharmacy ries from other States, risk scores were
+claims; (4) eligibility data (e.g., demo­ renormalized to the mean of the study
+graphic information, dates of eligibility, population for ease of interpretation. The
+eligibility category, and type of coverage); population norm is 1.0, by definition. A
+(5) third party insurance coverage data; score below 1.0 indicates that the indi­
+and (6) provider data. vidual is expected to be less costly than
+After excluding members with fewer average. A score in excess of 1.0 indicates
+than 30 days of Medicaid eligibility and a higher-than-average health care cost risk
+those with Medicare or other major in- (e.g., a score of 2.0 means that the person
+surance or with pharmacy-only benefits, is predicted to be twice as costly as the
+we were left with data on 126,616 mem­ population average).
+bers in SFY 2005 and 121,059 mem­ We stratified the population by risk
+bers in SFY 2006, or approximately 80 score, assigning cases to the top 10 and
+percent of Vermont’s Medicaid popula­ top 1 percent risk groups for each model
+tion. Keeping only those with at least 11 based on their relative risk scores. We then
+months of Medicaid eligibility in both examined the top percentiles of actual year
+years leaves 59,384 members. Of these, 2 cost and evaluated each model in terms
+HealtH Care FinanCing review/Fall 2008/Volume 30, Number 1 65
+
+=== PÁGINA 6 ===
+of its ability to correctly predict future We also were interested in the positive
+high-cost members. We computed the sen­ predictive value (PPV), or the proportion
+sitivity of the model to correctly pick those of cases selected in year 1 (true + false
+who were high cost, the specificity of the positives) that are high cost in year 2 (true
+model to correctly exclude those who were positives). This ratio is of practical value
+not high cost, and the positive predictive to care management program planners
+value of the case selection tool. since it indicates the expected proportion
+We computed the sensitivity of each of actual high-cost members among all
+model, or the ability to correctly identify selected cases for a given model. It can
+high cost members, defined as the number be used to determine the approximate
+of true positives (cases selected based on number of appropriate cases that will be
+year 1 data that turn out to be high cost selected for care management for a given
+in year 2) as a percentage of true posi­ number of cases included in the interven­
+tives plus false negatives (members not tion group or to determine the size of the
+selected in year 1 that turn out to be high intervention group needed to ensure that
+cost in year 2; also known as Type II error). a certain number of appropriate cases will
+By definition, sensitivity declines with be identified.
+increasing thresholds of risk, from a lower Adapting the PPV test, we classified
+extreme where all members are selected all cases picked by each model into four
+and sensitivity is 100 percent to the upper outcome categories, (1) low-cost, (2)
+extreme where no members are selected moderate-cost, (3) high-cost and (4) very
+and sensitivity is 0. high-cost, depending on actual cost in
+We were also interested in the specific­ year 2. This provided more information
+ity of the model, or the ability to correctly on the ability of the model to select the
+exclude low-cost members, defined as the most appropriate cases for care manage­
+number of true negatives (members not ment. We defined a low-cost pick as a
+selected in year 1 that are not high cost case selected in year 1 that does not meet
+in year 2) as a percentage of true nega­ the 50th percentile of actual cost in year 2
+tives plus false positives (cases selected ($4,061), since at that threshold, interven­
+in year 1 that are not high cost in year 2, tion costs may exceed potential savings.3
+also known as Type I error). Specificity A moderate-cost pick was one that ranged
+increases as fewer cases are selected. from the 50th to < 90th percentiles. A high-
+Sensitivity and specificity are traded cost pick was one that ranged from the 90th
+off as progressively smaller groups of ($24,597) to < 99th percentiles and a very
+cases are selected. To evaluate the overall high-cost pick met or exceeded the 99th
+model performance on both tests, we pro­ percentile ($96,332).4
+duced receiver operating characteristic We evaluated the distribution of cases
+(ROC) curves (Figure 1) for each model. picked in the top 10 percent risk group,
+The ROC curve plots sensitivity against since that corresponds roughly to the num­
+1-Specificity. The best model will simulta­ ber of members that Vermont budgeted to
+neously exhibit the highest sensitivity and serve in its most intensive intervention, the
+specificity combinations, bowing out from CCP, and in the top 1 percent risk group,
+the 45° null line. Model performance was
+evaluated by calculating the area under the 3 Actual program costs were not available at the time this article
+was prepared. Reported costs of multiple disease management
+ROC curve for each model and comparing programs vary widely (Goetzel et al., 2005).
+confidence intervals. 4 Categories could be adjusted to reflect different break-even
+points.
+66 HealtH Care FinanCing review/Fall 2008/Volume 30, Number 1
+
+=== PÁGINA 7 ===
+Figure 1 �
+Evaluation of Model Performance Using the Receiver Operating Characteristics (ROC) Curve: 90th
+Percentile Cost Threshold �
+100 100
+80 80
+60 60
+40 40
+20 20
+0 0
+)tnecreP(
+ytivitisneS
+CDPS
+DCG
+ACG-PMTM
+Null
+0 20 40 60 80 100
+1-Specificity (Percent)
+NOTES: CDPS is Chronic Illness and Disability Payment System. DCG is Diagnostic Cost Groups. ACG-PM™ is Adjusted Clinical
+Groups, Predictive Model™. The population was stratified by risk score and members assigned to the top 10 percent risk group
+for each model. After computing the sensitivity of each model, or the ability to correctly identify high-cost members, we also
+examined the specificity of the model, or the ability to correctly exclude low-cost members.
+SOURCE: Office of Vermont Health Access: Medicaid claims data from State fiscal years 2005-2006.
+since care management programs in of all hospitalizations in the data that
+States serving larger populations typically were accounted for by cases in the high
+are forced to be more selective owing to risk groups.
+budget constraints. Next, we examined the
+percentage of all year 2 high-cost members results
+found in the top 10 and top 1 percent risk
+groups selected using year 1 data. Table 1 shows sensitivity, specificity,
+As a final practical test, we examined and positive predictive value of each of the
+the performance of each model in terms models evaluated at the 90th percentile of
+of selecting cases who were at risk of year 2 actual cost. We find that the three
+future hospitalization. Avoiding prevent­ models have similar performance on the
+able hospitalizations is often a key goal of sensitivity test at the lowest cutoff points,
+care management, and members at risk of but model performance diverges as fewer
+hospitalization may be particularly suitable cases are selected, with the ACG-PM™
+candidates for intervention. We examined model performing best. Performance on
+the percentage of cases selected by each the specificity test is indistinguishable
+model who had one or more inpatient for the three models. The corresponding
+admissions in year 2 and the percentage ROC curve suggests that the ACG-PM™
+HealtH Care FinanCing review/Fall 2008/Volume 30, Number 1 67
+
+=== PÁGINA 8 ===
+Table 1
+Sensitivity, Specificity, and Positive Predictive Value Evaluated at the 90th Percentile of Cost,
+by Selected Risk Percentile and Model
+Risk Percentile
+Model 5th 10th 25th 50th 75th 90th 95th
+Sensitivity
+CDPS 0.99 0.96 0.88 0.74 0.50 0.28 0.18
+DCG 1.00 0.99 0.95 0.80 0.55 0.35 0.22
+ACG-PM™ 0.99 0.99 0.97 0.85 0.62 0.40 0.24
+Specificity
+CDPS 0.05 0.10 0.26 0.53 0.78 0.92 0.96
+DCG 0.05 0.11 0.27 0.53 0.78 0.93 0.97
+ACG-PM™ 0.00 0.11 0.27 0.54 0.79 0.93 0.97
+Positive Predictive Value
+CDPS 0.03 0.07 0.08 0.09 0.12 0.21 0.35
+DCG 0.01 0.02 0.03 0.14 0.09 0.26 0.44
+ACG-PM™ 0.01 0.01 0.04 0.08 0.13 0.32 0.47
+NOTES: CDPS is Chronic Illness and Disability Payment System. DCG is Diagnostic Cost Groups. ACG-PM™ is Adjusted Clinical Groups, Predictive
+Model™.
+SOURCE: Office of Vermont Health Access: Medicaid claims data from State fiscal years 2005-2006.
+Table 2
+Area Under the Receiver Operating Characteristics (ROC) Curve, Evaluated at the 90th Percentile
+of Cost
+95 Percent Confidence Intervals
+Model Area Lower Bound Upper Bound
+CDPS 0.69 0.67 0.70
+DCG 0.75 0.74 0.76
+ACG-PM™ 0.79 0.78 0.80
+NOTES: The ROC curve plots sensitivity against 1-Specificity. CDPS is Chronic Illness and Disability Payment System. DCG is Diagnostic Cost
+Groups. ACG-PM™ is Adjusted Clinical Groups, Predictive Model™.
+SOURCE: Office of Vermont Health Access: Medicaid claims data from State fiscal years 2005-2006.
+Table 3
+Distribution of Picks1 Selected in the Top 10 and Top 1 Percent Risk Groups, by Cost Threshold2
+and by Model
+Low-Cost Moderate-Cost High-Cost Very High-Cost
+(<50th (≥50th-<90th (≥90th-<99th (≥99th
+Model Percentile) Percentile) Percentile) Percentile)
+Top 10 Percent Risk Group
+CDPS 22.2 49.8 23.4 4.6
+DCG 17.2 47.6 30.1 5.1
+ACG-PM™ 10.1 50.3 35.0 4.7
+Top 1 Percent Risk Group
+CDPS 18.5 39.3 31.5 10.7
+DCG 3.6 23.8 54.2 18.5
+ACG-PM™ 3.0 32.1 51.8 13.1
+1 Picks are members whose health risk score places them in the top risk group for each model.
+2 Cost thresholds are as follows: 50th percentile, $4,061; 90th $24,597; and 99th $96,332.
+NOTES: CDPS is Chronic Illness and Disability Payment System. DCG is Diagnostic Cost Groups. ACG-PM™ is Adjusted Clinical Groups, Predictive
+Model™. �
+SOURCE: Office of Vermont Health Access: Medicaid claims data from State fiscal years 2005-2006.
+68 HealtH Care FinanCing review/Fall 2008/Volume 30, Number 1
+
+=== PÁGINA 9 ===
+model is best, followed by the DCG model and most moderate-cost picks and the DCG
+(Figure 1). This is confirmed in Table 2, model has the highest number of high and
+which shows that the 95 percent confi­ very high-cost picks.
+dence interval (CI) for the ACG-PM™ Examining the percentage of all high-
+model excludes the 95 percent CI of the cost members that are found in the top 10
+DCG model, which, in turn, excludes the percent risk group (Figure 2), we find that
+95 percent CI of the CDPS model. That is, the ACG-PM™ model selects the highest
+the area under the ACG-PM™ model’s ROC percentage of all year 2 high-cost members
+curve is significantly larger than the area when evaluated at the 50th - 90th percentile
+under the DCG model’s ROC curve, which cost thresholds. The ACG-PM™ and DCG
+in turn is significantly larger area than the models pick similar percentages at the
+area under the CDPS model’s ROC curve. 95th percentile, and the DCG model picks
+Areas under the ROC curves for CDPS the highest percentage at the 99th percen­
+and DCG both improve (CDPS: 0.73; DCG: tile. When the top 1 percent risk group
+0.78) and the differences between all mod­ is considered (Figure 3), the ACG-PM™
+els become insignificant when evaluated at and DCG models perform similarly up to
+the top 1 percent of total year 2 cost. the 90th percentile cost threshold, but the
+The findings for PPV are less definitive. DCG model picks higher percentages of
+At the lower risk cutoff points, where many high-cost members at the 95th and 99th per­
+cases are selected and the rate of false posi­ centile cost thresholds.
+tives is high for all models, CDPS performs Finally, we compared the ability of the
+best. At the highest cutoff points, where models to identify members at risk of hos­
+fewer cases are selected, the ACG-PM™ pitalization. Not surprisingly, we found that
+model has the highest PPV. Since, in prac­ the number of hospitalizations and total
+tice, care management programs must cost in year 2 are strongly correlated in
+choose relatively small percentages of our data (Pearson correlation coefficient =
+members to serve, the lower range of 0.4288; p<0.0001). Nevertheless, compar­
+risk percentiles is not as relevant and the ing performance in terms of predicting
+ACG-PM™ model can be said to perform hospitalizations helps to further differenti­
+best overall. Differences between the mod­ ate the models.
+els are less pronounced when evaluated Table 4 shows the percentage of cases
+at the top 1 percent of cost (not shown), selected in each models’ high-risk groups
+though the DCG model appears to perform (top 10 and top 1 percent) with hospital­
+slightly better than the other models at izations in year 2, the mean number of
+the highest risk cutoff. hospitalizations per person, and the per­
+Taking the top 10 percent risk group centage of all hospitalizations that were
+(Table 3), we find that the ACG-PM™ accounted for by cases in the top risk
+model has the smallest percentage of low- groups for each model. For both the top 10
+cost picks (10.1 percent) and CDPS the and top 1 percent risk groups, we find that
+highest (22.2 percent). The ACG-PM™ the ACG-PM™ model performs best, with
+model also has the highest percentage of the top 10 percent risk group accounting
+moderate and high-cost picks, but the DCG for 36 percent, and the top 1 percent risk
+model produces the largest percentage of group accounting for 7 percent, of all hos­
+very high-cost picks. With the top 1 per­ pitalizations in the data. The DCG model
+cent risk group, we find that the ACG-PM™ outperforms CDPS for the top 10 percent
+model again has the fewest low-cost picks risk group, with 27 versus 23 percent of
+HealtH Care FinanCing review/Fall 2008/Volume 30, Number 1 69
+
+=== PÁGINA 10 ===
+Table 4 �
+Number and Percentage of Inpatient Admissions Identified in the Top 10 and Top 1 Percent Risk
+Groups, by Model
+Total Percent of Mean Inpatient Percent of
+Acute High Risk Admissions, Per Inpatient
+Inpatient Group with an Member with Admissions
+Admissions in Admission in At Least 1 Found in High
+Model N Year 2 Year 2 Admission Risk Group
+Top 10 Percent Risk Group
+CDPS 1,697 700 20 2.1 23
+DCG 1,671 829 24 2.0 27
+ACG-PM™ 1,671 1,115 32 2.1 36
+Top 1 Percent Risk Group
+CDPS 168 122 28 2.6 4
+DCG 168 116 31 2.2 4
+ACG-PM™ 168 223 51 2.6 7
+NOTES: CDPS is Chronic Illness and Disability Payment System. DCG is Diagnostic Cost Groups. ACG-PM™ is Adjusted Clinical Groups, Predictive
+Model™.
+SOURCE: Office of Vermont Health Access: Medicaid claims data from State fiscal years 2005-2006.
+Figure 2 �
+Percentage of All High-Cost Members Found in Top 10 Percent Risk Group, by Actual Year 2
+Cost Threshold
+100
+100
+CDPS
+90 DCG 90
+ACG-PMTM
+Max
+80
+80
+70
+70
+60
+60
+50 50
+40
+40
+30
+30
+20
+20
+10
+10
+0
+0
+fo
+tnecreP
+sa
+1skciP
+tsoC
+hgiH
+srebmeM
+tsoC
+hgiH
+llA
+50th 70th 80th 90th 95th 99th
+Percentile Percentile Percentile Percentile Percentile Percentile
+($4,061): ($8,149): ($12,519): ($24,597): ($40,718): ($96,332):
+N = 8,354 N = 5,012 N = 3,342 N = 1,671 N = 835 N = 167
+Thresholds of Actual Year 2 Cost
+1 High-cost picks are members in the top 10 percent risk group who were actually high cost in year 2 as evaluated at each
+cost threshold.
+NOTES: CDPS is Chronic Illness and Disability Payment System. DCG is Diagnostic Cost Groups. ACG-PM™ is Adjusted
+Clinical Groups, Predictive Model™.
+SOURCE: Office of Vermont Health Access: Medicaid claims data from State fiscal years 2005-2006.
+70 HealtH Care FinanCing review/Fall 2008/Volume 30, Number 1
+
+=== PÁGINA 11 ===
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+Figure 3 �
+Percentage of All High-Cost Members Found in Top 10 Percent Risk Group, by Actual Year 2
+Cost Threshold �
+100
+CDPS
+DCG
+90
+ACG-PMTM
+Max
+80
+70
+60
+50
+40
+30
+20
+10
+0
+fo
+tnecreP
+sa
+1skciP
+tsoC-hgiH
+srebmeM
+tsoC-hgiH
+llA
+50th 70th 80th 90th 95th 99th
+Percentile Percentile Percentile Percentile Percentile Percentile
+($4,061): ($8,149): ($12,519): ($24,597): ($40,718): ($96,332):
+N = 8,354 N = 5,012 N = 3,342 N = 1,671 N = 835 N = 167
+Thresholds of Actual Year 2 Cost
+1 High-cost picks are members in the top 1 percent risk group who were actually high cost in year 2 as evaluated at each cost
+threshold.
+NOTES: CDPS is Chronic Illness and Disability Payment System. DCG is Diagnostic Cost Groups. ACG-PM™ is Adjusted
+Clinical Groups, Predictive Model™.
+SOURCE: Office of Vermont Health Access: Medicaid claims data from State fiscal years 2005-2006.
+all hospitalizations, but the CDPS and moderate, high, and very high-cost picks,
+DCG models perform equally well for the depending on actual cost observed in year
+top 1 percent risk group, each containing 2. Second, we determined the percent­
+4 percent of all hospitalizations. age of high-cost members found in the
+top 10 percent risk group for each model.
+disCussion The results showed that the ACG-PM™
+model generally outperforms the other
+We find that the ACG-PM™ outperforms models through the 90th percentile of cost.
+the other models in terms of sensitivity, However, the DCG model produces the
+specificity, and positive predictive value at highest percentage of high-cost and very
+the 90th percentile cost threshold, but not high-cost picks and finds the largest per­
+at the 99th percentile. We performed three centages of high-cost members when eval­
+additional practical tests. First, we classi­ uated at the 99th cost percentile. Finally, we
+fied cases selected in the top 10 percent compared the number of hospitalizations
+risk group based on year 1 data into low, in the highest risk groups and found that
+HealtH Care FinanCing review/Fall 2008/Volume 30, Number 1 71
+
+=== PÁGINA 12 ===
+the ACG-PM™ model outperformed the is made available without a fee to State
+other two models for both the top 10 and Medicaid agencies. However, to the extent
+top 1 percent risk groups. Putting these that the DCG model does a better job of
+results together, we conclude that the selecting high-cost cases, it will be a more
+ACG-PM™ model is generally preferred. fiscally prudent choice over time. Another
+However, if the care management program consideration was the level of detail pro­
+were required to concentrate its efforts on vided by the condition grouper. CDPS
+the top 1 percent of members in terms of groups only a partial set of diagnoses. By
+total expected future cost, the DCG model contrast, the ACG® and, particularly, the
+would be preferred. DCG software packages provide richly
+Our findings tend to support prior detailed clinical classification systems.
+research. On the one hand, regression- It was determined that if either CDPS
+based models are more flexible and predict or ACG-PM™ outperformed DCG, the
+better than cell-based models (Rosen et al., choice would be clear. If DCG was found
+2001). The performance of the DCG model to be better or more flexible, the choice of
+indicates the strength of the DCG classifi­ model would depend on the magnitude of
+cation system and regression methodology the differences in performance, expected
+to predict the highest-cost members. On savings from care management, and the
+the other hand, while the diagnosis-based cost of the software license. Ultimately, the
+approach has been found to do a better job DCG model may be a cost-saving technol­
+of finding future high-cost members and ogy if found to be much more accurate in
+those with manageable chronic illness than picking cases for care management. Based
+simply looking at prior cost, methods that on our analyses and consideration of the
+combine information both on diagnoses circumstance that the CCP provides cover­
+and prior cost tend to do best (Ash et al., age for the top 10 percent of members, the
+2001; Zhao et al., 2002; Zhao et al., 2003). State chose the ACG-PM™ model.
+This is supported by our findings that the One limitation of this study is that we
+ACG-PM™ model, which includes phar­ are only able to test currently available
+macy expenditure data, tends to perform technology. The field of health risk pre­
+best overall. dictive modeling is one that has expanded
+Neither of the three models we tested in recent years and we may expect new
+were developed to predict hosp italizat ions. developments in the field, including both
+The superior performance of the ACG-PM™ improvements to existing models and the
+model on this outcome may be explained entrance of new models, to continue to
+by the inclusion of variables indicating the occur in the coming years.
+number of hospital dominant conditions, Another study limitation is the possibil­
+particular chronic conditions, and a frailty ity that our specific findings would not
+flag, since these indicators of future cost hold for other State Medicaid programs.
+are also likely indicators of risk of future Although health risk predictive models are
+hospitalization. generally robust, if a health system is suf­
+Our mandate for choosing a particular ficiently different from that of the develop­
+health risk predictive modeling technol­ ment population, different results may be
+ogy for Vermont included a combination of found. Nonetheless, our approach to the
+methodological, performance, and cost cri­ selection of a predictive modeling tool for
+teria. The CDPS model is available free to case selection may be of general interest to
+all and a version of the ACG-PM™ model other States facing the problem of selecting
+72 HealtH Care FinanCing review/Fall 2008/Volume 30, Number 1
+
+=== PÁGINA 13 ===
+cases for care management and choosing and equity, but lack the immediacy and
+among the available alternatives. In partic­ individual detail—particularly information
+ular, our finding that differences between on social factors—that care managers may
+the models are small when predicting the require.
+very highest cost members may be helpful
+to States facing budgetary constraints. aCknowledgMents
+Our findings indicate that although
+most of the cases selected by each model We appreciate the encouragement for
+exceeded median cost in year 2, none of this research provided by the OVHA and
+the models is able to predict with great we particularly wish to thank Mary Day
+accuracy the highest cost members. At for her expertise and support in using the
+best, the health risk predictive models we claims and eligibility data and for creat­
+tested are able to identify approximately ing the ACG-PM™ output dataset for this
+one-half of the very highest cost members study. We also would like to thank the
+(i.e., those costing >$96,000 per year). three anonymous reviewers for their con­
+This performance is in line with what is structive comments.
+typically seen with prospective models in
+terms of predicting cost. A barrier to pre­ reFerenCes
+dictive accuracy in general is the volatile
+nature of serious injuries and illnesses that Ash, A.S., Zhao, Y., Ellis, R.P. et al.: Finding Future
+High-Cost Cases: Comparing Prior Cost Versus
+result in high cost health care encounters
+Diagnosis-Based Methods. Health Services Research
+or episodes. A potential barrier to accu­
+36(6):194-206, December 2001.
+racy in this instance in particular is the
+Billings, J. and Mijanovich, T.: Improving the
+lack of a customized model fit on a sample Management of Care for High-Cost Medicaid Pa -
+of Vermont’s Medicaid population with tients. Health Affairs 26(6):1643-1655, November/
+December 2007.
+chronic conditions. Whether this level
+Chronic Illness and Disability Payment System:
+of performance is adequate for the pur­
+Chronic Illness and Disability Payment System
+poses of a care management program is a
+Software, Version 2.5. 2005.
+larger issue. Another question is whether
+DxCG: DxCG RiskSmart™ Stand Alone Software,
+the data produced by these models is suf­ Version 2.2. 2007.
+ficiently timely to meet program needs.
+DxCG: DxCG Methodology. Internet address: http://
+Some evidence suggests that models using www.dxcg.com/research-resources/index.asp
+real-time hospital admissions data could (Accessed 2008.)
+produce substantial savings for Medicaid Gilmer, T., Kronick, R., Fishman, P., et al.: The
+Medicaid Rx Model: Pharmacy-Based Risk
+programs (Billings and Mijanovich, 2007).
+Adjustment for Public Programs. Medical Care
+The currency of hospital data may im-
+39(11):1188-1202, November 2001.
+prove with increased adoption of electronic
+Goetzel, R.Z., Ozminkowski, R.J., Villagra, V.G., et
+medical records; presently, many States al: Return on Investments in Disease Management:
+experience a lag of several months before A Review. Health Care Financing Review 26(4):1-19,
+Summer 2005.
+such data are reasonably complete. Future
+Hartnell, N. and MacKinnon, N.: Neural Networks:
+research will consider whether adoption
+From Science Fiction to Pharmacy. American
+of predictive modeling technology was an
+Journal of Health-System Pharmacy 60:1908-1909,
+improvement over previous case selection September 15, 2003.
+methods which focused on prior cost and Johns Hopkins University, School of Public Health:
+service utilization. Health risk predictive The Johns Hopkins University ACG Case-Mix System.
+Internet address: http://www.acg.jhsph.edu/ html/
+models offer opportunities for efficiency
+AboutACGs.htm (Accessed 2008.)
+HealtH Care FinanCing review/Fall 2008/Volume 30, Number 1 73
+
+=== PÁGINA 14 ===
+Kronick, R. and Dreyfus, T.: Diagnostic Risk University of California, San Diego: Medicaid Rx.
+Adjustment for Medicaid: The Disability Payment Internet address: http://medicaidrx.ucsd.edu/ (Ac -
+System. Health Care Financing Review 17(3):7-33, cessed 2008.)
+Spring 1996.
+University of California, San Diego: Chronic Illness
+Kronick, R., Gilmer, T., Dreyfus, T., et al.: Improving and Disability Payment System. Internet address:
+Health-Based Payment for Medicaid Beneficiaries: http://cdps.ucsd.edu/index.html (Accessed 2008.)
+CDPS. Health Care Financing Review 21(3):29-64,
+Weiner, J.: The Johns Hopkins ACG Case-Mix System
+Spring 2000.
+Reference Manual, Version 7.0. Health Services
+Martin, K., Rogal, D., and Arnold, S.: Health- Research & Development Center, The Johns
+Based Risk Assessment: Risk-Adjusted Payments Hopkins University Bloomberg School of Public
+and Beyond. Robert Wood Johnson, Changes in Health. Baltimore, Maryland. 2005.
+Health Care Financing and Organization (HCFO)
+Weiner, J., Dobson, A., Maxwell, S., et al.: Risk-
+Program. January 2004.
+Adjusted Medicare Capitation Rates Using
+Maxwell, J.: Comprehensive Health Care Reform Ambulatory and Inpatient Diagnoses. Health Care
+in Vermont: A Conversation with Governor Jim Financing Review 17(3):77-99, Spring 1996.
+Douglas. Health Affairs 26(6):W697-W702, Novem­
+Weiner, J., Tucker, A., Collins, A., et al.: The Devel­
+ber/December 2007.
+opment of a Risk-Adjusted Capitation Payment
+Office of Vermont Health Access: Clinical Ini - System: The Maryland Medicaid Model. Journal of
+tia tives. 2007a. Internet address: http://ovha. Ambulatory Care Management 21(4):29-52, October
+ver mont.gov/for-consumers/ clinical_initiatives_ 1998.
+bro chure_6-21-07.pdf (Accessed 2008.)
+Winkelman, R. and Mehmud, S.: A Comparative
+Office of Vermont Health Access: Care Coor di­ Analysis of Claims-Based Tools for Health Risk
+nation: Identification, Verification, and Stratification. Assessment. A Research Study Sponsored by the
+Personal communication. 2007b. Society of Actuaries. April 2007.
+Office of Vermont Health Access: Risk Stratification Zhao, Y., Ash, A., Ellis, R., et al.: Predicting
+and Intervention Services. Personal communica­ Pharmacy Costs and Other Medical Costs Using
+tion. 2008. Diagnoses and Drug Claims. Medical Care
+43(1):34-43, January 2005.
+Pope, G.C., Kautter, J., Ellis, R.P., et al.: Risk
+Adjustment of Medicare Capitation Payments Zhao, Y., Ash, A.S., Ellis, R.P., et al.: Disease
+Using the CMS-HCC Model. Health Care Financing Burden Profiles: An Emerging Tool for Managing
+Review 25(4):119-141, Summer 2004. Managed Care. Health Care Management Science
+5(3):211-219, August 2002.
+Rosen, A.K., Loveland, S., Anderson, J.J., et al.:
+Evaluating Diagnosis-Based Case-Mix Measures: Zhao, Y., Ash, A.S., Haughton, J., et al.: Identifying
+How Well Do They Apply to the VA Population? Future High-Cost Cases Through Predictive Mod -
+Medical Care 39(7):692-704, July 2001. el ing. Disease Management & Health Outcomes
+11(6):389-397, June 2003.
+Sloan, K.L., Montez-Rath, M.E., Spiro, A., et al.:
+Development and Validation of a Psychiatric Case-
+Mix System. Medical Care 44(6):568-580, June Reprint Requests: Sharada Weir, D.Phil., Center for Health Policy
+and Research, University of Massachusetts Medical School, 333
+2006.
+South Street, Shrewsbury, MA 01545. E-mail: sharada.weir@
+Smith, N. and Weiner, J.: Applying Population- umassmed.edu
+Based Case Mix Adjustment in Managed Care:
+The Johns Hopkins ACG System. Managed Care
+Quarterly 2(3):21-34, Summer 1994.
+74 HealtH Care FinanCing review/Fall 2008/Volume 30, Number 1

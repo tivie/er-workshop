@@ -1,0 +1,1234 @@
+# Fonte: Pope 2004 Risk Adjustment of Medicare Capitation Payments Using the CMS-HCC Model (HCFR).pdf
+# Páginas: 23
+
+=== PÁGINA 1 ===
+Risk Adjustment of Medicare Capitation Payments Using
+the CMS-HCC Model
+Gregory C. Pope, M.S., John Kautter, Ph.D., Randall P. Ellis, Ph.D., Arlene S. Ash, Ph.D.,
+John Z. Ayanian, M.D., M.P.P., Lisa I. Iezzoni, M.D., M.Sc., Melvin J. Ingber, Ph.D., Jesse M. Levy, Ph.D.,
+and John Robst, Ph.D.
+This article describes the CMS hierarchi­ M+C.1 Medicare pays private plans partici­
+cal condition categories (HCC) model imple­ pating in M+C a monthly capitation rate to
+mented in 2004 to adjust Medicare capita­ provide health care services to enrolled
+tion payments to private health care plans for beneficiaries.
+the health expenditure risk of their enrollees. Historically, capitation payments to
+We explain the model’s principles, elements, MMC plans were linked to FFS expendi­
+organization, calibration, and performance. tures by geographic area, with payments
+Modifications to reduce plan data reporting set at 95 percent of an enrollee’s county’s
+burden and adaptations for disabled, institu­ adjusted average per capita cost (AAPCC).
+tionalized, newly enrolled, and secondary- The AAPCC actuarial rate cells were
+payer subpopulations are discussed. defined by: age, sex, Medicaid enrollment
+(indicating poverty), institutional status
+INTRODUCTION (for nursing home residents), and working
+aged status (for beneficiaries with employ­
+Medicare is one of the world’s largest er-based insurance where Medicare is a
+health insurance programs, with annual secondary payer). Separate county factors
+expenditures exceeding $200 billion. It pro­ were calculated for the aged and non-aged
+vides health insurance to nearly 40 million disabled (under 65 years), and at the State-
+beneficiaries entitled by elderly age, dis­ level only (due to small numbers), for
+ability, or ESRD. Approximately 11 percent ESRD-entitled beneficiaries.
+of Medicare beneficiaries are enrolled in The AAPCC payment methodology
+private managed care health care plans, explains only about 1-percent of the varia­
+with the rest in the traditional FFS pro­ tion in expenditures for Medicare benefi­
+gram. The 1997 BBA modified the ciaries, and does not pay more for sicker
+Medicare managed care (MMC) and other people. Thus, research showed that the
+capitated programs, collectively called managed care program was increasing
+total Medicare Program expenditures,
+Gregory C. Pope and John Kautter are with RTI International.
+Randall P. Ellis and Arlene S. Ash are with Boston University. because its enrollees were healthier than
+John Z. Ayanian is with Harvard Medical School and Brigham
+FFS enrollees, and the AAPCC did not
+and Women’s Hospital. Lisa I. Iezzoni is with Harvard Medical
+School and Beth Israel Deaconess Medical Center. Melvin J. account for this favorable selection (Brown
+Ingber, Jesse M. Levy, and John Robst are with the Centers for
+et al., 1993; Riley et al., 1996; Mello et al.,
+Medicare & Medicaid Services (CMS). The research in this arti­
+cle was funded by CMS to RTI International under Contract
+Numbers 500-95-048 and 500-00-0030. The views expressed in
+this article are those of the authors and do not necessarily 1 The Medicare Prescription Drug, Improvement and
+reflect the views of RTI International, Boston University, Modernization Act of 2003 (MMA) renames the M+C program
+Harvard Medical School, Brigham and Women’s Hospital, Beth Medicare Advantage. However, since this renaming does not
+Israel Deaconess Medical Center, or CMS. officially take place until 2006, we continue to use M+C.
+HEALTH CARE FINANCING REVIEW/Summer 2004/Volume 25, Number 4 119
+
+=== PÁGINA 2 ===
+2003). Also, more money was not directed adjustment, to be phased in from 2004 to
+to plans enrolling sicker beneficiaries, or to 2007 at 30, 50, 75, and 100 percent of total
+plans specializing in treating high-cost pop­ payments. CMS began collecting encounter
+ulations, such as beneficiaries with particu­ data from MCOs for the physician office
+lar chronic diseases or high levels of func­ and hospital outpatient settings (i.e.,
+tional impairment. records of each enrollee visit to these
+The M+C program fundamentally providers with dates, procedures per­
+changed the MMC payment method, formed, diagnoses, etc.) in October 2000
+including a mandate for health-based and April 2001, respectively. However, fol­
+Medicare capitation payments by 2000. To lowing complaints from MCOs about the
+support this mandate, the BBA required burden of reporting encounter data, CMS
+managed care organizations (MCOs) to suspended data collection in May 2001,
+report inpatient encounter data (i.e., ultimately adopting a drastically stream­
+records for each inpatient admission of a lined data reporting strategy (discussed
+plan’s enrollees noting, among other later).
+things, the beneficiaries’ diagnoses) begin­ CMS evaluated several risk-adjustment
+ning in 1998. In 2000 CMS, which adminis­ models that use both ambulatory and inpa­
+ters the Medicare Program, implemented tient diagnoses, including ACGs (Weiner et
+the PIP-DCG model as a health-based pay­ al., 1996), the chronic disease and disabili­
+ment adjuster (Pope et al., 2000a). This ty payment system (CDPS) (Kronick et al.,
+model estimates beneficiary health status 2000), clinical risk groups (CRGs)
+(expected cost next year) from AAPCC- (Hughes et al., 2004), the clinically detailed
+like demographics and the worst principal risk information system for cost (CD-RISC)
+inpatient diagnosis (principal reason for (Kapur et al., 2003), and DCG/HCCs
+inpatient stay) associated with any hospital (Pope et al, 2000b). CMS chose the
+admission. PIP-DCG-based payments were DCG/HCC model for Medicare risk-adjust­
+introduced gradually, with only 10 percent ment, largely on the basis of transparency,
+of total Medicare capitation payments ease of modification, and good clinical
+adjusted by PIP-DCG factors in 2000. The coherence. The DCG/HCC model, part of
+other 90 percent of payments were still the same DCG family of models as the PIP­
+adjusted using a purely demographic DCG, was developed with CMS funding by
+(AAPCC-like) model. researchers at RTI International2 and
+The PIP-DCG model was intended as a Boston University, with clinical input from
+transition, a feasible way to implement risk physicians at Harvard Medical School.3
+adjustment based on the readily available, Prior to implementing Medicare risk-
+already audited inpatient diagnostic data. adjustment in 2004, the DCG/HCC model
+Relying on inpatient diagnoses is the PIP­ developers and CMS staff adapted the orig­
+DCG model’s major shortcoming, since inal model for consistency with CMS’ sim­
+only illnesses that result in hospital admis­ plified data collection, and for customized
+sions are counted; MCOs that reduce fit for Medicare subpopulations. The
+admis-sions (e.g., through good ambulato­ resulting CMS-HCC model reflects these
+ry care) can end up with apparently health­
+2 The early development of the DCG/HCC model was done by
+ier patients and lower payments. Health Economics Research, Inc. while under contract to CMS.
+However, RTI International acquired Health Economics
+Congress’s BIPA (2000) addressed the
+Research, Inc. in 2002.
+PIP-DCG limitations by requiring the use
+3 The original version of the DCG/HCC model is described in
+of ambulatory diagnoses in Medicare risk- Ellis et al. (1996). The DCG/HCC model has been refined as
+described in Pope et al., 1998 and 2000b.
+120 HEALTH CARE FINANCING REVIEW/Summer 2004/Volume 25, Number 4
+
+=== PÁGINA 3 ===
+Medicare-specific adaptations of the Principle 3—Diagnostic categories that
+DCG/HCC model and provides a compre­ will affect payments should have adequate
+hensive framework for Medicare risk- sample sizes to permit accurate and stable
+adjustment. estimates of expenditures. Diagnostic cate­
+This article describes the DCG/HCC gories used in establishing payments
+and CMS-HCC models. The next section should have adequate sample sizes in avail­
+describes the DCG/HCC model, including able data sets. Given the extreme skewness
+the principles and elements of its diagnos­ of medical expenditure data, the data can­
+tic classification system and how its perfor­ not reliably determine the expected cost of
+mance compares to earlier models. We extremely rare diagnostic categories.
+then describe the modifications to accom­ Principle 4—In creating an individual’s
+modate the simplified data that lead to the clinical profile, hierarchies should be used
+CMS-HCC model. The final section to characterize the person’s illness level
+describes the CMS-HCC model adapta­ within each disease process, while the
+tions for subpopulations. effects of unrelated disease processes
+accumulate. Because each new medical
+DCG/HCC MODEL PRINCIPLES problem adds to an individual’s total dis­
+ease burden, unrelated disease processes
+Diagnostic Classification System should increase predicted costs of care.
+However, the most severe manifestation of
+The following ten principles guided the a given disease process principally defines
+creation of the diagnostic classification sys­ its impact on costs. Therefore, related con­
+tem. ditions should be treated hierarchically,
+Principle 1—Diagnostic categories should with more severe manifestations of a con­
+be clinically meaningful. Each diagnostic dition dominating (and zeroing out the
+category is a set of ICD-9-CM codes effect of) less serious ones.
+(Centers for Disease Control and Principle 5—The diagnostic classifica­
+Prevention, 2004). These codes should all tion should encourage specific coding.
+relate to a reasonably well-specified disease Vague diagnostic codes should be grouped
+or medical condition that defines the cate­ with less severe and lower-paying diagnos­
+gory. Conditions must be sufficiently clini­ tic categories to provide incentives for
+cally specific to minimize opportunities for more specific diagnostic coding.
+gaming or discretionary coding. Clinical Principle 6—The diagnostic classifica­
+meaningfulness improves the face validity tion should not reward coding prolifera­
+of the classification system to clinicians, its tion. The classification should not measure
+interpretability, and its utility for disease greater disease burden simply because
+management and quality monitoring. more ICD-9-CM codes are present. Hence,
+Principle 2—Diagnostic categories neither the number of times that a particu­
+should predict medical expenditures. lar code appears, nor the presence of addi­
+Diagnoses in the same HCC should be rea­ tional, closely related codes that indicate
+sonably homogeneous with respect to their the same condition should increase pre­
+effect on both current (this year’s) and dicted costs.
+future (next year’s) costs. (In this article Principle 7—Providers should not be
+we present prospective models predicting penalized for recording additional diag­
+future costs.) noses (monotonicity). This principle has
+HEALTH CARE FINANCING REVIEW/Summer 2004/Volume 25, Number 4 121
+
+=== PÁGINA 4 ===
+two consequences for modeling: (1) no among other principles. For example, clin­
+condition category should carry a negative ical meaningfulness (principle 1) is often
+payment weight, and (2) a condition that is best served by creating a very large num­
+higher-ranked in a disease hierarchy ber of detailed clinical groupings. But a
+(causing lower-rank diagnoses to be large number of groupings conflicts with
+ignored) should have at least as large a adequate sample sizes for each category
+payment weight as lower-ranked condi­ (principle 3). Another tradeoff is encourag­
+tions in the same hierarchy. ing specific coding (principle 5) versus pre­
+Principle 8—The classification system dictive power (principle 2). In current cod­
+should be internally consistent (transitive). ing practice, non-specific codes are com­
+If diagnostic category A is higher-ranked mon. If these codes are excluded from the
+than category B in a disease hierarchy, and classification system, substantial predictive
+category B is higher-ranked than category power is sacrificed. Similarly, excluding
+C, then category A should be higher- discretionary codes (principle 10) can also
+ranked than category C. Transitivity lower predictive power (principle 2). We
+improves the internal consistency of the approached the inherent tradeoffs involved
+classification system, and ensures that the in designing a classification system using
+assignment of diagnostic categories is empirical evidence on frequencies and pre­
+independent of the order in which hierar­ dictive power, clinical judgment on related­
+chical exclusion rules are applied. ness, specificity, and severity of diagnoses,
+Principle 9—The diagnostic classifica­ and the judgment of the authors on incen­
+tion should assign all ICD-9-CM codes tives and likely provider responses to the
+(exhaustive classification). Since each classification system. The DCG/HCC mod­
+diagnostic code potentially contains rele­ els balance these competing goals to
+vant clinical information, the classification achieve a feasible health-based payment
+should categorize all ICD-9-CM codes. system.
+Principle 10—Discretionary diagnostic
+categories should be excluded from pay­ Elements and Organization
+ment models. Diagnoses that are particu­
+larly subject to intentional or unintentional As shown in Figure 1, the HCC diagnos­
+discretionary coding variation or inappro­ tic classification system first classifies each
+priate coding by health plans/providers, or of over 15,000 ICD-9-CM codes into 804
+that are not clinically or empirically credi­ diagnostic groups, or DxGroups. Each
+ble as cost predictors, should not increase ICD-9-CM code maps to exactly one
+cost predictions. Excluding these diag­ DxGroup, which represents a well-speci­
+noses reduces the sensitivity of the model fied medical condition, such as DxGroup
+to coding variation, coding proliferation, 28.01 Acute Liver Disease. DxGroups are
+gaming, and upcoding. further aggregated into 189 Condition
+In designing the diagnostic classifica­ Categories, or CCs.4 CCs describe a
+tion, principles 7 (monotonicity), 8 (transi­ broader set of similar diseases, generally
+tivity), and 9 (exhaustive classification) organized into body systems, somewhat
+were followed absolutely. For example, if like ICD-9-CM major diagnostic categories.
+the expenditure weights for our models did
+4 Most CCs are assigned entirely with ICD-9-CM codes. But CCs
+not originally satisfy monotonicity, we 185-189 are assigned by beneficiary utilization of selected types
+of DME, such as wheelchairs. CC 173, Major Organ Transplant,
+imposed constraints to create models that
+is defined by procedure codes only. CC 129, ESRD is defined by
+did. Judgment was used to make tradeoffs Medicare entitlement status. None of these CCs are included in
+the CMS-HCC model.
+122 HEALTH CARE FINANCING REVIEW/Summer 2004/Volume 25, Number 4
+
+=== PÁGINA 5 ===
+Figure 1
+Hierarchical Condition Categories Aggregations of ICD-9-CM Codes
+ICD-9-CM Codes
+(n = 15,000+)
+Diagnostic Groups
+(n = 804)
+Condition Categories
+(n = 189)
+Hierarchies
+Imposed
+Hierarchical
+Condition Categories
+NOTE: ICD-9-CM is International Classification of Diseases, Ninth Revision, Clinical Modification.
+SOURCE: (Pope et al., 2000b.)
+Although they are not as homogeneous as Disease, and CC 83 Angina Pectoris/Old
+DxGroups, CCs are both clinically- and Myocardial Infarction is coded for CC 82, but
+cost-similar. An example is CC 28 Acute not CC 83. After imposing hierarchies, CCs
+Liver Failure/Disease that includes become Hierarchical Condition Categories,
+DxGroups 28.01 and 28.02 Viral Hepatitis, or HCCs.5
+Acute or Unspecified, with Hepatic Coma. Although HCCs reflect hierarchies
+Hierarchies are imposed among related among related disease categories, for unre­
+CCs, so that a person is only coded for the lated diseases, HCCs accumulate. For exam­
+most severe manifestation among related ple, a male with heart disease, stroke, and
+diseases. For example (Figure 2), ICD-9-CM cancer has (at least) three separate HCCs
+Ischemic Heart Disease codes are organized coded, and his predicted cost will reflect
+in the Coronary Artery Disease hierarchy, increments for all three problems. The HCC
+consisting of 4 CCs arranged in descending model is more than simply additive because
+order of clinical severity and cost, from CC some disease combinations interact. For
+81 Acute Myocardial Infarction to CC 84 example, the presence of both Diabetes and
+Coronary Athlerosclerosis/Other Chronic Congestive Heart Failure (CHF) could
+Ischemic Heart Disease. A person with an increase predicted cost by more (or less)
+ICD-9-CM code in CC 81 is excluded from than the sum of the separate increments for
+being coded in CCs 82, 83, or 84 even if codes people who have diabetes or CHF alone.
+that group into those categories were also We tested 35 two- and three-way interac­
+present. Similarly, a person with ICD-9-CM tions among six common and high-cost
+codes that group into both CC 82 Unstable chronic diseases defined by HCCs or
+Angina and Other Acute Ischemic Heart
+5 The full list of hierarchies used in the CMS-HCC model is avail­
+able on request from the authors.
+HEALTH CARE FINANCING REVIEW/Summer 2004/Volume 25, Number 4 123
+
+=== PÁGINA 6 ===
+Figure 2
+Hierarchical Condition Categories Coronary Artery Disease Hierarchy
+Acute Myocardial Infarction
+Unstable Angina and Other Acute
+Ischemic Heart Disease
+Angina Pectoris/Old
+Myocardial Infarction
+Coronary Atherosclerosis/Other
+Chronic Ischemic Heart Disease
+SOURCE: (Pope et al., 2000b.)
+groups of HCCs: diabetes, cerebrovascular Because a single beneficiary may be
+disease, vascular disease, or chronic coded for none, one, or more than one
+obstructive pulmonary disease (COPD), DxGroup or HCC, the DCG/HCC model
+CHF, and coronary artery disease (Pope et can individually price tens of thousands of
+al., 2000b), as well as three interactions of distinct clinical profiles using fewer than
+several of these conditions with renal fail­ 200 parameters. The model’s structure
+ure.6 Simple additivity yields most of the thus provides, and predicts from, a detailed
+explanatory power, in the sense that comprehensive clinical profile for each
+adding all 38 interactions barely increased individual.
+the base DCG/HCC model’s R2 (from HCCs are assigned using hospital and
+11.10 to 11.13 percent). However, six inter­ physician diagnoses from any of five
+actions were substantial in magnitude, sta­ sources: (1) principal hospital inpatient; (2)
+tistically significant, and clinically plausi­ secondary hospital inpatient; (3) hospital
+ble. Hence, to improve clinical face validity outpatient; (4) physician; and (5) clinically-
+and predictive accuracy for important sub­ trained non-physician (e.g., psychologist,
+groups of beneficiaries, we include them in podiatrist). The DCG/HCC model does
+the DCG/HCC model. For example, the not distinguish among sources; in particu­
+simultaneous presence of CHF and COPD lar, it places no premium on diagnoses
+leads to higher expected costs than would from inpatient care. Using Medicare 5-per­
+be calculated by adding the separate incre­ cent sample FFS data, we investigated
+ments for CHF and COPD alone. adding diagnoses from other sources
+(Pope et al., 2000b). Adding diagnoses
+6 In later work unpublished work, we also examined all two-way from home health providers raised the
+interactions of cancer with the other six diagnoses, but did not
+explanatory power of the base model from
+find any significant effects.
+124 HEALTH CARE FINANCING REVIEW/Summer 2004/Volume 25, Number 4
+
+=== PÁGINA 7 ===
+11.15 to 11.65 percent. Further adding The DCG/HCC model also relies on
+diagnoses from DME suppliers raised the demographics. Demographic adjusters
+explanatory power from 11.65 to 11.85 per­ included in the model are 24 mutually
+cent. All other sources of diagnoses either exclusive age/sex cells (e.g., female, age
+add no predictive power (SNF, ASC, or hos­ 65-69), an indicator for at least 1-month of
+pice) or detract from predictive power Medicaid enrollment in the base year (a
+(clinical laboratory and radiology/imaging poverty indicator), and an indicator of orig­
+clinics). Diagnoses assigned by home inally disabled status. The age cells distin­
+health and DME providers are likely to be guish beneficiaries currently entitled to
+less reliable than those assigned by physi­ Medicare by age (65 or over) versus dis­
+cians or other providers with greater clini­ ability (under 65); a separate, explicit aged
+cal training. Diagnoses from laboratory versus disabled entitlement status indica­
+and imaging tests are also problematic tor would be redundant. The originally dis­
+given the significant proportion of rule-out abled indicator distinguishes beneficiaries
+diagnoses. In implementing the CMS-HCC who are currently age 65 or over, but were
+model, potential gains in predictive power first entitled to Medicare before age 65 by
+from using additional sources were bal­ disability. The age/sex, Medicaid, and
+anced against the costs of collecting and originally disabled categories add to each
+auditing these data; the decision was to other and to the HCC diagnostic cate­
+only ask MCOs to collect diagnoses from gories.8 The demographic variables are
+the five baseline sources previously listed. the same as have been used in the PIP­
+Consistent with principle 10, we excluded DCG model, and are discussed at greater
+discretionary diagnostic categories (HCCs) length elsewhere (Pope et al., 2000a).
+from the preliminary prospective payment Figure 3 displays a hypothetical clinical
+model. We excluded diagnoses that were vignette of a female age 79, eligible for
+vague/non-specific (e.g., symptoms), discre­ Medicaid and diagnosed with acute
+tionary in medical treatment or coding (e.g., myocardial infarction (AMI), angina pec­
+osteoarthritis), not medically significant toris, COPD, renal failure, chest pain, and
+(e.g., muscle strain), or transitory or defini­ an ankle sprain. Note that although this
+tively treated (e.g., appendicitis). We also female receives CCs for both AMI and
+excluded HCCs that did not (empirically) angina, she receives no HCC for angina
+add to costs, and finally, the five HCCs that because AMI is a more severe manifesta­
+were defined by the presence of procedures tion of coronary artery disease. Also note
+or use of DME, because, as much as possi­ that while payment includes additive incre­
+ble, we wanted payments to follow what ments for females age 75-79 (demographic
+medical problems were present as opposed categories not shown in Figure 3),
+to what services were offered.7 Altogether, Medicaid, AMI, COPD, and renal failure,
+we excluded 88 of the 189 HCCs, leaving 101 the HCCs for major symptoms and other
+HCCs in the preliminary prospective pay­ injuries are excluded from the payment cal­
+ment model. As discussed further, addition­ culation. Chest pain is a symptom associat­
+al HCCs were excluded from the final, 70­ ed with a variety of medical conditions
+category CMS-HCC model. ranging from minor to serious, and sprains
+are transitory, with minimal implications
+7 The DME HCCs were developed to predict costs associated for next year’s cost.
+with functional impairment not captured by diagnoses. Although
+they did improve prediction for the functionally impaired, sub­
+stantial under-prediction remained (Pope et al., 2000b; Kautter 8 We did not systematically investigate interactions of age and
+and Pope, 2001). sex with HCCs (diagnoses). This is a subject for future research.
+HEALTH CARE FINANCING REVIEW/Summer 2004/Volume 25, Number 4 125
+
+=== PÁGINA 8 ===
+Figure 3
+Clinical Vignette for Hierarchical Condition Categories Classification 79 Year Old Female with
+AMI, Angina Pectoris, COPD, and Renal Failure
+ICD-9-CM DxGroup CC HCC
+410.91 AMI of
+81.01 AMI, initial
+unspecified site, initial 81 AMI 81 AMI
+episode of care
+episode of care
+413.9 Other and 83 Angina pectoris/
+83.02 Angina
+unspecified angina old myocardial
+pectoris
+pectoris infarction
+491.2 Obstructive
+chronic bronchitis
+108.01 Emphysema/
+108 COPD 108 COPD
+chronic bronchitis
+518.1 Interstitial
+emphysema
+586 Renal failure, 131.06 Renal failure,
+unspecified unspecified
+131 Renal failure 131 Renal failure
+585 Chronic renal 131.05 Chronic renal
+failure failure
+Included
+Excluded
+166 Major 166 Major
+786.5 Chest pain 166.18 Chest pain symptoms, symptoms,
+abnormalities abnormalities
+845.00 Ankle sprain 162.12 Sprains 162 Other injuries 162 Other injuries
+NOTES: AMI is acute myocardial infarction. COPD is chronic obstructive pulmonary disease.
+SOURCE: (Pope et al., 2000b.)
+PERFORMANCE OF DCG/HCC AND percent sample FFS data are: age/sex, 1.0
+PIP-DCG MODELS percent; PIP-DCG, 6.2 percent; and
+DCG/HCC, 11.2 percent.
+The predictive accuracy of risk-adjust­ Adding PIP-DCG to demographic predic­
+ment models is typically judged by the R2 tors (age/sex) increases predictive power
+statistic (percentage of variation explained) sixfold. Adding secondary inpatient and
+to measure predictive accuracy for individ­ ambulatory diagnoses (hospital outpatient
+uals and predictive ratios (ratios of mean and physician), and arraying them in a
+predicted to mean actual expenditures for multi-condition cumulative model (DCG/
+subgroups of beneficiaries) to measure HCC) nearly doubles the power again.
+predictive accuracy for groups. The R2 of Besides the R2, another interesting sum­
+age/sex, PIP-DCG, and DCG/HCC models mary statistic is the percentage of payments
+as measured on 1996-1997 Medicare’s 5­ based on demographic variables: 100
+126 HEALTH CARE FINANCING REVIEW/Summer 2004/Volume 25, Number 4
+
+=== PÁGINA 9 ===
+Table 1
+Predictive Ratios1 for Alternative Risk-Adjustment Models
+Category Model
+Quintiles of Expenditures Age/Sex PIP-DCG DCG/HCC
+First (Lowest) 2.66 2.09 1.23
+Second 1.93 1.54 1.23
+Third 1.37 1.10 1.14
+Fourth 0.95 0.84 1.02
+Fifth (Highest) 0.44 0.75 0.86
+Top 5 Percent 0.28 0.61 0.77
+Top 1 Percent 0.17 0.47 0.69
+Hospitalizations
+None 1.33 1.07 1.03
+1 0.63 1.02 1.02
+2 0.44 0.91 0.98
+3 or More 0.26 0.69 0.82
+Diagnoses2
+Heart Failure 0.47 0.74 0.97
+Heart Attack 0.45 0.78 0.98
+COPD 0.59 0.79 0.99
+Hip Fracture 0.56 0.83 0.99
+Depression 0.54 0.77 0.92
+Colorectal Cancer 0.60 0.78 0.98
+Cerebral Hemorrhage 0.44 0.73 1.04
+1 Mean predicted cost divided by mean actual cost.
+2 From either inpatient or ambulatory setting.
+NOTES: Expenditures, hospitalizations, and diagnoses are measured in the base year. COPD is chronic obstructive pulmonary disease.
+SOURCE: (Pope et al., 2000b.)
+percent in a demographic model, 81 percent impressive gains over the age/sex and
+in the PIP-DCG model, but only 43 percent PIP-DCG models, it still under-predicts for
+in the DCG/HCC model (Pope et al., 2001). the most expensive and most often hospi­
+With over one-half of payments determined talized beneficiaries.
+by diagnoses, the DCG/HCC model moves
+decisively away from the AAPCC demo­ CMS-HCC MODEL
+graphic-based payment system.
+Table 1 shows predictive ratios for This section describes how the
+selected groups of Medicare beneficiaries. DCG/HCC model was modified before
+Ratios close to 1.0 indicate accurate predic­ implementation as the M+C risk adjuster
+tion of costs; less than 1.0, under predic­ for capitation payments in 2004. We will
+tion; and, more than 1.0, over prediction. refer to the modified model as CMS-HCC.
+The PIP-DCG model improves substantial­
+ly on age/sex, and in almost all cases, the DCG/HCC Model Modification to
+DCG/HCC model improves significantly Simplify Data Collection
+on the PIP-DCG model. This is true even
+for hospitalizations, where the PIP-DCG When several MCOs withdrew from the
+model distinguishes between those hospi­ M+C program around the year 2000, CMS
+talized or not, while the DCG/HCC model sought to improve plan retention. Since
+makes no distinction by source of diagno­ some MCOs had complained of the burden
+sis.9 Despite the DCG/HCC model’s of collecting encounter data for risk-adjust­
+ment, CMS sought to develop risk adjust­
+9 The DCG/HCC model captures multiple conditions that might
+be diagnosed in multiple inpatient stays, whereas the PIP-DCG ment models that predict well and rely on
+model captures only the single principal inpatient diagnosis
+ambulatory data, but with reduced data col-
+most predictive of future costs if multiple inpatient stays occur.
+HEALTH CARE FINANCING REVIEW/Summer 2004/Volume 25, Number 4 127
+
+=== PÁGINA 10 ===
+Figure 4
+Model Explanatory Power as a Function of Number of Hierarchical Condition Categories (HCC)
+12
+10
+8
+6
+derauqs-R
+4
+2
+0
+0 10 2 0 3 0 4 0 50 60
+Number of HCCs
+NOTES: All models, including the one with zero HCCs, include 24 age/sex cells, and Medicaid and originally
+disabled status. Results based on stepwise regression analysis.
+SOURCE: (Pope et al., 2001.)
+lection requirements. One measure of the The incremental contribution to predic­
+data collection burden imposed by a model tive power declines rapidly with the number
+is its number of diagnostic categories.10 of diagnostic categories added to the model.
+We investigated the relationship between The first diagnostic category entered by the
+number of diagnostic categories used in the stepwise regression is CHF, which more
+DCG/HCC model and its predictive power than doubles the demographic model R2 to
+(Pope et al., 2001). Figure 4 plots the rela­ 4.11 percent. The second condition category
+tionship between number of diagnostic cat­ entered is COPD, raising the R2 to 4.94 per­
+egories and model explanatory power mea­ cent. This is an incremental gain of 0.83 per­
+sured by R2. Diagnostic categories (HCCs) centage points, substantial, but much less
+were entered into the model in descending then the increment of 2.42 percentage points
+order of their incremental explanatory due to CHF. With 5 HCCs included, 61 per­
+power using stepwise regression. The base cent of the maximum explanatory power of
+model (with zero HCCs) includes 26 demo­ the full (101 HCC) model is attained; with 10
+graphic variables, the 24 age/sex cells, and HCCs, 74 percent of the maximum is
+Medicaid and originally disabled status. Its achieved; with 20, 85 percent, and with 30, 90
+R2 is 1.69 percent. percent. The incremental R2 from adding a
+diagnostic category is 0.48 percentage
+10 The relationship between number of diagnostic categories and points at 5 HCCs; 0.26 percentage points at
+data collection burden is controversial. Some MCOs seemed to
+10 HCCs; 0.08 percentage points at 20 HCCs;
+feel that it would be less burdensome to report all diagnoses,
+which CMS allows. and 0.05 percentage points at 30 HCCs.
+128 HEALTH CARE FINANCING REVIEW/Summer 2004/Volume 25, Number 4
+
+=== PÁGINA 11 ===
+This analysis shows that a parsimonious model’s 70 HCCs. In addition, because the
+risk-adjustment model with a substantially CMS-HCC model does not give extra cred­
+reduced number of diagnostic categories is it for multiple reports of the same diagno­
+almost as predictive as a full model. But sis, MCOs need only report a single
+parsimony has a cost. In limiting the num­ encounter during the relevant year of data
+ber of conditions that affect payment, many collection that establishes the diagnosis.
+serious, high-cost diagnoses—especially The information required for the single
+rare ones—will be ignored. MCOs encounter is: (1) beneficiary identification
+enrolling beneficiaries with excluded diag­ number, (2) date (to establish that the diag­
+noses will be disadvantaged, and beneficia­ nosis was made during the relevant report­
+ries with such conditions may not be well ing period), (3) setting (to establish that
+served by MCOs. the diagnosis was made in one of the
+CMS considered these results, and con­ allowed hospital or physician settings), and
+sulted with clinicians, on the tradeoff (4) ICD-9-CM diagnosis code. In short,
+between number of diagnostic categories MCOs are required to report only the min­
+and predictive power, and also other crite­ imum.
+ria for diagnostic categories to include in Concern about the quality of diagnostic
+risk adjustment, such as well-defined diag­ reporting is the greatest in physician
+nostic criteria and clinical coherence and offices, where diagnoses have not hereto­
+homogeneity. It was important that the fore affected payment, and recording of
+HCC hierarchies not be disrupted by dele­ diagnoses is less rigorously practiced than
+tion of higher-ranked HCCs while lower- in hospitals. The auditing standard that
+ranked HCCs were retained. After this CMS has promulgated for reporting of
+process, CMS selected 70 HCCs to include physician office diagnoses is that a physi­
+in the CMS-HCC model. The choices cian has established the diagnosis in the
+reflect a balance among the competing medical record, and that medical coders
+considerations of reducing data collection have recorded it in accordance with ICD-9­
+burden, maximizing predictive power, CM rules. CMS will conduct coding audits,
+including rare, high-cost conditions, and but not clinical audits. That is, CMS will
+selecting only well-defined and clinically require MCOs to demonstrate that a diag­
+coherent conditions. Generally, the higher- nosis is present in the medical record on
+cost, more severe conditions at the top of the specified date and has been coded
+the HCC disease hierarchies were according to ICD-9-CM. CMS will not
+retained, while some lower-cost, more fre­ require clinical verification of these diag­
+quent and more discretionary conditions at noses, such as diagnostic test results.
+the bottom of the hierarchies were pruned.
+For example, in the coronary artery dis­ CMS-HCC Model Calibration
+ease hierarchy, AMI (heart attack), other
+acute IHD (e.g., unstable angina), and We calibrated the CMS-HCC model to
+angina pectoris/old myocardial infarction 1999-2000 Medicare 5-percent sample FFS
+were retained, but chronic IHD (e.g., coro­ data for beneficiaries entitled by age or dis­
+nary atherosclerosis) was excluded. ability (beneficiaries entitled by ESRD
+After the CMS-HCC model was finalized, were excluded). The model is prospective,
+a list of approximately 3,000 of the more meaning that diagnoses collected in a base
+than 15,000 ICD-9-CM diagnosis codes was year (1999) are used to predict expendi­
+identified that are sufficient to define the tures in the following year (2000). An
+HEALTH CARE FINANCING REVIEW/Summer 2004/Volume 25, Number 4 129
+
+=== PÁGINA 12 ===
+important operational change from the satisfy our sample restrictions; all analyses
+PIP-DCG model is that the data lag will be are weighted by this eligibility fraction. In
+eliminated, making the application of the general, annualization and weighting
+model consistent with its calibration. With ensures that monthly payments are cor­
+the PIP-DCG model, the data collection rectly estimated for all beneficiaries,
+period for a payment year ended 6 months including those who died (Ellis et al.,
+before the start of the year, i.e., on June 30 1996).11
+of the previous year, so that final capitation The model was calibrated using weight­
+rates could be published by January 1 of ed least squares multiple regression. The
+the payment year. With the CMS-HCC CMS-HCC regression model estimated for
+model, provisional rates will be established the combined aged and disabled Medicare
+by January 1 based on 6-month lagged population is shown in Table 2.
+data, and final rates will be available by The elements of the model are:
+June 30 of the payment year based on the • Age/sex cells (24).
+previous calendar year’s diagnoses. A rec­ • Medicaid interacted with sex and
+onciliation process will adjust the first 6 age/disabled entitlement status.
+months of payments to the final rates, if • Originally disabled status interacted with
+necessary. sex.
+A standard set of sample restrictions was • HCC diagnostic categories (70).
+employed to ensure a population of benefi­ • Interactions of diagnostic categories
+ciaries with complete 12-month base year with entitlement by disability (5).
+diagnostic profiles and complete payment • Disease interactions (6).
+year Medicare expenditures from the FFS The R2 for this model is 9.8 percent.
+claims for aged and disabled beneficiaries Several coefficients are constrained
+(Pope et al., 2000b). Decedents are includ­ because the unconstrained coefficients vio­
+ed in the payment year for their eligible late the principle that higher-ranked condi­
+period. Complete FFS claims are not avail­ tions in a hierarchy should have higher
+able for months of M+C enrollment or predicted costs, or for other reasons.12
+when Medicare is a secondary payer, and As an example of expenditure predic­
+M+C plans are not responsible for hospice tion, consider our hypothetical scenario in
+care, so these months were excluded from Figure 3 of a female age 79 eligible for
+our sample. The final sample size is Medicaid diagnosed with AMI, angina pec­
+1,337,887 beneficiaries. toris, COPD, renal failure, chest pain, and
+We summed all Medicare payments for a an ankle sprain. The female receives the
+beneficiary for months in 2000 satisfying following incremental cost predictions:
+our sample restrictions, excluding (1) female, 75 to 79, $2,562; aged, female,
+deductibles and copayments paid by the Medicaid, $616; AMI (HCC 81), $1,885;
+beneficiary; (2) hospice payments; and (3) angina pectoris, $0; COPD (HCC 108),
+indirect medical education payments. $1,936; renal failure (HCC 131), $2,908;
+Hospice and indirect medical education
+11 In our calibration, we did not make any geographic adjust­
+payments are excluded because they were ments to Medicare payments. In past work, we have found that
+deflating payments by a geographic input price index had little
+not included in M+C capitation rates, but
+effect on estimated risk-adjustment model parameters.
+were paid directly to hospices and teaching 12 Clinical consultants to CMS suggested that metastatic cancer
+hospitals utilized by M+C enrollees. is not consistently correctly coded, so HCCs 7 and 8 were con­
+strained to have equal coefficients. HCCs 81 and 82 were con­
+Payments were annualized by dividing strained to have equal coefficients because the ICD-9-CM diag­
+nostic detail CMS collects from health plans is not sufficient to
+them by the fraction of months in 2000 that
+distinguish them.
+130 HEALTH CARE FINANCING REVIEW/Summer 2004/Volume 25, Number 4
+
+=== PÁGINA 13 ===
+Table 2
+Centers for Medicare & Medicaid Services-Hierarchical Condition Categories (CMS-HCC)
+Combined, Community, and Institutional Models
+Models
+Combined Community Institutional
+Number of Observations 1,337,887 1,291,308 65,593
+R2 0.0977 0.0976 0.0596
+Adjusted R2 0.0977 0.0976 0.0589
+Dependent Variable Mean 5,352 5,213 8,937
+Root Mean Square Error 13,407 13,337 15,954
+Model Parameters 105 105 50
+Variable Parameter Parameter Parameter
+Estimate t-ratio Estimate t-ratio Estimate t-ratio
+Female
+0-34 Years 678 3.81 598 3.36 5,457 11.72
+35-44 Years 1,110 8.82 1,012 8.03 5,457 11.72
+45-54 Years 1,177 11.20 1,096 10.40 5,457 11.72
+55-59 Years 1,463 11.87 1,360 11.00 5,457 11.72
+60-64 Years 1,996 17.26 1,924 16.56 5,457 11.72
+65-69 Years 1,648 42.11 1,572 40.15 5,970 11.73
+70-74 Years 2,061 60.25 1,970 57.42 6,049 17.09
+75-79 Years 2,562 71.59 2,475 68.56 5,089 19.63
+80-84 Years 2,998 71.39 2,936 68.34 4,813 22.51
+85-89 Years 3,360 63.45 3,408 61.01 4,515 23.28
+90-94 Years 3,683 46.81 4,077 46.25 4,048 19.08
+95 Years or Over 3,128 23.27 4,130 25.32 2,980 10.34
+Male
+0-34 Years 405 2.72 346 2.32 5,664 13.77
+35-44 Years 701 6.63 617 5.81 5,664 13.77
+45-54 Years 1,059 12.15 973 11.14 5,664 13.77
+55-59 Years 1,460 13.42 1,386 12.68 5,664 13.77
+60-64 Years 1,824 17.90 1,755 17.13 5,664 13.77
+65-69 Years 1,827 41.47 1,774 40.28 7,435 13.24
+70-74 Years 2,380 59.66 2,323 58.17 6,350 14.34
+75-79 Years 3,031 69.04 2,960 67.13 6,210 16.45
+80-84 Years 3,454 62.03 3,372 59.83 6,201 17.67
+85-89 Years 4,129 52.24 4,050 49.80 6,366 17.40
+90-94 Years 4,505 32.20 4,620 31.08 5,378 11.29
+95 Years or Over 4,753 15.83 5,307 15.89 4,287 5.34
+Medicaid and Originally Disabled
+Interactions with Age and Sex
+Medicaid-Female-Disabled 1,141 11.31 1,133 11.18 __ __
+Medicaid-Female-Aged 616 12.91 940 18.18 __ __
+Medicaid-Male-Disabled 632 6.80 592 6.31 __ __
+Medicaid-Male-Aged 788 10.33 944 11.62 __ __
+Originally Disabled-Female 1,231 17.34 1,213 16.44 __ __
+Originally Disabled-Male 809 11.66 757 10.73 __ __
+Disease Coefficients Label
+HCC1 HIV/AIDS 3,587 13.16 3,514 12.88 6,893 5.42 C1
+HCC2 Septicemia/Shock 4,365 34.74 4,563 32.92 4,854 13.89
+HCC5 Opportunistic Infections 3,643 10.43 3,346 9.29 6,893 5.42 C1
+HCC7 Metastatic Cancer and
+Acute Leukemia 7,438 81.16 7,510 81.00 2,771 4.54
+HCC8 Lung, Upper Digestive Tract,
+and Other Severe Cancers 7,438 81.16 7,510 81.00 2,771 4.54
+HCC9 Lymphatic, Head and Neck,
+Brain, and Other
+Major Cancers 3,540 35.91 3,539 35.51 2,319 3.50
+HCC10 Breast, Prostate, Colorectal
+and Other Cancers
+and Tumors 1,209 26.35 1,194 25.79 1,330 4.01
+Refer to NOTES at end of table.
+HEALTH CARE FINANCING REVIEW/Summer 2004/Volume 25, Number 4 131
+
+=== PÁGINA 14 ===
+Table 2—Continued
+Centers for Medicare & Medicaid Services-Hierarchical Condition Categories (CMS-HCC)
+Combined, Community, and Institutional Models
+Models
+Combined Community Institutional
+Parameter Parameter Parameter
+Variable Estimate t-ratio Estimate t-ratio Estimate t-ratio
+Disease Coefficients Label
+HCC15 Diabetes with Renal or Peripheral
+Circulatory Manifestation 3,827 37.71 3,921 36.90 3,137 10.49
+HCC16 Diabetes with Neurologic or
+Other Specified Manifestation 2,931 30.09 2,833 28.43 3,137 10.49
+HCC17 Diabetes with Acute
+Complications 2,056 7.84 2,008 7.41 3,137 10.49
+HCC18 Diabetes with
+Ophthalmologic or
+Unspecified Manifestation 1,839 18.35 1,760 17.32 3,137 10.49
+HCC19 Diabetes without Complication 1,055 26.10 1,024 25.02 1,308 5.32
+HCC21 Protein-Calorie Malnutrition 3,818 27.52 4,727 29.77 2,193 6.49
+HCC25 End-Stage Liver Disease 4,496 14.91 4,616 14.92 1,375 5.09
+HCC26 Cirrhosis of Liver 2,727 11.93 2,645 11.37 1,375 5.09
+HCC27 Chronic Hepatitis 1,839 6.73 1,841 6.71 1,375 5.09
+HCC31 Intestinal Obstruction/
+Perforation 1,997 21.69 2,094 21.62 1,375 5.09
+HCC32 Pancreatic Disease 2,336 17.30 2,281 16.61 1,375 5.09
+HCC33 Inflammatory Bowel Disease 1,574 10.25 1,575 10.16 1,375 5.09
+HCC37 Bone/Joint/Muscle Infections/
+Necrosis 2,629 19.68 2,546 18.41 2,539 4.42
+HCC38 Rheumatoid Arthritis and
+Inflammatory Connective
+Tissue Disease 1,683 27.72 1,653 26.93 1,463 3.61
+HCC44 Severe Hematological
+Disorders 5,055 30.80 5,188 30.69 2,299 4.08
+HCC45 Disorders of Immunity 4,224 26.77 4,260 26.64 2,299 4.08
+HCC51 Drug/Alcohol Psychosis 1,571 6.57 1,810 6.99 1,131 6.06
+HCC52 Drug/Alcohol Dependence 1,477 6.15 1,361 5.44 1,131 6.06
+HCC54 Schizophrenia 2,592 26.75 2,786 27.04 1,131 6.06
+HCC55 Major Depressive, Bipolar,
+and Paranoid Disorders 2,024 30.00 2,209 30.85 1,131 6.06
+HCC67 Quadriplegia, Other
+Extensive Paralysis 5,665 27.45 6,059 27.20 504 3.94
+HCC68 Paraplegia 5,665 27.45 6,059 27.20 504 3.94
+HCC69 Spinal Cord Disorders/
+Injuries 2,484 17.77 2,526 17.45 504 3.94
+HCC70 Muscular Dystrophy 2,239 3.82 1,981 3.27 504 3.94
+HCC71 Polyneuropathy 1,480 19.74 1,377 18.06 504 3.94
+HCC72 Multiple Sclerosis 2,329 11.44 2,654 12.19 504 3.94
+HCC73 Parkinson’s and Huntington’s
+Diseases 1,954 19.69 2,436 22.04 504 3.94
+HCC74 Seizure Disorders and
+Convulsions 1,334 17.25 1,381 16.68 504 3.94
+HCC75 Coma, Brain Compression/
+Anoxic Damage 2,396 7.88 C1 2,912 8.62 C1 504 3.94 C2
+HCC77 Respirator Dependence/
+Tracheostomy Status 10,417 29.54 10,783 28.46 7,259 8.19
+HCC78 Respiratory Arrest 7,543 20.23 7,327 18.79 7,259 8.19
+HCC79 Cardio-Respiratory Failure
+and Shock 3,451 42.70 3,550 42.39 1,481 4.31
+HCC80 Congestive Heart Failure 2,055 38.48 2,141 38.54 903 4.16
+HCC81 Acute Myocardial Infarction 1,885 31.23 1,785 29.13 1,476 5.75
+HCC82 Unstable Angina and Other
+Acute Ischemic Heart
+Disease 1,885 31.23 1,785 29.13 1,476 5.75
+HCC83 Angina Pectoris/Old
+Myocardial 1,246 22.82 1,205 21.76 1,476 5.75
+Infarction
+Refer to NOTES at end of table.
+132 HEALTH CARE FINANCING REVIEW/Summer 2004/Volume 25, Number 4
+
+=== PÁGINA 15 ===
+Table 2—Continued
+Centers for Medicare & Medicaid Services-Hierarchical Condition Categories (CMS-HCC)
+Combined, Community, and Institutional Models
+Models
+Combined Community Institutional
+Parameter Parameter Parameter
+Variable Estimate t-ratio Estimate t-ratio Estimate t-ratio
+Disease Coefficients Label
+HCC92 Specified Heart Arrhythmias 1,362 31.73 1,363 30.95 961 4.62
+HCC95 Cerebral Hemorrhage 1,901 10.05 2,011 9.88 774 4.01
+HCC96 Ischemic or Unspecified Stroke1,498 20.90 1,569 20.34 774 4.01
+HCC100 Hemiplegia/Hemiparesis 1,678 13.96 2,241 16.61 504 3.94
+HCC101 Cerebral Palsy and Other
+Paralytic Syndromes 767 3.34 840 3.42 504 3.94 C2
+HCC104 Vascular Disease with
+Complications 3,432 36.22 3,473 35.49 2,612 6.30
+HCC105 Vascular Disease 1,662 39.94 1,832 41.72 583 3.72
+HCC107 Cystic Fibrosis 1,936 45.73 1,929 44.87 1,180 4.69
+HCC108 Chronic Obstructive Pulmonary
+Disease 1,936 45.73 1,929 44.87 1,180 4.69
+HCC111 Aspiration and Specified
+Bacterial Pneumonias 3,010 20.47 3,556 21.53 2,377 6.82
+HCC112 Pneumococcal Pneumonia,
+Empyema, Lung Abscess 1,151 6.55 1,034 5.68 2,377 6.82
+HCC119 Proliferative Diabetic
+Retinopathy and
+Vitreous Hemorrhage 1,975 13.36 1,791 11.96 5,102 5.46
+HCC130 Dialysis Status 15,926 26.97 15,778 25.96 15,959 5.82
+HCC131 Renal Failure 2,908 23.20 2,954 22.73 2,152 6.26
+HCC132 Nephritis 1,541 6.95 1,401 6.23 2,152 6.26
+HCC148 Decubitus Ulcer of Skin 3,888 32.32 5,285 37.28 1,628 5.98
+HCC149 Chronic Ulcer of Skin, Except
+Decubitus 2,381 26.76 2,485 26.65 1,346 3.98
+HCC150 Extensive Third-Degree
+Burns 4,427 2.36 4,935 2.54 1,274 3.37
+HCC154 Severe Head Injury 2,396 7.88 C1 2,912 8.62 C1 1,274 3.37
+HCC155 Major Head Injury 1,211 8.43 1,239 8.08 1,274 3.37 C3
+HCC157 Vertebral Fractures w/o
+Spinal Cord Injury 2,462 20.64 2,514 20.23 504 3.94 C2
+HCC158 Hip Fracture/Dislocation 1,301 13.37 2,010 18.51 0 —
+HCC161 Traumatic Amputation 3,965 17.86 C2 4,322 17.92 C2 1,274 3.37 C3
+HCC164 Major Complications of
+Medical Care and Trauma 1,438 18.25 1,346 16.60 1,347 3.66
+HCC174 Major Organ Transplant Status 3,790 8.55 3,702 8.37 4,523 11.13
+HCC176 Artificial Openings for Feeding
+or Elimination 3,810 23.84 4,054 22.39 4,523 11.13
+HCC177 Amputation Status, Lower
+Limb/Amputation
+Complications 3,965 17.86 C2 4,322 17.92 C2 1,274 3.37 C3
+Disabled/Disease Interactions
+D-HCC5 Disabled Opportunistic
+Infections 3,965 5.49 4,047 5.52 — —
+D-HCC44 Disabled Severe
+Hematological Disorders 4,649 9.98 4,580 9.72 — —
+D-HCC51 Disabled Drug/Alcohol
+Psychosis 2,830 7.12 2,608 6.32 — —
+D-HCC52 Disabled Drug/Alcohol
+Dependence 2,160 6.90 2,122 6.61 — —
+D-HCC107 Disabled Cystic Fibrosis 9,691 6.70 9,547 6.63 — —
+Refer to NOTES at end of table.
+HEALTH CARE FINANCING REVIEW/Summer 2004/Volume 25, Number 4 133
+
+=== PÁGINA 16 ===
+Table 2—Continued
+Centers for Medicare & Medicaid Services-Hierarchical Condition Categories (CMS-HCC)
+Combined, Community, and Institutional Models
+Models
+Combined Community Institutional
+Parameter Parameter Parameter
+Variable Estimate t-ratio Estimate t-ratio Estimate t-ratio
+Disease Interactions
+INT1 DM-CHF1 1,265 14.62 1,296 14.46 1,064 2.91
+INT2 DM-CVD 490 4.05 639 4.89 — —
+INT3 CHF-COPD 1,261 14.82 1,238 14.06 1,906 4.95
+INT4 COPD-CVD-CAD 316 1.49 406 1.82 — —
+INT5 RF-CHF1 857 3.94 1,202 5.24 — —
+INT6 RF-CHF-DM1 4,185 18.48 4,433 18.71 — —
+NOTES: Beneficiaries with the three-way interaction RF-CHF-DM are excluded from the two-way interactions DM-CHF and RF-CHF. DM is diabetes
+mellitus (HCCs 15-19). CHF is congestive heart failure (HCC 80). COPD is chronic obstructive pulmonary disease (HCC 108). CVD is cerebrovas­
+cular disease (HCCs 95-96, 100-101). CAD is coronary artery disease (HCCs 81-83). RF is renal failure (HCC 131). "|" means coefficients of HCCs
+are constrained to be equal. C1, C2, and C3 denote non-contiguous constraints.
+SOURCE: Pope, G.C. and Kautter, J., RTI International, Ellis, R.P. and Ash, A.S., Boston University, Ayanian, J.Z., Harvard Medical School and
+Brigham and Women's Hospital, Iezzoni, L.I., Harvard Medical School and Beth Israel Deaconess Medical Center, Ingber, M.J., Levy, J.M., and
+Robst, J., Centers for Medicare & Medicaid Services, Analysis of 1999-2000 Medicare 5% Standard Analytic File (SAF).
+chest pain, $0; and ankle sprain, $013 Medicare and do not have complete diag­
+(Table 2). Her total cost prediction is the nostic data. Fourth, Medicare is a secondary
+sum of these increments, or $9,907. payer for some beneficiaries. To account for
+Calibration of DCG/HCC models on sev­ the different cost and diagnostic patterns of
+eral years of data reveals increasingly thor­ these disparate subgroups of beneficiaries,
+ough diagnostic coding. For example, if the CMS-HCC model was adapted for
+1999 diagnoses are used to predict expen­ Medicare subpopulations. This section
+ditures with a model calibrated on describes models for subpopulations.14
+1996/1997 data, mean expenditures will be
+over predicted. If more complete coding Beneficiaries Entitled by Disability
+over time is not accounted for, MCOs will
+be overpaid by the use of current diag­ Approximately 12 percent of Medicare
+noses with a model calibrated on historical beneficiaries are entitled to Medicare
+data. CMS makes a slight downward because they are under age 65 and have a
+adjustment in HCC-predicted expenditures medical condition that prevents them from
+to account for this. working (the disabled). Models calibrated
+on the full Medicare population (excluding
+CMS-HCC Models for Subpopulations ESRD eligibles), mostly reflect cost pat­
+terns among the elderly, the other 88 per­
+Medicare beneficiaries differ along char­ cent of the population. The implications of
+acteristics that are important for risk adjust­ some diagnoses might differ between the
+ment. First, they may be entitled to elderly and disabled. For example, a diag­
+Medicare in one of three ways: age, disabili­ nosis that is disabling may be more severe,
+ty, or ESRD. Second, some beneficiaries and the cost of treating a disease may vary
+reside in institutions rather than in the com­ by age. We considered allowing differ­
+munity. Third, some enrollees are new to ences in incremental expenditure weights
+for some diagnoses (HCCs) for the dis­
+13 The female receives no incremental cost prediction for angina abled (Pope et al., 1998; 2000b).
+pectoris because AMI is higher-ranked in the coronary artery
+disease hierarchy and excludes angina. No incremental predic­
+tion is made for chest pain and ankle sprain because these diag­ 14 Risk-adjustment models for ESRD-entitled and functionally-
+noses are not included in the CMS-HCC model. limited beneficiaries are not described in this article.
+134 HEALTH CARE FINANCING REVIEW/Summer 2004/Volume 25, Number 4
+
+=== PÁGINA 17 ===
+Using Medicare’s 5-percent sample FFS beneficiaries, 65,593 beneficiaries, or 5 per­
+data (1996-1997), we estimated the cent, had at least 1 month of long-term
+DCG/HCC model separately on aged and nursing facility residence in 2000.15
+disabled subsamples. We evaluated differ­ Table 3 compares sample sizes and
+ences in age versus disabled parameter mean expenditures by demographic cate­
+estimates according to their statistical sig­ gories for community and institutional res­
+nificance, magnitude, clinical plausibility, idents, and shows predictive ratios from
+and frequency of occurrence in the dis­ the CMS-HCC model calibrated on the
+abled population (Pope et al., 2000b). combined community/institutional sample
+Based on these considerations, we chose (Table 2). Nearly one-half (49 percent) of
+nine diagnostic categories to receive incre­ long-term nursing facility residents are age
+mental payments when they occur among 85 or over. Facility residents are only 2 per­
+disabled beneficiaries. Five of these cate­ cent of the combined community plus insti­
+gories remained significantly different for tutional population for females age 70 to 74,
+the disabled when the CMS-HCC model but fully 37 percent of the combined popu­
+was re-estimated on 1999-2000 data: oppor­ lation for females age 95 or over.
+tunistic infections, severe hematological Overall, institutional residents are 71
+disorders (e.g., hemophilia, sickle cell ane­ percent more expensive than community
+mia), drug/alcohol psychosis, drug/alco­ residents, $8,937 in mean annualized
+hol dependence, and cystic fibrosis. expenditures compared to $5,213. The age
+Incremental annual payments for these profiles of expenditures are quite different.
+conditions among the disabled (in addition Among community residents, mean expen­
+to base payments for the elderly) are sub­ ditures rise steadily with age in the under
+stantial, ranging from $2,160 to $9,691. 65 disabled population and then again in
+Other than for these five conditions, dis­ the elderly population, except for a slight
+ease risk-adjustment weights are the same decline for the oldest females. In contrast,
+for the aged and disabled populations. The among the institutionalized, mean expendi­
+CMS-HCC model is estimated on a com­ tures are fairly constant across all ages
+bined sample of aged and disabled benefi­ until they decline significantly among the
+ciaries, with disabled interactions for these oldest old. For all age/sex cells except the
+five diagnostic categories. The combined oldest old, mean expenditures for the insti­
+aged/disabled model is shown in Table 2. tutionalized are substantially higher than
+for community-dwelling beneficiaries.
+Community and Institutional However, although not shown in Table 3,
+Residents among beneficiaries diagnosed with partic­
+ular HCCs, mean expenditures for the
+Using the newly available Medicare institutionalized are often similar to those
+MDS, we identified long–term nursing of community residents. For example,
+home residents in the current (i.e., pay­ among all beneficiaries with CHF (HCC
+ment) year. Long-term nursing home resi­ 80), expenditures for the institutionalized
+dence was defined as continuously resid­ are $11,719, which is $255 less than for
+ing in a nursing home for at least 90 days, community residents. More generally,
+as indicated by a 90-day clinical assess­ when classifying people by the presence of
+ment reported by the nursing facility
+15 Beneficiaries with both community and long-term institutional
+through the MDS. In our prospective risk- months in the same year are included in both samples, weight­
+adjustment modeling sample of 1,337,887 ed by the fraction of their total months alive in the year in each
+status.
+HEALTH CARE FINANCING REVIEW/Summer 2004/Volume 25, Number 4 135
+
+=== PÁGINA 18 ===
+Table 3
+Descriptive Statistics for Community and Institutionalized Residents
+Community Institutional
+Mean Mean
+Annualized Predictive Annualized Predictive
+Variable Observations Expenditures Ratio1 Observations Expenditures Ratio1
+Overall 1,291,308 5,213 0.99 65,593 8,937 1.12
+Demographics
+Female
+0-34 Years 7,007 3,623 1.00 49 9,251 0.99
+35-44 Years 15,566 4,332 1.00 199 9,395 0.94
+45-54 Years 22,077 4,692 1.00 473 8,869 1.07
+55-59 Years 14,023 5,254 1.00 343 10,168 0.91
+60-64 Years 15,793 5,993 1.00 501 9,906 1.04
+65-69 Years 129,970 3,714 1.00 1,380 10,961 0.99
+70-74 Years 171,775 4,372 1.00 3,098 10,901 0.97
+75-79 Years 157,586 5,260 1.00 6,260 9,458 1.08
+80-84 Years 111,303 6,101 0.99 9,801 8,797 1.13
+85-89 Years 66,301 6,882 0.97 12,294 8,054 1.19
+90-94 Years 26,852 7,606 0.92 9,535 7,146 1.29
+95 Years or Over 8,074 7,338 0.83 4,729 5,734 1.42
+Male
+0-34 Years 10,272 2,868 1.00 106 10,622 0.95
+35-44 Years 22,913 3,666 1.00 384 9,596 0.92
+45-54 Years 29,377 3,968 1.00 606 10,186 0.91
+55-59 Years 16,391 4,651 1.00 438 10,340 0.96
+60-64 Years 18,581 5,214 1.00 588 10,486 1.00
+65-69 Years 105,856 4,018 1.00 1,132 12,432 0.88
+70-74 Years 128,874 5,014 1.00 1,921 11,501 0.99
+75-79 Years 106,402 6,207 1.00 2,842 11,411 1.04
+80-84 Years 64,263 7,083 1.00 3,404 11,049 1.06
+85-89 Years 30,765 8,144 0.99 3,116 10,754 1.08
+90-94 Years 9,343 8,731 0.97 1,783 9,489 1.20
+95 Years or Over 1,944 9,062 0.92 611 8,096 1.37
+Medicaid 196,604 6,523 0.97 33,074 8,895 1.17
+Originally-Disabled 81,894 7,614 0.99 7,415 10,606 1.11
+1 Ratio of mean expenditures predicted by the Centers for Medicare & Medicaid Services - Hierarchical Condition Categories (CMS-HCC) model for
+combined community/institutional samples to mean actual expenditures.
+SOURCE: Pope, G.C. and Kautter, J., RTI International, Ellis, R.P. and Ash, A.S., Boston University, Ayanian, J.Z., Harvard Medical School and
+Brigham and Women's Hospital, Iezzoni, L.I., Harvard Medical School and Beth Israel Deaconess Medical Center, Ingber, M.J., Levy, J.M., and
+Robst, J., Centers for Medicare & Medicaid Services, Analysis of 1999-2000 Medicare 5% Standard Analytic File (SAF).
+a single diagnosis, expenditures for the long–term nursing home residents by 12
+institutionalized may be higher, lower, or percent. Lower expenditures among facili­
+about the same. ty residents adjusting for disease burden
+Thus, the main reason that people in could result from substituting non-
+facilities cost more is that they have more Medicare for Medicare-reimbursed ser­
+medical problems, a distinction that is fully vices; since most nursing home service are
+accounted for by the HCCs. In fact, the pre­ not reimbursed by Medicare. Also, greater
+dictive ratios from the combined CMS­ monitoring of nursing home than commu­
+HCC model for community and institution­ nity residents may identify and prevent
+al beneficiaries are, respectively, 0.99 and problems leading to hospitalization. The
+1.12 (Table 3). This means that the com­ under-prediction for community residents
+bined model, on average, under predicts and over-prediction for facility residents is
+expenditures for community residents by 1 most severe for the oldest age groups,
+percent, and over predicts expenditures for most likely due to decisions to limit
+136 HEALTH CARE FINANCING REVIEW/Summer 2004/Volume 25, Number 4
+
+=== PÁGINA 19 ===
+aggressive care for very old residents in expenditure differences among the institu­
+nursing homes. The over-prediction of the tionalized. Disease (HCC) coefficients
+costs of the institutionalized, together with tend to be smaller in the institutional
+their different cost patterns by age and model than in the community model
+diagnosis, led us to consider differentiating (Table 2). Diagnoses are less predictive of
+the CMS-HCC model for community and incremental costs among the more uni­
+institutional populations. formly expensive institutional population
+Within a multiple regression model esti­ than they are among the community popu­
+mation framework, we investigated alter­ lation.
+native approaches to allowing differences We constrained certain groups of demo­
+in the model between community and insti­ graphic and diagnostic coefficients in the
+tutional residents, ultimately choosing to institutional model to be equal (Table 2),
+estimate separate models. This properly because the small available sample of insti­
+calibrates the prediction of each group’s tutionalized beneficiaries resulted in their
+costs, while allowing all demographic and low prevalence in some diagnostic cate­
+disease coefficients to differ between com­ gories (HCCs) and made it difficult to
+munity and institutional populations. obtain stable estimates of each separate
+In addition to the combined model, parameter. For the same reason, we includ­
+Table 2 shows the CMS–HCC community ed no disabled interaction terms, and only
+and institutional models. Not surprisingly, two of the disease interaction terms in the
+the community model R2 and most of the institutional model. Also, HCC 158 Hip
+demographic and disease coefficients are Fracture/Dislocation was excluded because
+very similar to the combined model, its coefficient was negative.
+because community residents comprise 95 The age/sex coefficients for the institu­
+percent of the combined sample. A few tionalized are much higher than for com­
+coefficients show greater differences. The munity residents except for the oldest
+community coefficients for the oldest age ages. This implies that institutionalized
+cells are significantly larger than the com­ beneficiaries are predicted to be expensive
+bined model coefficients because the regardless of their diagnostic profile (e.g.,
+lower-cost very old institutionalized have even lacking any of the diagnoses included
+been removed from these cells. The com­ in the CMS-HCC model), whereas commu­
+munity coefficients for the aged enrolled in nity residents are predicted to be expen­
+Medicaid are also significantly higher, as sive only if diagnosed with at least one of
+are several HCC coefficients. the serious diseases included in the CMS­
+The institutional model R2 is consider­ HCC model. This makes sense since insti­
+ably lower than the community model. But tutionalization itself is a marker of poor
+some of the community model’s predictive health, aside from diagnostic profile, but
+power comes from distinguishing benefi­ the institutionalized age/sex coefficients
+ciaries who are healthy (no diagnoses) ver­ decline for the oldest ages, and fall below
+sus sick (with diagnoses), while the insti­ the community coefficients. Medical treat­
+tutional model is explaining cost variations ment may be less aggressive for old, frail
+among a population comprised entirely of beneficiaries who are institutionalized.
+impaired individuals. Diagnoses help Among the institutional population, the
+explain why someone might be institution­ coefficient for Medicaid was negative and
+alized (i.e., distinguish healthy from sick), the coefficients for originally disabled was
+but are not as powerful in explaining statistically insignificant. These variables
+HEALTH CARE FINANCING REVIEW/Summer 2004/Volume 25, Number 4 137
+
+=== PÁGINA 20 ===
+were excluded from the institutional continuing enrollees ($6,952 for female
+model. Beneficiaries often qualify for and $6,055 for male). For almost all new
+Medicaid after spending down their per­ enrollees age 65, the original reason for
+sonal assets to pay for a lengthy nursing Medicare entitlement is age.18 In contrast,
+home stay. Thus, Medicaid may be a proxy continuing enrollees age 65 were originally
+for beneficiaries in the later portion of their entitled to Medicare by disability, and
+stays, when they are less expensive than in hence are much more expensive. For other
+the earlier, post-acute phase of their nurs­ ages, mean expenditures of new and con­
+ing home tenure. tinuing enrollees are much more similar.
+To achieve sufficient sample sizes in all age
+New Medicare Enrollees ranges to calibrate the new enrollees
+model, we merged the new and continuing
+The CMS–HCC model requires a com­ enrollees samples, which resulted in a sam­
+plete 12-month base year diagnostic profile ple size of 1,495,225 with mean expendi­
+to predict the next year’s expenditures. tures of $5,184. For age 65, actual new
+Beneficiaries without 12 months base year enrollees dominate the combined sample,
+Medicare enrollment, but at least 1 month and the cost weight reflects their (low) rel­
+of prediction year enrollment, are defined ative costs. Continuing enrollees age 65
+as new enrollees. About two–thirds of new are included in the sample to calibrate the
+enrollees are age 65.16 New enrollees may originally disabled coefficient for age 65.
+be under age 65 if they become eligible for For other than age 65, the sample is domi­
+Medicare by disability; they may be over nated by continuing enrollees, but their
+age 65 if they delay Medicare enrollment costs appear to proxy actual new enrollee
+or are not originally enrolled in both Parts costs reasonably well for younger or older
+A and B.17 We developed a demographic ages.
+model to predict expenditures for new
+enrollees who lack the data needed to Beneficiaries for Whom Medicare is a
+apply the CMS-HCC model. Secondary Payer
+Table 4 presents frequencies and mean
+annualized expenditures from the 5-per­ Working aged beneficiaries are Medicare
+cent FFS sample data for new enrollees beneficiaries, age 65 or over, with private
+and continuing enrollees. Continuing group health insurance coverage from their
+enrollees are defined as beneficiaries hav­ or their spouse’s employer. By law,
+ing 12 months of Parts A and B Medicare Medicare is a secondary payer for these
+enrollment in the base year and at least 1 beneficiaries. The primary private health
+month in the prediction year. For female plan must pay for medical expenses to the
+and male new enrollees age 65, mean annu­ extent of its defined benefits. Only if
+alized expenditures are $2,729 and $2,900, Medicare covers services not covered by
+respectively, less than one-half of costs of the private plan, or has more generous cov­
+erage (e.g., lower deductibles or copay­
+16 To simplify the new enrollees model, we recoded new ments) for Medicare-covered services, is
+enrollees age 64 on February 1 with an original reason for
+Medicare responsible for payment, and
+Medicare entitlement of aged to age 65. Thus, the age 65 cell in
+the new enrollees model combines new enrollees ages 64 and 65 then only to the extent of the difference in
+on February 1 of the prediction year whose original reason for
+entitlement is aged.
+18 Some age 65 new enrollees might have originally been entitled
+17 For example, a beneficiary might be entitled to Part A (hospi­ to Medicare by disability when under age 65, but then have
+tal insurance) by age at age 65 or over, but might not pay Part B rejoined the work force and lost their Medicare eligibility, only
+(physician insurance) premium until an older age. to re-enroll at age 65.
+138 HEALTH CARE FINANCING REVIEW/Summer 2004/Volume 25, Number 4
+
+=== PÁGINA 21 ===
+Table 4
+Descriptive Statistics for New and Continuing Medicare Enrollees1
+New Enrollees2 Continuing Enrollees3
+Mean Mean
+Annualized Annualized
+Age/Sex Category Observations Expenditures Observations Expenditures
+Female
+0-34 Years 2,540 3,532 7,037 3,653
+35-44 Years 3,685 4,341 15,717 4,385
+45-54 Years 5,891 4,814 22,431 4,767
+55-59 Years 4,029 4,903 14,277 5,354
+60-64 Years 3,310 5,705 16,159 6,094
+65 Years 58,946 2,729 3,336 6,952
+66 Years 1,448 3,319 29,534 3,401
+67 Years 845 3,349 31,560 3,684
+68 Years 531 3,116 32,578 3,740
+69 Years 504 3,608 33,893 3,905
+70-74 Years 1,311 4,672 173,829 4,461
+75-79 Years 471 5,063 161,843 5,387
+80-84 Years 200 6,043 118,144 6,276
+85-89 Years 95 8,111 75,186 7,035
+90-94 Years 46 5,931 34,135 7,500
+95 Years or Over 15 6,457 11,886 6,795
+Male
+0-34 Years 3,434 3,089 10,342 2,934
+35-44 Years 4,281 3,690 23,172 3,746
+45-54 Years 5,820 4,099 29,814 4,074
+55-59 Years 4,120 4,603 16,677 4,772
+60-64 Years 4,196 4,775 18,986 5,346
+65 Years 46,262 2,900 3,940 6,055
+66 Years 1,546 3,205 24,472 3,644
+67 Years 872 2,976 25,279 3,933
+68 Years 570 3,501 25,915 4,145
+69 Years 490 3,638 27,009 4,295
+70-74 Years 1,223 5,700 130,148 5,087
+75-79 Years 429 6,476 108,214 6,307
+80-84 Years 144 5,916 66,505 7,231
+85-89 Years 63 8,028 32,848 8,326
+90-94 Years 19 13,027 10,601 8,827
+95 Years or Over 2 3,221 2,420 8,867
+1 Aged and disabled beneficiaries. Excludes working aged and ESRD beneficiaries.
+2 Enrollees with less than 12 months of base year eligibility.
+3 Enrollees with 12 months of base year eligibility.
+SOURCE: Pope, G.C. and Kautter, J., RTI International, Ellis, R.P. and Ash, A.S., Boston University, Ayanian, J.Z., Harvard Medical School and
+Brigham and Women's Hospital, Iezzoni, L.I., Harvard Medical School and Beth Israel Deaconess Medical Center, Ingber, M.J., Levy, J.M., and
+Robst, J., Centers for Medicare & Medicaid Services, Analysis of 1999-2000 Medicare 5% Standard Analytic File (SAF).
+coverage. Medicare expenditures for work­ We defined the working aged as benefi­
+ing aged beneficiaries are lower for this rea­ ciaries otherwise satisfying the require­
+son, as well as because working may be a ments of our 1999-2000 aged/disabled
+proxy for better health.19 Estimation of a prospective modeling sample who had at
+separate model for the working aged is not least 1 month of working aged status in the
+feasible with the sample sizes available from prediction year (2000). There are 19,057
+the Medicare’s 5-percent FFS sample. A beneficiaries in our working aged sample,
+simple adjustment to CMS–HCC model pre­ or about 1.4 percent as many individuals as
+dictions is a multiplier that scales cost pre­ in our aged/disabled sample. The mean
+dictions to be lower for these beneficiaries. annualized expenditures of the working
+aged are $966, less than one-fifth as much
+19 Throughout this section, we use the terms working and work­ as for the aged/disabled community sam­
+ing aged to include both those who are actually working, and the
+ple ($5,213). The CMS–HCC community
+spouses of those who are working.
+HEALTH CARE FINANCING REVIEW/Summer 2004/Volume 25, Number 4 139
+
+=== PÁGINA 22 ===
+model over-predicts mean working aged research organization and academic
+expenditures by a factor of 3.66. researchers on the other, has shaped the
+Essentially, we define the working aged CMS-HCC model. Much of the recent
+multiplier as the ratio of mean actual to research reported in this article has relat­
+mean predicted expenditures for the work­ ed to adapting the model for Medicare sub­
+ing aged sample, where expenditures are populations. The use of a single modeling
+predicted by the CMS-HCC community framework—the CMS-HCC model—pro­
+model. With an adjustment for beneficia­ vides unity and organization to the sub­
+ries who have a mixture of working aged group models with the unique features spe­
+and non-working-aged months in the pay­ cific to certain types of beneficiaries.
+ment year, the working aged multiplier is Comprehensive risk adjustment, based on
+0.215. ambulatory as well as inpatient diagnoses,
+is just beginning to be implemented. Thus,
+CONCLUSIONS it is too early to tell whether it will achieve
+its goals. As risk adjustment continues to
+CMS’ adaptation of the DCG/HCC be incorporated in Medicare payments to
+model makes substantially more accurate MCOs, it will be important to evaluate its
+predictions of medical costs for M+C impact on these organizations and the ben­
+enrollees than has previously been possi­ eficiaries they serve, especially organiza­
+ble. Its use is intended to redirect money tions that care for the chronically ill and
+away from MCOs that cherry-pick the their enrollees. This will tell us a great deal
+healthy, while providing the MCOs that about the feasibility and consequences of
+care for the sickest patients the resources matching health care resources to needs.
+to do so. The ultimate purpose of the CMS­
+HCC payment model is to promote fair ACKNOWLEDGMENT
+payments to MCOs that reward efficiency
+and encourage excellent care for the The authors would like to thank Helen
+chronically ill. The CMS-HCC model will Margulis for her exceptional computer pro­
+continue to evolve. Additional diagnoses gramming assistance.
+may be needed to predict drug expendi­
+tures incurred under the drug benefit REFERENCES
+enacted by MMA (2003). The model may
+need to be recalibrated to reflect new treat­ Ash, A.S., Porell, F., Gruenberg, L., et al.: Adjusting
+Medicare Capitation Payments Using Prior
+ment patterns and disease prevalence.
+Hospitalization. Health Care Financing Review
+Diagnosis-based risk adjustment may need
+10(4):17-29, Summer 1989.
+to be coordinated with disease manage­
+Brown, R.S., Clement, D.G., Hill, J.W., et al.: Do
+ment programs and incentives for quality Health Maintenance Organizations Work for
+of care. Medicare? Health Care Financing Review 15(1):7­
+23, Fall 1993.
+The model has evolved over two decades
+Centers for Disease Control and Prevention:
+of research,20 with careful attention to clin­
+International Classification of Diseases, Ninth
+ical credibility, real-world incentives and
+Revision, Clinical Modification (IC+CD-9-CM).
+feasibility tradeoffs. Continuous feedback Internet address: http://www.cdc.gov/nchs/
+between government technical staff and about/otheract/icd9/abticd9.ht. (Accessed 2004.)
+policymakers at CMS on the one hand, and Ellis, R.P., Pope, G.C., Iezzoni, L.I., et al.: Diagnosis-
+Based Risk Adjustment for Medicare Capitation
+20 The DCG line of risk-adjustment research dates back to the Payments. Health Care Financing Review 17(3):101­
+report by Ash et al. (1989), based on research begun in 1984. 128, Spring 1996.
+140 HEALTH CARE FINANCING REVIEW/Summer 2004/Volume 25, Number 4
+
+=== PÁGINA 23 ===
+Ellis, R.P., Pope, G.C., Iezzoni, L.I., et al.: Diagnostic Pope, G.C., Ellis, R.P., Ash, A.S., et al.: Principal
+Cost Group (DCG) and Hierarchical Coexisting Inpatient Diagnostic Cost Group Model for
+Conditions (HCC) Models for Medicare Risk Medicare Risk Adjustment. Health Care Financing
+Adjustment. Final Report to the Health Care Review 21(3):93-118, Spring 2000a.
+Financing Administration under Contract Number
+Pope, G.C., Ellis, R.P., Ash, A.S., et al.: Diagnostic
+500-92-0020, Delivery Order Number 6. Health
+Cost Group Hierarchical Condition Category
+Economics Research, Inc. Waltham, MA. April,
+Models for Medicare Risk Adjustment. Final Report
+1996.
+to the Health Care Financing Administration under
+Ellis, R.P., Ash, A.S.: Refinements to the Diagnostic Contract Number 500-95-048. Health Economics
+Cost Group Model. Inquiry 32(4):1-12, Winter 1995. Research, Inc. Waltham, MA. December, 2000b.
+Hughes, J.S., Averill, R.F., Eisenhandler, J., et al.: Pope, G.C., Liu, C.F., Ellis, R.P., et al.: Principal
+Clinical Risk Groups (CRGs): A Classification Inpatient Diagnostic Cost Group Models for
+System for Risk-Adjusted Capitation-Based Medicare Risk Adjustment. Final Report to the
+Payment and Health Care Management. Medical Health Care Financing Administration under
+Care 42(1):81-90, January 2004. Contract Number 500-95-048. Health Economics
+Research, Inc. Waltham, MA. February 1999.
+Kapur, K., Tseng, C.W., Rastegar, A., et al.:
+Medicare Calibration of the Clinically Detailed Risk Pope, G.C., Adamache, K.A., Walsh, E.G., and et al.:
+Information System for Cost. Health Care Evaluating Alternative Risk Adjusters for Medicare.
+Financing Review 25(1):37-54, Fall 2003. Health Care Financing Review 20(2):109-129,
+Winter 1998.
+Kautter, J., and Pope, G.C.: Predictive Accuracy of
+Diagnostic Cost Group (DCG) Risk Adjustment Pope, G.C., Ellis, R.P., Liu, C.F., et al.: Revised
+Models. Final Report to the Centers for Medicare & Diagnostic Cost Group (DCG)/Hierarchical
+Medicaid Services under Contract Number 500-95­ Coexisting Conditions (HCC) Models for Medicare
+048. Health Economics Research, Inc. Waltham, Risk Adjustment. Final Report to the Health Care
+MA. August 2001. Financing Administration under Contract Number
+500-95-048. Health Economics Research, Inc.
+Kronick, R., Gilmer, T., Dreyfus, T., et al.: Improving
+Waltham, MA. February 1998.
+Health-Based Payment for Medicaid Beneficiaries:
+Chronic Illness and Disability Payment System. Riley, G., Tudor, C., Chiang, Y., et al.: Health Status
+Health Care Financing Review 21(3):29-64, Spring of Medicare Enrollees in HMOs and Fee-for-
+2000. Service in 1994. Health Care Financing Review
+17(4):65-76, Summer 1996.
+Mello, M.M., Stearns, S.C., Norton, E.C., et al.:
+Understanding Biased Selection in Medicare Weiner, J.P., Dobson, A., Maxwell, S.L., et al.: Risk-
+HMOs. Health Services Research 38(3):961-992, Adjusted Medicare Capitation Rates Using
+June 2003. Ambulatory and Inpatient Diagnoses. Health Care
+Financing Review 17(3):77-100, Spring 1996.
+Pope, G.C., Kautter, J., Ash, A.S., et al.:
+Parsimonious Risk Adjustment Models for
+Medicare. Final Report to the Centers for Medicare Reprint Requests: Gregory C. Pope, RTI International, 411
+& Medicaid Services under Contract Number 500­ Waverly Oaks Road, Suite 330, Waltham, MA 02452. E-mail
+address: gpope@rti.org
+95-048. Health Economics Research, Inc. Waltham,
+MA. December, 2001.
+HEALTH CARE FINANCING REVIEW/Summer 2004/Volume 25, Number 4 141

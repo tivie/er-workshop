@@ -1,0 +1,637 @@
+# Fonte: Isaksson 2016 Free establishment of primary health care providers effects on geographical equity - Sweden (BMC HSR).pdf
+# Páginas: 10
+
+=== PÁGINA 1 ===
+Isakssonetal.BMCHealthServicesResearch (2016) 16:28
+DOI10.1186/s12913-016-1259-z
+RESEARCH ARTICLE Open Access
+Free establishment of primary health care
+providers: effects on geographical equity
+David Isaksson1*, Paula Blomqvist2 and Ulrika Winblad1
+Abstract
+Background: A reform in 2010 in Swedish primary care made it possible for private primary care providers to
+establish themselves freely in the country. In the former, publicly planned system, location was strictly
+regulated bylocalauthorities.Thegoalofthenewreformwastoincreaseaccessandqualityofhealthcare.Critical
+argumentswereraisedthatthereformcouldhavedetrimentaleffectsonequityifthenewprimaryhealthcare
+providerschosetoestablishforemostinsocioeconomicallyprosperousareas.
+Theaimofthisstudyistoexaminehowtheprimarycarechoicereformhasaffectedgeographicalequitybyanalysing
+patternsofestablishmentonthepartofnewprivateproviders.
+Methods:Thebasisofthedesignwastoanalysesocio-economicdataonindividualswhoresideinthesameelectoral
+areasinwhichthe1411primaryhealthcarecentresinSwedenareestablished.Sincetheprimaryhealthcarecentresare
+locatedwithin21differentcountycouncilswithdifferentreimbursementschemes,wecontrolledforpossiblecluster
+effectsutilizinggeneralizedestimatingequationsmodelling.Theempiricalmaterialusedintheanalysisisacross-sectional
+datasetcontainingsocio-economicdataofthegeographicalareasinwhichallprimaryhealthcarecentresareestablished.
+Results:Whencontrollingfortheeffectsofthecountycouncilregulation,primaryhealthcarecentresestablishedafter
+theprimarycarechoicereformwerefoundtobelocatedinareaswithsignificantlyfewerolderadultslivingaloneaswell
+asfewersingleparents–groupswhichgenerallyhavelowersocio-economicstatusandhighhealthcareneeds.
+However,nosignificanteffectswereobservedforothersocio-economicvariablessuchasmeanincome,percentageof
+immigrants,education,unemployment,andchildren<5years.
+Conclusions:Theprimarycarechoicereformseemstohavehadsomenegativeeffectsongeographicalequity,even
+thoughtheseseemrelativelyminor.
+Keywords:Patientchoice,Equity,Marketization,Sweden,Primaryhealthcare,Geographiclocation
+Background and health care providers. Equity in geographical acces-
+Equity inaccesstohealth careservicesisacentralpolicy sibility in its simplest form can be understood as all citi-
+goal in most publicly funded health care systems. Access zens having a similar, or minimum, travel distance to the
+is a complex concept that can be understood as a fit be- nearest healthcare provider [3].
+tween the demand for health care services among the Inequity in geographic access to health care is a well-
+population and the supply of care by providers. To be known problem in many developing countries, where
+accessible, health care services need to be affordable, health care services are often underdeveloped, especially
+contain the appropriate forms of treatment in relation to in rural areas, and physical infrastructure such as roads
+medical needs and be physically situated so that patients and means of transportation may be lacking [4, 5]. Less
+can get to them [1, 2]. An important component of obvious, inequity in geographical access to health care is
+access is geographical accessibility, which can be under- also prevalent in many rich countries, despite the exist-
+stood as the distance, or travel time, between patients ence of well-funded, universalistic health systems [6–9].
+The increased recognition of this policy challenge in de-
+*Correspondence:David.isaksson@pubcare.uu.se veloped countries is underpinned by studies demonstrat-
+1DepartmentofPublicHealthandCaringServices,HealthServicesResearch,
+ingtherelationshipbetweenthegeographicalproximityof
+UppsalaUniversity,Box56475122Uppsala,Sweden
+Fulllistofauthorinformationisavailableattheendofthearticle
+©2016Isakssonetal.OpenAccessThisarticleisdistributedunderthetermsoftheCreativeCommonsAttribution4.0
+InternationalLicense(http://creativecommons.org/licenses/by/4.0/),whichpermitsunrestricteduse,distribution,and
+reproductioninanymedium,providedyougiveappropriatecredittotheoriginalauthor(s)andthesource,providealinkto
+theCreativeCommonslicense,andindicateifchangesweremade.TheCreativeCommonsPublicDomainDedicationwaiver
+(http://creativecommons.org/publicdomain/zero/1.0/)appliestothedatamadeavailableinthisarticle,unlessotherwisestated.
+
+=== PÁGINA 2 ===
+Isakssonetal.BMCHealthServicesResearch (2016) 16:28 Page2of10
+care, utilization of care services and health outcomes on utilization of such services among groups with lower
+[10–13]. socio-economic status and poor medical health [31, 32].
+Most of the previous research on inequity in geograph- Hence, while proximity to a primary care provider may
+icalaccesstohealthcareisfocusedondifferencesbetween be especially important for the less advantaged, the
+regions, identifying, in particular, rural areas as sites of neighbourhoodwheretheylivemayhavethedetrimental
+poor geographical accessibility to both primary and effect of offering longer distances to such providers than
+secondary health care services [14, 15]. The challenge of forothersocial groups.
+providingaccesstohealthservicestopopulationsinrural, Why, then, does the geographical distribution of
+or remote, areas has been extensively discussed in the lit- health care facilities tend to vary, not only between re-
+erature [16, 17]. Generally, it is recognized that this re- gions but between neighbourhoods in the same city? For
+quires special forms of government intervention such as primary care services, the answer to this question has
+planningthelocationofcareproviders,providingextrare- typicallybeensoughtinstudiesthatexaminelocalization
+sources,encouragingcooperationratherthancompetition decisions on the part of individual primary care physi-
+between providers and using innovative technology such cians, or GPs. Economists have debated whether physi-
+astelemedicine[16,18–20]. cians should be seen foremost as profit-maximizing,
+In addition to studying regions, previous research on seeking the most densely populated areas where there
+geographical access to health services has also looked at can be expected to be more customers, or the socially
+the spatial location of health care facilities in neighbour- more privileged areas, where health care needs can be
+hoods, or areas that are more limited with clusters of expected to be lower and treatments less costly. Other
+residents [21]. This strand of research typically focuses theories suggests that localization decisions on the part
+on socio-economic population characteristics such as in- of physicians does not only reflect expected income, but
+come, education, and employment status in different preferences in terms of lifestyle, leading to a general de-
+neighbourhoods, comparing proximity to health care fa- sire for urban areas with a wider availability of leisure
+cilities on the part of residents within them. A wide and cultural activities as well as better schools [7, 33, 34].
+range of studies demonstrates the impact of neighbour- Inthissense,physicians canbeseenas utility-maximizers
+hood residence on health-related lifestyle, utilization of rather than simply profit-maximizers [35]. Also the age
+health care services and health outcomes, for instance and social background of physicians have been known to
+with regard to infant mortality, self-rated health and play a role, as younger physicians and physicians who
+heart disease [22–26]. It has been demonstrated, more- grewupinruralareashavebeenshowntobemorewilling
+over, that further distance to a health care provider in to move to rural areas when they start a practice [35]. It
+some neighbourhoods resulted in reduced utilization of can be noticed, however, that some of the economic
+care services and area-based inequities in health status drivers behind localization decisions on the part of physi-
+[11, 27, 28]. This point to neighbourhood residence be- cians, such as expected income due to population density
+ing a factor in and of itself that contributes to inequities and population health, may not apply in cases where pri-
+in health, adding to the general socio-economic factors mary care physicians are salaried employees, which has
+that typically lead to poorer health status among disad- become more common in, for example, the UK in recent
+vantaged groups. Hence, neighbourhoods and the way years[7].
+they contribute to inequity in geographical access to In addition to studies examining the localization deci-
+health care services are important for understanding the sions of physicians, there are also studies which investi-
+creation of inequities in health status within a country gate the effects of regulatory measures by governments
+or region. Inequity in geographical access to health ser- who try to counter-act the uneven distribution of pri-
+vices has been demonstrated both in relation to second- mary care physicians across regions and neighbour-
+ary and primary care services, even though proximity to hoods. Goddard et al. [7] identifies three main ways in
+primary care services tends to be more evenly distrib- which governments can do this: to increase the supply
+uted between neighbourhoods than to secondary health of physicians in general, hoping that the increased com-
+care services [11]. Even so, proximity to primary care petition will drive some of them to seek out areas with
+services may be regarded as being of special importance fewer pre-existing practices; to restrict the entry of new
+in reducing inequities in health outcomes, as primary physicians into areas which are seen as having an over-
+care providers often serve as gatekeepers to secondary supply of physicians already; and finally to use weighted
+and preventive services and represent a level of care reimbursement formulas or other financial incentives in
+often used more by lower-income groups than those order to reward physicians who establish themselves in
+with higher incomes [29, 30]. Furthermore, reduced ac- less privileged or more scarcely populated areas. On the
+cess to health care services due to geographic remote- basis of the evidence from the UK, where these strat-
+ness has been shown to have a stronger negative effect egies were practiced in the years 1974–2006, the authors
+
+=== PÁGINA 3 ===
+Isakssonetal.BMCHealthServicesResearch (2016) 16:28 Page3of10
+conclude that none of them appear very effective [7]. National Audit Office in 2014, examined effects on geo-
+Studiesfromothercountriespointtosimilarresults[1,6]. graphical access to primary health care services of the
+The question remains, then, how the goal of equity in PCCRbydividingtheentirecountryintosmallareas,com-
+geographicaccesstohealthservicesisbestpromoted. parable to neighbourhoods. The findings indicate that geo-
+The case of Sweden is different from most other coun- graphic access to primary care had improved more in
+tries when it comes to the methods used to promote socio-economically priviledged areas [38]. Hence, evalua-
+equity in geographical access to primary care. While hav- tions carried out so far of the Swedish PCCR have found
+ing an NHS-type, tax-based health care system that in varying results with regard to localization patterns of new
+many ways resembles the British system, Sweden, in con- privatecareproviders.Theyarealsodifficulttocompare,as
+trast to the UK and virtually all other countries outside thefirststudyonlyexaminesonecountycouncil.Thus,itis
+Scandinavia, also has a predominantly public system for still unclear what the effects of the PCCR have been in
+providingprimarycareservices.Guidedbytheidealofen- termsofgeographicaccesstoprimarycareinSweden.
+suringequitable accesstoprimarycarefor all residentsin In the present study, we investigate what effects the
+the country, irrespective of area of residence, Sweden de- PCCR has had on geographicalequity within the Swedish
+veloped in the post-war era a system of carefully planned primary health care system by using data from all county
+allocation of so-called primary health care centres councils. In addition, we use statistical models to control
+(PHCCs) with a multi-disciplinary team of health profes- for county council effects, which imply that we can
+sionals, operated directly by local public authorities. examineestablishmentpatternsofprivatecareproviders
+Hence, primary care physicians have been predominantly without the distorting effects of regulations and reim-
+salaried employees in Sweden, and the establishment of bursement formulas in individual county councils. In
+primary care facilities has been the result of public plan- this sense, the present study has both a broader scope
+ning, rather than decisions by self-employed physicians. thantheStockholmstudyandastrongermethodological
+This situation changed drastically in 2010, however, when designthanthestudybytheNationalAuditOffice.
+a reform was introduced which abolished all restrictions The rest of the paper is organized in four sections. It
+on private entry into the primary care sector. The so- proceeds with a description of the Swedish health care
+called primary care choice reform (PCCR), with the dual system and the 2010 primary care choice reform. Next,
+motiveofprovidingbetterconditionsforprivateentrepre- we present the methodology of the study, followed by an
+neurship in the primary care sector and offering patients analysis of the empirical data and presentation of the
+more choice between private and public providers, gave findings. The final section of the paper discusses the re-
+private providers the right to establish and be financially sults and situates them in the context of previous re-
+reimbursed on the same conditions as public providers search ongeographicalaccessibility.
+anywhere in the country. Proponents argued that this
+would increase the total number of primary care pro-
+viders, hence improving access to primary care generally TheSwedishhealthcaresystemandtheprimarycarechoice
+within the system, while critics feared that the establish- reform
+mentofnew private providerswould increase inequalities TheSwedishhealthcaresystemisgovernedprimarilyatthe
+in access to health care as these providers could be ex- regional level by 21 relatively autonomous bodies, the so-
+pectedtotargetforemostprivilegedareas[36]. calledcountycouncils.Thesearegovernedbyboardswhich
+So far, two main evaluations of the Swedish reform have are locally elected every fourth year. The county councils
+beenundertakenwhichexamineitseffectsintermsofgeo- areresponsiblefortheprovisionandfundingofhealthcare
+graphic access. The first, carried out by a team of health services and have the right to make independent decisions
+economists, examined establishment patterns of new pri- onawiderangeofpolicyissues,includingtheallocationof
+vately operated primary health care centres in Stockholm health services between primary and secondary care, ways
+County Council, the largest health region in Sweden. The to reimburse care providers, public health interventions
+study showed that the newly established private providers andtheoverallorganizationofthelocalhealthcaresystem.
+spead themselves quite evenly between different residential The budget is fixed per year and funding comes primarily
+areas within the region, seemingly irrespective of differ- from local income taxation (around 80 %); in addition to
+encesinaverageincomelevelsbetweenthem[37].Adraw- this, 15–20 % of the funding originates from national gov-
+back of the study, however, was that the residential areas ernment grants and, to a smaller extent, patient fees. The
+used in the analysis were relatively large and included sev- county councils are obliged, through the Swedish Health
+eraldifferenttypesofneighbourhoods.Therefore,itishard and Medical Service Act, to guarantee that all citizens in
+todrawanyfirmconclusionsregardingeffectsonequityin the county receive high quality health care services. The
+geographical access between neighbourhoods from the county councils can also choose to contract with private
+study. The second evaluation, carried out by the Swedish careproviders.
+
+=== PÁGINA 4 ===
+Isakssonetal.BMCHealthServicesResearch (2016) 16:28 Page4of10
+Even if the organization of health care is decentralised, expansion of the share of private, predominantly for-
+the internal structure of the health care system looks profit, providers within the system testifying to the
+quite similar in the various county councils. Medical strong financialincentives fornewestablishments[42].
+care is usually divided into three levels: primary, hos- The PCCR implied a substantial change in the previous
+pital, and regional care (including highly specialized ser- primarycaremodelthathadreliedonabureaucraticsteer-
+vices). As noted in the introduction, primary care is ing where the county councils managed and organised
+mostly provided at primary health care centres. Unlike health careservices directly and planned their distribution
+primary care in most other countries., which is struc- onthebasisofassessedneeds[43,44].Withtheintroduc-
+tured around individual GPs [39], the Swedish primary tion ofthe reform, new private providerscanfreely decide
+care centres are multidisciplinary and generally consist wheretolocate and havethe right to receive paymentson
+of 4–10 GPs, nurses, physical therapists and dieticians. thesametermsaspublichealthcentres;usuallybasedona
+In addition to medical examinations, treatment and mix of capitation and fee-for service. This implies that the
+basic medical care, the centres also offer public health county councils lose control over how resources are dis-
+and preventive services as well as health counselling tributedwithintheirrespectiveareas,andthattheconnec-
+[40]. Many of the primary health care centres also pro- tion between assessed health needs and the location of
+vide prenatal- and maternity care. Patients with more primarycareprovidersislost.However,itshouldbenoted
+advanced health problems are referred to specialist care thatthecountycouncilsstillretaintherighttolocatepub-
+at hospitals or private specialist clinics. Even though lic primary health care centres and to regulate the new
+most county councils do not apply a formal gate- health care markets by specifying the range of health care
+keeping system, a referral from a GP often leads to services that should be offered by the primary care pro-
+quickerassessmentat hospitalorspecialistlevel. viders.Thishasledtothefactthatinmostcountycouncils
+Since the post war-era, when the modern health care the main form of primary care provider is still a relatively
+system in Sweden developed, county councils have been largemulti-disciplinaryhealthcentreofferingawiderange
+inchargeofplanningandsettingupnewhealthcarecen- of health-related services, including maternity care, child
+tres. Generally, decisions on where to establish public care and psychological counselling. Likewise, the vast ma-
+healthcentreshavebeenbasedonpopulationstatisticson jority of physicians within the system are still salaried em-
+healthcareneedsandthegoalofcloseproximitytoalocal ployees,evenintheprivatelyownedcentres.Mostofthese
+health centre for all residents, regardless of level of in- areownedbylargecommercially-orientedchains[38].
+come or residential area. According to a national regula-
+tion from 2000, the goal should be a minimum level of Reimbursementoftheprimaryhealthcarecentres
+one GP per 1500 patients. Even if the overwhelming ma- Due to the decentralized Swedish health care system, each
+jority of primary care physicians have been employed at countycouncilhasitsownreimbursementmodelforhealth
+publichealthcarecentres,privateproviderswereformally care. Hospital care is financed chiefly through global bud-
+allowed in the system. The locations of these, however, gets with some elements of DRG-based per-case payment.
+hadtobeauthorizedbythecountycouncils.Hence,inthe However, the reimbursement models for primary care have
+Swedishhealthcaresystem,therehasbeenfirmregulatory changedfromabudgetmodeltoacapitationmodeldueto
+control over the supply of primary care providers and the 2010 reform. Basically, the primary health care centres
+their establishment has been publicly planned solely on receive a fixed sum per listed patient, a so-called capitation
+thebasisofestimatedpopulationneeds. fee and an additional payment per patient visit. At present,
+In January 2010, the governance of the primary care the capitation varies from 40 to 100 % of the total reim-
+system in Sweden changed significantly as a centre-right bursementinthecountycouncils,therestbeingpredomin-
+government launched a reform known as the Primary antly payments per visit. Even if there is substantial
+care choice reform (PCCR). Thereform consisted of two variation, the majority of county councils use a reimburse-
+parts: (1) that citizens get to choose at what health care mentsystemwhichisheavilyshiftedtowardscapitationpay-
+centre they want to be listed, and (2) that all health care ments [43]. The most conspicuous change following the
+providers who meet certain quality requirements, set up PCCR, however, is that money now “follows the patients”,
+by the counties, may establish themselves anywhere in meaning that if a PHCC does not attract any patients they
+the county [41]. A central motive behind the reform was will not receive any funding. Thus, funding is not guaran-
+to create a more market-based system, where competi- teed, but dependent on how well the providers manage to
+tion between private and public care providers in com- attract new patients [36, 40]. Hence, in the current system,
+bination with free choice of where to enlist on the part publicandprivatehealthcarecentrescompeteonthesame
+of patients should provide better conditions for private termsandpublicPHCCshavenospecificadvantage.
+entrepreneurship and increase the access to services on Commontoall countiesisalsothattheyusesomeform
+the part of patients [36]. The reform resulted in a rapid of risk-adjusted payment built into the capitation fee in
+
+=== PÁGINA 5 ===
+Isakssonetal.BMCHealthServicesResearch (2016) 16:28 Page5of10
+order to avoid patient selection. One of the more com- The variables are similar to variables used in previous
+monly used methods involves a risk adjustment based on studies of the effects of patient choice reforms and are
+age, health status and socio-economic characteristics such meant to capture socio-economic status that is related
+as employment, income and education level of the listed to expected health care needs - e.g., people that are less
+patients. Even if all county councils use risk adjustment, educated generally have lower health status [46, 47] and
+the degree to which it is employed and specific factors people who are unemployed are to a higher degree likely
+weighted varies. For instance, in 2013, 18 counties out of tosuffer fromdepression andanxiety [48].
+21compensatedforage,givingahighercapitationforeld- One of the previous studies used the percentage of
+erly patients. However, advanced age is not synonymous people over 65 years to capture socio-economic status
+withillness,whichiswhycaregiversmaystilltrytoattract [38]. We argue that the percentage of people over
+older, healthy individuals. To avoid this problem, several 65 years living alone is a more appropriate variable since
+counties have chosen to adjust compensation based on older adults living alone have poorer health than older
+diagnoses by introducing so-called Adjusted Clinical adults living with a partner [49] and thus are likely to
+Groups (ACG) index. In 2013, ten counties out of 21 also havehigherhealth careneeds.
+based their reimbursement on the listed patients’ health Socio-economic data is gathered on all people living in
+statusand16compensatedforsocio-economiccharacteris- the same electoral area as each primary health care
+tics. Also, in 14 of the county councils the providers re- centre. The number of citizens in each electoral area
+ceivedextrapaymentsiftheylocatedinremoteareas[45]. varies from 100 to 10,000, making these units of analysis
+The aim of this study is to examine what effect the equivalent to what in the literature is referred to as
+primary care choice reform has had on the geographical neighbourhoods [27]. We also use descriptive data from
+distribution of primary care providers. Where have new, all primary health care centres, regarding when they
+predominantly private providers, established themselves started up, ownership structure and if they are affiliated
+and to what extent have their localisation decisions with otherprimaryhealth care centres.
+added to inequities between neighbourhoods in geo- Sinceallprimaryhealthcarecentresbelong toa specific
+graphical access to care services? To investigate this, we county council and thereby are affected by different reim-
+utilize a cross-sectional data set containing socio- bursement systems as well as different county characteris-
+economic data of the geographical areas of all primary tics, we will group the primary health care centres in a
+health care centres inSweden. secondarylevelvariableaccordingtowhichcountycouncil
+theybelongto.
+Methods Toexaminewhetherthereareanydifferencesregarding
+Theempiricalanalysisinthestudyiscarriedoutbyanalys- where old and new primary health care centres choose to
+ingthecharacterofthenewprovidersandwheretheyhave establish themselves after the PCCR, we use comparisons
+establishedthemselvesinthe21countycouncils.Thebasis of means and t-tests. In our main models, when control-
+for the design of the study is to analyze socio-economic lingforpossibleclustereffectsofcountycouncilsandmu-
+data from 2013 on individuals who reside in the same nicipalities,generalizedestimatingequation(GEE)models
+electoral areasin which the 1411primary health care cen- areused.TheGEE-modelsareanextensionofgeneralized
+tresinSwedenarelocated.Inthissensetheelectoralareas linear models constructed to produce more solid results
+canbeseenascorrespondingtotheconceptofneighbour- withcorrelated,orclustered,data[50,51].Thismethodis
+hood [27]. The socio-economic data on the persons living usedsince thesocio-economic variablescanbe correlated
+in these areas is gathered from Statistics Sweden (SCB). withincertainmunicipalitiesand/orcountycouncilsanda
+Thedataconsistsofthefollowingvariables: regularOLSregressionwouldthusriskviolatingtheinde-
+pendence assumption [50, 52]. One of the main reasons
+(cid:1) Meanincome forchoosingGEEratherthanHLMisthatGEEingeneral
+(cid:1) Percentage ofpeopleborn outsideWestern Europe can be considered to be more robust against model mis-
+andNorth America specifications than other types of multilevel models such
+(cid:1) Percentage ofsingleparentslivingwith children asHLM[53].IntheGEEmodels,weusemunicipalitiesas
+under18yearsofage clusters.Onecouldarguethatcountycouncilswouldbea
+(cid:1) Percentage ofpeoplewhoarelow-educated better choice for clustering since it is the county councils
+(<10years schooling) who design the primary care systems. However, when
+(cid:1) Percentage ofpeoplewhoareunonemployed or fitting the same models with county councils, we get
+enrolled inpublicprograms similar results but with a slightly worse model fit. To
+(cid:1) Percentage ofpeopleover65years ofageliving select the best regression model the corrected quasi-
+alone likelihood under the independence model criterion
+(cid:1) Percentage ofpeopleyoungerthan5years ofage (QICC) was used [51].
+
+=== PÁGINA 6 ===
+Isakssonetal.BMCHealthServicesResearch (2016) 16:28 Page6of10
+All statistical analyses were performed using R, v. 3.2.0 seen an increase in the numbers of PHCCs of over 30 %.
+[54]. When performing the GEE-models the package Inabsoluteterms,VästraGötalandandStockholmarethe
+‘geepack’,v.1.2-0[55]wasused. county councils with the largest increase in PHCCs, with
+76 and 60 new primary health care centres respectively.
+Results These are both large city regions. Additional file 1:
+Our first question concerns what types of primary health Appendix also shows that there is substantial variation
+care centres (public or private) are being established and betweencountycouncilswhenitcomestostructuralvari-
+closed down after the primary care choice reform. Pri- ablessuchasnumberofinhabitants,meanincome,immi-
+vatelyownedprimaryhealthcarecentres(PHCCs)canbe grants,andpercentageofpopulationover65years.
+expected to have higher demands for profitability than To summarize, the primary care choice reform has re-
+publicly owned PHCCs [56]. Thus, if a large majority of sulted in over 270 new private primary care providers
+the new primary health care centres are private, there is openingupnewpracticesindifferentpartsofthe country
+probablyahigherriskofpatientselection. – virtually all of which are owned by private, for-
+Table 1 shows whether each primary health care centre profit companies. This is an increase of 45 % in the share
+– private or public – was established before or after the ofprivateprimarycareprovidersinthesystem.Amajority
+PCCR.Sinceeachcountycouncilimplementedthereform ofthesearefor-profitprovidersleadingtoadifferent type
+at different times, the dates for the reform start vary from ofmarketstructurethaninthe current system.Therehas
+2007,whentheprimarycarechoicereformwasintroduced also been a clear tendency for new private care providers
+in one of the counties (Halland), to 2010 when it became to establish themselves foremost in urban areas, like the
+mandatory for all county council to adopt a primary care largecityregionsofStockholm,Gothenburg,andMalmö.
+choicesystem. Our second question sets out to investigate if new pri-
+As shown in Table 1, 285 new PHCCs have started up mary health care centres establish themselves in socio-
+since the reform was implemented. Private companies economically more prosperous areas. In Table 3 we have
+ownedmostofthem,95%,whilemerely15,or5%,ofthe
+new PHCCs were publicly owned and run by the county
+Table2OldandnewPHCCsinallcountycouncils
+councils.Incloseproximitytothereform,arelativelylarge
+County Population Old New Total %
+number of PHCCs closed down; some of those were pri-
+council (millions) PHCC PHCC PHCC New
+vatePHCCsthatchosetoshutdowntheirbusinessshortly
+Blekinge 0.2 23 3 26 12%
+before the primary care choice reform was introduced.
+Dalarna 0.3 31 5 36 14%
+Thiscouldpossiblybeexplainedbyincreaseddemandson
+Gotland 0.1 9 0 9 0%
+thescopeofmedicalservicesthatwererequiredinsomeof
+the counties, e.g.maternitycareand child care [41]. Apart Gävleborg 0.3 39 7 46 15%
+from that, both private and publicly owned PHCCs have Halland 0.3 38 16 54 30%
+closed down after the introduction of PCCR, for example Jämtland 0.1 27 2 29 7%
+duetotoofewenlistedpatients.Finally,ourdatashowthat
+Jönköping 0.3 46 18 64 28%
+agreatmajorityofthenewprovidersareprivatelyrunfor-
+Kalmar 0.2 44 1 45 2%
+profitPHCCs.
+Kronoberg 0.2 29 7 36 19%
+The primary care choice reform, however, has had vary-
+ingeffectsindifferentcountycouncils.Table2belowshows Norrbotten 0.2 35 5 40 13%
+thedevelopmentinallcountycouncils. Skåne 1.3 141 34 175 19%
+As shown above, there is a large variation between Stockholm 2.1 179 60 239 25%
+countycouncilswhenitcomestotheeffectsoftheestab-
+Södermanland 0.3 23 7 30 23%
+lishment of new private providers. One county council
+Uppsala 0.3 46 12 58 21%
+(Gotland) has no new establishments of primary health
+Värmland 0.3 33 8 41 20%
+care centres whereas Västra Götaland and Halland have
+Västerbotten 0.3 36 5 41 12%
+Table1OwnershipstatusofPHCCsestablishedbeforeand Västernorrland 0.2 39 7 46 15%
+aftertheintroductionoftheprimarycarechoicereform
+Västmanland 0.3 32 7 39 18%
+Public Private Total
+Västra 1.6 164 76 240 32%
+OldPHCC 762(70%) 327(30%) 1089(100%) Götaland
+NewPHCC 15(5%) 270(95%) 285(100%) Örebro 0.3 32 1 33 3%
+Closed −32(48%) −34(52%) −66(100%) Östergötland 0.4 43 4 47 9%
+Total 745(57%) 563(43%) 1308(100%) Total 9.6 1089 285 1374 21%
+
+=== PÁGINA 7 ===
+Isakssonetal.BMCHealthServicesResearch (2016) 16:28 Page7of10
+compared different socio-economic values between old Table 4 shows the results from our different GEE-
+PHCCs and new PHCCs established after the primary models using municipalities as clusters. In the first
+care choice reform. The analysis shows mean socio- model we only looked at Percentage of immigrants as an
+economic values based on all people living in the same estimator. After controlling for the cluster effect using
+electoral area whereeach PHCCislocated. Dataarepre- the GEE-model we see no significant difference in where
+sented on each socio-economic variable for old and new old and new PHCCs are located. Model 2 and 4 show
+PHCCs. that both Single parents and Older adults living alone
+As shown in Table 3, primary health care centres that are more uncommon in areas where new PHCCs are lo-
+established themselves after the PCCR tend to do so in cated when controlling for municipality effects. Interest-
+areas which have higher socio-economic status than ingly we find no significant difference in the mean
+what was the case for primary health care centres that income between areas where PHCCs established after
+already existed before the reform. This is the case for theprimarycare choicereform andbefore.
+the variablesUnemployedor inpublicprograms,Low-ed- In model 5 we included all socio-economic variables
+ucated 25 – 65 years, Single Parents, > 65 years and liv- that theoretically could be likely to increase the need for
+ing alone and Mean income. For example, the mean health care services. The same significant effects are
+percentage of unemployed in areas where old primary seen as in model 2 and 4, but there is also a significant
+health care centres are established is 11.4 % while the effect of the percentage of immigrants. In other words,
+corresponding number for new PHCCs is 10.6 %. The when controlling for clusters and all other variables,
+mean income in areas where old PHCCs are established PHCCs established after the PCCR are to a greater ex-
+is 201 kSEK while the corresponding number for new tent located in areas with a higher percentage of
+PHCCs is 211 kSEK, meaning that new PHCCs are lo- immigrants.
+cated in areas with higher incomes. One exception ex- In model 6 we have included the estimators that gave
+ists, however – the new PHCCs are to a higher degree the best model fit according to the QICC-value. The re-
+located in areas with a higher percentage of Immigrants sults show that both percentages of single parents and
+from outside of Western Europe. The difference is small older adults living alone are still significant but that the
+andisnot statistically significant with a significance level significance of the percentage of immigrants from out-
+of95%. side of Western Europe has disappeared even though
+Apossible biasofthe resultsinthet-testcanbeunder- thesignisstillpositive.
+lying differences between the county councils, both in re- To summarize, the results show that the primary care
+gard to socio-economic variables or the way county choice reform seems to have some negative effects on
+councils risk adjust the compensation according to socio- geographical equity. When controlling for the effects of
+economicdifferences,butalsotothedegreeofestablished clusters, PHCCs established after the primary care
+PHCCs after the reform. This typeof cluster effect is also choice reform are located in areas with statistically sig-
+likelytobefound atthemunicipalitylevel. Tocontrolfor nificantly fewer older adults living alone as well as fewer
+the cluster effect, we will fit GEE models with municipal- single parents. However, there are no significant effects
+itiesusedasthecluster. for the other studied variables, such as education, immi-
+TheresultsfromtheGEEmodelsarefoundinTable4. grants,young children ormeanincome.
+Discussion
+Table3Comparisonsofmeansofsocio-economicvariables In recent decades, equity in geographical access to
+basedonwhetherthePHCCwasestablishedbeforeorafterthe health care services has been a growing concern
+primarycarechoicereform.Significancevaluesshownfora2- among policy makers in both developed and develop-
+sidedt-testforequalityofmeans
+ing countries. At same time, many countries have in-
+Old New Sig. troduced reforms aimed at marketizing health care
+PHCCs PHCCs (2-tailed) provision. Driven by a desire to reduce costs and allo-
+%ImmigrantsfromoutsideofWestern 7.1% 7.8% .142 cate resources in a more efficient manner, political
+Europe
+leaders have sought to increase competition and open
+%Singleparents 3.0% 2.8% .000 the door to more entrepreneurial care providers, such
+%>65yearsandlivingalone 11.3% 9.9% .000 as for-profit companies [41, 57]. Privatization of
+Meanincome/year(kSEK) 201.1 211.0 .001 health care provision can have positive effects in
+terms of efficiency and rationalization but may also
+%Unemployedorinpublicprograms 11.4% 10.6% .001
+lead to undesirable consequences, such as provider
+%Youngerthan5years 5.4% 5.5% .126
+selection of patients and a further increase in the in-
+%Less-educated25–65years 7.2% 6.5% .001
+equitable access to health care services [36, 58, 59].
+
+=== PÁGINA 8 ===
+Isakssonetal.BMCHealthServicesResearch (2016) 16:28 Page8of10
+One way in which equity may be undermined is havehighhealthcareneeds,thispointstosome,albeitlim-
+through patient selection through geographical estab- ited,patientselectiongoingonafterthereform.
+lishment. If a provider establishes in a socio- In this sense, our results confirm the findings of the
+economically more prosperous area, the patient popu- study by the Swedish Audit Society that there were
+lation is likely to be healthier and consume simpler some negative effects on geographical equity after the
+types of health care services than in areas with lower introduction of the 2010 primary care choice reform.
+socio-economic status. In a publicly regulated health Theeffectsdonotappeartobeverylarge,andtheycon-
+care system, where open patient selection through re- cern only some indicators of socio-economically less
+jection of certain patient groups is prohibited, estab- advantaged areas. How are these relatively small effects
+lishment of care facilities may in fact be one of the on geographical equity to be interpreted? In a Swedish
+most important mechanisms for patient selection. context,withastrongpoliticalemphasisonequaldistri-
+Despite this, it has only rarely been systematically ex- bution of health care resources and a long history of
+amined in the literature. plannedhealthcareservices,theresultscanstillbeseen
+In this paper we have investigated whether there are asnoteworthy,asevenasmallreductioningeographical
+any visible patterns of patient selection through uneven equity in access to care services represents a threat to
+geographical establishment after the introduction of the the ideal of a universalistic and egalitarian health care
+primary care choice reform, which allowed free entry for system. In an international context, where private care
+private providers. The results of the study indicate, first, providersareconsiderablymorecommonandeconomic
+that almost all primary health care centres that were drivers can be expected to play a larger role, the results
+established after PCCR are privately owned and for- maybelesssurprising.
+profit. Secondly, our data show that the establishments Furthermore, the question can be raised as to why the
+of new private providers are unevenly distributed be- uneven establishment pattern is not more pronounced,
+tween the county councils, with most of the new pro- giventheprofitmotiveonthepartofmostofthenewpri-
+viders choosing tolocateinthelargest cities. vateproviders.WhyhaveprivateprovidersinSwedennot
+Third, our findings show that there is also a pattern of established themselves in prosperous areas to a larger ex-
+unevengeographicalestablishmentwithinthecountycoun- tent? Even though we have seen a marketization of the
+cils, or between neighbourhoods. In the first step of the Swedishhealthcaresysteminrecentyears,thereisreason
+analysis, we looked at the effect without controlling for tobelievethatthecountycouncilsarestillabletoexercise
+county council effects. We could see that the areas, or someinfluenceoverthestrategiesandchoicesofcarepro-
+neighbourhoods, where new privately operated primary viderswithregardtowhere theyestablish and whatkinds
+health care centres were located had lower percentages of of patients they seek to attract. The main tool in this re-
+less educated and unemployed persons, and a lower per- gard is the weighted capitation system, which serves to
+centageofolderadultslivingalone.Incomelevelswerealso counter-act incentives to select the healthiest patient
+generallyhigher.However,whencontrolling forthe cluster groups.
+effects of the county councils by using GEE-models, most Asnotedintheintroduction,theliteraturehasidentified
+of the studied variables were no longer statistically signifi- threedifferenttypesofstrategiestobeusedbygovernment
+cant. The only significant statistical effect left was for the authorities’whentheyseektopromoteamoreevendistri-
+percentage of people over 65 years living alone, and per- butionofprimarycareprovidersacrossregionsandneigh-
+centage of single parents. As these groups are known to bourhoods [7]. The first was to restrict entry into areas
+Table4GEE-modelswithabinarydependentvariablewhere0=oldPHCC,1=newPHCC
+Model1 Model2 Model3 Model4 Model5 Model6
+Intercept −1.64*** −1.62*** −1.58*** −1.53*** −1.50*** −1.49***
+%ImmigrantsoutsideWesternEurope −0.059 0.179* 0.151
+%Singleparents −0.323*** −0.248** −0.282***
+%>65yearsandlivingalone −0.250*** −0.280** −0.217**
+Meanincome 0.118 −0.005
+%Unemployedorinpublicprograms −0.068
+%Youngerthan5years −0.124
+%Less-educated25–65years −0.116 −0.150
+QICC 1440 1413 1423 1400 1382 1377
+Sign.codes:‘***’0.001,‘**’0.01,‘*’0.05,‘.’0.1‘.Correlation:Structure=exchangeable.Numberofclusters=290(allmunicipalities).Allincludedvariablesarestandardized
+
+=== PÁGINA 9 ===
+Isakssonetal.BMCHealthServicesResearch (2016) 16:28 Page9of10
+with an already high number of care providers. This was Acknowledgements
+the strategy Swedish county councils used prior to the WegratefullyacknowledgefinancialsupportforthestudyfromTheSwedish
+ResearchCouncilforHealth,WorkingLifeandWelfare(FORTE).
+introductionofthePCCR.However,thisstrategyisnolon-
+TheauthorswishtothankBoMelkersson,StatisticsSwedenandOmVårdfor
+ger possible given that the PCCR ensures the free entry of providingthedatausedintheanalysis.Furthermore,theauthorswishto
+providers.Thesecondstrategywastoincreasethenumber thankRonniePingel,DepartmentofPublicHealthandNursingSciences,
+UppsalaUniversityforadviceregardingthestatisticalanalysis.
+of primary care physicians within the system in the hope
+ThepaperhasbenefitedgreatlyfromcommentsattheNordicPolitical
+thattheywillspreadmoreevenlyacrossregionsandneigh- ScienceAssociation(NOPSA)conferenceinGothenburg,Swedenin2014.
+bourhoods. This strategy can be seen employed through
+Authordetails
+thePCCR,buthasapparentlynotgeneratedthedesiredre-
+1DepartmentofPublicHealthandCaringServices,HealthServicesResearch,
+sult. The third strategy, to risk adjust the reimbursement UppsalaUniversity,Box56475122Uppsala,Sweden.2Departmentof
+formulas in order to make it more attractive to locate in Government,UppsalaUniversity,Box51475120Uppsala,Sweden.
+disadvantaged and remote areas, seems to have been used
+Received:11June2015Accepted:8January2016
+to a large extent in the Swedish case, and is probably an
+important explanation as to why private care providers
+havenotexercisedmorepatientselectionthroughtheirlo-
+References
+cation decisions. In this sense, this strategy can be seen as
+1. NeutensT.Accessibility,equityandhealthcare:reviewandresearch
+successfulintheSwedishcase.Unfortunately,thedesignof directionsfortransportgeographers.JTranspGeogr.2015;43:14–27.
+our study does not help us to understand which combin- 2. PenchanskyR,ThomasWJ.TheConceptofAccess:Definitionand
+RelationshiptoConsumerSatisfaction.MedCare.1981;19:127–40.
+ation of risk adjustments in reimbursements leads to the
+3. LuoW,WangF.MeasuresofspatialaccessibilitytohealthcareinaGIS
+most equal geographical distribution of health care pro- environment:SynthesisandacasestudyintheChicagoregion.Environ
+viders. Thus, one of the main policy implications of the
+PlanBPlanDes.2003;30:865–84.
+4. LiuY,HsiaoWC,EgglestonK.Equityinhealthandhealthcare:theChinese
+study is the need to evaluate how a particular reimburse- experience.SocSciMed.1999;49:1349–56.
+ment design affects the behaviour of profit-driven health 5. Rosero-BixbyL.SpatialaccesstohealthcareinCostaRicaanditsequity:a
+care providers. If, as can be seen in this study, there is a
+GIS-basedstudy.SocSciMed.2004;58:1271–84.
+6. DewulfB,NeutensT,DeWeerdtY,VandeWegheN.Accessibilityto
+tendency of such providers to establish predominantly in
+primaryhealthcareinBelgium:anevaluationofpoliciesawardingfinancial
+areas with lower health care needs, further adjustments in assistanceinshortageareas.BMCFamPract.2013;14:122.
+thereimbursementformulasto compensateevenmoreef- 7. GoddardM,GravelleH,HoleA,MariniG.WheredidalltheGPsgo?
+IncreasingsupplyandgeographicalequityinEnglandandScotland.J
+fectivelyforhealthrisksmightbeawayforwardifthegoal
+HealthServResPolicy.2010;15:28–35.
+ofgeographicalequityistobepromoted. 8. RodwinVG,NeubergLG.InfantMortalityandIncomein4WorldCities:New
+York,London,Paris,andTokyo.AmJPublicHealth.2005;95:86–90.
+Conclusion 9. MackenbachJP,BosV,AndersenO,CardanoM,CostaG,HardingS,etal.
+WideningsocioeconomicinequalitiesinmortalityinsixWesternEuropean
+The results show that the primary care choice reform countries.IntJEpidemiol.2003;32:830–7.
+has had some negative effects on geographical equity. 10. DaiD.Blackresidentialsegregation,disparitiesinspatialaccesstohealth
+carefacilities,andlate-stagebreastcancerdiagnosisinmetropolitanDetroit.
+When controlling for the effects of clusters, primary
+HealthPlace.2010;16:1038–52.
+health care centres established after the new reform are 11. HiscockR,PearceJ,BlakelyT,WittenK.Isneighborhoodaccesstohealth
+located in areas with significantly fewer older adults liv- careprovisionassociatedwithindividual-levelutilizationandsatisfaction?
+HealthServRes.2008;43:2183–200.
+ing alone as well as fewer single parents. However, none
+12. HiggsG.ALiteratureReviewoftheUseofGIS-BasedMeasuresofAccessto
+of the other variables, such as education, income, em- HealthCareServices.HealServOutcomesResMethodol.2004;5:119–39.
+ployment, or children in the household, shows any sig- 13. McLaffertySL.GISandhealthcare.AnnuRevPublicHealth.2003;24:25–42.
+nificant effects, leading to the conclusion that the 14. RosenthalMB,ZaslavskyA,NewhouseJP.TheGeographicDistributionof
+PhysiciansRevisited.HealthServRes.2005;40:1931–52.
+county councils, to some extent, have managed to buffer
+15. LovettA,HaynesR,SünnenbergG,GaleS.Cartraveltimeandaccessibility
+againstunequaldistributionofprivate providers. bybustogeneralpractitionerservices:astudyusingpatientregistersand
+GIS.SocSciMed.2002;55:97–111.
+16. MittonC,DionneF,MasucciL,WongS,LawS.Innovationsinhealthservice
+Additional file organizationanddeliveryinnorthernruralandremoteregions:areviewof
+theliterature.IntJCircumpolarHealth.2012;70:460–72.
+17. AsthanaS,GibsonA,MoonG,BrighamP.Allocatingresourcesforhealth
+Additionalfile1:Appendix.(DOCX21kb)
+andsocialcare:thesignificanceofrurality.HealSocCareCommunity.2003;
+11:486–93.
+18. WakermanJ,HumphreysJS,WellsR,KuipersP,EntwistleP,JonesJ.Primary
+Competinginterests healthcaredeliverymodelsinruralandremoteAustralia–asystematic
+Theauthorsdeclarethattheyhavenocompetinginterests.
+review.BMCHealthServRes.2008;8:276.
+19. AsthanaS,HallidayJ.Whatcanruralagenciesdotoaddresstheadditional
+Authors’contributions costsofruralservices?Atypologyofruralserviceinnovation.HealSocCare
+DI,PBandUWdesignedthestudy.DIcollectedthedataandperformedthe Community.2004;12:457–65.
+statisticalanalyses.DIandUWwrotethefirstdraftofthepaper.DI,PBandUW 20. PowellDaviesG,WilliamsAM,LarsenK,PerkinsD,RolandM,HarrisMF.
+revisedthemanuscript.DI,PBandUWread,revisedandapprovedthefinal Coordinatingprimaryhealthcare:ananalysisoftheoutcomesofa
+manuscript.Allauthorsagreetobeaccountableforallaspectsofthestudy. systematicreview.MedJAust.2008;188:S65–8.
+
+=== PÁGINA 10 ===
+Isakssonetal.BMCHealthServicesResearch (2016) 16:28 Page10of10
+21. WeissL,OmpadD,GaleaS,VlahovD. DefiningNeighborhood 46. WinklebyMA,JatulisDE,FrankE,FortmannSP.Socioeconomicstatusand
+BoundariesforUrbanHealthResearch.AmJPrevMed. health:howeducation,income,andoccupationcontributetoriskfactors
+2007;32(6Suppl):S154–9. forcardiovasculardisease.AmJPublicHeal.1992;82:816–20.
+22. WenM,HawkleyLC,CacioppoJT.Objectiveandperceived 47. CutlerDM,Lleras-muneyA:EducationandHealth:EvaluatingTheoriesand
+neighborhoodenvironment,individualSESandpsychosocialfactors, Evidence.Cambridge,MA;2006.[WorkingPaper12352]
+andself-ratedhealth:AnanalysisofolderadultsinCookCounty, 48. MontgomerySM,CookDG,BartleyMJ,WadsworthMEJ.Unemployment
+Illinois.SocSciMed. 2006;63:2575–90. pre-datessymptomsofdepressionandanxietyresultinginmedical
+23. PatelKV,EschbachK,RudkinLL,PeekMK,MarkidesKS.Neighborhood consultationinyoungmen.IntJEpidemiol.1999;28:95–100.
+contextandself-ratedhealthinolderMexicanAmericans.AnnEpidemiol. 49. KharichaK,IliffeS,HarariD,SwiftC,GillmannG,StuckA.Healthrisk
+2003;13:620–8. appraisalinolderpeople1:areolderpeoplelivingalonean‘at-risk’group?
+24. SundquistK,MalmströmM,JohanssonS-E.Neighbourhooddeprivation BrJGenPract.2007;537:271–6.
+andincidenceofcoronaryheartdisease:amultilevelstudyof2.6 50. HubbardAE,AhernJ,FleischerNL,VanderLaanM,LippmanSA,JewellN,
+millionwomenandmenin Sweden.JEpidemiolCommunityHealth. etal.ToGEEornottoGEE:comparingpopulationaverageandmixed
+2004;58:71–7. modelsforestimatingtheassociationsbetweenneighborhoodriskfactors
+25. BukaS,BrennanR,Rich-Edwards J,RaudenbushS,Earls F. andhealth.Epidemiology.2010;21:467–74.
+NeighborhoodSupportandtheBirthWeightofUrbanInfants.AmJ 51. CuiJ,Qian G.SelectionofWorkingCorrelationStructureandBest
+Epidemiol.2003;158:1023–32. ModelinGEEAnalysesofLongitudinalData.CommunStat-Simul
+26. SzwarcwaldCL,DeAndradeCLT,BastosFI.Incomeinequality,residential Comput.2007;36:987–96.
+povertyclusteringandinfantmortality:AstudyinRiodeJaneiro,Brazil.Soc 52. BeggMD,ParidesMK.Separationofindividual-levelandcluster-level
+SciMed.2002;55:2083–92. covariateeffectsinregressionanalysisofcorrelateddata.StatMed.2003;
+27. BissonnetteL,WilsonK,BellS,ShahTI.Neighbourhoodsandpotential
+22(August2002):2591–602.
+accesstohealthcare:Theroleofspatialandaspatialfactors.HealthPlace. 53. OverallJE,TonidandelS.RobustnessofGeneralizedEstimatingEquation
+2012;18:841–53. (GEE)testsofsignificanceagainstmisspecificationoftheerrorstructure
+28. KordaRJ,ButlerJRG,ClementsMS,KunitzSJ.Differentialimpactsofhealth
+model.BiometricalJ.2004;46:203–13.
+careinAustralia:Trendanalysisofsocioeconomicinequalitiesinavoidable 54. RCoreTeam:R:Alanguageandenvironmentforstatisticalcomputing.2015.
+mortality.IntJEpidemiol.2007;36:157–65. 55. HalekohU,HøjsgaardS.TheRpackagegeepackforgeneralizedestimating
+29. ArcuryTA,GeslerWM,PreisserJS,ShermanJ,SpencerJ,PerinJ.Theeffects
+equations.JStatSoftw.2006;15:1–11.
+ofgeographyandspatialbehavioronhealthcareutilizationamongthe 56. DombergerS,JensenP.Contractingoutbythepublicsector:theory,
+residentsofaruralregion.HealthServRes.2005;40:135–55. evidence,prospects.OxfordRevEconpolicy.1997;13:67–78.
+30. ShawN,HegedusG.TheNationalProgrammeforInformation 57. AnellA.ChoiceandprivatisationinSwedishprimarycare.HealthEcon
+Technology:TheGPasgatekeeper -Abastionworthfightingfor?BrJ
+PolicyLaw.2011;6:549–69.
+GenPract.2005;55:85–6. 58. DahlgrenG.NeoliberalReformsinSwedishPrimaryHealthCare:ForWhom
+31. LaVelaSL,SmithB,WeaverFM,MiskevicsSA.Geographicalproximity
+andforWhatPurpose?IntJHealServ.2008;38:697–715.
+andhealthcareutilizationinveteranswithSCI&DintheUSA.SocSci 59. WinbladU,IsakssonD,BergmanP.EffekterAvValfrihetInomHälso-Och
+Med. 2004;59:2387–99. Sjukvård–EnKartläggningAvKunskapsläget.Stockholm:Myndighetenför
+32. McCarthyJF,BlowFC.Olderpatientswithseriousmentalillness:sensitivity vårdanalys;2012.
+todistancebarriersforoutpatientcare.MedCare.2004;42:1073–80.
+33. GuthrieB,McLeanG,SuttonM.WorkloadandrewardintheQualityand
+OutcomesFrameworkofthe2004generalpracticecontract.BrJGenPract.
+2006;56:836–41.
+34. DoranT,FullwoodC,GravelleH,ReevesD,KontopantelisE,Hiroeh U,
+etal.Pay-for-performanceprograms intheUnitedKingdom.NEnglJ
+Med. 2006;355:375–84.
+35. NewhouseJP,WilliamsAP,BennettBW,WilliamB.Doesthe
+geographicaldistributionofphysiciansreflectmarketfailure?BellJ
+Econ.1982;13:493–505.
+36. FredrikssonM,BlomqvistP,WinbladU.Thetrade-offbetweenchoiceand
+equity:Swedishpolicymakers’argumentswhenintroducingpatientchoice.
+JEurSocPolicy.2013;23:192–209.
+37. RehnbergC,NilsJ, KhanJ,LundgrenJ.UppföljningAv
+HusläkarsystemetInomVårdvalStockholm. Stockholm:Karolinska
+Institutetsfolkhälsoakademi;2010.
+38. Riksrevisionen:PrimärvårdensStyrning-EfterBehovEllerEfterfrågan?
+Stockholm;2014.
+39. KringosD,BoermaW,HutchinsonA,SaltmanRB:BuildingPrimaryCareina
+ChangingEurope.2015(ObservatoryStudiesSeries38).
+40. AnellA,GlenngårdAH,MerkurS.HealthSystemsinTransition-Sweden Submit your next manuscript to BioMed Central
+Healthsystemreview.HealthSystTransit.2012;14:187.
+41. BlomqvistP,WinbladU.Sweden:ContinuedMarketizationwithina and we will help you at every step:
+UniversalistSystem.In:PavoliniE,GuillénMA,editors.HealthCareSystems
+inEuropeunderAusterity-InstitutionalReformsandPerformance.1sted. • We accept pre-submission inquiries
+Basingstoke:PalgraveMacmillan;2013.p.9–30. • Our selector tool helps you to find the most relevant journal
+42. AnderssonF,JanlövN,RehnbergC.Konkurrens,KontraktochKvalitet-
+• We provide round the clock customer support
+Hälso-ochsjukvårdiprivatregi.Stockholm:Finansdepartementet,
+Regeringskansliet;2014. • Convenient online submission
+43. Glenngård,AH.Primärvårdeneftervårdvalsreformen.Stockholm:SNS • Thorough peer review
+Förlag;2015.
+• Inclusion in PubMed and all major indexing services
+44. SaltmanRB,BergmanS-E.RenovatingtheCommons:Swedishhealthcare
+reformsinperspective.JHealthPolitPolicyLaw.2005;30:253–75. • Maximum visibility for your research
+45. WinbladU,BlomqvistP.Preservingsocialequityinprivatizedprimarycare:a
+matterofcontractdesign.London:EHPG;2015. Submit your manuscript at
+www.biomedcentral.com/submit

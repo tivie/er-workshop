@@ -1,0 +1,768 @@
+# Fonte: Anell 2018 Does risk-adjusted payment influence primary care providers decision on where to set up practices - Sweden (BMC HSR).pdf
+# Páginas: 12
+
+=== PÁGINA 1 ===
+Anelletal.BMCHealthServicesResearch (2018) 18:179
+https://doi.org/10.1186/s12913-018-2983-3
+RESEARCH ARTICLE Open Access
+Does risk-adjusted payment influence
+’
+primary care providers decision on where
+to set up practices?
+Anders Anell1, Margareta Dackehag2* and Jens Dietrichson3
+Abstract
+Background: Providing equal access to health care is an important objective in most health care systems. It is
+especially pertinent in systems like the Swedish primary care market, where private providers are free to establish
+themselves in any part of the country. To improve equity in access to care, 15 out 21 county councils in Sweden
+have implemented risk-adjusted capitation based on the Care Need Index, which increases capitation to primary
+care centers with a large share of patients with unfavorable socioeconomic and demographic characteristics. Our
+aimistoestimatetheeffectsofusingcare-needadjustedcapitationonthesupplyofprivateprimarycarecenters.
+Method:We use a dataset that combines information on all primary care centers in Sweden during 2005–2013,
+thepaymentsystemandotherconditionsforestablishingnewprimarycarecentersusedinthecountycouncils,and
+demographic, geographic, and socioeconomic variables for low-level geographic areas. To estimate the effects
+ofcare-needadjustedcapitation,weusedifference-in-differencesmodels,contrastingthedevelopmentovertime
+betweenareaswithandwithoutrisk-adjustedcapitation,andwithhighandlowCareNeedIndexvalues.
+Results:Risk-adjusted capitation significantly increases the number of private primary care centers in areas with
+relatively high Care Need Index values. The adjustment results in a changed distribution of private centers within
+countycouncils;thetotalnumberofprivatecentersdoesnotincreaseincountycouncilsusingcare-needadjusted
+capitation.Theeffectsarefurthermoreincreasingoverthefirstthreeyearsaftertheimplementationofsuchcapitation,
+andconcentratedtothelowerandmiddlerangeofthegroupofareaswithhighindexvalues.
+Conclusions:Risk-adjusted capitation based on the Care Need Index increases the supply of private primary
+care centers in areas with unfavorable socioeconomic and demographic characteristics. More generally, this
+resultindicatesthatrisk-adjustedcapitationcansignificantlyaffectprivateproviders’establishmentdecisions.
+Keywords:Primaryhealthcare,Establishment,Equalaccess,Privateprovision,Risk-adjustedcapitation,Sweden
+Background using less dental and preventive care and consuming
+Therearepersistent socioeconomicinequalities inhealth less prescription pharmaceuticals [2–5].
+and health care utilization, making equitable access to One important condition for equitable access and
+care an important policy goal [1]. Whether measured health care utilization is the geographical distribution of
+as income, education or wealth, individuals with lower providers. This is especially pertinent for primary care,
+socioeconomic status (SES) tend to live shorter, report as reduced access is associated with lower health care
+worse self-assessed health and experience more utilization and worse health [6–11]. Spatial accessibility,
+chronic diseases while making fewer specialist visits, as defined by Guagliardo [12], comprises both the
+number of local providers available for the patient to
+choosefromandthetimeordistancethepatientneedsto
+traveltoreachaprovider.
+*Correspondence:margareta.dackehag@nek.lu.se
+Goddard et al. [13] define three ways in which health
+2DepartmentofEconomics,SchoolofEconomicsandManagement,Lund
+University,Box7082,SE-22007Lund,Sweden care authorities can affect spatial accessibility: general
+Fulllistofauthorinformationisavailableattheendofthearticle
+©TheAuthor(s).2018OpenAccessThisarticleisdistributedunderthetermsoftheCreativeCommonsAttribution4.0
+InternationalLicense(http://creativecommons.org/licenses/by/4.0/),whichpermitsunrestricteduse,distribution,and
+reproductioninanymedium,providedyougiveappropriatecredittotheoriginalauthor(s)andthesource,providealinkto
+theCreativeCommonslicense,andindicateifchangesweremade.TheCreativeCommonsPublicDomainDedicationwaiver
+(http://creativecommons.org/publicdomain/zero/1.0/)appliestothedatamadeavailableinthisarticle,unlessotherwisestated.
+
+=== PÁGINA 2 ===
+Anelletal.BMCHealthServicesResearch (2018) 18:179 Page2of12
+supply increases, regulation of entry, and targeted ini- relevant patient population [25]. However, it cannot be
+tiatives aimed at under-supply in particular areas. taken for granted thatprimarycareproviderswill allocate
+Market-based entry may increase supply, but risks a risk-adjustment payment to its enrolled population
+increasing socioeconomic inequalities in access to care based on health care needs. Alternatively, the additional
+if it is more profitable to be located or easy to attract payment based on socioeconomic factors may be used
+staff in high SES areas. Regulated entry is a direct way for other purposes or simply increase the profitability
+to affect access, but may result in lower supply and, if of services. This motivates empirical analyses of the
+providers have knowledge about local conditions that effects of risk-adjusted payment on provider behavior,
+the health care authority lacks, a less efficient distribu- both in terms of setting up a new practice and how
+tion. The third option, to target initiatives to areas the additional payment influences service provision.
+where access is lower, may be a good compromise but In this paper we study how risk-adjusted payment in-
+seems to have been less evaluated so far [14, 15]. fluences decisions on where to set up a new practice.
+Since 2007, Swedish primary care, governed and pre-
+dominantly operated by 21 elected county councils, has Swedishprimarycare,thepatientchoicereformsand
+undergone a major change involving choice and risk-adjustedpayment
+privatization, and potentially, consequences for the The Swedish primary care belongs to a healthcare
+equitable access to care [16, 17]. A principle of free system characterized by publicly financed and pre-
+establishment, implemented nationally in 2010, implies dominantly publicly produced health care. By law
+that county councils cannot influence private primary primary care, and primary care centers, are respon-
+care centers’ decisions about where to set up their sible for providing basic medical treatment, prevention
+practices by means of direct regulation. Instead, many and rehabilitation to the whole population, irrespec-
+county councils have adjusted the capitation payment to tive of illness, age and patient group. However, the
+primary care centers based on socioeconomic factors number of primary care physicians is lower in Sweden
+related to enrolled individuals. With this adjustment, than in many other countries, both in relation to the
+county councils aim to give primary care centers a fair population and in relation to the total number of
+paymentbasedonsocioeconomicneedsandtoincentivize physicians. Furthermore, the gate-keeping role of
+more providers to be located in geographical areas primary care is weaker in Sweden than in several
+with low SES. countries with strong primary care services [26]. The
+A recent study finds that the reforms in Swedish 21 elected county councils run most primary health
+primary care are associated with only minor negative care centers, typically employing not only general
+effects on geographical equity, despite free establishment practitioners (GPs) and nurses but also professionals
+for private primary care centers [18]. Isaksson et al. [18] such as physiotherapists, occupational therapists and
+identify risk-adjusted payment as a possible cause to this social workers [17]. The organization of primary care
+finding, and calls for an evaluation of the relationship into multidisciplinary group practices follows a long
+between payment design and provider behavior. Heeding tradition in Sweden, but is recently becoming more
+that call, our study investigates how risk-adjustment by common in other healthcare systems [26, 27].
+socioeconomic factors influences the location decisions The Swedish patient choice reforms and payment
+bynewlyestablishedprivateprimarycare centers. reforms can be seen as an attempt to strengthen the
+The empirical literature on provider behavior and role of primary care in the healthcare system, but in
+payment design shows that providers generally particular the patient choice reforms had an ideo-
+respond to economic incentives according to theore- logical motivation as well [28, 29].The reforms, initi-
+tical expectations [19–23]. According to the standard ated by individual county councils and mandated by
+result, fee-for-service generates high service produc- national law in 2010, are based on principles stipula-
+tion but low cost control, compared to capitation. ting that private primary care centers have freedom of
+However, capitation generates incentives for the pro- entry, and that payment should be equal for private
+vider to select “good” risks, and to overprovide and public centers and follow the patient’s choice of
+services to the relatively healthy and to underprovide primary care center [16]. The payment comes mainly
+to the relatively unhealthy [24]. Thus, to the extent in the form of risk-adjusted capitation based on
+that low SES is related to greater care need (and larger individual choice of care center, but also comprises
+costs) a simple undifferentiated capitation payment features of fee-for service and pay-for-performance.
+may contribute to socioeconomic differences in health As county councils are entitled to design their own
+care utilization. This risk highlights the importance of payment system, principles for risk-adjustment of
+adjusting the capitation for expected variations in capitation payment to primary care providers vary. A
+health care utilization based on health care need in the majority of the county councils have chosen to use
+
+=== PÁGINA 3 ===
+Anelletal.BMCHealthServicesResearch (2018) 18:179 Page3of12
+the Care Need Index (CNI) to adjust payment, although weight ranges between 5 and 30% across county coun-
+this principle has been introduced at different times, see cils. Generally speaking, county councils using CNI have
+Table1. The CNI is a weighted index using seven factors; either kept its adjustment weight at the same level or
+the number of: children under five; inhabitants born increased it over the years. In three county councils
+in Europe outside the European Union, Africa, Asia, the CNI-adjustment kicks in over a certain threshold,
+or South America; over 65 years and living alone; specific for each council.
+single parents with children under 17 years; inhabi- In the county councils not using CNI-adjustment, five
+tants 1 year or older that have recently moved to the use a simplified payment design with risk adjustment
+area;unemployed16–64years;andinhabitants25–64years accordingtopatients’age categories.One county council
+with no more education than nine years of compulsory has introduced a model of income-adjusted payment
+school[30,31]. while another county council adjusts payments based on
+In parallel to risk-adjustment based on CNI, several anassessmentofspecialcareneed.
+county councils adjust capitation payment to primary Previous studies show that the patient choice reforms
+care centers based on Adjusted Clinical Groups (ACG). in primary care have generated an overall increase in the
+The ACG system classifies patients by expected health number of primary care centers by 20% as new private
+care utilization in primary care based on diagnoses [32]. centers have entered the market [33]. In addition,
+There is also variation between councils and over time general access in terms of individuals using primary
+regarding the weight of CNI in the capitated payment care services and number of visits per individual has
+design (not presented in Table 1). The CNI-adjustment increased. However, studies in some county councils
+indicate that patients with relatively high income and
+in relatively good health appear to gain most access
+Table1Yearofpatientchoicereformandintroductionofrisk
+adjustmentpercountycouncil [34, 35]. There is also considerable regional variation,
+with more private entries in populated and urban
+Countycouncil Patientchoicereform Risk-adjustment CNI ACG
+areas [33]. Thus, even if the general development
+Blekinge 2010 – No No
+indicates increased access to care, concerns have been
+Dalarna 2010 2010 Yes Yes
+raised about equality in access to care [17].
+Gotland 2009 – No No
+Gävleborg 2010 2010 Yes No
+2013 Yes Yes Methods
+Halland 2007 – No No Data
+For ouranalysis, wehavebuilt aregisterover allprimary
+Jämtland 2010 2010 Yes No
+care centers in Sweden during 2005–2013. The register
+Jönköping 2010 2010 Yes No
+contains information about starting and closing dates,
+2012 Yes Yes form of ownership (private/public), and exact geo-
+Kalmar 2010 2010 Yes No graphical coordinates. The register has been merged
+2012 Yes Yes with information about the payment system and other
+conditions for establishing new primary care centers
+Kronoberg 2009 2011 Yes Yes
+for each county council during the same period. Infor-
+Norrbotten 2010 2010 Yes No
+mation about payment systems and other conditions
+2013 Yes Yes
+has been collected from county council documents,
+Skåne 2009 2009 Yes Yes reports and surveys [36, 37], and personal communi-
+Stockholm 2008 – No No cation with county council representatives.
+Södermanland 2010 2013 Yes No Our unit of observation is the Small Areas for Market
+Uppsala 2009 – No No Statistics (SAMS). SAMS is the smallest geographic area
+for which Statistics Sweden produces market statistics.
+Värmland 2010 2010 Yes Yes
+The classification of areas into SAMS follows the munici-
+Västerbotten 2010 2010 Yes No palsub-areasintheNYKOsystem(“Nyckelkodssystemet”)
+Västernorrland 2010 2010 Yes No in larger municipalities, and electoral districts in smaller.
+2013 Yes Yes All SAMS belong to one municipality and each munici-
+Västmanland 2008 2010 Yes Yes pality in turn belong to one county council during the
+whole period with CNI-adjusted payment. We exclude
+VästraGötaland 2009 2009 Yes Yes
+one municipality from our estimations due to its extra-
+Örebro 2010 2010 Yes No
+ordinary responsibilities for health care, and lack of infor-
+Östergötland 2009 – No No
+mation about payment system used in primary care. In
+
+=== PÁGINA 4 ===
+Anelletal.BMCHealthServicesResearch (2018) 18:179 Page4of12
+totalweusedemographic,geographic,andsocioeconomic and Centers (0.05 and 0.13 respectively). There are also
+variables from Statistics Sweden for 9148 SAMS, the more public centers thanprivate, althoughthe difference
+neighboring area of each SAMS (SAMS within the has decreased substantially from 2005. Figure 1 shows
+excluded municipality are included in the calculations of the development of Private centers (grey bars) and
+the neighborhood-level variables), 289 municipalities, and Centers (black) during 2005–2013. The increase in total
+21 county councils. Table 2 displays the mean, standard number of centers is about 20%. The increase is fully
+deviation,minimumandmaximumvalue,andthenumber due to entry from private centers, while the number of
+ofuniqueobservationspervariableforyear2013. public centershasdecreased.
+Our primary dependent variable, Private centers, is Our covariates are measured on the SAMS-, neighbor-
+measured per SAMS in full year equivalents. That is, a hood-, municipality-, or county council level. On the
+center that exists all days during a year get the value 1, SAMS-level, we include the number of inhabitants
+and one that exists half a year gets the value 0.5. To be (Population¸ measured in thousands), and the SAMS-
+counted as a center, it should participate in the patient specific value on the Care Need Index (CNI value). We
+choice system and be able to enroll patients. A few have access to all variables making up the CNI, but
+single GP practices operating outside of the patient choose to use only Population and the index value itself,
+choice system and small subsidiary units are therefore as all other variables are highly correlated with each
+not included. Patients attending subsidiary units are other,orwith theCNI.
+enrolled at the parent center. A center is defined as Certain SAMS have very few or no inhabitants. In the
+private if a country council does not operate it. In a latter case, no CNI-value can be calculated. We set the
+robustness check we have also used Centers, which value of these SAMS to zero and they are therefore
+measurethetotal number ofprivate andpubliccenters. not included in the calculations of neighborhood vari-
+There are far more SAMS than centers, which is ables (see below). Because of unpopulated or scarcely
+reflected in the low mean values for both Private centers populated areas, we do not use the per capita number
+Table2Descriptivestatistics
+Variables Mean Stddev Min Max Obs
+SAMS
+Privatecenters 0.0519 0.2496 0 4 9148
+Centers 0.1273 0.3802 0 4 9148
+Population 1.0462 1.3637 0 20.925 9148
+CNIvalue 1.0896 0.5493 0 7.9394 9148
+Neighborhoodcenters(3km) 2.8796 4.7436 0 34 9148
+Population(3km) 23.6793 38.2292 0 287.859 9148
+CNIvalue(3km) 0.8814 0.6362 0 3.2465 9148
+Municipality
+Density 0.1438 0.5095 0.0002 4.9165 289
+Population>65(%) 22.7161 3.9366 13.0648 32.305 289
+Meanincome 244.2183 31.2225 192.4 456.3 289
+Employed(%) 47.0416 2.6634 39.0451 54.1215 289
+Right-wingalliance(%) 44.6813 11.0566 9.5 86.8 289
+Countycouncil
+CNI 0.7143 0.4629 0 1 21
+CNI&ACG 0.5238 0.5118 0 1 21
+Lowentrybarriers 0.5714 0.5071 0 1 21
+Scopeofservices 0.4762 0.5118 0 1 21
+Highcapitationshare 0.2857 0.4629 0 1 21
+Costresponsibility 0.7619 0.4364 0 1 21
+Note:Privatecenters,Centers,Neighborhoodcentersmeasurethenumberoffullyearequivalentcenters,i.e.ifthereisonecenteractiveawholeyear,thevalueis1.
+PopulationandPopulation(3km)aremeasuredinthousandsofinhabitants.Densityismeasuredinthousandsofinhabitantsperkm2,andMeanincomeinthousands
+ofSEKperpersonover16yearsofagein2013prices
+
+=== PÁGINA 5 ===
+Anelletal.BMCHealthServicesResearch (2018) 18:179 Page5of12
+the rules governing the establishment and activities of
+primary care centers. CNI takes the value 1 from the
+year a county council introduces CNI-adjustment.
+CNI&ACG takes the value 1 from the year a county
+council uses both CNI and ACG-adjusted capitation.
+Four county councilshaveonly CNI-adjustment in 2013,
+and eleven use both CNI and ACG (no county council
+uses onlyACG,seeTable1).
+The next variable describes the enrolment principle
+used when a patient choice reform was introduced. Low
+entry barriers takes the value 1 that year, if a county
+council either let new centers automatically get a share
+of the patient stock, or allowed only active enrolment.
+The contrast group consists of county councils that only
+Fig.1Numberofprimarycarecenters2005–2013
+gavealready existing centers a share of the patient stock,
+and new centers started with zero patients and only
+active enrolment [30]. Twelve county councils had
+of private primary centers as the dependent variable in enrolment principles that were relatively generous to
+our baseline regressions. SAMS with very few inhabitants newentrantsbythisdefinition.
+and one center would get a very high weight in that case, ThevariableScopeof servicesindicatescountycouncils
+which maybiasour estimations.Inrobustnesschecks, we that require primary care centers to provide more than
+examinehowsensitiveourresultsaretothischoice. three of the following additional services: children’s
+A SAMS is in many cases too small to make up a health care, maternalcare,rehabilitation, home care, and
+relevant primary care center market. The decision to podiatric care. A larger scope of services ought to imply
+establish a new private center is therefore unlikely to higher start-up investment, and may therefore decrease
+be based solely on the characteristics of a single SAMS, the probability of entry. Ten county councils require a
+but also its neighbors. However, it is difficult to define large scope of services according to this definition. Note
+precisely the size of the relevant market, and the size that we do not have information about this variable for
+may differ between parts of the country (e.g. rural and other years than 2011. We assume that the scope
+urban areas). To capture influence from the neighbor- required have been the same for all years since the
+ing areas, we include three variables – Centers (3 km), implementation ofapatient choice reform.
+Population (3 km), and CNI (3 km) – which are cal- High capitation share indicates county councils where
+culated as the average over SAMS whose mid-point capitation constitutes more than 90% of the payment to
+coordinatesarewithinthreekilometersfromthemidpoint centers, a payment model used in six county councils
+of the SAMS of interest. We test the sensitivity to [30]. For this variable as well, we have only information
+changing this distance to 1, 5 and 10 km. for 2011, and we make the same assumption about
+We include the following municipal-level demographic continuity of use. The last variable of Table 2, Cost
+and socioeconomic variables: population density per responsibility, takes the value 1 in county councils where
+square kilometer (Density), share of population over primary care centers share the responsibility for medical
+65 years (Population>65), average income in thousands prescriptions to enrolled patients. Centers share this
+of SEK and 2013 prices (Mean income), and the share of responsibility in 16 county councils in 2013. For this
+employed in the total population (Employed). We also variable, we have information for the years 2010, 2011,
+include a variable capturing the political landscape: the and 2013. No county council changed its regulations
+joint share of votes on parties that are in general most duringthis period.
+favorably inclined to private provision of public services In the estimations, we also include a variable indicating
+(the so-called Right-wing alliance). Privately provided the years when a patient choice system is in effect in a
+elderly care is more common in municipalities with a countycouncil,Choicereform.Asallcountycouncilshave
+large share of votes for these parties. It is for example implemented a choice system in 2013, we have omitted
+possible that it has benefits to co-locate primary care thisvariablefromTable2.Wedonotincludeanypolitical
+centers and nursing homes for larger firms that perform variables on the county council level, as they are highly
+both services, and we included the variable to control correlatedwithseveralofthevariablesdescribingpayment
+forthis potentialconfounder. and regulations. For example, the county council version
+On the county council level, we include seven indica- of Right-wing alliance is highly predictive of having low
+tor variables that characterize the payment system and entrybarriers(basedonowncalculations).
+
+=== PÁGINA 6 ===
+Anelletal.BMCHealthServicesResearch (2018) 18:179 Page6of12
+Empiricalstrategy are to the functional form assumptions implicit in eq. (1),
+Our aim is to examine how CNI-adjusted capitation weusecoarsenedexactmatching(CEM)[38].
+affects the establishment of private primary care centers A basic assumption that needs to hold for β to be
+2
+in small geographical areas with low and high SES. We interpreted as the causal effect is that the trends of the
+use a difference-in-differences (DID) type of strategy to outcome variable would have been parallel in SAMS
+estimate the effects. The baseline strategy compares with high and low CNI values in county councils that do
+how the number of full year equivalent private centers and do not introduce CNI-adjusted capitation, had CNI-
+changes before and after county councils introduce adjustment not been introduced [39]. This assumption
+CNI-adjustment. The comparison uses differences concerns a counterfactual scenario, and is thus not
+between county councils that do and do not introduce directly testable. However, if trends start to diverge
+CNI-adjustment, and differences between SAMS with alreadybefore CNI-adjusted capitation is introduced, the
+high and low CNI values within county councils. That assumption is tenuous, at best. We perform “placebo”
+is, the effects of CNI-adjustment on private center tests to gauge the plausibility of this assumption. In
+establishment is estimated as a “triple-difference”, using these tests, the CNI indicator and the interaction CNI x
+differences over time, between county councils, and HighCNI take the value 1 one or more years before a
+between types of SAMS. For estimation purposes, we county council actually introduces CNI-adjustment. If
+use variants of the following estimating equation: these estimates are small, the trends before introduction
+are similar, which in turn make it more likely that they
+would have continued to be similar, had CNI-adjusted
+y ¼αþβ CNI þβ CNI (cid:2)HighCNI þγX
+st 1 st 2 st s st capitation not been introduced. We also show estima-
+þμþλ þε ; tions of the effects for each interval of CNI from 1.0 and
+s t st
+ð1Þ up, to see how the effects vary over the range of areas
+with relatively high CNI.
+where y isthenumberoffullyearequivalentsofprivate In Additional file 1, we provide further robustness
+st
+primary centers in SAMS s in year t. CNI is an indicator checks: we test whether our results are sensitive to using
+taking the value 1 from the year the county council the total number of centers as dependent variable
+where SAMS s is located introduces CNI-adjusted (Centers); a definition of the group of SAMS with
+capitation, and all years after. CNI x HighCNI is our high CNI values based on the values in 2005 instead
+main variable of interest: an interaction between CNI of2013;changingthedefinitionofaSAMSneighborhood;
+and an indicator taking the value 1 if SAMS-area s has excluding SAMS with a population under 10, 100, or 500
+a CNI-value higher than 1.0 in 2013. This value is inhabitants, or over 10,000 inhabitants; and finally, to
+slightly above the median (0.986) and slightly below using a dependent variable measuring the number of
+the mean (1.06); that is, areas with CNI>1 have private primary care centers per capita.
+relatively low socioeconomic status and relatively high We report results for other variables measuring as-
+expected care need. HighCNI is therefore time-invariant pects of the patient choice reforms (described in the
+and drops out of the equation because of the inclusion of Methods section). A similar parallel trends-assumption
+the area-specific fixed effects (its effect is captured by μ). pertains to these variables, but the estimates should be
+s
+We have chosen this specification in order to keep the interpreted with more caution, for three main reasons:
+treatment and control groups intact over time, which First, the variables vary only on the county council level
+facilitates tests of the parallel trends-assumption (see (and over time), which makes them more likely to be
+further discussion below). Our results are robust if correlated with other unmeasured trends that affect
+we instead let HighCNI vary overtime(resultsavailable entry of private primary care centers. Second, we partly
+onrequest). lack information about Scope of services, High capitation
+In some regressions, we separate between county share, and Cost responsibility and have assumed that
+councils that use only CNI-adjusted capitation, and these variablesstaythesamethroughouttheperiodfrom
+councilsthatuse both CNI and ACG toadjustcapitation, the year a county council introduces its patient choice
+and then we have two indicators (CNI and CNI&ACG) reform to 2013. Third, afew ofthese variables are highly
+and two interactions with HighCNI. X is a vector of correlated, in particular Low entry barriers and Scope
+st
+time-varying covariates on SAMS-, neighborhood-, of services, and it is therefore hard to separate out
+municipality-, and county council level, described in their effects.
+the Data section. The SAMS- and year effects are μ We employ Stata 13.1 for all the statistical analyses
+s
+and λ, respectively, β , β , and the vector γ are [40]. We cluster the standard errors on the county
+t 1 2
+parameters to be estimated, α is the intercept, and ε council-level in our baseline regressions. However, there
+is a residual term. To check how sensitive our results are only 21 county councils, implying that standard
+
+=== PÁGINA 7 ===
+Anelletal.BMCHealthServicesResearch (2018) 18:179 Page7of12
+errors may be underestimated due to the small number Table3Baselineregressions
+of clusters-problem described in [41]. In two robustness Variables (1) (2) (3) (4)
+checks, we have used a long-difference specification, and CNI −0.0140* −0.0071 −0.0167** −0.0077*
+thewild-cluster bootstrapproceduresuggested by[42].
+(0.0068) (0.0043) (0.0065) (0.0039)
+CNIxHighCNI 0.0223*** 0.0200*** 0.0185*** 0.0183***
+Results
+(0.0037) (0.0040) (0.0043) (0.0047)
+Table 3 displays results from our baseline regressions. In
+column (1), we include only CNI and CNI x HighCNI, CNI&ACG 0.0038 0.0018
+and no other covariates. Column (2) includes these two (0.0027) (0.0025)
+variables plus all covariates from Table 2. Column CNI&ACGxHighCNI 0.0052 0.0024
+(3) separates between CNI-adjustment and CNI plus (0.0046) (0.0048)
+ACG-adjustment and excludes other covariates. Lastly, Lowentrybarriers −0.0009 −0.0010
+column(4)keepstheseparationbetweenCNI-adjustment
+(0.0063) (0.0061)
+andCNI-plusACG-adjustmentandaddscovariates.
+Scopeofservices −0.0117** −0.0113**
+The estimates in columns (1) and (2) indicate that
+CNI-adjusted capitation increases the number of private (0.0053) (0.0051)
+primarycenters in SAMS with relatively high CNI values, Highcapitationshare −0.0002 −0.0010
+i.e. low SES areas. The coefficients on CNI x HighCNI (0.0069) (0.0070)
+are positive, significant at the 1% level, and relatively Costresponsibility −0.0025 −0.0032
+large, 0.020–0.022. The magnitude can for example
+(0.0061) (0.0059)
+be compared to the average in SAMS with CNI
+Choicereform 0.0139** 0.0144**
+higher than 1.0, which is 0.064 (s.d. 0.27) over the
+(0.0061) (0.0060)
+whole period, and 0.086 (s.d. 0.32) in 2013.
+Columns (3) and (4) indicate that the results are CNIvalue 0.0031 0.0031
+driven by CNI-adjustment, and not ACG-adjustment. (0.0021) (0.0021)
+The interaction CNI&ACG x HighCNI is positive, but Population 0.119*** 0.119***
+small and far from significant in both columns. A poten- (0.0095) (0.0095)
+tialexplanationcanbefoundintherelationshipbetween
+Centers(3km) 0.0009 0.0009
+CNI and ACG. We have only access to the ACG-index
+(0.0007) (0.0007)
+for primary care centers in one county council (Region
+CNIvalue(3km) 0.0191*** 0.0191***
+Skåne), but in this case, ACG and CNI are negatively
+andsignificantlycorrelated.Thatis,primarycare centers (0.0066) (0.0066)
+with enrolled patients that yield a relatively high CNI- Population(3km) 0.0005 0.0005
+value tend to have patients that simultaneously yield (0.0009) (0.0009)
+a relatively low ACG-value. Since the ACG is a more Density 0.0583*** 0.0574***
+important influence on capitation in most county
+(0.0097) (0.0096)
+councils, this relationship could explain the results.
+Population>65 0.0052*** 0.0052***
+ThecoefficientonCNIisnegative,andinsomecolumns
+(0.0012) (0.0012)
+significantontheten-percentlevel.Thisestimateisnotas
+robustlyestimated,asitisbasedonvariationonlybetween Meanincome 0.0002 0.0002
+county councils. There are furthermore only four county (0.0003) (0.0003)
+councils that only use CNI-adjustment. The results indi- Employed −0.0004 −0.0002
+catethoughthatpositiveestimatesforCNIxHighCNIare (0.0016) (0.0016)
+more driven by a change in the distribution of entry and Right-wingalliance −0.0002 −0.0002
+establishmentwithincountycouncils,ratherthanincrease
+(0.0002) (0.0002)
+thetotalnumberofprivateprimarycarecenters.Thetotal
+marginal effect (β +β ) is significant on the 5% level Constant 0.0252*** −0.264*** 0.0252*** −0.271***
+1 2
+in column (2), but not in column (1). We return to (0.0022) (0.0766) (0.0022) (0.0776)
+this issue below. Observations 82,332 82,332 82,332 82,332
+The patient choice reform per se contributes to an SAMS 9148 9148 9148 9148
+increased number of private primary care centers. The R2 0.019 0.040 0.019 0.040
+coefficient of Choice reform is positive and significant at Note:Robuststandarderrorsclusteredbycountycouncilinparentheses.
+the five-percent level, see column (2) and column (4). ***p<0.01,**p<0.05,*p<0.1.AllspecificationscontainSAMS-andyear
+fixedeffects
+With regard to specific regulations related to the
+
+=== PÁGINA 8 ===
+Anelletal.BMCHealthServicesResearch (2018) 18:179 Page8of12
+establishment of new primary care centers, only the the following variables: Population, CNI (3 km), Density
+coefficient of Scope of services is significant (at the and Population>65. These variables are significant on
+five-percent level), indicating that the scope require- at least the 10% level in column (2), Table 3. Scope of
+ment acts as an disincentive for entry. services is also significant, but we lack values for 2005
+We also find a positive significant (at the one-percent for this variable. It is therefore not included among the
+level) association between the number of SAMS inhabi- matching variables. In Table 4 column (2), we also
+tants (Population) and the number of private primary include the number of primary care centers in the
+care centers. The care need of the neighboring SAMS SAMS in 2005 among the matching variables. We
+areas appears to promote private entry, as the coefficient coarsen the variable by using the boundary value for the
+of CNI value (3 km) is positive and significant at the 25th, 50th, and 75th percentiles for each variable, except
+one-percent level. The finding indicates that private for the number of primary care centers which has too
+primary care centers base their location decisions on small variation to be partitioned into more than two
+conditionsingeographicalareaslargerthantheSAMS.At parts (the boundary is 1 center). The results are very
+the municipal level, the market size, in terms of popula- similar regardless of matching variables, and also very
+tion density (Density), and the demand for health care, in close to our baseline results, especially for CNI x
+terms of the population share over 65 years of age HighCNI. Therefore, our estimates are relatively robust
+(Population>65), increase the number of private primary toincludingcovariates linearly asineq.(1).
+carecenterssignificantly(attheone-percentlevel). In columns (3) and (4) we have included a “placebo”
+CNI-variable, and its interaction with HighCNI. These
+Sensitivityanalysesandextensions variables take the value 1 one year before a county
+Thissection tests the sensitivity of the results in Table 3, council actually introduced CNI-adjusted capitation. If
+and examines the credibility of the parallel trends- the placebo-interactions are sizeable, it is an indication
+assumption. ACG-adjustment did not seem to have an that the trends differed before CNI-adjustment was
+effect on private primary care center establishment. We introduced, which makes it less likely that parallel
+therefore use the simpler specification, shown in column trends-assumption hold. Another interpretation may be
+(1) and (2) of Table 3, in the estimations reported below. that there are anticipation effects [45]; that is, private
+A first sign that the results are robust can be seen from centers are aware that an adjustment will be introduced
+the similarity of the results between these two specifica- and acts upon that information. The CNI-placebo is
+tions. That covariates do not change the estimates of relatively large and significant in column (3), but small
+CNI x HighCNI makes it less likely that the results are and insignificant in column (4) where all covariates are
+drivenbyomittedvariables[43,44]. included. The interaction placebo is small, but signifi-
+In Table 4, the specifications in column (1) and (2) use cant on the 10% level in both columns. Note also that
+CEM [38] to pre-match the SAMS on the 2005 values of the estimate for CNI x HighCNI changes very little when
+theplacebo variablesareadded.
+While the placebo estimations are not a source of
+Table4Matchingandplaceboestimations
+huge concern, they do indicate a slight pre-trend
+(1) (2) (3) (4)
+difference and therefore motivate a closer look at
+Variables CEM1 CEM2 Placebo Placebo
+these trends. We therefore estimate a variant of eq. (1),
+CNI −0.0108* −0.0106* −0.0179** −0.0075*
+where we let each year, both before and after the
+(0.005) (0.0054) (0.0085) (0.0043) introduction of CNI-adjusted capitation, have its own
+CNIxHighCNI 0.0195*** 0.0195*** 0.0232*** 0.0209*** effect. This specification also allows us to examine
+(0.0029) (0.0030) (0.0036) (0.0040) the development of treatment effects over time after
+the introduction of CNI-adjusted capitation, which is
+PlaceboCNI −0.0106** −0.0017
+of independent interest.
+(0.0049) (0.0011)
+Figure 2 displays the yearly coefficients of CNI (grey
+PlaceboCNIxHighCNI 0.0045* 0.0041*
+solid line) and CNI x HighCNI (black solid line), and
+(0.0023) (0.0020) their 95% confidence interval (dotted grey and black
+Covariates No No No Yes lines respectively), spanning from three years before
+Observations 80,496 80,325 82,332 82,332 implementation to three years after (all lines start at
+zero in year four before implementation by definition).
+SAMS 8944 8925 9148 9148
+All county councils using CNI-adjusted capitation
+R2 0.020 0.021 0.020 0.040
+except one have at least three years before implemen-
+Note:Robuststandarderrorsclusteredbycountycouncilinparentheses.
+tation and three years with CNI-adjustment in the
+***p<0.01,**p<0.05,*p<0.1.AllspecificationscontainSAMS-andyear
+fixedeffects sample period (see Table 1). The yearly effects for the
+
+=== PÁGINA 9 ===
+Anelletal.BMCHealthServicesResearch (2018) 18:179 Page9of12
+intervals. The group of SAMS with CNI less than or
+equal to 0.5 serves as the reference group, and then we
+include interactions with indicators of intervals of 0.1
+up to a CNI-value of 2.0. There are few areas with
+CNI>2.0, so we include all above this boundary in one
+group. The figure displays the coefficients for each
+interaction variable (the solid black line), and their
+95% confidence interval (dotted black lines).
+The pattern of coefficients in the figure indicates that
+CNI-adjustment has a significant positive effect in
+SAMS with CNI values ranging from about 1.0 to about
+1.8 (the interval 1.5–1.6 is not significant on the 5%
+Fig.2Yearlytreatmenteffects
+level,butsimilarinsize).Beloworabovetheseboundaries
+the coefficients are insignificant and mostly near zero,
+county councils that have adjusted capitation accor- with a partial exception for SAMS with CNI above 2.0
+ding to CNI for more than three years in the sample wherethereisaslightuptickintheeffect.
+period are included in the estimation. However, these A question remains about the cause of the increase of
+coefficients are hard to interpret as the composition of private centers in high CNI areas. One potential expla-
+the treatment group changes. They are therefore not nation is that CNI-adjustment attracts private centers
+included in the figure. that would have otherwise established themselves in
+The figure shows a small uptick in the trend for other county councils. Another explanation could be
+CNI x HighCNI during the three placebo years, but that private centersfavorSAMSwith relatively high CNI
+the estimates are small in comparison to the large over those with relatively low CNI after the introduction
+change in trend that is shown after the county councils of CNI-adjustment. Our estimation procedure uses both
+introduce CNI-adjustment (year 1 in the figure). The differences between and within county councils, so both
+trend is clearly increasing over these three years. The explanations are in principle possible. As we use differ-
+trend for CNI is practically flat up until the introductory ences between areas and county councils, the results
+year, and then turns somewhat negative but is never could in principle also be caused by changes within
+significant on the 5% level. These results reinforce our county councils that do not introduce CNI-adjustment.
+finding that the introduction of CNI-adjustment caused However, if we re-run our baseline model using only
+an increase in private center establishment in low SES county councils that ever introduce CNI-adjustment
+areas,i.e.areaswithhighCNI. our results are nearly identical. The CNI x HighCNI
+NoneofthesensitivitytestsreportedinAdditionalfile1 estimate is 0.021 (p-value<0.001), which makes
+givesusreasontoreconsiderourbaselineresults.Inorder changes in non-introducing county councils a highly
+to examine more closely in which areas the adjustment unlikely explanation (full results available on request).
+has an effect, we show results in Fig. 3 that indicate Further evidence also points to a changed distribution
+the effects over a larger range of CNI values. We use within CNI-adjusting county councils as the main
+our baseline specification from column (2) in Table 3 mechanism. First, the coefficient on the CNI-variable
+(including covariates), and interact the indicator for is consistently negative (although insignificant in most
+having CNI-adjustment (CNI) with indicators for CNI specifications, including our baseline). Second, run-
+ning our baseline specification without the interaction
+CNI x HighCNI yields a positive, but very small and
+far from significant coefficient on CNI (0.002, p-value
+=0.64). Third, if we run two specifications that only
+use differences between county councils, we find no
+significant differences. In the first, we contrast county
+councils with and without CNI-adjusted capitation but
+only use SAMS with CNI below 1.0. The estimate on the
+CNI-variableisnegative, small and insignificant(−0.0028,
+p-value=0.50). In the second, we use only SAMS with
+a CNI equal to or higher than 1.0. In this specification
+the estimate is positive, but still small and insignificant
+(0.0046, p-value=0.55). Thus, it seems like CNI-
+Fig.3IntervaldefinitionofhighCNI
+adjusted capitation mainly causes a change in the
+
+=== PÁGINA 10 ===
+Anelletal.BMCHealthServicesResearch (2018) 18:179 Page10of12
+distribution of private centers within county councils, tend to wait longer for care or refrain from care, a
+and make centers that would have otherwise located behavior that may be related to e.g. financial restrictions,
+themselves in areas with relatively low CNI choose dissatisfaction with care, and health literacy [48–52].
+areas with relatively high CNI. Thus, for improvement in spatial accessibility to trans-
+late into increased service, additional efforts on the
+part of the primary care center may be required, such
+Discussion as outreach activities and more focus on preventive
+We estimate the effects of using care-need adjusted care. However, the CNI-adjustment per se does not
+capitation on the supply of private primary care incentivize primary care centers to exert such efforts.
+centers. Our analysis produces robust results showing More evidence of how risk-adjusted payment influ-
+that private primary care centers do react to the ences service provision and in turn population health
+incentives created by risk-adjustment of capitation. would shed light on the matter.
+Adjusted capitation significantly increases the number
+of private primary care centers in areas with relatively Limitations
+high Care Need Index (CNI). Furthermore, CNI- The county councils differ in the number of years they
+adjusted capitation tends to generate a larger number have used CNI-adjusted capitation, and we have rela-
+of private primary care centers in areas with a CNI tively few pre-reform periods in some county councils,
+between 1.0 and 1.8, while the effect is practically and few post-reform periods in others. Our results are
+absent in areas with lower or higher values of CNI. therefore a mix of longer run and shorter run effects,
+Our analysis also shows that the care-need adjustment and we can only estimate yearly effects for three years
+changes the distribution of private centers within afterintroduction.
+county councils and not the total supply of private Our analysis generates relatively small R-squared
+centers. values; our most developed specification explains 4% of
+Overall, our results are good news for the governance the variation. We believe the main reason is that we lack
+of health care providers.Theresultsshow thateconomic information about some variables that determine the
+incentives influence provider behavior in terms of precise location of private primary care centers. For
+location choices, and that such incentives can contribute example, we do not have access to data about rent levels
+to a more equal supply of primary care. Although the or the availability of venues suitable for primary care
+establishment of new practices tend to be more directly centers in different areas. However, this seems unlikely
+governed by health authorities in many other countries, to be a major problem for our estimates, as the intro-
+our study may serve as an inspiration for countries duction of CNI-adjustment is not connected to neither
+looking for new ways to affect the spatial accessibility of levels nor changes of such variables and we detect very
+primary care. The generalizability of our results also small differences before the introduction (as evidenced
+increases considering the interest in several countries by our placebo estimates in Table 4 and Fig. 2). That is,
+in the development of group practices with an if the development of the omitted variables is different
+expanded role for nurses and risk-adjusted capitation in county councils that use CNI compared with those
+payment [46, 47]. that do not, or in low SES areas compared with high
+The change in the spatial distribution of private SES areas, we would expect to see larger placebo
+primary care centers induced by CNI-adjustment has estimates. However, we cannot rule out the possibility
+co-existed with a large increase in the number of that there is some omitted variable or alternative specifi-
+centers. On the one hand, our results indicate that such cation that would explain the location choices of pri-
+adjustment procedures do not affect the total number of mary care centers better, and make the CNI-explanation
+centers. On the other hand, we do not know if we would lessplausible.
+have obtained similar results, had there not been a large Our analysis contains many covariates related to the
+increase and the primary care market had been closer to variousregulationsofthepatientchoicereforms,enabling
+equilibrium. Furthermore, an interesting question for ustoconsidertheimpactsofregulatory(dis)incentivesfor
+future research is whether the increased supply of theentryofprivateprimarycarecentersinalocalmarket.
+primarycare centerstranslatesintomore careandbetter However, as noted in the Methods section, the covariates
+health outcomes for the population in low SES areas. are often highly correlated with each other, making the
+Another possibility is that the additional resources interpretation of the estimates difficult. On the other
+provided by the risk-adjusted payment are not allocated hand,theyfunctionwellascontrols.
+to services for patients, but to other purposes such as As a final point, we want to stress that our findings
+higher profits, in which case the increased supply is less describe an average effect for all county councils that
+likely to imply patient benefits. Individuals with low SES use CNI-adjustment. The effect is likely to vary
+
+=== PÁGINA 11 ===
+Anelletal.BMCHealthServicesResearch (2018) 18:179 Page11of12
+between individual county councils, depending on the Authors’information
+design and level of care-need adjusted capitation. In a Notapplicable.
+recent report we perform a case study of three county
+Ethicsapprovalandconsenttoparticipate
+councils, and observe that areas with very high care
+Notapplicable.
+need attract considerably more private primary care
+centers in the county council that uses a high threshold Consentforpublication
+Notapplicable.
+value over which CNI-adjusted capitation kicks in [53].
+Unfortunately, the number of county councils is small,
+Competinginterests
+and the variation in thresholds and other design features Theauthorsdeclarethattheyhavenocompetinginterests.
+is relatively idiosyncratic. It is therefore difficult to exam-
+inestatisticallyiftheeffectsareheterogeneous. Publisher’s Note
+SpringerNatureremainsneutralwithregardtojurisdictionalclaimsin
+publishedmapsandinstitutionalaffiliations.
+Conclusions Authordetails
+Risk-adjusted capitation based on the Care Need Index 1DepartmentofBusinessAdministration,SchoolofEconomicsand
+Management,LundUniversity,Box7080,SE-22007Lund,Sweden.
+increases the supply of private primary care centers in
+2DepartmentofEconomics,SchoolofEconomicsandManagement,Lund
+areas with unfavorable socioeconomic characteristics. University,Box7082,SE-22007Lund,Sweden.3VIVE–TheDanishCenterfor
+More generally, this result indicates that risk-adjusted SocialScienceResearch,HerlufTrollesGade11,DK-1052Copenhagen,
+capitation can significantly affect private providers’ Denmark.
+location decisions. Further research is needed to Received:16March2016Accepted:7March2018
+analyse if these results can be generalised to other
+contexts, and to understand better how payment
+References
+designscanbestalleviateinequitableaccesstohealthcare.
+1. vanDoorslaerE,MasseriaC,KoolmanX.Inequalitiesinaccesstomedical
+carebyincomeindevelopedcountries.CMAJ.2006;174:177–83.
+Additional file 2. vanDoorslaerE,KoolmanX,JonesA.Explainingincome-relatedinequalities
+indoctorutilisationinEurope.HealthEcon.2004;13:629–47.
+3. Bagod'UvaT,JonesAM.HealthcareutilisationinEurope:newevidence
+Additionalfile1:Additionalsensitivitytests.(DOCX31kb) fromtheECHP.JHealthEcon.2008;28:265–79.
+4. DevauxM.Income-relatedinequalitiesandinequitiesinhealthcareservices
+utilizationin18selectedOECDcountries.EurJHealthEcon.2015;16:21–33.
+Abbreviations
+5. NordinM,DackehagM,GerdthamU-G.Socioeconomicinequalitiesindrug
+ACG:AdjustedClinicalGroup;CEM:Coarsenedexactmatching;CNI:
+utilizationforSweden:evidencefromlinkedsurveyandregisterdata.
+CareNeedIndex;DID:Difference-in-differences;GP:Generalpractitioner; SocSciMed.2013;77:106–17.
+SAMS:SmallAreasforMarketStatistics;SES:Socioeconomicstatus
+6. HiscockR,PearceJ,BlakelyT,WittenK.IsNeighborhoodaccesstohealth
+careprovisionassociatedwithindividual-levelutilizationandsatisfaction?
+Acknowledgements BMCHealthServRes.2008;43:6.
+Thedatasetusedinthearticlehasbeencompiledbytheauthorstogether 7. ChanL,HartG,GoodmanDC.GeographicaccesstohealthCareforRural
+withLinaMariaEllegård,LundUniversity,GustavKjellsson,Universityof MedicareBeneficiaries.JRuralHealth.2006;22:140–6.
+Gothenburg,andresearchassistantMalinBredenberg.Theregisterbuildson 8. SibleyLM,WeinerJP.Anevaluationofaccesstohealthcareservicesalong
+twopreviousregistersofprimarycarecentersprovidedbyOmvård.seand therural-urbancontinuuminCanada.BMCHealthServRes.2011;11:20.
+Hälso-ochsjukvårdsinformationbuthavebeencomplementedbyalarge 9. GullifordMC.Availabilityofprimarycaredoctorsandpopulationhealthin
+numberofcontactswithcountycouncils,primarycarecenterschains,and England:isthereanassociation?JPublicHealthMed.2002;24:252–4.
+individualcenters,aswellasfromsurveysandofficialdocumentsof 10. BasuJ,MobleyLR,ThumulaV.Thesmallareaofambulatorycaresensitive
+paymentsystemsusedinthecountycouncils. hospitalizations:acomparisonofchangesovertime.SocWorkPublicHealth.
+2014;29:176–88.
+Funding 11. RosanoA,LohaCA,FalvoR,VanDerZeeJ,RicciardiW,GuasticchiG,DeBelvis
+ThestudywasfundedbyRegionSkåne,aSwedishregionalhealthauthority. AG.Therelationshipbetweenavoidablehospitalizationandaccessibilityto
+RegionSkånehadnoroleintheexecutionofthestudy,intheinterpretation primarycare:asystematicreview.EurJPubHealth.2013;23:356–60.
+oftheresults,orinthedecisiontosubmitthestudytoBMCHealthServices 12. GuagliardoM.Spatialaccessibilityofprimarycare:concepts,methodsand
+Research.ThedatacompilationwaspartlyfundedbySwedishCompetition challenges.IntJHealthGeogr.2004;3:3.
+Authority(grantno316/2013“Competition,publicprovision,and
+13. GoddardM,GravelleH,HoleA,MarinG.WheredidalltheGPsgo?
+organizationsinhealthandelderlycare”)andFORTE-SwedishResearch
+IncreasingsupplyandgeographicalequityinEnglandandScotland.
+CouncilforHealth,WorkingLifeandWelfare(grantno2011–0608“Vårdoch JHealthServResPolicy.2010;15:28–35.
+valfrihet-producentensdrivkrafteriprimärvården”).
+14. BärnighausenT,BloomDE.Financialincentivesforreturnofservicein
+underservedareas:asystematicreview.BMCHealthServRes.2009;9:86.
+Availabilityofdataandmaterials 15. GroblerL,MaraisBJ,MabundaS.Interventionsforincreasingtheproportion
+Dataarenotavailableatthispointintime.Weareplanningadditional ofhealthprofessionalspractisinginruralandotherunderservedareas.
+studiesusingthesedata,whosecompilationcostswereconsiderable. CochraneDatabaseSystRev.2015;6:CD005314.
+16. Socialstyrelsen.Införandetavvårdvaliprimärvården.Stockholm:
+Authors’contributions Socialstyrelsen(TheNationalBoardofHealthandWelfare);2010.
+Allthreeauthorscontributedtothestudyconceptanddesign,andtothe 17. AnellA.Thepublic-privatependulum–patientchoiceandequityin
+compilationofthedataset.MDandJDconductedthestatisticalanalysis.Allthree Sweden.NEnglJMed.2015;372:1–4.
+authorsareresponsiblefortheinterpretationandanalysisoftheresults,andfor 18. IsakssonD,BlomqvistP,WinbladU.Freeestablishmentofprimaryhealthcare
+writingthearticle.Allauthorsreadandapprovedthefinalmanuscript. providers:effectsongeographicalequity.BMCHealthServRes.2016;16:28.
+
+=== PÁGINA 12 ===
+Anelletal.BMCHealthServicesResearch (2018) 18:179 Page12of12
+19. Hennig-SchmidtH,SeltenR,WiesenD.Howpaymentsystemsaffect 47. RoseOlsenK,AnellA,HäkkinenU,IversenT,ÓlafsdóttirT,SuttonM.General
+physicians’provisionbehavior-anexperimentalinvestigation.JHealth practiceintheNordiccountries.Nordic.JHealthEcon.2016;4(1):56–67.
+Econ.2011;30:637–46. 48. WamalaS,MerloJ,BoströmG,HogstedtC.Perceiveddiscrimination,
+20. GryttenJ,SørensenR.Practicevariationandphysician-specificeffects. socioeconomicdisadvantageandrefrainingfromseekingmedical
+JHealthEcon.2003;22:403–18. treatmentinSweden.JEpidemiolCommunityHealth.2007;61:409–15.
+21. DevlinRA,SharmaS.Dophysicianremunerationschemesmatter?Thecase 49. MolariusA,SimonssonB,Lindén-BoströmM,Kalander-BlomqvistM,
+ofCanadianfamilyphysicians.JHealthEcon.2008;27:1168–81. FeldmanI,ErikssonHG.Socialinequalitiesinself-reportedrefrainingfrom
+22. DahrougeS,HoggW,WardN,TunaM,DevlinRA,KristjanssonE,TugwellP, healthcareduetofinancialreasonsinSweden:healthcareonequalterms?
+PottieK.Deliveryofprimaryhealthcaretopersonswhoaresocio-economically BMCHealthServRes.2014;14:605.
+disadvantaged:doestheorganizationaldeliverymodelmatter?BMCHealth 50. GlenngårdAHI.Patientsatisfactioninprimarycaredependentonstructuraland
+ServRes.2013;13:517. organizationalcharacteristicsamongproviders?Findingsbasedondatafromthe
+23. GosdenT,SibbaldB,WilliamsJ,PetcheyR,LeeseB.Payingdoctorsby nationalpatientsurveyinSweden.HealthEconPolicyLaw.2013;8:317–33.
+salary:acontrolledstudyofgeneralpractitionerbehaviourinEngland. 51. vanRynM,BurkeJ.Theeffectofpatientraceandsocio-economicstatuson
+HealthPolicy.2003;64:415–23. physicians’perceptionsofpatients.SocSciMed.2000;50:813–28.
+24. EllisRP.Creaming,skimpingordumping:providercompetitiononthe 52. Paasche-OrlowMK,WolfMS.Thecausalpathwayslinkinghealthliteracyto
+intensiveandextensivemargins.JHealthEcon.1998;17:537–55. healthoutcomes.AmJHealthBehav.2007;31(Suppl1):S19–26.
+25. EgglestonK.Riskselectionandoptimalhealthinsurance–provider 53. AnellA,DackehagM,DietrichsonJ.VilkenbetydelseharCNI-ersättningför
+paymentsystems.JRiskInsur.2000;67:173–96. etableringavprivatavårdcentraler?Delrapport2B,Utvärderingavhälsovali
+26. KringosDS,BoermaWGW,HutchinsonA,SaltmanRB(eds).Buildingprimary primärvårdenrespektivevårdvalinomspecialistvårdeniRegionSkåne.KEFU
+careinachangingEurope.Copenhagen:Europeanobservatoryonhealth -Rådetförkommunalekonomiskforskningochutbildning(TheCouncilfor
+systemsandpolicy;2015.EuropeanObservatoryHealthPolicySeries,38. LocalGovernmentResearchandEducation);2016.
+27. MasseriaCIR,ThomsonS,GemmillM,MossialosE.PrimaryCareinEurope:
+policybrief.London:LSE;2009.
+28. AnellA,GlenngårdAH,MerkurS.Sweden.Healthsystemreview.Health
+SysteminTransition.2012;14(5):1–159.
+29. AnellA.ChoiceandprivatizationinSwedishprimarycare.Health
+Economics,PolicyandLaw.2011;6(4):549–69.
+30. MalmströmM,SundquistJ,BajekalM,JohanssonS.Indicesofneedand
+socialdeprivationforprimaryhealthcare.ScandJSocMed.1998;2:124–30.
+31. SundquistK,MalmströmM,JohanssonSE,SundquistJ.Careneedindex,a
+usefultoolforthedistributionofprimaryhealthcareresources.JEpidemiol
+CommunityHealth.2003;57:347–52.
+32. StarfieldB,WeinerJ,MumfordL,SteinwachsD.Ambulatorycaregroups:a
+categorizationofdiagnosesforresearchandmanagement.BMCHealth
+ServRes.1991;26:53–74.
+33. MyndighetenförVård-ochOmsorgsanalys.Låtdenrättekommain:Hurhar
+tillgänglighetenpåverkatsavapoteksomregleringen,vårdvaletsamtvårdgarantin
+ochKömiljarden?Stockholm:ndighetenförvård-ochomsorgsanalys(The
+SwedishAgencyforHealthandCareServicesAnalysis);2014.
+34. MyndighetenförVård-ochOmsorgsanalys.Vadvillpatientenvetaföratt
+välja?Vårdanalysutvärderingavvårdvalsinformation.Stockholm:
+Myndighetenförvård-ochomsorgsanalys(TheSwedishAgencyforHealth
+andCareServicesAnalysis);2013.
+35. BeckmanA,AnellA.Changesinhealthcareutilisationfollowingareform
+involvingchoiceandprivatisationinSwedishprimarycare:afive-year
+follow-upofGP-visits.BMCHealthServRes.2013;13:452.
+36. LundvallK,ÖhlinJ,StefansdotterA.Inträdeshinderförprivatavårdcentraler:
+Erfarenheterfrånvalfrihetsreformeninomprimärvård.Konkurrensverket:
+Stockholm;2011.
+37. AnellA,NylinderP,GlenngårdA.Vårdvaliprimärvården.Jämförelseav
+uppdrag,ersättningsprinciperochkostnadsansvar.Stockholm:Sveriges
+KommunerochLandsting;2012.
+38. IacusSM,KingG,PorroG.Causalinferencewithoutbalancechecking:coarsened
+exactmatching.PolitAnal.2011;https://doi.org/10.1093/pan/mpr01.
+39. AbadieA.Semiparametricdifference-in-differencesestimators.RevEcon
+Stud.2005;72:1–19.
+40. StataCorp.StataStatisticalSoftware.CollegeStation.Release13ed.TX:
+StataCorpLP;2013.
+41. BertrandM,DufloE,MullainathanS.Howmuchshouldwetrust
+differences-in-differences estimates?QJEcon.2004;119:249–75.
+42. CameronAC,GelbachJB,MillerDL.Bootstrap-basedimprovementsfor
+inferencewithclusterederrors.RevEconStat.2008;90:414–27.
+43. AltonjiJG,ElderTE,TaberCR.Selectiononobservedandunobserved
+variables:assessingtheeffectivenessofcatholicschools.JPolitEcon.
+2005;113:151–84.
+44. OsterE.Unobservableselectionandcoefficientstability:theoryandevidence.
+NationalBureauofEconomicResearch.2014;WorkingPaper19054
+45. MalanA,ReifJ.Interpretingpre-trendsasanticipation:impactonestimated
+treatmenteffectsfromtortreform.JPublicEcon.2015;124:1–17.
+46. BodenheimerT,BauerL.Rethinkingtheprimarycareworkforce–an
+expandedrolefornurses.NEnglJMed.2016;375(11):1015–7.

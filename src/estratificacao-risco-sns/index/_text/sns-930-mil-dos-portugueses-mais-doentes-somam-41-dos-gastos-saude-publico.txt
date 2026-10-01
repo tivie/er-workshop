@@ -1,0 +1,107 @@
+# Fonte: SNS_ 930 mil dos portugueses mais doentes somam 41_ dos gastos _ Saúde _ PÚBLICO.pdf
+# Páginas: 3
+
+=== PÁGINA 1 ===
+SNS: 930 mil dos portugueses mais doentes somam
+41% dos gastos
+Ana Maia
+• Ler mais: Avaliação da população pelo risco clínico devia ser “alargada ao
+sector social”, defende ex-secretário de Estado
+Começou a ser implementada pelo Serviço Nacional de Saúde (SNS) em 2024 e tem vindo a
+desenvolver-se. A estratificação da população pelo risco clínico tem permitido fazer um retrato
+da população tendo em conta a carga de doença. Em 2024, “cerca de 9% dos utentes” — 928 mil
+pessoas — foram “caracterizadas como sendo de risco clínico alto ou muito alto”. Embora sejam
+uma pequena fatia dos mais de dez milhões de residentes inscritos nos centros de saúde,
+“representam 41% dos gastos em cuidados de saúde, considerados para efeitos de estratificação
+da população pelo risco”.
+Portugal “é o primeiro país a conseguir proceder à estratificação do total da população inscrita
+no seu SNS”, destaca a Administração Central do Sistema de Saúde (ACSS). A ferramenta
+“surgiu como resposta estruturante aos desafios actuais do sistema de saúde — nomeadamente o
+envelhecimento da população, a mudança dos padrões epidemiológicos e a crescente pressão
+sobre os recursos disponíveis”.
+Com base neste modelo, que reparte a população em quatro subgrupos tendo em conta a carga
+de doença — risco muito alto, alto, moderado e baixo —, é possível “conhecer com maior detalhe
+as necessidades reais dos cidadãos, segmentando a população em grupos com características e
+níveis de risco semelhantes, o que é essencial para planear cuidados mais adequados, eficientes e
+sustentáveis”, defende a ACSS. E que retrato da população nos dá?
+O mais recente é feito com dados de 2024 (10,6 milhões de utentes) e mostrou que perto de 241
+mil utentes foram identificados como de risco muito alto, 687 mil de risco alto, 3,9 milhões de
+risco moderado e 5,5 milhões de pessoas de risco baixo. É o grau de complexidade e a
+perspectiva de cuidados de que precisam nos centros de saúde e hospitais que leva a esta
+subdivisão. Por exemplo, o grupo de risco mais elevado serão sobretudo pessoas com doenças
+crónicas, muitas vezes mais do que uma, e tendencialmente mais velhas.
+A complexidade eleva também a despesa associada. Por exemplo, segundo os dados da ACSS, o
+custo médio por utente de muito alto risco ronda os sete mil euros, mas desce para 2600 no
+grupo de risco alto. No moderado, o custo médio não chega a mil euros e cada utente de risco
+baixo representa, em média, 208 euros.
+Ou seja, em 2024, de um total de custos de 8,5 mil milhões de euros contabilizados para a
+estratificação pelo risco (despesas com consultas, internamentos, urgências, cirurgias, mas há
+outras despesas que ainda não estão integradas), os utentes de risco clínico alto ou muito alto
+representam uma despesa de 3,5 mil milhões de euros (41%). Já os 37% de utentes de risco
+clínico moderado, “representam 45% dos gastos” — 3,8 mil milhões de euros — e a restante fatia
+de utentes (cerca de 54%) classificada como sendo de risco clínico baixo, representa “14% dos
+gastos em saúde” — quase 1,2 mil milhões de euros.
+A primeira caracterização da população pelo risco foi feita com dados de 2019. Um intervalo de
+cinco anos e com uma pandemia pelo meio mostram que a população inscrita no SNS cresceu e
+que, à excepção do grupo de risco baixo, todos os outros aumentaram. Ou seja, os 41% de
+população entre risco muito alto e moderado passaram a 46%, o que poderá indiciar uma
+população um pouco mais doente e mais velha, tendencialmente a precisar de mais cuidados.
+
+=== PÁGINA 2 ===
+Ajustar recursos às necessidades
+Tal como explicou, em 2024, o então secretário de Estado da Saúde Ricardo Mestre, este
+trabalho de estratificação pelo risco permitiu atribuir a cada subgrupo um peso relativo, que
+traduz a complexidade desses utentes. Por exemplo, com base nos dados de 2024, o peso relativo
+médio dos utentes de risco muito alto é de 8,8. Ou seja, estas pessoas terão oito vezes mais
+necessidade de cuidados do que um utente padrão, cujo peso relativo será 1.
+Com este retrato da população nas mãos, é possível obter um Índice de Risco Ajustado por
+unidade local de saúde (ULS). Disto e do número de inscritos resulta a capitação ajustada
+atribuída a cada uma das unidades de saúde que já contribui para o financiamento. Neste
+âmbito, esse valor para cada ULS “pode flutuar consoante o aumento/redução do risco clínico da
+sua população inscrita, sendo um dos objectivos finais da utilização da estratificação da
+população pelo risco obter um melhor estado de saúde das populações”, explica a ACSS.
+A estratificação da população pelo risco, "ao permitir ajustar recursos às necessidades em saúde
+da população, constitui-se na actualidade como uma peça basilar para orientar e apoiar a
+organização da prestação de cuidados no SNS em ULS (que integram cuidados saúde primários e
+hospitalares)", reforça a ACSS.
+Ao “introduzir uma nova lógica de gestão baseada no perfil de saúde dos utentes”, esta
+ferramenta permite “antecipar necessidades futuras, priorizar intervenções nos grupos de maior
+risco, prevenir agravamentos da doença e reduzir internamentos evitáveis”. Ao mesmo tempo,
+“contribui para uma alocação mais racional dos recursos humanos, materiais e financeiros,
+reforçando a qualidade dos cuidados e promovendo maior equidade no acesso”, salienta a ACSS,
+que, a par de outras entidades, está a coordenar a implementação desta ferramenta a nível
+nacional.
+Na proposta de lei das Grandes Opções para 2025-2029, a meta do Governo é “garantir, até
+2029, que 25% do financiamento” esteja associado a modelos de estratificação pelo risco.
+Ajudou durante o comboio de tempestades
+Por parte das ULS, diz a ACSS, há o reconhecimento cada vez maior dos “benefícios de
+utilização” de ferramentas como esta. Além da “fotografia” da realidade local, “conseguem com
+essa informação melhorar o planeamento e a implementação de estratégias dirigidas ao seu
+contexto local, nomeadamente para elaboração dos seus planos locais de saúde”.
+Há já entidades “que se encontram a definir percursos assistenciais integrados ao nível, por
+exemplo, da saúde mental, da diabetes ou das cardiopatias com base em dados de estratificação
+pelo risco”. E este modelo também ajudou durante o comboio de tempestades que atingiu o país
+em Fevereiro, ao ser “utilizada na identificação de utentes com cuidados respiratórios
+domiciliários”, o que permitiu “identificar rapidamente as pessoas em risco”.
+Existem mais exemplos a vir do terreno. A ferramenta está também a ser usada “no estudo dos
+grandes utilizadores de urgências, no sentido de apostar na prevenção e na definição de planos
+personalizados de acompanhamento destes utentes” e na “reconciliação terapêutica, através da
+identificação de utentes em situação de polimedicação, com a criação de consultas dedicadas e
+multidisciplinares”.
+A ACSS, que está a dar “apoio e acompanhamento das estruturas locais” na implementação desta
+ferramenta, dá mais dois exemplos práticos da sua utilização: “Identificação de doentes
+complexos, como por exemplo idosos com múltiplas comorbilidades, para os quais são definidos
+planos de intervenção personalizados” e a “análise detalhada” da população inscrita em cada
+ULS com o foco de “antecipar o agravamento de eventuais doenças ainda não registadas”.
+
+=== PÁGINA 3 ===
+Classificando a estratificação da população pelo risco “como um vector fundamental de
+transformação do SNS”, a ACSS diz que o “futuro passa por consolidar e expandir este modelo,
+enriquecendo a informação disponível, alargando a sua aplicação e aprofundando e
+disseminando o uso do conhecimento gerado, com vista a melhores respostas em saúde e a uma
+utilização cada vez mais eficiente dos recursos públicos”.
+Uma das possibilidades em cima da mesa é a criação de um indicador socioeconómico. Esse
+estudo “encontra-se ainda em fase embrionária, carecendo de oficialização da colaboração com o
+INE [Instituto Nacional de Estatística]”, diz a ACSS, referindo que o seu uso “depende do nível
+de detalhe da informação disponível e de estudos de correlação entre este indicador e os custos
+em saúde”. A implementar-se, “será também uma inovação ao nível dos sistemas de saúde”.

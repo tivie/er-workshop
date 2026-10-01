@@ -1,0 +1,247 @@
+# Fonte: ACSS 2025 Relatorio Sintese - Utilizacao dos instrumentos de ER no SNS 2025.pdf
+# Páginas: 14
+
+=== PÁGINA 1 ===
+Utilização dos Instrumentos de Estratificação da População pelo
+Risco no SNS
+2025
+Relatório Síntese
+23 de dezembro de 2025
+
+=== PÁGINA 2 ===
+Siglas e Acrónimos
+ACSS - Administração Central do Sistema de Saúde, IP
+BI-ER - Sistema de business Intelligence para a Estratificação pelo risco
+DB - Dashboard
+ER – Estratificação pelo Risco
+GD – Grupos de Diagnóstico
+GDC – Grupos de Doenças Crónicas
+GGC – Grandes Grupos de Diagnóstico
+GRA - Grupos de Risco Ajustado
+IDRA - Índice de Risco ajustado
+SNS - Serviço Nacional de Saúde
+ULS- Unidades Locais de Saúde
+
+=== PÁGINA 3 ===
+Índice de Figuras
+FIGURA 1- INFORMAÇÃO CONSIDERADA PARA ER ................................................................................... 4
+FIGURA 2 - PIRÂMIDE ETÁRIA POR NÍVEL DE RISCO – NACIONAL 2024 .......................................................... 5
+FIGURA 3 - TIPOS DE INFORMAÇÃO 2024 ............................................................................................. 6
+FIGURA 4 - DOENÇAS CRÓNICAS 2024 ............................................................................................... 7
+FIGURA 5 - POLIFARMÁCIA 2024 ....................................................................................................... 7
+FIGURA 6 - MULTIMORBILIDADE 2024 ................................................................................................. 8
+FIGURA 7-GRUPOS DE DIAGNÓSTICO 2024 .......................................................................................... 9
+FIGURA 8- CUSTOS POR TIPOS DE CONTACTO 2024 .............................................................................. 10
+FIGURA 9-TIPOS DE CONTACTO POR NÍVEL DE RISCO 2024 ..................................................................... 10
+FIGURA 10- PIRÂMIDE DE KAISER 2024 ............................................................................................. 10
+FIGURA 11- TOP 10 GRA MAIS PREVALENTES A NÍVEL NACIONAL 2024 ...................................................... 11
+FIGURA 12- IDRA 2024 ................................................................................................................ 12
+FIGURA 13- DISTRIBUIÇÃO GEOGRÁFICA 2024 ................................................................................... 13
+
+=== PÁGINA 4 ===
+1. Enquadramento
+Presentemente no SNS, a estratificação pelo risco (ER) tem um papel fundamental, ao consistir numa
+abordagem sistemática, de abrangência populacional, utilizada para prever necessidades, sejam elas ao
+nível da morbilidade, do consumo de recursos, dos custos, ou da ocorrência de eventos adversos, tais
+como admissões não planeadas potencialmente evitáveis, ou outro tipo de riscos. Constitui-se, assim,
+como um instrumento de apoio à gestão das ULS e a utilizar no SNS, sendo um auxiliar primordial à
+integração efetiva de cuidados de saúde primários e hospitalares.
+A publicação do Despacho n.º 12986/2023, de 19 de dezembro de 2023, vem determinar a utilização dos
+instrumentos de estratificação de risco clínico no SNS e criar, para esse efeito, o Projeto de
+Operacionalização da Utilização dos Instrumentos de Estratificação pelo Risco.
+Na sequência do Relatório do Projeto de Operacionalização da Utilização dos Instrumentos de
+Estratificação da População pelo Risco no SNS, o objetivo do presente documento é descrever a
+caracterização da população utilizando a atual ferramenta de Estratificação pelo Risco.
+
+=== PÁGINA 5 ===
+Breve caracterização da população no âmbito da ER- 2024
+Os dashboards (DB) do BI_ER constituem-se como uma ferramenta fundamental de apoio à monitorização
+e análise da população abrangida pelas ULS, permitindo uma visão global e integrada, quer ao nível
+nacional, quer ao nível de cada ULS individualmente. Estes DB disponibilizam indicadores e métricas
+dinâmicas que possibilitam uma compreensão detalhada dos utentes inscritos em CSP nas ULS1,
+analisando-a segundo diversas dimensões sociodemográficas e clínicas, essenciais para a estratificação,
+planeamento e gestão dos cuidados de saúde.
+A informação considerada para efeitos de estratificação da população pelo risco foi a seguinte:
+Custo
+Consultas médicas CSP Preço médico (como proxy do custo), por hora, considerando abonos
+pagos anualmente e duração das consultas realizadas no ano em
+análise
+Consultas de enfermagem CSP Preço enfermagem (como proxy do custo), por hora, considerando
+abonos pagos anualmente e duração das consultas realizadas no
+ano em análise
+Consultas de outros profissionais de saúde CSP Preço de outros profissionais de saúde (como proxy do custo), por
+hora, considerando abonos pagos anualmente e duração das
+consultas realizadas no ano em análise
+MCDT prescritos no SNS (*), realizados no sector Preço convencionado por MCDT (inclui taxas moderadoras)
+convencionado
+Medicamentos prescritos e dispensados em Preço de venda ao publico
+farmácia comunitária
+Urgências hospitalares Preço urgências (como proxy dos custos) da Portaria n.º 254/2018
+de 7 de setembro, relativa à Tabela de preços SNS, sendo calculado
+um preço médio considerando os diferentes tipos de urgências
+Consultas externas hospitalares Preço primeiras consultas e subsequentes (como proxy dos custos)
+do Contrato Programa, considerando os diferentes preços por Grupo
+de Hospitais/CH
+Internamentos, cirurgia de ambulatório e Preço GDH (como proxy do custo) da Portaria n.º 254/2018 de 7 de
+ambulatório médico (linhas GDH) setembro, relativa à Tabela de preços SNS, ponderado por doente
+equivalente
+Figura 1- Informação considerada para ER
+Apresentam-se de seguida alguns DB do BI-ER, sendo que por defeito estará sempre presente uma ULS
+exemplo e a análise efetuada ser apenas numa perspetiva nacional.
+11 Total de 10 528 673 utentes inscritos em CSP a 31 de dezembro de 2024.
+
+=== PÁGINA 6 ===
+1- DB Caracterização População Inscrita
+O DB Caracterização da População Inscrita apresenta uma visão geral da estrutura populacional, e inclui,
+entre outros, os seguintes dados:
+a) Pirâmide etária
+Figura 2 - Pirâmide etária por nível de risco – Nacional 2024
+Constata-se que existe uma predominância do risco baixo nas idades mais jovens, o que é consistente com
+o esperado para estes escalões etários.
+Verifica-se um aumento progressivo do risco com a idade. A partir dos 50 anos, começa a observar-se um
+aumento gradual do risco moderado. Entre os 65 e 79 anos, nota-se já uma proporção relevante de utentes
+com risco alto ou muito alto, o que refletirá uma maior prevalência de doenças crónicas e multimorbilidade.
+Também se verificam diferenças por género nas idades mais avançadas. Nas faixas etárias acima dos 75
+anos, observa-se uma maior proporção de mulheres, refletindo uma maior longevidade feminina. Nessas
+idades, o risco alto e muito alto é mais prevalente entre as mulheres, o que coincide com o relatado na
+literatura internacional que identifica maior longevidade nas mulheres com maior co-morbilidade (Health at
+Glance, 20252).
+Constata-se, ainda, que a população portuguesa inscrita nas ULS apresenta uma estrutura envelhecida,
+com um peso significativo das faixas etárias acima dos 60 anos.
+2 https://www.oecd.org/en/publications/health-at-a-glance-2025_8f9e3f98-en.html
+
+=== PÁGINA 7 ===
+b) Tipos de informação
+O BI_ER disponibiliza informação sobre a quantidade de utentes por tipos de informação de cada ULS,
+comparativamente com o Nacional.
+Figura 3 - Tipos de Informação 2024
+A imagem acima apresenta uma análise da diversidade de tipos de informação clínica dos utentes
+considerada para efeitos de estratificação pelo risco
+Existe uma grande proporção de utentes sem informação clínica (11,5%), o que pode indicar menor
+interoperabilidade entre sistemas ou menor atividade registada.
+c) Doenças Crónicas
+A imagem abaixo apresenta o número de doenças crónicas (GDC) e número de utentes associados,
+comparando a ULS Exemplo com o referencial nacional, complementada com uma pirâmide etária que
+relaciona o número de doenças crónicas com o sexo e a faixa etária.
+
+=== PÁGINA 8 ===
+Figura 4 - Doenças Crónicas 2024
+O peso médio e o custo médio aumentam de forma progressiva com o número de doenças crónicas,
+evidenciando uma relação direta entre multimorbilidade e o consumo de recursos de saúde.
+A pirâmide etária apresenta uma representação visual clara da correlação entre idade e número de doenças
+crónicas. De facto, a partir dos 80 anos, verifica-se o predomínio de utentes com 6 ou mais doenças
+crónicas, sobretudo entre as mulheres, o que reflete a maior esperança média de vida feminina e
+consequente acumulação de patologias crónicas. A pirâmide mantém um perfil etário típico de uma
+população envelhecida, com maior volume nas faixas 60–79 anos.
+d) Polifarmácia
+A imagem abaixo apresenta o número de princípios ativos prescritos e dispensados e número de utente
+associados:
+Figura 5 - Polifarmácia 2024
+
+=== PÁGINA 9 ===
+A maioria dos utentes encontra-se nas faixas de 0 a 2 princípios ativos o que pode indicar uma população
+maioritariamente saudável ou com condições clínicas controladas. A faixa 15+ princípios ativos representa
+apenas 3,82% dos utentes, mas tem um custo médio muito elevado, podendo indicar casos de
+polimedicação complexa.
+Constata-se um padrão clássico de polimedicação em idosos, o que pode levantar preocupações sobre a
+gestão terapêutica, riscos de interações medicamentosas e custos associados.
+e) Multimorbilidade
+A imagem abaixo apresenta o número de diagnósticos e número de utentes associados:
+Figura 6 - Multimorbilidade 2024
+A nível nacional a maioria dos utentes tem entre 0 e 2 diagnósticos (51,3%), com um custo médio inferior
+ao apurado para os restantes números de diagnósticos, podendo indiciar uma população maioritariamente
+saudável, com condições menos complexas ou, ainda, estar associado a situações de codificação clínica
+incompleta. A faixa 15+ diagnósticos representa apenas 3,26% dos utentes, possuindo o custo médio mais
+elevado e indicando que poucos utentes concentram múltiplas patologias e custos significativos.
+O padrão etário mostra que a multimorbilidade aumenta com a idade, o que é consistente com tendências
+nacionais e internacionais. Constata-se um padrão típico de multimorbilidade em idosos, especialmente em
+mulheres. A gestão de doentes crónicos (sobretudo acima dos 60 anos) é crucial para controlar custos e
+melhorar a qualidade de vida.
+
+=== PÁGINA 10 ===
+f) Grupos de Diagnóstico
+A imagem abaixo apresenta a distribuição dos diagnósticos por nível de risco clínico com base nos Grupos
+de Diagnóstico (GD) e Grandes Grupos de Diagnóstico (GGD):
+Figura 7-Grupos de Diagnóstico 2024
+Constata-se que mesmo entre utentes de risco muito alto, há uma presença marcante de cuidados
+preventivos, o que sugere uma gestão ativa de doenças crónicas. A hipertensão e doenças metabólicas
+são fatores-chave do risco elevado. Este padrão deve incentivar ao foco assistencial na gestão de doença
+crónica.
+Os utentes de baixo risco são sobretudo pessoas saudáveis ou em idade fértil, que procuram os serviços
+de saúde para obter cuidados nas áreas de planeamento familiar e rastreios preventivos. O foco assistencial
+deverá ser o da promoção da saúde.
+2- DB Contactos com o SNS
+O DB Contactos com o SNS apresenta uma análise detalhada sobre a distribuição dos custos totais por
+tipo e âmbito de contacto, segmentada por nível de risco:
+
+=== PÁGINA 11 ===
+Figura 8- Custos por tipos de contacto 2024
+Figura 9-Tipos de contacto por nível de risco 2024
+Para os tipos de contactos apresentados, cerca de 2% dos utentes inscritos tiveram internamento
+hospitalar, a sendo esta linha de produção a que apresenta um custo médio mais elevado.
+Cerca de 35% dos utentes inscritos recorreram a consultas nos CSP, representando o respetivo custo cerca
+de 10% do custo total.
+3- DB Complexidade da População Inscrita
+O DB Complexidade da População Inscrita apresenta um conjunto de fatores que permitem caraterizar a
+nível de complexidade da população inscrita e inclui, entre outros, os seguintes dados:
+a) Pirâmide de Kaiser
+Através da estratificação pelo risco os indivíduos são classificados e agrupados em Grupos de Risco
+Ajustado (GRA), exclusivos entre si, permitindo identificar subpopulações com risco comparável, seguindo
+a lógica da Pirâmide de Kaiser Permanent, em que a população com risco se subdivide em: risco muito alto
+(5%), risco alto (cerca de 15%) e risco moderado (cerca de 80% da população).
+Figura 10- Pirâmide de Kaiser 2024
+
+=== PÁGINA 12 ===
+Este tipo de análise ajuda a compreender como os custos e a carga assistencial se distribuem entre
+diferentes grupos de risco na população, confirmando o princípio de Pareto em que cerca de 5% dos utentes
+com risco muito alto geram cerca de 21% do total de custos dos utentes classificados nos níveis de risco
+moderado a muito alto.
+A prevenção e gestão integrada dos grupos de risco moderado e alto são fundamentais para a
+sustentabilidade financeira e eficiência assistencial. O peso relativo crescente reforça a necessidade de
+estratégias diferenciadas por nível de risco.
+O foco deverá assentar em manter a base saudável (prevenção), controlar doenças crónicas no grupo
+moderado e gerir intensivamente os doentes complexos tendo em vista, por exemplo, a minimização de
+internamentos evitáveis.
+b) Grupos de risco ajustado (GRA)
+Os GRA são um sistema de classificação em que os utentes são agrupados do ponto de vista da carga da
+doença/morbilidade, consumo de cuidados de saúde, sexo, idade e custos. São 176 categorias de
+morbilidade mutuamente exclusivas de utentes idênticos do ponto de vista clínico e da utilização de
+recursos em saúde em que cada GRA tem um peso relativo associado.
+Esta imagem apresenta a distribuição de GRA a nível nacional:
+Figura 11- Top 10 GRA mais prevalentes a nível nacional 2024
+Constata-se que o GRA mais prevalente é o 5110- Sem diagnóstico ou só com diagnósticos não válidos
+(16,78%), seguindo-se o GRA- 4100 2-3 combinações de outros GDA´s, idade > 34 (12,34%), e o GRA
+5200- Não utilizadores (11, 54%).
+
+=== PÁGINA 13 ===
+c) Índice de risco ajustado (IDRA)
+O IDRA caracteriza cada ULS face Às restantes ULS em termos do perfil de saúde dos seus utentes e
+recursos esperados para o seu acompanhamento e tratamento. Reflete, assim, a relatividade de cada
+indivíduo relativamente aos restantes em termos do seu risco de necessitar de cuidados de saúde e
+calcula-se da seguinte forma:
+A imagem abaixo apresenta o IDRA das ULS:
+Figura 12- IDRA 2024
+O IDRA “com Médico de Família” é ligeiramente mais baixo e o IDRA “sem Médico de Família” tende a ser
+mais elevado.
+Em termos gerais, no que se refere à abordagem da estratificação da população pelo risco, valores mais
+baixos de IDRA traduzirão melhor nível de saúde das populações. Ressalva-se que estes valores estarão
+sempre associados aos registos clínicos realizados.
+d) Distribuição geográfica
+A distribuição geográfica da população inscrita evidencia assimetrias regionais quanto ao nível de risco
+associado:
+
+=== PÁGINA 14 ===
+Figura 13- Distribuição Geográfica 2024
+Os distritos estão coloridos conforme a proporção da população em cada nível de risco. As cores mais
+escuras indicam uma maior percentagem da população nesse nível de risco e as mais claras uma menor
+percentagem.
+Em resumo, a estratificação da população pelo risco constitui o ponto de partida para análises
+subsequentes no âmbito da estratificação, uma vez que permite contextualizar o perfil da população e
+compreender a base sobre a qual se aplica o modelo de Estratificação pelo Risco. Este tipo de análise é
+essencial para o planeamento em saúde, permitindo orientar recursos e intervenções para as faixas e
+grupos com maior risco clínico.
+Os dados apresentados são relativos ao ano de 2024 e resultam de processos de extração e consolidação
+de informação, garantindo a consistência e fiabilidade dos indicadores disponibilizados no BI_ER.
+Administração Central do Sistema de Saúde, I.P.
+Parque de Saúde de Lisboa | Edifício 16 | Avenida do Brasil, 53 | 1700-063 Lisboa | Portugal
+Tel. Geral: 21 792 58 00 | Email: geral@acss.min-saude.pt | www.acss.min-saude.pt

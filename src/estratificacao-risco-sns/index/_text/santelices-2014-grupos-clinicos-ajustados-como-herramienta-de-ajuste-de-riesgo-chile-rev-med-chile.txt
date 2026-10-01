@@ -1,0 +1,423 @@
+# Fonte: Santelices 2014 Grupos clinicos ajustados como herramienta de ajuste de riesgo - Chile (Rev Med Chile).pdf
+# Páginas: 8
+
+=== PÁGINA 1 ===
+artículos de investigación
+rev Med chile 2014; 142: 153-160
+Aplicación de grupos clínicos ajustados
+1departamento de desarrollo
+como herramienta de ajuste de riesgo: estratégico, Ministerio de salud.
+santiago de chile.
+evaluación en la distribución 2Med-iQ
+de recursos en programa de aMd MPH MBa doctorando PH.
+bMd MPH MBa.
+enfermedades crónicas cKinesiólogo.
+dingeniero civil industrial.
+eingeniero comercial Mención
+economía.
+Emilio SantElicES c.1,a, Patricio muñiz V.2,b, luiS arriagada B.2,c,
+magdalEna dElgado S.1,d, JoSE roJaS F.1,e recibido el 22 de agosto de
+2013, aceptado el 5 de diciembre
+de 2013
+Adjusted Clinical Groups as a risk assessment correspondencia a:
+dr. emilio santelices c.
+model for healthcare resource allocation Ministerio de salud
+Mac iver 541, oficina 34.
+teléfono: 02-5749 994
+Background: There is increasing interest in the study and improvement of
+esantelices@minsal.cl
+health system resource allocation. The Adjusted Clinical Groups (ACG) System
+measures the morbidity burden of patient populations based on disease patterns,
+age and gender. This system can be used in primary health care settings. Aim: To
+report the use of the ACG system as a risk based patient classification system and
+its potential as a resource allocation mechanism in primary health care. Material
+and Methods: Patient diagnoses from a sample of primary care establishments
+were processed using the Johns Hopkins ACG System. Linear regressions were
+used to measure the ACG System’s ability to explain resource use and ambulatory
+visit rates. Results: The ACG System had a statistically significant capacity to
+explain primary health care costs with an adjusted R2 of 0.26. These results are
+significantly better, compared with risk assessment models based on patients’
+age and sex, whose adjusted R2 is 0.05. Conclusions: The use of risk adjustment
+mechanisms will contribute to improve health care resource allocation as well
+to know the disease profile of the population.
+(Rev Med Chile 2014; 142: 153-160)
+Key words: Morbidity; Primary Health Care; Resource Allocation.
+U
+n tema de creciente interés y desarrollo lar2. Tal monto es corregido por indexadores que
+en el mundo se relaciona con la búsqueda dependen de las características socio-geográficas de
+de las mejores metodologías que permi- la población a la que atienden (índice de pobreza
+tan asignar de mejor manera los recursos para la y número de adultos mayores). Además, algunas
+atención de salud, tanto a nivel hospitalario como patologías cuentan con programas específicos que
+de Atención Primaria de Salud (APS). Este desafío designan una cantidad de recursos adicionales para
+surge a partir de la evidencia que señala que la efi- el financiamiento de su atención. No se realiza un
+ciencia de los proveedores de servicios, se comporta pago asociado a la carga e intensidad de morbilidad
+de manera diferente según el modelo de transferen- del paciente.
+cia de recursos con que cuente el sistema1. En Chile, A nivel mundial se han desarrollado diferentes
+el sistema de pago vigente para la APS se basa en la experiencias y metodologías para caracterizar
+distribución de un monto fijo según la cantidad de la carga de morbilidad de los pacientes y poder
+personas suscritas a un establecimiento en particu- identificar los patrones de consumo de recursos
+153
+
+=== PÁGINA 2 ===
+artículos de investigación
+grupos clínicos ajustados en ajuste de riesgo y distribución de recursos - e. santelices et al
+asociados a estas. Una de las metodologías am- identificador de paciente se obtuvo información
+pliamente difundidas es la de Grupos Clínicos relativa a su edad, sexo, tipo de profesional por
+Ajustados o Ajusted Clinical Group (ACG) elabo- el que fue atendido, los diagnósticos, clasificados
+rado por Starfield et al. (1991)3 de la Universidad según CIE-10, asignados durante el total de aten-
+Johns Hopkins. Se ha utilizado por más de 20 años ciones. Estas se definieron como el contacto entre
+en varios países, entre ellos Canadá4, Alemania5, el paciente y el equipo de salud por una demanda
+Israel6, España7, Suiza8 y Reino Unido9. atendida en el centro respectivo. Finalmente, se
+El sistema ACG permite realizar caracteriza- consideró el tiempo de duración de cada consulta,
+ción de la morbilidad en la población de pacientes, calculado a partir de la agenda electrónica.
+identificación de pacientes con una condición La determinación de la población inscrita por
+altamente riesgosa, predicción de condiciones cada establecimiento fue obtenida sobre la base de
+que demanden una gran utilización de recursos la información aportada por el Fondo Nacional de
+y diseño de sistemas de distribución equitativa. Salud (FONASA).
+También permite evaluar la calidad de la entrega La Tabla 1 presenta una descripción de los
+de los servicios. centros considerados en el estudio.
+El sistema ACG permite identificar grupos
+de personas con consumo de recursos similares Metodología de costeo
+(isoconsumo) donde cada ACG recibe un peso Junto con los diagnósticos, los costos de aten-
+relativo, que es determinado según la relación con ción representan un insumo necesario para el uso
+el gasto promedio de una persona en la población. del sistema ACG.
+Esto permite generar un mecanismo distributivo El costeo de las atenciones se determinó uti-
+más equitativo, ya que identifica a una población lizando el tiempo de cada una de ellas según el
+con mayor requerimiento de recursos (aquellos RCE. La diferencia obtenida entre los tiempos de
+con pesos más altos). apertura y cierre de la ficha en el RCE fue lo que se
+Este trabajo tiene como objetivos difundir los utilizó como aproximación del tiempo de atención
+resultados obtenidos de la aplicación de la herra- asignado a cada paciente.
+mienta ACG en un estudio piloto realizado en una Se identificaron dos tipos de gastos de aten-
+muestra de centros de APS de Chile, y verificar ción; uno directo, considerando gastos de recursos
+su pertinencia para aplicar este modelo a toda la humanos y gastos de insumos y uso de equipos, y
+población y en segundo lugar, proponer, sobre la uno indirecto asociado con la administración del
+base de los resultado de la aplicación del sistema, establecimiento. Para la cuantificación del gasto
+una forma de distribución de recursos. directo se distribuyó el monto asignado a remu-
+neraciones por profesional según la utilización de
+tiempo que se haga de ellos en cada atención. Por
+Material y Método otro lado, los gastos correspondientes a insumos
+y equipos, junto con los de administración se pro-
+Recopilación de datos rratearon de acuerdo a la proporción de minutos
+Los datos utilizados corresponden a las visitas empleados en cada atención.
+realizadas por una persona entre enero y diciembre Como medida de control se calculó un gasto
+de 2011, en 16 centros de atención primaria y que residual, definido como la diferencia entre la
+poseían registro clínico electrónico (RCE) por asignación total asignada a cada centro (a través
+dos años. Tales centros estaban distribuidos pro- de la multiplicación de población validada por
+porcionalmente en las zonas Centro, Norte, Sur FONASA y el pago per cápita) y el monto de
+y Sur austral, así como en los diferentes tipos de gasto determinado para cada centro mediante la
+establecimientos; Centro General Urbano (CGU), distribución de gastos mencionados en el apartado
+Centro General Rural (CGR) y Centro de Salud anterior.
+Familiar (CESFAM). La cantidad total de obser- Para el cálculo del gasto directo por remunera-
+vaciones de las que se dispuso para el modelo fue ción por profesional, se determinó un promedio
+de 692.822 pacientes de los cuales 37% (253.953) ponderado usando las remuneraciones muni-
+fueron atendidos en los establecimientos de aten- cipales brutas mensuales por profesional según
+ción primaria durante el año de estudio. Por cada categoría (A, B, C, D o E) y grado de antigüedad
+154 rev Med chile 2014; 142: 153-160
+
+=== PÁGINA 3 ===
+artículos de investigación
+grupos clínicos ajustados en ajuste de riesgo y distribución de recursos - e. santelices et al
+Tabla 1. Descripción de los centros considerados en el estudio
+Región Servicios de Comuna Establecimiento Tipo Población Fecha primer
+Salud validada registro
+FONASA
+Metropolitano
+13 María Pinto adriana Madrid de costabal cgu 14.091 anterior al 2010
+occidente
+9 araucanía sur temuco amanecer cesFaM 57.938 anterior al 2010
+10 osorno osorno dr. Pedro Jáuregui cesFaM 31.535 anterior al 2010
+Metropolitano
+13 cerro navia cerro navia cgu 44.619 1er trim 2010
+occidente
+Metropolitano
+13 Paine dr. eduardo Famolaro renda cesFaM 20.938 anterior al 2010
+sur
+8 Bío Bío los Ángeles dos de septiembre cgr 23.239 anterior al 2010
+Metropolitano
+13 cerro navia dr arturo albertz cesFaM 48.348 anterior al 2010
+occidente
+Metropolitano
+13 la Pintana el roble cesFaM 23.481 anterior al 2010
+sur oriente
+Metropolitano
+13 Pudahuel Pudahuel estrella cgu 78.629 anterior al 2010
+occidente
+Metropolitano
+13 Pudahuel Pudahuel Poniente cgu 52.597 anterior al 2010
+occidente
+Metropolitano
+13 lo Prado dr. raúl Yazigi cesFaM 50.604 anterior al 2010
+occidente
+9 araucanía sur temuco santa rosa cgu 42.849 1er trim 2010
+Metropolitano
+13 la Pintana santo tomás cgu 53.514 anterior al 2010
+sur oriente
+4 coquimbo coquimbo dr. sergio aguilar delgado cesFaM 64.641 anterior al 2010
+3 atacama tierra amarilla tierra amarilla cgu 21.560 1er trim 2010
+4 coquimbo coquimbo tierras Blancas cgu 64.239 anterior al 2010
+Fuente: elaboración propia.
+(1 a 15 años). El valor por minuto de cada profe- asigna un peso relativo que depende de la inten-
+sional de APS se calculó suponiendo un total de sidad de gasto que presentan respecto del gasto
+8.190 min hábiles al mes (3,5 semanas por 39 h realizado en el total de las atenciones.
+por 60 min) en función de los estándares definidos Para la distribución de los pacientes en las dis-
+en la División de Atención Primaria (DIVAP) del tintas categorías se utilizó el sistema ACG versión
+Ministerio de Salud. 9.01, que utiliza información de los diagnósticos
+El gasto directo en insumos y equipos, junto codificados según CIE-10 y los gastos de atención.
+con el gasto indirecto, quedaron establecidos El gasto asignado a cada prestación se basó en la
+como un porcentaje del valor total de la pres- metodología de costeo antes descrita.
+tación. Este porcentaje se asignó según el tipo La herramienta ACG también nos permite ha-
+de atención profesional, de acuerdo al estudio cer una distribución de los recursos en diferentes
+publicado por FONASA10 (Tabla 2). quintiles agrupados según intensidad de consumo
+Sistema Adjusted Clinical Groups (ACG) de recursos denominados Bandas de Utilización
+El sistema ACG distribuye a los pacientes den- de Recursos (RUB por sus siglas en inglés).
+tro de 93 categorías según su morbilidad y patrón De esta forma, pacientes que se encuentren
+de consumo de recursos. A tales categorías se les asignados a ACG en el RUB1 demandarán menor
+rev Med chile 2014; 142: 153-160 155
+
+=== PÁGINA 4 ===
+artículos de investigación
+grupos clínicos ajustados en ajuste de riesgo y distribución de recursos - e. santelices et al
+Tabla 2. Carga de gasto directo cantidad de recursos que pacientes ubicados en
+en insumos-equipos y gasto indirecto el RUB5, así se consigue realizar ajuste por riesgo
+por profesional de la salud
+de forma transversal al centro donde se esté aten-
+diendo el paciente.
+Profesional de la salud Carga Se realizó un análisis de RUB agrupando todo
+el universo de pacientes con una patología específi-
+odontólogo 30% ca (diabetes mellitus) y determinar la distribución
+de estos enfermos según el uso de recursos en cada
+Médico cirujano 27%
+uno de los quintiles y su costo asociado.
+enfermera 30%
+Análisis estadístico
+Kinesiólogo 59% La metodología empleada consiste en ajustar
+tres modelos diferentes para cada variable que
+Matrona 30% se desea explicar (gasto o visitas). Se busca evo-
+lucionar las especificaciones desde un modelo
+nutricionista 30%
+demográfico hasta uno que utiliza los agrupadores
+ACG. Para cada modelo se consideran dos esta-
+asistente social 30%
+dísticos descriptivos, el primero es el coeficiente
+educadora de párvulos 30% de determinación ajustado (R2 ajustado), que
+indica el porcentaje de explicación que presenta el
+Fonoaudiólogo 30% modelo una vez se ha controlado por la cantidad
+de variables explicativas utilizadas. El segundo es
+Psicólogo 30%
+el criterio de información de Akaike (AIC)11, que
+mide el error del modelo castigado por la cantidad
+terapeuta ocupacional 30%
+de variables explicativas utilizadas. Además, se
+tens 30% comparan los resultados obtenidos con los valores
+de referencia determinados por la Universidad
+nota: los porcentajes de asistente social, educadora de pár-
+Johns Hopkins para modelos basados en ACG o
+vulos, fonoaudiólogo, psicólogo, terapeuta ocupacional y
+tens fueron homologados a la moda de los porcentajes de Grupos de Diagnóstico Agregados (ADG)12.
+gastos en insumos-equipos e indirecto. Fuente: elaboración En la Tabla 3 se observa la descripción de las
+propia. variables empleadas en el estudio.
+Tabla 3. Descripción de las variables empleadas en el estudio
+Variable Descripción
+costo aPs cuantitativa, registra la cantidad de gasto en aPs determinado por la metodología de costeo
+cuantitativa, registra el número de visitas que recibió un establecimiento para ser atendido por cualquiera
+visitas médico
+de sus profesionales
+cuantitativa, registra el número de visitas que recibió un establecimiento para ser atendido exclusivamente
+visitas totales
+por su personal médico
+categórica, determina la categoría etaria, de tipo excluyente, a la que pertenece el paciente. existen 12
+edad
+categorías de clasificación etaria
+sexo categórica, determina si el paciente es del sexo femenino o masculino
+categórica, determina la categoría adg, de tipo no excluyente, a la que pertenece el paciente. existen 34
+adg
+categorías de clasificación adg
+categórica, determina la categoría acg, de tipo excluyente, a la que pertenece el paciente. existen 93
+acg
+categorías de clasificación adg
+Fuente: elaboración propia.
+156 rev Med chile 2014; 142: 153-160
+
+=== PÁGINA 5 ===
+artículos de investigación
+grupos clínicos ajustados en ajuste de riesgo y distribución de recursos - e. santelices et al
+Resultados y la cantidad de visitas que realiza una persona a
+un centro de atención.
+Del total de pacientes estudiados, 341 fueron Se probó una especificación simple que con-
+excluidos por presentar inconsistencias en la co- sidera como variables explicativas características
+dificación de sus edades (edades negativas o sin demográficas de los pacientes, puntualmente
+especificar). En la Tabla 4 se detallan las caracte- ajustando variables dicotómicas para las categorías
+rísticas generales de la muestra estudiada, junto de banda etaria y sexo del paciente.
+con un resumen de los principales estadísticos La segunda especificación mejora al primer
+descriptivos para las variables consideradas en el modelo considerando los diagnósticos que son
+estudio. Los resultados están diferenciados en la asignados a cada paciente, los que son introduci-
+población que corresponde su atención en medi- dos a través de Grupos de Diagnóstico Agregados
+cina pediátrica (de 0 a 12 años) o bien en medicina que permite la agrupación de los diagnósticos de
+familiar (mayores de 12 años) (Tabla 5). los pacientes en un grupo reducido de 32 cate-
+gorías clínicamente significativas y en las que un
+Validar a los ACG como explicación de los costos mismo paciente puede participar de forma no
+en APS excluyente12.
+El objetivo fue determinar si los agrupado- En tercera instancia se planteó un modelo don-
+res derivados de la herramienta ACG asignan a de como variable explicativa sólo se consideraron
+personas con patrones de morbilidad más altos las categorías ACG (93 categorías mutuamente
+a grupos que presentan consumo de recurso más excluyentes) a través de variables dicotómicas
+elevado. Para ello se ajustó un modelo concurrente (Tabla 6).
+de regresión lineal, donde se midió el grado de La Tabla 7 muestra el valor del coeficiente
+explicación que los agrupadores ACG tienen sobre de determinación ajustado para cada una de las
+la variabilidad del gasto en la atención primaria especificaciones junto con los valores esperados.
+Se aprecia que el primer modelo fue el que
+presentó el menor desempeño. En este, el ajuste
+Tabla 4. Descripción general de los datos máximo de 14% se obtuvo por las visitas a perso-
+considerados en el estudio nal médico. La explicación más baja, de 0,5%, se
+observó para el costo directo en atención primaria.
+Información resumen 2011 Al incluir agrupadores por morbilidad como son
+diagnósticos procesados 1.743.335 los ADG, la explicación de los costos alcanzó 28%
+Pacientes procesados 692.822 y para las visitas a personal médico y las totales
+tuvieron un porcentaje de explicación de 64% y
+Población no demandante 438.869
+60%, respectivamente. Cuando se consideraron
+Pacientes atendidos 253.953
+los ACG como variable explicativa, los resultados
+diagnósticos por paciente 2,5 también fueron estadísticamente significativos.
+Fuente: elaboración propia.
+Tabla 5. Descripción particular de los datos considerados en el estudio
+Distribución variables Familiar Pediatría Total
+número de pacientes 192.804 60.808 253.612
+número de visitas 158.398 614.530 772.928
+Promedio edad 43,7 2,3 34
+Mujeres 32,30% 50,89% 36,90%
+Promedio visitas por pacientes 2,6 3,2 3
+costo directo atención primaria $16.800 mill $5.040 mill $21.840 mill
+Promedio costo directo unitario 82.906 86.934 85.968
+Fuente: elaboración propia.
+rev Med chile 2014; 142: 153-160 157
+
+=== PÁGINA 6 ===
+artículos de investigación
+grupos clínicos ajustados en ajuste de riesgo y distribución de recursos - e. santelices et al
+Tabla 6. Descripción de los modelos utilizados
+Modelos Costo APS Visitas Médico Visitas Totales
+R2 aj AIC R2 aj AIC R2 aj AIC
+edad + sexo 0,050 6,70 0,149 1,40 0,079 1,80
+edad + sexo + adg 0,286* 6,59 0,649* 1,19 0,604* 1,54
+acg 0,261* 6,60 0,580* 1,20 0,531* 1,50
+*el modelo presenta significancia estadística al 5%. Fuente: elaboración propia.
+Tabla 7. Valores esperados por la Universidad Los indicadores de desempeño se encontraron
+Johns Hopkins en los rangos esperados, tanto para costos como
+para la frecuencia de visitas.
+Modelos Costos Frecuencia
+visitas
+Distribución de recursos en base
+edad + sexo - -
+a categorización ACG
+edad + sexo + adg 0,30 - 0,55 sobre 0,55 Se identificaron los pacientes diabéticos en
+los 16 centros considerados para el estudio (Ta-
+acg 0,20 - 0,45 sobre 0,45
+bla 8). Se realizó un ejercicio para determinar la
+Fuente: elaboración en base a the Johns Hopkins acg®
+asignación de $300.000.000 para financiar una
+system, release notes versión 10.0.
+Tabla 8. Distribución de recurso entre establecimientos utilizando los pesos del agrupador ACG
+Establecimiento [A] n de [B] Suma [C] Participación [D] Asignación Peso promedio Per cápita
+pacientes pesos ACG en peso total por centro del centro [D]/[A]
+según ACG [B]/[A]
+adriana Madrid de
+214 190 0,68% 2.040.773 0,888 9.536
+costabal
+amanecer 1.979 2.944 10,51% 31.542.468 1,488 15.939
+dr. Pedro Jáuregui 1.658 1768 6,31% 18.937.824 1,066 11.422
+cerro navia 1.212 1715 6,13% 18.375.960 1,415 15.162
+dr. eduardo
+57 48 0,17% 510.756 0,842 8.961
+Famolaro renda
+dos de septiembre 868 1.181 4,22% 12.656.395 1,361 14.581
+dr. arturo albertz 1.562 2.342 8,37% 25.095.930 1,499 16.067
+el roble 1.353 2.046 7,31% 21.917.393 1,512 16.199
+Pudahuel estrella 2.139 3.376 12,06% 36.176.663 1,578 16.913
+Pudahuel Poniente 1.484 2.489 8,89% 26.664.412 1,677 17.968
+dr. raúl Yazigi 1.862 3.007 10,74% 32.214.154 1,615 17.301
+santa rosa 1.682 2.817 10,06% 30.180.023 1,675 17.943
+santo tomás 963 967 3,45% 10.358.476 1,004 10.756
+dr. sergio aguilar
+1.978 2.402 8,58% 25.740.937 1,214 13.014
+delgado
+tierra amarilla 523 580 2,07% 6.215.320 1,109 11.884
+tierras Blancas 278 128 0,46% 1.372.516 0,460 4.937
+total 19.812 28.000 100% 300.000.000 1,413 15.142
+Fuente: elaboración propia.
+158 rev Med chile 2014; 142: 153-160
+
+=== PÁGINA 7 ===
+artículos de investigación
+grupos clínicos ajustados en ajuste de riesgo y distribución de recursos - e. santelices et al
+Tabla 9. Distribución de recurso por ajuste de riesgo según RUB para pacientes con diabetes
+RUBs Total pacientes Pesos sumados Participación Asignación por RUB Per cápita
+ruB2 4.568 1.700 23,06% 18.213.315 3.987
+ruB3 12.695 14.625 64,08% 156.697.362 12.343
+ruB4 2.060 7.406 10,40% 79.354.335 38.522
+ruB5 489 4.269 2,47% 45.734.988 93.528
+total 19.812 28.000 100% 300.000.000
+Fuente: elaboración propia.
+intervención en esta población de acuerdo a la a riesgo, el asignar ajustes en APS puede ser un
+distribución de diabéticos en cada centro, sub complemento para la definición del gasto en salud
+agrupados en 5 RUB (Tabla 9). por poblaciones.
+Se observó una amplia variabilidad de preva- Otra ventaja de desarrollar sistemas de cla-
+lencia de diabéticos entre centros. Tambien su sificación basados en ajuste de riesgo según co-
+distribución por nivel de consumo fue heterogé- morbilidad es que permite avanzar en la imple-
+nea. En la población agregada, el mayor peso se mentación de procesos de distribución de recursos
+observó en el RUB3. El consumo per cápita de los que maximicen la eficiencia en la asignación. Por
+pacientes RUB5 equivalió a 7,8 veces el consumo ejemplo, según la Encuesta Nacional de Salud
+de pacientes RUB3. 201214, la mayor proporción de pacientes que pa-
+decen enfermedades crónicas se concentra hacia
+los quintiles de menores ingresos, por lo tanto,
+Discusión un mecanismo de asignación basado en ajuste
+de riesgo debería entregar un mayor apoyo a este
+Los resultados obtenidos nos permiten con- quintil, permitiendo eficiencia en la asignación y
+cluir que tanto los costos como las visitas en la una distribución más equitativa.
+atención primaria dependen de manera significati- Si bien los ACG han demostrado ajustarse
+va de la morbilidad de los pacientes (significancias bien a la realidad chilena, los resultados obteni-
+de los modelos 2 y 3), por lo que es recomendable dos pueden mejoran aun más si consideramos
+extender este estudio a objeto de fundamentar la que todavía es posible optimizar la fórmula de
+inclusión de la variable morbilidad de la población cálculo de costos de la atención e incorporar los
+para el financiamiento en APS. costos asociados al uso de fármacos mediante la
+Los agrupadores ACG logran explicar de forma incorporación de la codificación ATC que utiliza
+estadísticamente significativa tanto los patrones de el modelo.
+consumo de recurso así como las frecuencias en
+las visitas para las atenciones en establecimientos
+Referencias
+del nivel primario de salud.
+La potencia de los ACG reside en su capacidad 1. Santelices E, Ormeño H, Delgado M, Lui C, Valdés R,
+de caracterizar a los pacientes según su morbili- Durán L. Análisis de los determinantes de la eficiencia
+dad e intensidad de uso de recursos. Esto facilita hospitalaria: el caso de Chile. Rev Med Chile 2013; 141
+la implementación y los procesos de mejora para (4): 457-63.
+programas que busquen atender una necesidad 2. Art. Nº 49, Ley 19.378 Estatuto de Atención Primaria
+específica de la población y medir la efectividad Municipal.
+de intervenciones realizadas para una morbilidad, 3. Starfield B, Weiner J, Mumford L, Steinwachs D. Am-
+en un establecimiento o zona geográfica. Si con- bulatory care groups: a categorization of diagnoses for
+sideramos que nuestro país ya incorporó el uso research and management. Health Serv Res 1991; 26 (1):
+de Grupos Relacionados a Diagnóstico (GRD)13 53-74.
+para conocer la actividad hospitalaria ajustada 4. Reid R, MacWilliam L, Verhulst L, Roos N, Atkinson
+rev Med chile 2014; 142: 153-160 159
+
+=== PÁGINA 8 ===
+artículos de investigación
+grupos clínicos ajustados en ajuste de riesgo y distribución de recursos - e. santelices et al
+M. Performance of the ACG case-mix system in two Health 2011; 15 (2): 204-13.
+Canadian provinces. Med Care 2001; 39 (1): 86-99. 9. Omar R, O’Sullivan C, Petersen I, Islam A, Majeed A.
+5. Forrest CB, Kinder K, Lemke KW, Reid RJ. Adjusted A model based on age, sex, and morbidity to explain
+Clinical Groups-ein Instrument zur Prognose des Res- variation in UK general practice prescribing: cohort
+sourcenverbrauchs: Ein Bevölkerungsbezogenes Werk- study. BMJ 2008; 337: 238.
+zeug der Gesundheitsfürsorgenverwaltung. Gesundheits 10. Fondo Nacional de Salud. Estudio de costo de prestacio-
+und Sozialpolitik 2004; 1-2: 8-15. nes de salud, Informe final, 2011.
+6. Hoch I, Heymann AD, Karpati T, Valinsky L. Validation 11. Akaike H. A new look at the statistical model identifi-
+and uses of the ACG-DX predictive modeling and risk cation. IEEE Transactions on Automatic Control. 1974;
+adjustment tool in an Israeli HMO. Clin Med Res 2010; 19 (6): 716-23.
+8: 51-2. 12. Johns Hopkins Bloomberg School of Public Health. The
+7. Juncosa S, Bonaventura B, Roset M, Tomas R. Perfor- Johns Hopkins ACG® System, Release Notes versión
+mance of an ambulatory case-mix measurement in pri- 10.0.2011.
+mary care in Spain: Ambulatory Care Groups (ACGs). 13. Ministerio de Salud, Departamento de Desarrollo
+Eur J Public Health 1999; 9: 27-35. Estratégico. Análisis de la casuística hospitalaria en 51
+8. Fagerström C, Hellström A. Sleep complaints and their Hospitales del país, año 2010-2012. 2012.
+association with comorbidity and health-related quality 14. Ministerio de Salud. Encuesta Nacional de Salud ENS
+of life in an older populaton in Sweden. Aging Ment Chile 2009-2010.
+160 rev Med chile 2014; 142: 153-160

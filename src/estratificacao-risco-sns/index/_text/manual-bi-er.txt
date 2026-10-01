@@ -1,0 +1,1329 @@
+# Fonte: manual_BI_ER.pdf
+# Páginas: 26
+
+=== PÁGINA 1 ===
+Manual do Utilizador
+
+=== PÁGINA 2 ===
+Data: 08/2026
+Versão 1.6
+ACRÓNIMOS
+SIGLA DATA
+ACG Adjusted Clinical Groups
+ACSS Administração Central do Sistema de Saúde
+ATC Anatomical Therapeutic Chemical
+BD Base de Dados
+BDMH Base de dados da Morbilidade Hospitalar
+BI Business Intelligence
+BI-ER BI para a Estratificação pelo Risco
+CSP Cuidados de Saúde Primários
+DE-SNS Direção Executiva do Serviço Nacional de Saúde
+DGS Direção-Geral da Saúde
+ELER Equipa Local para a Estratificação pelo Risco
+GDH Grupos de Diagnósticos Homogéneos
+GGD Grandes Grupos de Diagnóstico
+GN Grupo de Necessidades
+GRA Grupo de Risco Ajustado
+ICD9/10CM International Classification of Diseases, 9/10th Revision, Clinical Modification
+ICD10PCS International Classification of Diseases, 10th Revision, Procedure Coding System
+ICPC-2 International Classification of Primary Care, 2nd edition
+GD Grupos de Diagnóstico
+ICD International Classification of Diseases
+ILER Interlocutor Local para a Estratificação pelo Risco
+MCDT Meios Complementares de Diagnóstico e Terapêutica
+MS Ministério da Saúde
+NNU Número Nacional de Utente
+NUR Necessidade de Utilização de Recursos
+OC Organismos Centrais
+PVP Preço de Venda ao Público
+RNU Registo Nacional de Utentes
+SI Sistema de Informação
+6
+17 SIGLIC Sistema Integrado de Gestão de Inscritos para Cirurgia
+045
+90 SIM@SNS Sistema de Informação e Monitorização do SNS
+5
+C
+P
+IN SIMH Sistema de Informação para a Morbilidade Hospitalar
+so
+-
+ru
+E
+00
+SNS Serviço Nacional de Saúde
+,986
+SPMS Serviços Partilhados do Ministério da Saúde
+.06
+2
+.6
+2 UF Unidade Funcional
+:o
+iráu
+tatsE
+latip
+aC
+ULS Unidade Local de Saúde
+2/26
+SPMS – Serviços Partilhados do Ministério da Saúde, E.P.E. | Av. da República, n.º 61, 1050-189 Lisboa | Tel.: 211 545 600 | Fax: 211 545 649
+
+=== PÁGINA 3 ===
+Data: 08/2026
+Versão 1.6
+Índice
+1. Introdução ..................................................................................................................... 5
+2. Informação considerada ................................................................................................. 6
+2.1. Período Temporal 6
+2.2. População 6
+2.3. Fontes de dados 6
+3. Agrupamento de utentes ................................................................................................ 9
+4. Gestão de Utilizadores .................................................................................................. 10
+4.1. Perfis de acesso 10
+4.2. Pedir acesso ao BI-ER 12
+4.3. Retirar acesso ao BI-ER 13
+5. Funcionalidades gerais ................................................................................................. 14
+5.1. Acesso ao BI-ER 14
+5.2. Página Inicial 14
+6. Vertentes de exploração de dados ................................................................................ 16
+6.1. Dashboards 16
+6.2. Análises Ad-hoc 20
+7. Características transversais do BI-ER ............................................................................. 24
+7.1. Atualização de dados 24
+7.2. Filtragem de dados 24
+7.3. Modos de visualização dos dados 24
+7.4. Exportação de dados 25
+6
+17
+045
+90
+5
+C
+P
+IN
+so
+-
+ru
+E
+00
+,986
+.06
+2
+.6
+2
+:o
+iráu
+tatsE
+latip
+aC 3/26
+SPMS – Serviços Partilhados do Ministério da Saúde, E.P.E. | Av. da República, n.º 61, 1050-189 Lisboa | Tel.: 211 545 600 | Fax: 211 545 649
+
+=== PÁGINA 4 ===
+Data: 08/2026
+Versão 1.6
+Índice de Figuras
+Figura 1 – Página de login.......................................................................................................................14
+Figura 2 – 1º acesso de cada utilizador ..................................................................................................15
+Figura 3 – Página inicial do BI-ER ............................................................................................................15
+Figura 4 – Menu de dashboards .............................................................................................................16
+Figura 5 – Menu de análises ad-hoc .......................................................................................................20
+Figura 6 – Seleção de filtros da área de análises ad-hoc .........................................................................20
+Figura 7 – Data da última atualização de dados.....................................................................................24
+Figura 8 – Opção de "Refresh" dos dados apresentados ........................................................................24
+Figura 9 – Modos de visualização dos dados ..........................................................................................24
+Figura 10 – Passo 1: Exportação de dados ..............................................................................................25
+Figura 11 – Passo 2: Seleção opção "Exportar dados" ............................................................................25
+Figura 12 – Passo 3: Opções de exportação disponíveis .........................................................................26
+Índice de Tabelas
+Tabela 1 – Apuramento dos respetivos custos por âmbito ....................................................................... 7
+Tabela 2 – Permissões perfis ULS ............................................................................................................10
+Tabela 3 – Permissões perfis Organismos Centrais .................................................................................11
+Tabela 4 – Considerações sobre o dashboard “Fluxos de Utentes” .........................................................18
+Tabela 5 – Análises ad-hoc: lista de filtros e campos a disponibilizar nos diversos separadores ............21
+6
+17
+045
+90
+5
+C
+P
+IN
+so
+-
+ru
+E
+00
+,986
+.06
+2
+.6
+2
+:o
+iráu
+tatsE
+latip
+aC 4/26
+SPMS – Serviços Partilhados do Ministério da Saúde, E.P.E. | Av. da República, n.º 61, 1050-189 Lisboa | Tel.: 211 545 600 | Fax: 211 545 649
+
+=== PÁGINA 5 ===
+Data: 08/2026
+Versão 1.6
+1. Introdução
+A estratificação da população pelo risco é uma abordagem populacional e sistematizada, que
+possibilita, através de ferramentas específicas com capacidade preditiva, e de acordo com o perfil
+de saúde de cada pessoa, a identificação de grupos com riscos semelhantes, quer em termos dos
+recursos de saúde que venham a consumir, quer da despesa que potencialmente virá a ser gerada.
+Com a caracterização desses grupos, são delineadas intervenções dirigidas a cada um, sendo
+possível, deste modo, adequar os níveis de recursos em função das suas necessidades.
+As ferramentas de estratificação pelo risco surgiram nos Estados Unidos da América, e
+enquadram-se nos sistemas de classificação em saúde e modelos prospetivos de casemix, à
+semelhança dos Grupos de Diagnósticos Homogéneos (GDH), utilizados em Portugal desde 1989.
+São ferramentas que permitem identificar o “risco” e prever a utilização futura de cuidados de
+saúde por parte de uma população, de acordo com as suas características, ou seja, a sua “carga
+de doença”.
+A publicação do Despacho nº 12986/2023, de 7 de dezembro, veio dar seguimento aos trabalhos
+iniciados no âmbito deste projeto, no sentido de operacionalizar a utilização de ferramentas de
+estratificação pelo risco no sistema de saúde português. Decorre do referido Despacho que, em
+Portugal, os pilares estratégicos da utilização no Serviço Nacional de Saúde (SNS) da estratificação
+da população pelo risco são cinco:
+• Planeamento de recursos;
+• Definição de processos assistenciais e de modelos de intervenção clínica;
+• Financiamento das entidades prestadoras de cuidados;
+• Avaliação do desempenho.
+• Divulgação de informação sobre a distribuição da carga de doença na população
+De acordo com a alínea e) do ponto 5 do referido Despacho, a divulgação de informação sobre a
+distribuição da carga de doença na população, deve apoiar a definição de estratégias de
+intervenção e a possibilitar o desenvolvimento de projetos de investigação em saúde, entre outros
+objetivos. Revê ainda que os Serviços Partilhados do Ministério da Saúde (SPMS), E.P.E., em
+articulação com a Administração Central do Sistema de Saúde (ACSS), I.P., e com a Direção
+Executiva do SNS (DE-SNS), I. P., deve assegurar o desenvolvimento e a manutenção dos sistemas
+informáticos que permitam às entidades do SNS dar cumprimento ao referido despacho.
+6
+17
+045 O BI para a Estratificação pelo Risco (BI-ER) surge assim desta necessidade de existir uma
+90
+5 ferramenta analítica para exploração de dados de estratificação da população portuguesa pelo
+C
+P
+IN
+so
+- risco, em Grupos de Risco Ajustado (GRA), de forma estruturada, normalizada e que permite a
+ru
+E
+00
+comparabilidade no contexto nacional.
+,986
+.06
+2
+.6
+2
+:o
+iráu
+tatsE
+latip
+aC 5/26
+SPMS – Serviços Partilhados do Ministério da Saúde, E.P.E. | Av. da República, n.º 61, 1050-189 Lisboa | Tel.: 211 545 600 | Fax: 211 545 649
+
+=== PÁGINA 6 ===
+Data: 08/2026
+Versão 1.6
+2. Informação considerada
+2.1. Período Temporal
+No BI-ER, é possível analisar os dados desde 2021 até ao ano corrente.
+Para cada ano desde 2021 até 2025, os dados de base considerados para efeitos de agrupamento
+dos utentes são os registados nos 12 meses do próprio ano.
+Para o ano corrente, 2026, os dados de base considerados para efeitos de agrupamento dos
+utentes são os registados nos últimos 12 meses a contar do M-3, onde M é o mês atual, do ano
+atual. Com isto, em abril de 2026, a informação contemplada para o ano 2026 terá por base o
+período temporal de 01/02/2025 até 31/01/2026.
+2.2. População
+São considerados utentes inscritos em Cuidados de Saúde Primários (CSP), independentemente
+da freguesia de residência, a 31 de dezembro de cada ano, ou no último dia do M-3 no caso do
+ano 2026, em cada uma das Unidades Locais de Saúde (ULS) existentes em Portugal Continental.
+Estão incluídos utentes inscritos em CSP falecidos quando o ano de análise é igual ao ano do óbito.
+2.3. Fontes de dados
+São consideradas duas fontes de informação central:
+o Sistema de Informação e Monitorização do SNS (SIM@SNS), que agrega informação
+registada:
+• No SClínico CSP e Sistemas de Informação (SI) sucedâneos no que se refere a consultas
+médicas (datas, custos e diagnósticos ICPC-2E registados em consulta durante o ano
+em análise ou registados como problema ativo durante o ano em análise), consultas de
+enfermagem e de outros profissionais de saúde (datas e custos);
+• No SClínico Hospitalar e SI sucedâneos no que se refere a consultas externas e
+urgências (datas, custos e diagnósticos ICD10CM);
+• No Centro de Controlo e Monitorização do SNS (CCMSNS) no que se refere a
+medicamentos prescritos e dispensados em farmácia comunitária (datas de prescrição
+e dispensa, código ATC, nº embalagens dispensadas, custo PVP) bem como a custos de
+MCDT prescritos no SNS, realizados no sector convencionado;
+6
+17
+045 • No Registo Nacional de Utentes (RNU) no que se refere a sexo, idade, existência de
+90 médico de família, distrito/conselho/ freguesia de residência, ULS de inscrição e
+5
+C
+P IN respetiva Unidade Funcional (UF).
+so
+-
+ru
+E
+00
+o Base de Dados da Morbilidade Hospitalar (BDMH), que agrega informação registada:
+,986
+.06 1. No Sistema Integrado de Gestão de Inscritos para Cirurgia (SIMH) no que se refere a
+2
+.6
+2
+:o internamentos, cirurgias de ambulatório, ambulatório médico (datas, custos, diagnósticos
+iráu
+tatsE
+latip
+aC
+e procedimentos ICD10CM/PCS e GDH);
+6/26
+SPMS – Serviços Partilhados do Ministério da Saúde, E.P.E. | Av. da República, n.º 61, 1050-189 Lisboa | Tel.: 211 545 600 | Fax: 211 545 649
+
+=== PÁGINA 7 ===
+Data: 08/2026
+Versão 1.6
+2. No SIM@SNS no que se refere a consultas externas e urgências hospitalares (datas, custos,
+diagnósticos ICD9CM ou ICD10CM);
+3. No Sistema Integrado de Gestão de Inscritos para Cirurgia (SIGLIC) no que se refere a
+internamentos, cirurgias de ambulatório, ambulatório médico (datas, custos, diagnósticos
+e procedimentos ICD10CM/PCS e GDH) realizados em instituições do setor privado e social
+em resultado de acordos/convenções no âmbito de inscritos em cirurgia no SNS.
+O apuramento dos respetivos custos é efetuado da seguinte forma:
+Tabela 1 – Apuramento dos respetivos custos por âmbito
+Âmbito Custo
+Consultas médicas CSP Preço médico (como proxy do custo), por hora, considerando
+abonos pagos anualmente e duração das consultas realizadas no
+ano em análise
+Consultas de enfermagem CSP Preço enfermagem (como proxy do custo), por hora, considerando
+abonos pagos anualmente e duração das consultas realizadas no
+ano em análise
+Consultas de outros profissionais de Preço de outros profissionais de saúde (como proxy do custo), por
+saúde CSP hora, considerando abonos pagos anualmente e duração das
+consultas realizadas no ano em análise
+MCDT prescritos no SNS (prescritos Preço convencionado por MCDT (inclui taxas moderadoras)
+maioritariamente em CSP),
+realizados no sector convencionado
+Medicamentos prescritos e Preço de venda ao público
+dispensados em farmácia
+comunitária
+Urgências hospitalares Preço urgências (como proxy dos custos) da circular normativa
+9/2025/ACSS, relativa aos preços da urgência:
+6
+17 Urgência de centro de trauma tem o mesmo preço da urgência
+045
+90 polivante.
+5
+C
+P IN Urgência com tipologia desconhecida tem o mesmo preço da
+so ru
+-
+urgência básica.
+E
+00
+,986
+Consultas Externas hospitalares Consultas Médicas: preço primeiras consultas e subsequentes
+.06
+2 .6 (como proxy dos custos) da circular normativa 9/2025/ACSS,
+2
+:o
+iráu
+tatsE
+latip
+aC 7/26
+SPMS – Serviços Partilhados do Ministério da Saúde, E.P.E. | Av. da República, n.º 61, 1050-189 Lisboa | Tel.: 211 545 600 | Fax: 211 545 649
+
+=== PÁGINA 8 ===
+Data: 08/2026
+Versão 1.6
+considerando os diferentes preços por Grupo de Hospitais /
+Centros Hospitalares:
+• Grupo B – 54€
+• Grupo C – 59€
+• Grupo D – 91€
+• Grupo E – 95€
+• Grupo F – 95€
+• Outros grupos - 54€
+Consultas Não médicas: preço da portaria 207/2017, 16€.
+Internamentos, cirurgia de Preço GDH (como proxy do custo) da Portaria n.º 254/2018 de 7 de
+ambulatório e ambulatório médico setembro, relativa à Tabela de preços SNS, ponderado por doente
+(linhas GDH) equivalente
+Cirurgias realizadas em entidades Preço GDH (como proxy do custo) da Portaria n.º 207/2017, relativa
+convencionadas ou protocoladas ao SIGIC
+SIGIC
+6
+17
+045
+90
+5
+C
+P
+IN
+so
+-
+ru
+E
+00
+,986
+.06
+2
+.6
+2
+:o
+iráu
+tatsE
+latip
+aC 8/26
+SPMS – Serviços Partilhados do Ministério da Saúde, E.P.E. | Av. da República, n.º 61, 1050-189 Lisboa | Tel.: 211 545 600 | Fax: 211 545 649
+
+=== PÁGINA 9 ===
+Data: 08/2026
+Versão 1.6
+3. Agrupamento de utentes
+O agrupamento de utentes corresponde ao processo de envio de informação registada nas fontes
+centrais para a ferramenta de estratificação pelo risco, tendo como resultado a atribuição de um
+GRA de pertença a cada utente.
+Em Portugal, a ferramenta de estratificação pelo risco atualmente em vigor é o software Adjusted
+Clinical Groups, Versão 13.0., da Johns Hopkins University, sendo a sua aquisição garantida a nível
+central.
+Em seguida, apresentam-se os conceitos resultantes da aplicação desta ferramenta de
+estratificação da população pelo risco:
+o Grupos de Risco Ajustado (GRA): São categorias de morbilidade mutuamente exclusivas
+entre si, de utentes considerados idênticos do ponto de vista clínico e da utilização de
+recursos em saúde. A cada utente é atribuído um GRA.
+o Níveis de Utilização de Recursos (NUR): Em paralelo com os GRA, são um output do
+agrupador. Independentemente das características epidemiológicas dos indivíduos, o
+consumo de recursos em saúde pode ser idêntico. Por exemplo, uma grávida com
+morbilidade significativa, um individuo com uma condição psicológica grave ou um
+individuo com duas condições crónicas, apesar de clinicamente distintos, podem ter um
+nível de consumo de recursos semelhante. A cada utente é atribuído um NUR.
+o Grupos de Necessidades (GN): Em paralelo com os GRA, são um output do agrupador que
+resultam da agregação de utentes em categorias clinicamente relevantes e mutuamente
+exclusivas, considerando as necessidades em saúde e contexto clínicos dos utentes. A cada
+utente é atribuído um GN. No caso das grávidas existem dois GN específicos para o efeito,
+sendo todas as utentes grávidas agrupadas nestes dois GN. Os restantes GN são atribuídos
+em função das caraterísticas de cada utente.
+o Grupos de Diagnóstico (GD) e Grandes Grupos de Diagnósticos (GGD): Em paralelo com os
+GRA, são um output do agrupador e permitem a rápida identificação de utentes com
+determinada(s) patologia(s) e/ou sintomas. Existem 287 Grupos de Diagnóstico (GD) de
+acordo com o diagnóstico, agregados em 27 Grandes Grupos de Diagnóstico (GGD), que,
+por sua vez, podem ser categorizados em 5 tipos de GGD. Um utente pode possuir vários
+GD e vários GGD.
+6
+17
+045
+90
+5
+C
+P
+IN
+so
+-
+ru
+E
+00
+,986
+.06
+2
+.6
+2
+:o
+iráu
+tatsE
+latip
+aC 9/26
+SPMS – Serviços Partilhados do Ministério da Saúde, E.P.E. | Av. da República, n.º 61, 1050-189 Lisboa | Tel.: 211 545 600 | Fax: 211 545 649
+
+=== PÁGINA 10 ===
+Data: 08/2026
+Versão 1.6
+4. Gestão de Utilizadores
+4.1. Perfis de acesso
+As instituições com acesso ao BI-ER abrangem:
+• Organismos Centrais (OC) do Ministério da Saúde
+• ULS
+A criação de utilizadores do BI-ER tem subjacente a assinatura e envio à equipa do BI-ER do termo
+de responsabilidade presente no menu dos documentos do BI-ER.
+Existem três perfis diferentes, para cada tipo de instituição de saúde:
+1. ULS:
+a. Perfil “ULS-ILER”: Interlocutores Locais para a Estratificação pelo Risco (ILER)
+nomeados por cada ULS na sequência da circular normativa Nº 4/2024/ACSS e,
+como tal, utilizadores BI-ER responsáveis pela gestão de acessos ao mesmo na sua
+ULS. Têm acesso aos dashboards e às análises ad-hoc;
+b. Perfil “ULS-ELER-DET”: elementos da Equipa Local para a Estratificação pelo Risco
+com permissão de acesso aos dashboards e às análises ad-hoc do BI-ER;
+c. Perfil “ULS-ELER”: elementos da Equipa Local para a Estratificação Pelo Risco
+(ELER). Têm acesso apenas aos dashboards.
+Tabela 2 – Permissões perfis ULS
+Permissões
+Ecrã
+Perfil “ULS-ILER” Perfil “ULS-ELER-DET” Perfil “ULS-ELER”
+▪ Release notes ▪ Release notes
+▪ Release notes
+▪ Alertas/Novidades ▪ Alertas/Novidades
+Menus de ▪ Alertas/Novidades
+▪ Dashboards ▪ Dashboards
+Navegação ▪ Dashboards
+▪ Análises ad-hoc ▪ Análises ad-hoc
+▪ Documentos
+▪ Documentos ▪ Documentos
+▪ Gerir os acessos ao BI-ER, e
+respetivas permissões, na
+▪ Login
+sua ULS ▪ Login
+▪ Visualizar release
+6 ▪ Login ▪ Visualizar release
+17
+045
+90 Funcionalidades
+▪ Visualizar release notes
+▪
+n
+V
+o
+is
+t
+u
+e
+a
+s
+l izar ▪
+n
+V
+o
+is
+t
+u
+e
+a
+s
+l izar
+5 C P ▪ Visualizar alertas/novidades alertas/novidades alertas/novidades
+IN Gerais
+so - ▪ Visualizar, filtrar/pesquisar, ▪ Visualizar, ▪ Visualizar,
+ru exportar dados de todos os filtrar/pesquisar,
+E 00 dashboards filtrar/pesquisar, exportar dados de
+,986 exportar dados de
+todos os
+.06
+2
+▪ Visualizar, filtrar/pesquisar, todos os dashboards
+dashboards
+.6 exportar dados das análises
+2
+:o iráu ad-hoc
+tatsE
+latip
+aC 10/26
+SPMS – Serviços Partilhados do Ministério da Saúde, E.P.E. | Av. da República, n.º 61, 1050-189 Lisboa | Tel.: 211 545 600 | Fax: 211 545 649
+
+=== PÁGINA 11 ===
+Data: 08/2026
+Versão 1.6
+2. Organismos Centrais
+a. Perfil “OC-Equipa de Projeto”: membros da Equipa de Projeto constituída na
+sequência do Despacho 12986/2023 de 19 de dezembro. Têm acesso apenas aos
+dashboards;
+b. Perfil “OC-Outro”: elementos nomeados por um membro da Equipa de Projeto
+para aceder ao BI-ER. Têm acesso apenas aos dashboards.
+Tabela 3 – Permissões perfis Organismos Centrais
+Permissões
+Ecrã
+Perfil “OC-Equipa de Projeto” Perfil “OC-Outro”
+▪ Release notes ▪ Release notes
+▪ Alertas/Novidades ▪ Alertas/Novidades
+Menus de
+Navegação ▪ Dashboards ▪ Dashboards
+▪ Documentos ▪ Documentos
+▪ Gerir os acessos ao BI-ER, e ▪ Login
+respetivas permissões, na sua ULS
+▪ Visualizar release notes
+▪ Login
+▪ Visualizar alertas/novidades
+Funcionalidades ▪ Visualizar release notes
+Gerais ▪ Visualizar, filtrar/pesquisar, exportar
+▪ Visualizar alertas/novidades dados de todos os dashboards
+▪ Visualizar, filtrar/pesquisar, exportar
+dados de todos os dashboards
+Notas:
+▪ Existindo solicitação escrita por parte de cada instituição, a criação, alteração de
+permissões e/ou eliminação de utilizadores do sistema será centralizada e realizada pela
+SPMS;
+▪ A nomeação dos ILER de cada instituição de saúde deverá ser feita pelo Conselho de
+Administração de cada ULS, e enviada para a ACSS (estratificacao_risco@acss.min-
+saude.pt) e para a equipa do BI-ER (servicedesk@spms.min-saude.pt).
+6
+17
+045
+90
+5
+C
+P
+IN
+so
+-
+ru
+E
+00
+,986
+.06
+2
+.6
+2
+:o
+iráu
+tatsE
+latip
+aC 11/26
+SPMS – Serviços Partilhados do Ministério da Saúde, E.P.E. | Av. da República, n.º 61, 1050-189 Lisboa | Tel.: 211 545 600 | Fax: 211 545 649
+
+=== PÁGINA 12 ===
+Data: 08/2026
+Versão 1.6
+4.2. Pedir acesso ao BI-ER
+ILER ou Elemento ILER Equipa BI-ER
+nomeado pelo ILER
+para aceder ao BI-
+ER
+•Assina termo de •Solicita à Equipa •Concede acesso
+responsabilidade BI-ER que seja e arquiva Termo
+e envia ao ILER concedido acesso de
+e anexa ao pedido Responsabilidade
+o Termo de
+Responsabilidade
+assinado.
+•Dados a indicar:
+email
+institucional
+office 365
+Os elementos da equipa do Projeto de Implementação da Estratificação pelo Risco devem solicitar
+diretamente à Equipa BI-ER o acesso à plataforma, para si ou para outros elementos que
+considerem relevantes, seguindo os moldes definidos para os ILER.
+Os pedidos de acesso serão para reencaminhar para o seguinte endereço de email:
+servicedesk@spms.min-saude.pt.
+Nota: para utilizadores sem endereço de email do Office 365, terá de ser atribuída uma conta de
+email Office 365 do tipo guest. A atribuição desta conta é feita centralmente pela SPMS, com
+indicação dos seguintes dados:
+• Instituição de Saúde
+• Nome
+• Email institucional
+• Contacto Telefónico
+6
+17
+045
+90
+5
+C
+P
+so
+IN
+-
+ru
+E
+00
+,986
+.06
+2
+.6
+2
+:o
+iráu
+tatsE
+latip
+aC 12/26
+SPMS – Serviços Partilhados do Ministério da Saúde, E.P.E. | Av. da República, n.º 61, 1050-189 Lisboa | Tel.: 211 545 600 | Fax: 211 545 649
+
+=== PÁGINA 13 ===
+Data: 08/2026
+Versão 1.6
+4.3. Retirar acesso ao BI-ER
+Opção 1:
+Utilizador BI-ER ILER Equipa BI-ER
+•Solicita ao ILER •Solicita à Equipa •Retira o acesso e
+que lhe seja BI-ER que seja arquiva pedido
+retirado acesso ao retirado o acesso. efetuado.
+BI-ER Dados a indicar:
+•Nome
+•Email
+institucional
+Opção 2:
+ILER ILER Equipa BI-ER
+•Identifica •Solicita à Equipa •Retira o acesso e
+utilizadores ativos BI-ER que seja arquiva pedido
+que devem ser retirado o acesso. efetuado.
+desativados Dados a indicar:
+•Nome
+•Email
+institucional
+Os pedidos de remoção de acesso serão para reencaminhar para o seguinte endereço de email:
+servicedesk@spms.min-saude.pt.
+6
+17
+045
+90
+5
+C
+P
+IN
+so
+-
+ru
+E
+00
+,986
+.06
+2
+.6
+2
+:o
+iráu
+tatsE
+latip
+aC 13/26
+SPMS – Serviços Partilhados do Ministério da Saúde, E.P.E. | Av. da República, n.º 61, 1050-189 Lisboa | Tel.: 211 545 600 | Fax: 211 545 649
+
+=== PÁGINA 14 ===
+Data: 08/2026
+Versão 1.6
+5. Funcionalidades gerais
+5.1. Acesso ao BI-ER
+O acesso ao BI-ER é feito através de um portal específico, dentro da RIS. Para entrar no portal, os
+utilizadores devem inserir as suas credenciais do Office 365, que incluem um endereço de email e
+a respetiva palavra-passe.
+Figura 1 – Página de login
+5.2. Página Inicial
+Assim que a autenticação ocorra com sucesso, o utilizador é redirecionado para a página inicial e
+visualiza, apenas no 1º acesso, a seguinte mensagem:
+6
+17
+045
+90
+5
+C
+P
+IN
+so
+-
+ru
+E
+00
+,986
+.06
+2
+.6
+2
+:o
+iráu
+tatsE
+latip
+aC 14/26
+SPMS – Serviços Partilhados do Ministério da Saúde, E.P.E. | Av. da República, n.º 61, 1050-189 Lisboa | Tel.: 211 545 600 | Fax: 211 545 649
+
+=== PÁGINA 15 ===
+Data: 08/2026
+Versão 1.6
+Figura 2 – 1º acesso de cada utilizador
+Após a aceitação das regras de utilização dos dados do BI-ER, o utilizador é redirecionado para a
+página inicial.
+6
+17
+045 Figura 3 – Página inicial do BI-ER
+90
+5
+C
+P
+IN
+so
+-
+ru
+E
+00
+,986
+.06
+2
+.6
+2
+:o
+iráu
+tatsE
+latip
+aC 15/26
+SPMS – Serviços Partilhados do Ministério da Saúde, E.P.E. | Av. da República, n.º 61, 1050-189 Lisboa | Tel.: 211 545 600 | Fax: 211 545 649
+
+=== PÁGINA 16 ===
+Data: 08/2026
+Versão 1.6
+6. Vertentes de exploração de dados
+O BI-ER possui duas componentes de exploração de dados:
+1. Dashboards – que correspondem à customização central de informação que o utilizador
+necessitará para uma caracterização genérica da estratificação da população pelo risco;
+2. Análises ad-hoc – que corresponde à secção onde o utilizador, através da escolha de
+determinados filtros de análise, poderá realizar extrações de dados de acordo com as suas
+necessidades.
+6.1. Dashboards
+O acesso aos dashboards disponíveis no BI-ER é realizado através do menu lateral esquerdo,
+conforme imagem abaixo:
+6
+17
+045
+90
+5
+C
+P
+so
+IN
+-
+ru
+E
+00
+,986 Figura 4 – Menu de dashboards
+.06
+2
+.6
+2
+:o
+iráu
+tatsE
+latip
+aC 16/26
+SPMS – Serviços Partilhados do Ministério da Saúde, E.P.E. | Av. da República, n.º 61, 1050-189 Lisboa | Tel.: 211 545 600 | Fax: 211 545 649
+
+=== PÁGINA 17 ===
+Data: 08/2026
+Versão 1.6
+Os dashboards encontram-se organizados em três categorias principais:
+1. Caracterização População Inscrita
+• Pirâmide Etária: distribuição da população inscrita por faixa etária, sexo, região de
+residência, NUR, GN e nível de risco;
+• Área de Residência: distribuição da população inscrita pela sua área de residência;
+• Utentes sem informação por Sexo e Faixa Etária: análise dos utentes sem
+informação, por sexo e faixa etária;
+• Utentes sem informação por Área de Residência: análise da área de residência dos
+utentes sem informação;
+• Multimorbilidade: distribuição do número de diagnósticos da população inscrita,
+por faixa etária e sexo;
+• Polifarmácia: distribuição do número de princípios ativos da população inscrita, por
+faixa etária e sexo;
+• Doenças Crónicas: distribuição da população inscrita pelo número de grupos de
+diagnóstico crónicos, por faixa etária e sexo;
+• Grupos de Diagnóstico (GD): distribuição do número de grupos de diagnóstico pela
+população inscrita, e top 5 GDs por nível de risco.
+2. Contactos com o SNS
+• Resumo: contém um resumo do número e tipo de contactos que a população
+inscrita teve com o SNS. Visão por nível de risco, NUR e GN;
+• Tipo de Informação: distribuição da população inscrita pelos vários tipos de
+informação existente: sem informação; só com um tipo de informação (MCDTs,
+medicamentos, internamentos hospitalares, ambulatórios hospitalares, consultas
+externas hospitalares, urgências hospitalares, consultas CSP); e mais do que um
+tipo de informação.
+• Fluxos de Utentes: contém os fluxos de utentes referentes à produção Própria, In
+e Out das ULS, pelos vários tipos de informação (medicamentos, internamentos
+hospitalares, ambulatórios hospitalares, consultas externas hospitalares, urgências
+6
+17
+045 hospitalares e consultas CSP).
+90
+5
+C
+P
+IN
+so
+-
+ru
+E
+00
+,986
+.06
+2
+.6
+2
+:o
+iráu
+tatsE
+latip
+aC 17/26
+SPMS – Serviços Partilhados do Ministério da Saúde, E.P.E. | Av. da República, n.º 61, 1050-189 Lisboa | Tel.: 211 545 600 | Fax: 211 545 649
+
+=== PÁGINA 18 ===
+Data: 08/2026
+Versão 1.6
+Tabela 4 – Considerações sobre o dashboard “Fluxos de Utentes”
+Fluxos de Utentes
+Tipo de Produção Considerações
+Consultas CSP Consultas médicas, de enfermagem e de outros profissionais realizadas em CSP.
+Produção Própria: realizada pela ULS a inscritos na ULS
+Produção IN: realizada pela ULS a inscritos noutras ULS
+Produção OUT: realizada por outra ULS a inscritos na ULS
+Consultas Externas Produção Própria: realizada pela ULS a inscritos na ULS
+Produção IN: realizada pela ULS a inscritos noutras ULS
+Produção OUT: realizada por outra ULS a inscritos na ULS
+Urgências Produção Própria: realizada pela ULS a inscritos na ULS
+Produção IN: realizada pela ULS a inscritos noutras ULS
+Produção OUT: realizada por outra ULS a inscritos na ULS
+Internamento/ Produção classificada em GDH, onde se inclui a produção realizada em entidades
+Ambulatório convencionadas ou protocoladas SIGIC:
+Produção realizada em ULS:
+Produção Própria: realizada pela ULS a inscritos na ULS
+Produção IN: realizada pela ULS a inscritos noutras ULS
+Produção OUT: realizada por outra ULS a inscritos na ULS
+Produção realizada em entidades convencionadas ou protocoladas SIGIC:
+Produção Própria: realizada a inscritos na ULS, inscritos em LIC da ULS
+Produção IN – Exemplo: Utente inscrito CSP na ULS Santarém, inscrito em LIC
+ULS São José, Cirurgia realizada numa entidade privada. Será um IN da ULS São
+José, porque esta é a ULS de faturação.
+Produção OUT – Exemplo: Utente inscrito CSP na ULS Santarém, inscrito em LIC
+ULS São José, Cirurgia realizada numa entidade privada. Será um OUT da ULS
+Santarém
+Medicamentos Produção Própria – Exemplo: A própria serão os medicamentos prescritos na
+farmácia ULS Santarém, a utentes inscritos na ULS Santarém.
+comunitária
+Produção IN – Exemplo: Utente inscrito CSP na ULS São José, com medicamentos
+prescritos na ULS Santarém. Será um IN da ULS Santarém.
+6 17 Produção OUT– Exemplo: Utente inscrito CSP na ULS Santarém, com
+045
+90
+medicamentos prescritos na ULS São José. Será um OUT da ULS Santarém.
+5
+C
+P
+IN
+so
+-
+ru
+E
+00
+,986
+.06
+2
+.6
+2
+:o
+iráu
+tatsE
+latip
+aC 18/26
+SPMS – Serviços Partilhados do Ministério da Saúde, E.P.E. | Av. da República, n.º 61, 1050-189 Lisboa | Tel.: 211 545 600 | Fax: 211 545 649
+
+=== PÁGINA 19 ===
+Data: 08/2026
+Versão 1.6
+3. Complexidade População Inscrita
+• Pirâmide de Kaiser: pirâmides de kaiser nacional e de cada ULS. A distribuição dos
+utentes pelos 4 níveis da pirâmide de kaiser é feita da seguinte forma:
+▪ Nível de Baixo Risco: utentes abrangidos pelos Grupos de Necessidades
+(GN) 1-Não utilizador, 2-Necessidade baixa criança e 3-Necessidade baixa
+adulto; e pelos Níveis de Utilização de Recursos (NUR) 0- Sem Diagnóstico
+ou com diagnóstico inválido, 1- Saudáveis e 2 – Baixo;
+▪ Níveis de Risco Moderado a Muito Alto: a distribuição dos utentes destes 3
+níveis não é feita através de GN ou NUR específicos, mas sim, através dos
+percentis dos pesos relativos. Assim, haverá que identificar os Percentis 95
+e 80 da população de Risco Moderado a Muito Alto, ou seja, dos utentes
+com GN diferente de 1-Não utilizador, 2-Necessidade baixa criança e 3-
+Necessidade baixa adulto:
+o Risco Moderado: Percentil 0 – 80;
+o Risco Alto: Percentil 80 – 95;
+o Risco Muito Alto: Percentil 95.
+• Grupos de Risco Ajustado (GRA): contém a distribuição dos GRA, GN e NUR da
+população inscrita, por tipo etário, o top 10 GRAs mais prevalente e o top 10 GRAs
+por peso relativo;
+• Grupos de Necessidade (GN) vs Níveis de Utilização de Recursos (NUR):
+distribuição da população inscrita e de custos por NUR e GN;
+• Índice de Risco Ajustado (IDRA): IDRA Nacional e por ULS. O IDRA é o índice médio
+de complexidade resultante dos GRA para uma determinada população e tem em
+conta o peso relativo em função da complexidade dos utentes de cada GRA.
+Resulta da fórmula: ∑ (Utentes GRAi x Peso relativo GRAi )/∑ Utentes GRAi
+• Distribuição geográfica: distribuição da população inscrita pelo distrito e concelho
+de residência e nível de risco.
+À exceção do dashboard “Distribuição Geográfica”, todos os restantes possibilitam a análise dos
+dados tendo em conta a população total, ou somente subpopulação com ou sem médico de
+6 família, através do filtro “Médico de Família”.
+17
+045
+90
+5
+C
+P
+IN
+so
+-
+ru
+E
+00
+,986
+.06
+2
+.6
+2
+:o
+iráu
+tatsE
+latip
+aC 19/26
+SPMS – Serviços Partilhados do Ministério da Saúde, E.P.E. | Av. da República, n.º 61, 1050-189 Lisboa | Tel.: 211 545 600 | Fax: 211 545 649
+
+=== PÁGINA 20 ===
+Data: 08/2026
+Versão 1.6
+6.2. Análises Ad-hoc
+O acesso à área de análises ad-hoc é realizado através do menu lateral esquerdo, que se encontra
+distribuído pelos vários anos de análise, conforme imagem abaixo:
+Figura 5 – Menu de análises ad-hoc
+A informação constante na área de análises ad-hoc está restrita aos inscritos em CSP da ULS de
+pertença.
+A área de análises ad-hoc encontra-se organizada em nove separadores, onde é possível encontrar
+um conjunto de filtros a selecionar.
+Figura 6 – Seleção de filtros da área de análises ad-hoc
+6
+17
+045
+Os filtros “Unidade Funcional (UF)”, “Distrito de Residência”, “Concelho de Residência” e
+90
+5
+C “Freguesia de Residência” foram adicionados em março de 2025, na disponibilização da versão
+P
+IN
+so
+-
+1.1 do BI-ER. Os filtros “Grande Grupo de Diagnóstico (GGD)” e “Grupo de Diagnóstico (GD)” foram
+ru
+E
+00 adicionados em julho de 2025, na disponibilização da versão 1.2 do BI-ER. Todos os restantes
+,986
+.06 filtros foram adicionados na disponibilização da primeira versão do BI-ER, em outubro de 2024.
+2
+.6
+2
+:o
+iráu
+tatsE
+latip
+aC 20/26
+SPMS – Serviços Partilhados do Ministério da Saúde, E.P.E. | Av. da República, n.º 61, 1050-189 Lisboa | Tel.: 211 545 600 | Fax: 211 545 649
+
+=== PÁGINA 21 ===
+Data: 08/2026
+Versão 1.6
+Na tabela seguinte, encontra-se a lista dos atributos e métricas a serem considerados em cada
+um:
+Tabela 5 – Análises ad-hoc: lista de filtros e campos a disponibilizar nos diversos separadores
+Separador Campos Data de disponibilização
+▪ Ano
+▪ NNU
+▪ Data de Nascimento
+▪ Idade
+▪ Data de Óbito
+▪ Sexo
+▪ UF
+▪ Médico de Família
+▪ Distrito de Residência
+▪ Concelho de Residência
+▪ “Data de óbito” e “UF” –
+▪ Freguesia de Residência
+março de 2025, versão 1.1 do
+▪ Nº Diagnósticos
+Base BI-ER
+▪ Nº Princípios Ativos
+▪ Restantes campos – outubro
+▪ Nº Urgências
+de 2024, versão 1.0 do BI-ER
+▪ Nº Urgências Evitáveis
+▪ Nº Internamentos
+▪ Prob. Internamento 6 meses
+▪ Prob. Internamento 12 meses
+▪ Tipo de Informação
+▪ Nível de Risco
+▪ NUR
+▪ GN
+▪ GRA
+▪ Peso Relativo
+▪ Ano
+▪ NNU
+▪ Outubro de 2024, versão 1.0
+GGD/GD ▪ GGD
+do BI-ER
+▪ GD
+▪ GD Crónico
+▪ Ano
+▪ NNU ▪ “Inválido” – julho de 2025,
+▪ Data da Consulta versão 1.2 do BI-ER
+▪ Categoria Profissional ▪ “UF de Inscrição”, “UF do
+Consultas CSP ▪ Diagnóstico Episódio” e “Nº Episódios” -
+6 17 (Diagnósticos) ▪ Inválido março de 2025, versão 1.1 do
+045
+▪ ULS de Inscrição BI-ER
+90
+5 C ▪ UF de Inscrição ▪ Restantes campos – outubro
+P
+IN
+so
+- ▪ UF do Episódio * de 2024, versão 1.0 do BI-ER
+ru E
+00
+▪ Nº Episódios
+,986
+.06
+2
+.6
+2
+:o
+iráu
+tatsE
+latip
+aC 21/26
+SPMS – Serviços Partilhados do Ministério da Saúde, E.P.E. | Av. da República, n.º 61, 1050-189 Lisboa | Tel.: 211 545 600 | Fax: 211 545 649
+
+=== PÁGINA 22 ===
+Data: 08/2026
+Versão 1.6
+▪ Ano ▪ “Inválido” – julho de 2025,
+▪ NNU versão 1.2 do BI-ER
+Consultas CSP
+▪ Data da Consulta ▪ “Nº Episódios” - março de
+(Problemas
+▪ Diagnóstico 2025, versão 1.1 do BI-ER
+Ativos)
+▪ Inválido ▪ Restantes campos – outubro
+▪ Nº Episódios de 2024, versão 1.0 do BI-ER
+▪ Ano
+▪ NNU
+▪ Nº Processo *
+▪ Nº Episódio *
+▪ Data de Entrada
+▪ Data de Alta ▪ “Inválido” – julho de 2025,
+▪ GCD (Grande Categoria de Diagnóstico) versão 1.2 do BI-ER
+Internamentos
+▪ GDH (Grupo de Diagnóstico Homogéneo) ▪ “Nº Episódios” - março de
+(Diagnósticos /
+▪ Tipo de GDH 2025, versão 1.1 do BI-ER
+Procedimentos)
+▪ Nível de Severidade ▪ Restantes campos – outubro
+▪ Risco de Mortalidade de 2024, versão 1.0 do BI-ER
+▪ Diagnóstico / Procedimento
+▪ Inválido
+▪ Ordem do Diagnóstico / Procedimento
+▪ ULS de Inscrição
+▪ Nº Episódios
+▪ Ano
+▪ NNU
+▪ Nº Processo *
+▪ Nº Episódio *
+▪ Data
+▪ “Inválido” – julho de 2025,
+Ambulatórios ▪ GCD (Grande Categoria de Diagnóstico)
+versão 1.2 do BI-ER
+▪ GDH (Grupo de Diagnóstico Homogéneo)
+Hospitalares ▪ “Nº Episódios” - março de
+▪ Tipo de GDH
+(Diagnósticos / 2025, versão 1.1 do BI-ER
+▪ Nível de Severidade
+Procedimentos) ▪ Restantes campos – outubro
+▪ Risco de Mortalidade
+de 2024, versão 1.0 do BI-ER
+▪ Diagnóstico / Procedimento
+▪ Inválido
+▪ Ordem do Diagnóstico / Procedimento
+▪ ULS de Inscrição
+▪ Nº Episódios
+▪ Ano
+6 ▪ NNU
+17
+045 ▪ Nº Processo * ▪ “Inválido” – julho de 2025,
+90 ▪ Nº Episódio * versão 1.2 do BI-ER
+5
+C
+P IN ▪ Data ▪ “Nº Episódios” - março de
+so ru
+- Urgências
+▪ Versão ICD 2025, versão 1.1 do BI-ER
+E
+00 ▪ Diagnóstico ▪ Restantes campos – outubro
+,986
+.06 ▪ Inválido de 2024, versão 1.0 do BI-ER
+2
+.6 ▪ ULS de Inscrição
+2
+:o
+iráu ▪ Nº Episódios
+tatsE
+latip
+aC 22/26
+SPMS – Serviços Partilhados do Ministério da Saúde, E.P.E. | Av. da República, n.º 61, 1050-189 Lisboa | Tel.: 211 545 600 | Fax: 211 545 649
+
+=== PÁGINA 23 ===
+Data: 08/2026
+Versão 1.6
+▪ Ano
+▪ NNU ▪ “Inválido” – julho de 2025,
+▪ Nº Processo * versão 1.2 do BI-ER
+▪ Nº Episódio * ▪ “Tipo de Consulta” e
+▪ Data “Inválido” – julho de 2025,
+Consultas
+▪ Tipo de Consulta versão 1.2 do BI-ER
+Externas
+▪ Versão ICD ▪ “Nº Episódios” - março de
+▪ Diagnóstico 2025, versão 1.1 do BI-ER
+▪ Inválido ▪ Restantes campos – outubro
+▪ ULS de Inscrição de 2024, versão 1.0 do BI-ER
+▪ Nº Episódios
+▪ Ano ▪ “Inválido” – julho de 2025,
+▪ NNU versão 1.2 do BI-ER
+Medicamentos
+▪ Medicamento ▪ Restantes campos – outubro
+▪ Inválido de 2024, versão 1.0 do BI-ER
+▪ Ano
+▪ NNU
+▪ Consultas CSP
+▪ Internamentos
+▪ Ambulatórios Hospitalares ▪ Outubro de 2024, versão 1.0
+Custos
+▪ Urgências do BI-ER
+▪ Consultas Externas
+▪ MCDTs
+▪ Medicamentos
+▪ Total
+* estes campos só estão disponíveis quando o campo “ULS de Inscrição” é “Sim”, o que significa
+que a ULS de inscrição é igual à ULS do episódio em análise.
+6
+17
+045
+90
+5
+C
+P
+IN
+so
+-
+ru
+E
+00
+,986
+.06
+2
+.6
+2
+:o
+iráu
+tatsE
+latip
+aC 23/26
+SPMS – Serviços Partilhados do Ministério da Saúde, E.P.E. | Av. da República, n.º 61, 1050-189 Lisboa | Tel.: 211 545 600 | Fax: 211 545 649
+
+=== PÁGINA 24 ===
+Data: 08/2026
+Versão 1.6
+7. Características transversais do BI-ER
+Em seguida, apresentam-se as características gerais que são transversais tanto a dashboards,
+como a análises ad-hoc.
+7.1. Atualização de dados
+Os dados no BI-ER terão uma atualização mensal. É possível visualizar, no canto inferior esquerdo
+da página, a última data de atualização mensal de acordo com a informação disponível até à data
+apresentada no ícone a laranja, conforme figura abaixo.
+Figura 7 – Data da última atualização de dados
+Sempre que for detetada alguma incoerência nos dados apresentados, é recomendada a seleção
+da opção “Refresh”, localizada no canto superior direito da página. Caso o erro persista, entrar em
+contacto com a equipa BI-ER, através do endereço de e-mail: servicedesk@spms.min-saude.pt.
+Figura 8 – Opção de "Refresh" dos dados apresentados
+7.2. Filtragem de dados
+Todos os dashboards e análises ad-hoc têm um cabeçalho com uma prompt onde cada utilizador
+terá um conjunto de atributos que terá de selecionar obrigatoriamente. Estes atributos servem
+para limitar toda a informação do dashboard em causa conforme o que é selecionado
+na prompt respetiva.
+7.3. Modos de visualização dos dados
+No BI-ER, existem três modos de visualização dos dados, como exemplifica a figura abaixo:
+6
+• “Fit to Width”: ajuste à largura do portal;
+17
+045
+90
+• “Fit to Page”: ajuste à página do portal;
+5
+C
+P
+IN • “Full Screen”: ajuste ao tamanho total do ecrã de visualização.
+so
+-
+ru
+E
+00
+,986
+.06
+2
+.6
+2
+:o
+iráu
+tatsE
+latip
+aC
+Figura 9 – Modos de visualização dos dados
+24/26
+SPMS – Serviços Partilhados do Ministério da Saúde, E.P.E. | Av. da República, n.º 61, 1050-189 Lisboa | Tel.: 211 545 600 | Fax: 211 545 649
+
+=== PÁGINA 25 ===
+Data: 08/2026
+Versão 1.6
+7.4. Exportação de dados
+No BI-ER, tanto as tabelas como os dados dos gráficos são possíveis de serem exportados.
+A exportação de dados é realizada através do botão “Mais opções”, disponível no canto superior
+direito de cada tabela e gráfico, como exemplificam as seguintes figuras:
+Figura 10 – Passo 1: Exportação de dados
+Figura 11 – Passo 2: Seleção opção "Exportar dados"
+Existem duas formas de exportação de dados, tal como é possível verificar na figura abaixo:
+1. “Dados com esquema atual”: exportação em formato excel, com um máximo de 150.000
+linhas. Opção recomendada para a exportação de dados ao nível dos dashboards;
+2. “Dados resumidos”: exportação em formato excel, com um máximo de 150.000 linhas; ou
+formato csv, com um máximo de 30.000 linhas.
+6
+17
+045
+90
+5
+C
+P
+IN
+so
+-
+ru
+E
+00
+,986
+.06
+2
+.6
+2
+:o
+iráu
+tatsE
+latip
+aC 25/26
+SPMS – Serviços Partilhados do Ministério da Saúde, E.P.E. | Av. da República, n.º 61, 1050-189 Lisboa | Tel.: 211 545 600 | Fax: 211 545 649
+
+=== PÁGINA 26 ===
+Data: 08/2026
+Versão 1.6
+Figura 12 – Passo 3: Opções de exportação disponíveis
+6
+17
+045
+90
+5
+C
+P
+IN
+so
+-
+ru
+E
+00
+,986
+.06
+2
+.6
+2
+:o
+iráu
+tatsE
+latip
+aC 26/26
+SPMS – Serviços Partilhados do Ministério da Saúde, E.P.E. | Av. da República, n.º 61, 1050-189 Lisboa | Tel.: 211 545 600 | Fax: 211 545 649

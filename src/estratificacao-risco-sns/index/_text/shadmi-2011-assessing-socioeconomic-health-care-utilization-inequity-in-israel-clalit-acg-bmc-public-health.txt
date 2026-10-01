@@ -1,0 +1,516 @@
+# Fonte: Shadmi 2011 Assessing socioeconomic health care utilization inequity in Israel - Clalit ACG (BMC Public Health).pdf
+# Páginas: 8
+
+=== PÁGINA 1 ===
+Shadmietal.BMCPublicHealth2011,11:609
+http://www.biomedcentral.com/1471-2458/11/609
+RESEARCH ARTICLE Open Access
+Assessing socioeconomic health care utilization
+inequity in Israel: impact of alternative
+approaches to morbidity adjustment
+Efrat Shadmi1,2† , Ran D Balicer2,3*† , Karen Kinder4, Chad Abrams4 and Jonathan P Weiner4
+Background: The ability to accurately detect differential resource use between persons of different socioeconomic
+status relies on the accuracy of health-needs adjustment measures. This study tests different approaches to
+morbidity adjustment in explanation of health care utilization inequity.
+Methods: A representative sample was selected of 10 percent (~270,000) adult enrolees of Clalit Health Services,
+Israel’s largest health care organization. The Johns-Hopkins University Adjusted Clinical Groups ® were used to
+assess each person’s overall morbidity burden based on one year’s (2009) diagnostic information. The odds of
+above average health care resource use (primary care visits, specialty visits, diagnostic tests, or hospitalizations)
+were tested using multivariate logistic regression models, separately adjusting for levels of health-need using data
+on age and gender, comorbidity (using the Charlson Comorbidity Index), or morbidity burden (using the Adjusted
+Clinical Groups). Model fit was assessed using tests of the Area Under the Receiver Operating Characteristics Curve
+and the Akaike Information Criteria.
+Results: Lowsocioeconomicstatuswasassociatedwithhighermorbidityburden(1.5-folddifference).Adjustingfor
+healthneedsusingageandgenderortheCharlsonindex,personsoflowsocioeconomicstatushadgreateroddsof
+aboveaverageresourceuseforalltypesofservicesexamined(primarycareandspecialistvisits,diagnostictests,or
+hospitalizations).Incontrast,afteradjustmentforoverallmorbidityburden(usingAdjustedClinicalGroups),low
+socioeconomicstatuswasnolongerassociatedwithgreateroddsofspecialtycareordiagnostictests(OR:0.95,CI:0.94-
+0.99;andOR:0.91,CI:0.86-0.96,forspecialtyvisitsanddiagnosticrespectively).Testsofmodelfitshowedthatadjustment
+usingthecomprehensivemorbidityburdenmeasureprovidedabetterfitthanageandgenderortheCharlsonIndex.
+Conclusions: Identification of socioeconomic differences in health care utilization is an important step in disparity
+reduction efforts. Adjustment for health-needs using a comprehensive morbidity burden diagnoses-based measure,
+this study showed relative underutilization in use of specialist and diagnostic services, and thus allowed for
+identification of inequity in health resources use, which could not be detected with less comprehensive forms of
+health-needs adjustments.
+Background health services, yet accessing certain types of services is
+The link between socioeconomic status (SES) and health often impeded by financial and organizational barriers.
+has long been recognized, with lower SES associated Inequitable use of health services has been described
+with poorer health [1,2]. With more health needs, low even in countries with universal coverage. In In Israel,
+SES populations would be expected to consume more all residents are covered by mandatory health insurance,
+financed mainly by a progressive health tax, and pro-
+vided by one of four health funds, operating as insurers
+*Correspondence:rbalicer@clalit.org.il
+†Contributedequally and providers. Clalit Health Services is the largest (non-
+22ClalitResearchInstituteandHealthPolicyPlanningDepartment,Chief for-profit) health fund in Israel, with over 3.9 million
+Physician’sOffice,ClalitHealthServices,101ArlozorovSt,TelAviv62098,
+enrolees (53% market share), operating services distribu-
+Israel
+ted throughout Israel, including 1500 primary and
+Fulllistofauthorinformationisavailableattheendofthearticle
+©2011Shadmietal;licenseeBioMedCentralLtd.ThisisanOpenAccessarticledistributedunderthetermsoftheCreativeCommons
+AttributionLicense(http://creativecommons.org/licenses/by/2.0),whichpermitsunrestricteduse,distribution,andreproductionin
+anymedium,providedtheoriginalworkisproperlycited.
+
+=== PÁGINA 2 ===
+Shadmietal.BMCPublicHealth2011,11:609 Page2of8
+http://www.biomedcentral.com/1471-2458/11/609
+secondary care clinics, 14 hospitals, labs and diagnostic Methods
+imaging facilities. Clalit members receive, at the point of Sample and setting
+care, free primary care and hospitalization services. Spe- A representative sample of about 10% of all members of
+cialty care and imaging services incur a copayment. Per- Clalit during the entire year of 2009, including persons
+sons of low SES (who receive social security born or those who have died during the year, was
+entitlements) receive a complete or partial waiver for selected. All identifying data were removed. Data on
+these copayments, depending on their social security diagnoses were retrieved from two main sources: hospi-
+entitlement status. Despite universal coverage and talization and community physician visits, which repre-
+copayment waivers, previous Israeli studies have shown sent the entire experience each patient had within the
+that disadvantaged groups face more barriers to speci- Clalit health care system. Diagnoses are routinely elec-
+alty care than the rest of the population [3,4]. tronically recorded during all medical encounters for
+Studies from other developed countries have demon- clinical and care management (non-billing) purposes,
+strated that persons of low economic status utilize less and are then stored in a central data warehouse. There-
+specialist services than their more affluent counterparts fore, the entire morbidity profile of each individual was
+[5-8], yet findings on pro-rich specialty care use also captured. Clalit’s institutional ethics committee author-
+exist [9]. Primary care is generally shown to be equitably ized the study.
+distributed in universal coverage health care systems
+[6,10], however inequitable primary care use is also Morbidity groups
+reported [11]. These inconsistent findings may reflect TheJHU-ACGSystemtakesintoconsiderationtheentire
+actual variations in patterns of SES and health care use, health status of a person-based on individual diagnoses
+yet they may be a result of differences in measurement and,moreimportantly, combinationsofthesediagnoses,
+of health needs [12]. and then classifies the population into homogeneous
+Various measures of morbidity are used for case-mix categories in terms of the overall illness burden [19,20].
+adjustments in the health care inequity literature. The The building blocks of the ACG system are diagnostic
+most commonly used measures include survey-based codes,ageandgender.Eachdiagnosesassignedtoaper-
+healthstatusmeasures[6,7],comorbidityindicessuchas son during a predetermined period (usually a year) is
+the Charlson comorbidity index [13], simple morbidity coded into one of 32 groups-the Aggregated Diagnostic
+counts[14],ordiagnoses-basedmorbiditymeasures[15]. Groups (ADGs). The ADG classification (performed by
+Studies show that the use of a comprehensive survey the software grouper mechanism) is based on the dura-
+based health-needs adjustment measure affects the tion,severity,diagnosticcertainty, etiology,and needfor
+degree to which equitable resource use can be assessed specialty carethatisassociatedwitheachdiagnosis[19].
+®
+[6,7]. A Dutch study on SES utilization differences has In this study, the ACG Case-Mix System, Version 9.1
+shown that by controlling for healthstatus(using a sur- softwarewasused[23].
+vey-based measure), differences by SES changed mark- Before applying ADGs to examine socioeconomic dif-
+edly for all health services analyzed, as compared to a ferences in utilization within Clalit, the applicability of
+basic age-gender adjustment method [16]. Yet, survey- the ACG system to Israeli data was tested. We per-
+derived measures are not easily collectable. Moreover, formed assessments of the degree to which distribution
+patientself-reportedhealthstatushasbeenshowntodif- of the Clalit sample to ADGs is similar to their distribu-
+fer between population sub-groups [17,18]. The relative tions in other countries, and we tested how well ADGs
+valueofdifferentadjustmentmeasuresthatarebasedon explain resource use within Clalit, thereby making the
+readilyavailablemorbiditydata(fromelectronicmedical conclusions about SES valid. We compared the distribu-
+recordsoradministrativedatabases),suchastheCharl- tion of ADGs in Clalit to data from the Untied States
+son index, orcomprehensive diagnoses-basedmorbidity (US) and Spain, as in both these countries extensive
+measures,hasnotbeenpreviouslyassessed. research and validation of the ACG system has been
+The aim of this study was to examine the degree to conducted and since they reflect a diverse set of health
+which adjustment for morbidity using a diagnoses-based system types. The Spanish sample is from a study of
+morbidity measure-based on tools of the Johns Hopkins Orueta and colleagues [22] on explanation of utilization
+®
+University Adjusted Clinical Groups (ACGs) [19-22], of primary care in Spain based on information registered
+explains differences in health care use by socioeconomic in medical records. US data came from a sample of 3
+status, better than other commonly used health needs million commercially insured persons under the age of
+measures. We compared models of SES utilization dif- 65 from 85 geographically diverse health plans (Mid-
+ferences, adjusting for overall morbidity burden (using west, 35%, Northeast, 21%, South, 31%, West, 13%).
+the ACG system), with models that used age and gender Data were obtained from the PharMetrics Patient-Cen-
+only, or comorbidity (using the Charlson index). tric Data-base, of health plans that submit data in
+
+=== PÁGINA 3 ===
+Shadmietal.BMCPublicHealth2011,11:609 Page3of8
+http://www.biomedcentral.com/1471-2458/11/609
+exchange for comparative benchmarks. A sub-sample of gender, and morbidity burden (measured by ADGs).
+Clalit enrolees under the age of 65 (N = 351,558), was Model fit was assessed using the Akaike Information
+used for the US sample comparisons. The distribution Criterion (AIC), indicating better fit for smaller versus
+of ADGs was compared using Pearson’s r [24]. We larger AIC values, and the area under the Receiving
+excluded categories that had less than 100 persons Operator Characteristic (ROC) curve, indicating better
+(0.01%) due to small cell size considerations. fit as the value nears one (score ranges 0.5-1) [30].
+As part of the validation tests, examination of the To account for the fact that entitlement to a social
+degree to which morbidity, as measured by the ACG security waiver is not a direct measure of socioeco-
+system, is associated with health care resource use was nomic status we conducted sensitivity analyses using
+tested and compared to other health needs measures. two other proxy measures of SES-having supplemen-
+The adjusted R2 of several multiple linear regression tary private insurance (in addition to the mandatory
+models were calculated. The dependent variables were: tax-based insurance) and belonging to a low, medium,
+number of primary care encounters, number of specia- or high socioeconomic area (as measured by the socio-
+list visits, performance of diagnostic imaging tests, and economic indicator of the Israeli Bureau of Statistics
+number of hospitalizations for each person during the [31]). To account for nesting of patients within clinics,
+12-month study period. Independent variables included analysis involving the area level SES indicator was con-
+age and gender, morbidity groups-the 32 ADG dummy ducted using the generalized estimating equation [32].
+variables, or the Charlson Comorbidity Index (CCI) [25]. Data analyses were performed using STATA version
+The CCI was originally developed as a means of classify- 10 [33].
+ing the number and seriousness of about 20 chronic
+conditions to predict 1-year mortality based on diag- Results
+noses from medical charts, however, it is widely used to During 2009 a total of over 6 million diagnoses from
+adjust for comorbidity in explanations of health care use hospitalizations or community physician visits were
+[26,27]. Data on chronic conditions were obtained from assigned to all persons in the Clalit sample (average of
+the Clalit’s Chronic Disease Registry (CCDR), which 6.3 distinct diagnoses per person). On average each per-
+aligns information from electronic medical records of son was assigned 4.2 morbidity groups (ADGs) (SD 3.2,
+physician visits and hospitalizations, as well as data on range: 0-25, of a possible 32 groups) (Table 1). Social
+prescription drugs and information from diagnostic and security waiver holders (adults) had on average of about
+lab tests. The registry’s classification is verified by indivi- 1.5 times more morbidity groups assigned than non
+dual physicians, that request changes in their patients’ waiver holders (6.5 ADGs, SD: 3.8 and 4.3 ADGs, SD:
+chronic illness status in cases of misclassification [28]. 3.1 respectively). The average CCI score for the total
+sample and for the adults sub-sample was 1.2 and 1.6,
+Differences bysocioeconomic status respectively (range in each sample 0-22). About 60% of
+To assess differences in health care utilization we used a all enrolees (and about 50% of all adults) had a CCI
+sub-sample of adults aged 18 or older (N = 279,241). score of zero.
+We examined the odds of having an above average Tests of the correlation of the overall distribution of
+number of primary care visits, specialist visits, or diag- ADGs in Clalit showed that ADGs are distributed simi-
+nostic tests performed, or having one or more hospitali- larly in different populations. The Pearson correlation
+zation for persons holding a social security waiver was very similar to that of the US and the Spanish sam-
+versus all other adults. A social security waiver is pro- ples (r = 0.89, and 0.95 respectively).
+vided to about 10% of the Israeli population receiving
+supplemental income (by proof of entitlement) and to
+those with a disability benefit, and provides a waiver of Table 1Sample characteristics
+co-payments for specialty visits and diagnostic tests, and Total AdultSub-
+is commonly used as a marker of poor economic status Sample sample
+(N= (N=279,241)
+in Israeli health care reports [29]. We categorized the
+398,537)
+waiver variable into two groups: those holding a waiver
+Age(mean,SD) 35.3(23.1) 45.8(19.4)
+due to economic entitlement (1) versus all others (0),
+Gender,female(N,%) 203,652(51.0) 145,205(52.0)
+including non-waiver holders and those holding the
+SocialSecurityWaiver(N,%) 49,241(12.4) 40,947(14.6)
+waiver due to disability.
+CharlsonComorbidityIndex(mean, 1.19(2.1) 1.62(2.3)
+Analyses were conducted using three types of logistic SD)
+regression models: Models A, control for age and gender NumberofADGs(mean,SD) 4.2(3.2) 4.7(3.5)
+only; Models B, control for age, gender and the comor-
+SD:StandardDeviation
+bidity (using the CCI); and Models C control for age, ADG:AggregateDiagnosticGroups(ofpossible32groups).
+
+=== PÁGINA 4 ===
+Shadmietal.BMCPublicHealth2011,11:609 Page4of8
+http://www.biomedcentral.com/1471-2458/11/609
+Table 2Coefficients ofdetermination (r2) ofthe multiplelinear regression models explaining resource use
+Primarycarevisits Specialistvisits Diagnostictests Hospitalizations
+Ageandgender 0.13 0.12 0.13 0.05
+CharlsonComorbidityIndex,age,gender 0.18 0.13 0.15 0.11
+ADGs,age,gender 0.54 0.45 0.37 0.24
+ADG:AggregateDiagnosticGroups(dummyvariables,non-mutuallyexclusive).
+Table 2 shows that morbidity groups (ADGs) Tests of model fit (area under the ROC curve or AIC
+explained the largest percent of variance or in health tests) indicated a better fit of all morbidity burden mod-
+care resource use: 23% to 54% of the variation in pri- els (Models C; area under the ROC curve: between 0.72-
+mary care physician visits, specialist visits, performance 0.86, indicating good-very good fit) than models control-
+of diagnostic tests, and hospitalizations. Models that ling for age and gender only (Models A; area under the
+adjusted for comorbidity (using the CCI) explained only ROC curve: between 0.66-0.74, indicating a poor-good
+11-18% of all types of resource use. Age and gender fit) or the comorbidity (CCI) models (Models B; area
+alone explained only 5-13% of variation in use of the under the ROC curve: between 0.67-0.77, indicating a
+above health care services. poor-good fit) [23] (Table 5).
+Analysis conducted with the two other SES measures
+Differences in resource use by socioeconomic status (having supplemental insurance or area level SES)
+Table 3 reports the differences in high resource use showed similar results-i.e., controlling for age, gender,
+between persons holding a social-security waiver and all and morbidity burden, the more socially deprived were
+other adult enrolees. Adults holding a social-security significantly more likely to have an above average num-
+waiver were about twice as likely to have an above aver- ber of primary care visits or one or more hospitaliza-
+age number of primary care visits, 30% more likely to tions, and significantly less likely to have an above
+have an above average number of specialist visits or average number of specialist visits or diagnostic tests
+diagnostic tests performed, and more than twice as performed, than those with supplemental private insur-
+likely to be hospitalized at least one, compared with all ance or higher SES (data not shown). All models that
+other adults. accounted for overall morbidity burden resulted in a
+Table 4 reports the Odds Ratios (OR) and confidence better fit than adjustments using the comorbidity mea-
+intervals (CI) for having above average resource use in sure or age and gender only.
+persons with a social security waiver compared to all
+other adults. Controlling for age and gender only or for Discussion
+comorbidity (using the CCI), persons of low socioeco- Our findings show that accounting for overall morbidity
+nomic status (i.e., those holding a waiver) were signifi- levels with a comprehensive measure based on the com-
+cantly more likely to have above average number of bination of all types of diagnoses, inequity in various
+primary care visits, specialist visits, diagnostic tests per- types of health care resource use could be identified.
+formed, and one or more hospitalization. Controlling for Persons of low economic status were more likely than
+morbidity burden (using ADGs), compared to all other those of higher economic status to be high users of pri-
+adults, waiver holders were less likely to have an above mary care services, more likely to be hospitalized at
+average number of specialist visits or an above average least once during the 12-month study period, and were
+number of diagnostic tests performed. In all morbidity less likely to be high users of specialty care and diagnos-
+burden models (Models C), the likelihood of having an tic imaging services.
+above average resource use for each type of service Comparisons between models that used different
+examined was reduced by 17-35% relative to the age adjustment measures showed that morbidity burden
+and gender only models (Models A). provides a better explanation of differential resource use
+than other commonly used measures. Adjustments
+Table 3Percent withhighservice use bysocioeconomic status*
+AdultswithSocialSecurityWaiver Allotheradults
+Aboveaveragenumberofprimarycarevisits 63% 34%
+Aboveaveragenumberofspecialistvisits 42% 31%
+Aboveaveragenumberofdiagnostictests 38% 28%
+Oneormorehospitalizations 16% 7%
+*p-valuefromchisquaretests:p<0.001forallcomparisons
+
+=== PÁGINA 5 ===
+Shadmietal.BMCPublicHealth2011,11:609 Page5of8
+http://www.biomedcentral.com/1471-2458/11/609
+Table 4Socioeconomic classand highservice use: odds-ratios foralternative morbidity adjustment models
+Adults Aboveaveragenumberofprimary Aboveaveragenumberof Aboveaveragenumberof Oneormore
+with carevisits specialistvisits diagnostictests hospitalizations
+Social
+Security
+Waiver
+(vs.all
+other
+adults)
+ModelA:Adjustingforageandgender
+Odds 1.92 1.13 1.11 1.67
+ratio (1.87-1.97) (1.10-1.57) (1.08-1.37) (1.62-1.73)
+(95%
+CI)
+ModelB:Adjustingforage,genderandtheCharlsonComorbidityIndex
+Odds 1.62 1.04 1.05 1.38
+ratio (1.58-1.66) (1.01-1.06) (1.03-1.08) (1.33-1.42)
+(95%
+CI)
+ModelC:Adjustingforage,gender,andmorbidityusingADGcategories
+Odds 1.64 0.95 0.91 1.24
+ratio (1.60-1.69) (0.94-0.99) (0.86-0.96) (1.20-1.29)
+(95%
+CI)
+ADG:AggregateDiagnosticGroups(dummyvariables,non-mutuallyexclusive).
+CI:ConfidenceInterval
+Table 5Socioeconomic classand highservice use: predictive accuracy ofalternative morbidity models
+Adults Aboveaveragenumberof Aboveaveragenumberof Aboveaveragenumberof Oneormore
+with primarycarevisits specialistvisits diagnostictests hospitalizations
+Social
+Security
+Waiver
+(vs.all
+other
+adults)
+ModelA:Adjustingforageandgender
+Area 0.74 0.66 0.66 0.67
+under
+the
+ROC
+curve
+AIC 315900 331209 262971 150883
+ModelB:Adjustingforage,genderandtheCharlsonComorbidityIndex
+Area 0.77 0.67 0.67 0.72
+under
+the
+ROC
+curve
+AIC 307183 329009 262267 142501
+ModelC:Adjustingforage,gender,andmorbidityusingADGcategories
+Area 0.85 0.77 0.72 0.86
+under
+the
+ROC
+curve
+AIC 254608 290254 247195 117215
+ROC:ReceiverOperatingCharacteristics
+ADG:AggregateDiagnosticGroups(dummyvariables,non-mutuallyexclusive).
+AIC:AkaikeInformationCriteria
+
+=== PÁGINA 6 ===
+Shadmietal.BMCPublicHealth2011,11:609 Page6of8
+http://www.biomedcentral.com/1471-2458/11/609
+using age and gender or the Charlson index overesti- the ACG system [36]. Adjustments for health status in
+mated the difference in utilization between persons that study did not contribute significantly to models on
+from low and high SES. Moreover, adjusting for age and the basis of the diagnoses-based ACG measures. As
+gender or the Charlson index misleadingly showed that availability of survey data, in comparison to routinely
+persons of low SES are more likely to have higher utili- collected administrative and clinical data, may be lim-
+zation of specialists and diagnostic services. Adjustments ited, it is important to acknowledge the benefits of using
+using the morbidity burden measure (ADGs) revealed a diagnoses-based measures for planning, reimbursement,
+reverse relationship, more accurately explaining differ- and research.
+ences in resource use (as shown by the tests of model Assessing healthcare utilization patterns among low
+fit). SES groups is a key step in planning health inequity-
+Other countries and health systems with universal reduction strategies in healthcare organizations. To
+coverage face similar challenges-differences in health reduce inequities in health and in the delivery of health
+care use by SES are reported, with reports on pro-rich care, Clalit has laid out in 2008 an organization-wide
+inequity in specialty care use [5-8] and in performance strategic plan that addresses health care workforce, qual-
+of diagnostic imaging tests [15,34]. Studies on primary ity of care and utilization differences between low and
+care use by SES are mixed, with some showing an equi- high SES groups [37]. Examination of differences in use
+table (i.e., needs-based) distribution across SES groups of health care services, based on robust measures of
+[6,10], while others support the findings reported here, need, as reported here, can direct organizational efforts
+showing that person of poorer economic status use by suggesting areas of potential inequitable access to
+more primary care services than their richer counter- care.
+parts [35]. Higher rates of hospitalizations of those from Diagnoses-based morbidity measures, which classify
+lower SES were also found by others [14]. Our study the population according to diagnoses from all medical
+supports these findings, and adds to current knowledge encounters, are increasingly being used by health care
+by showing that the choice of health-need adjustment organizations worldwide for various applications, includ-
+measure can affect the magnitude and accuracy of iden- ing equitable allocation of resources, assessments of pro-
+tification of gaps in service use. viders’ performance, care management, and for research
+Countries and health care systems differ in benefit and evaluation [28,38,39]. Clalit Health Services, mainly
+design, patient-cost-sharing, and the role of private due to historical reasons [40], has a significant overre-
+insurance, and the reasons and magnitude of inequalities presentation of underprivileged populations-low socioe-
+vary. Yet, common findings on utilization inequity in conomic groups, minorities, new immigrants, and
+universal coverage systems suggest that implementation persons with disabilities [41]. Clalit has developed in
+of universal coverage principles deserves further consid- recent years various case-mix tools for medical, eco-
+eration. A possible explanation for the inequitable use of nomic and administrative purposes. A recent study has
+health services reported here is that, as reported also by demonstrated the feasibility and validity of using ACGs
+others, persons of low SES face non-financial barriers to in Clalit [42]. Our cross-national comparisons, as well as
+health service use [3,4]. These barriers may include studies from other countries [43-45], show that ACGs
+poorer availability of services, cultural and language provide robust classification of morbidity across differ-
+gaps that may affect minorities, who constitute large ent countries with markedly different health care sys-
+percentages of low SES populations, or differences in tems. Moreover, our results show that ACGs explain a
+preferences. Future research is required to test whether large percent of resource use at Clalit, similar to reports
+differences in use reflect the level of needed care by per- from other countries; ACGs have been shown to explain
+sons from diverse SES groups (i.e., whether underutiliza- 53-59% of the variation in primary care visits in Spain
+tion or overutilization exists) and to assess the degree to [22], 41-58% of variation in ambulatory visits in Taiwan
+which inequity reduction programs succeed in minimiz- [46], and 32-59% of ambulatory visits in the US [19].
+ing unwarranted gaps. A potential limitation of any diagnoses-based system is
+A potential criticism on the use of diagnoses-based the quality of the diagnostic coding. The accuracy of the
+measures, such as ADGs, is that they may be biased due diagnoses has not been systematically estimated here,
+to their reliance on data registered during patient visits, however, the similarity between the ACGs’ distributions
+and thus non-clinically measured aspect of health and in different countries suggests that coding is not a
+underutilization may affect the completeness of data. A major limitation in Clalit. Additionally, the JHU-ACG
+recent Canadian study addressed this potential short- system is relatively robust and minor differences in cod-
+coming by examining the contribution of survey-derived ing do not necessarily affect the system’s groupings,
+indicators of health status to explanatory models of phy- which are based on types of diagnoses and health states
+sician service use based on morbidity adjustment using and not on specific diagnoses and diseases.
+
+=== PÁGINA 7 ===
+Shadmietal.BMCPublicHealth2011,11:609 Page7of8
+http://www.biomedcentral.com/1471-2458/11/609
+Another limitation is that our measure of low SES is Wewouldliketothankthefollowingforthecontributionofdatafor
+only a proxy measure and does not incorporate impor- comparisonsconductedinthisstudy:Pharmetrics,ofIMSHealth
+IncorporatedfortheUSdata,andDr.JuanOruetaforthedatafromSpain.
+tant information on education, income and wealth com-
+ponents [47]. To address this we have examined Authordetails
+1FacultyofSocialWelfareandHealthSciences,UniversityofHaifa,Mount
+different proxies for individual SES, all leading to the
+Carmel31905,Israel.22ClalitResearchInstituteandHealthPolicyPlanning
+same results regarding the direction, magnitude and sig- Department,ChiefPhysician’sOffice,ClalitHealthServices,101ArlozorovSt,
+nificance of difference between those with lower versus TelAviv62098,Israel.3EpidemiologyDepartment,FacultyofHealthSciences,
+higher SES.
+Ben-GurionUniversity,Beer-Sheva84105,Israel.4BloombergSchoolofPublic
+Health,JohnsHopkinsUniversity,Baltimore,MD21205,USA.
+Additionally, our results may not be representative of
+differences in utilization between socioeconomic groups Authors’contributions
+in other countries. Health care systems world-wide dif- ESandRDBdesignedthestudy,performedthestatisticalanalysisand
+draftedthemanuscript.CA,KK,andJWprovidedinsightintotheconcept
+fer in benefit design, patient-cost-sharing, and the role anddesignofthestudyandrevisedthemanuscriptcriticallyforimportant
+of private insurance. Yet, our main finding, i.e., that intellectualcontent.Allauthorsreadandapprovedthefinalversionofthe
+manuscript.
+adjustment for morbidity using a robust diagnoses-based
+measure allows for a more accurate assessment of Competinginterests
+inequity in resource use is of relevance to other coun- TheACGSystemsiscommerciallydistributedunderlicensewithTheJohns
+tries and health systems. Finally, this study only exam- HopkinsUniversity,whichholdsthecopyrighttotheACGSystem.Johns
+HopkinsUniversitybenefitsfromthesaleofthissoftware.Themajorityof
+ines how well morbidity, as measured by the ACG
+theseroyaltiesisusedtowardsupportingongoingdevelopmentworkofthe
+system, explains actual service use, rather than what ACGSystem,includingtheresearchpresentedinthisarticle.
+ought to have been provided based on patients’ needs.
+Received:5February2011 Accepted:1August2011
+Future studies are needed to test whether adjustment
+Published:1August2011
+for additional factors that define health care need (e.g.,
+proximity to healthcare facilities or patient care seeking References
+behaviours) provide additional insight into the reasons 1. SmithGD,BartleyM,BlaneD:Theblackreportonsocioeconomic
+inequalitiesinhealthtenyearson.BMJ1990,301:373-377.
+for differences in healthcare use.
+2. ShiL,StarfieldB,KennedyB,KawachiI:Incomeinequality,primarycare,
+andhealthindicators.JFamPract1999,48:275-284.
+Conclusions 3. Baron-EpelO,GartyN,GreenMS:Inequalitiesinuseofhealthservices
+amongJewsandArabsinIsrael.HealthServRes2007,42:1008-1019.
+Relative to all other enrolees, persons of low socioeco- 4. Brammli-GreenbergS,RosenB,GrossR:Co-paymentsforphysicianvisits:
+nomic status were less likely to be high users of speci- howlargeistheburdenandwhobearsthebrunt?Jerusalem:Myers-JDC-
+BrookdaleInstitute,TheSmoklerCenterforHealthPolicyResearch;2006,[in
+alty care and imaging services, a phenomenon identified
+Hebrew].
+only with the use of a robust health-needs measure. 5. SchoenC,DotyMM:Inequitiesinaccesstomedicalcareinfive
+Using routinely recorded data from electronic medical countries:findingsfromthe2001CommonwealthFundInternational
+records, the JHU-ACG System is a feasible and valid HealthPolicySurvey.HealthPolicy2004,67:309-322.
+6. VanDoorslaerE,MasseriaC,KoolmanX:Inequalitiesinaccesstomedical
+method to account for the morbidity level of an Israeli carebyincomeindevelopedcountries.CMAJ2006,174:177-183.
+population, strongly associated with different types of 7. VanDoorslaerE,WagstaffA,vanderBurgH,ChristiansenT,DeGraeveD,
+DuchesneI,etal:EquityinthedeliveryofhealthcareinEuropeandthe
+healthcare services utilization. Accurate adjustment to
+US.JHealthEcon2000,19:553-583.
+morbidity level afforded by this system, allows new 8. VanderHeydenJHA,DemarestS,TafforeauJ,VanOyenH:Socio-economic
+insights on differences in healthcare services utilization differencesintheutilizationofhealthservicesinBelgium.HealthPolicy
+between population sub-groups. 2003,65:153-165.
+9. FinkelsteinMM:Dofactorsotherthanneeddetermineutilizationof
+With the launching of a new inequity reduction strat- physicians’servicesinOntario?CMAJ2001,165:565-570.
+egywithinClalit,accurateassessmentofthesedifferences 10. McIsaacW,GoelV,NaylorD:Socio-economicstatusandvisitsto
+is ofconsiderable importance, as assessmentof inequal- physiciansbyadultsinOntario,Canada.JHealthServResPolicy1997,
+2:94-102.
+ities in health and health care, care management and
+11. AsadaY,KephartG:Equityinhealthservicesuseandintensityofusein
+resourceallocationcanbeperformedmorepreciselyand Canada.BMCHealthServRes2007,7:41.
+fairly.Furtherresearchisneededtotestthesedifferences 12. KephartG,AsadaY:Need-basedresourceallocation:differentneed
+indicators,differentresults?BMCHealthServRes2009,9:122.
+in other Israeli populations as well as in other countries
+13. ChinMH,ZhangJX,MerrellK:DiabetesintheAfrican-AmericanMedicare
+andtobetterunderstandthepossiblecontributionofdif- population.Morbidity,qualityofcare,andresourceutilization.Diabetes
+ferencesinutilizationbySEStohealthoutcomes. Care1998,21:1090-1095.
+14. RegidorE,MartinezD,CalleME,AstasioP,OrtegaP,DominguezV:
+Socioeconomicpatternsintheuseofpublicandprivatehealthservices
+andequityinhealthcare.BMCHealthServRes2008,8:183.
+AcknowledgementsandFunding 15. DemeterS,ReedM,LixL,MacWilliamL,LeslieWD:Socioeconomicstatus
+Partsofthisworkhavebeenpresentedatthe25thPatientClassification andtheutilizationofdiagnosticimaginginanurbansetting.CMAJ2005,
+SystemsInternationalWorkingConferenceinFukuoka,JapanonNovermber 173:1173-1177.
+14th,2009.
+
+=== PÁGINA 8 ===
+Shadmietal.BMCPublicHealth2011,11:609 Page8of8
+http://www.biomedcentral.com/1471-2458/11/609
+16. VanderMeerJB,vandenBosJ,MackenbachJP:Socioeconomic 39. AshAS,EllisRP,PopeGC,AyanianJZ,BatesDW,BurstinH,IezzoniLI,
+differencesintheutilizationofhealthservicesinaDutchpopulation: MacKayE,YuW:Usingdiagnosestodescribepopulationsandpredict
+thecontributionofhealthstatus.HealthPolicy1996,37:1-18. costs.HealthCareFinancRev2000,21:7-28.
+17. Baron-EpelO,KaplanG,Haviv-MessikaA,TarabeiaJ,GreenMS,KaluskiDN: 40. GrossR,RosenB,ChinitzD:EvaluatingtheIsraelihealthcarereform:
+Self-reportedhealthasaculturalhealthdeterminantinArabandJewish strategies,challengesandlessons.HealthPolicy1998,45:99-117.
+IsraelisMABAT-NationalHealthandNutritionSurvey1999-2001.SocSci 41. HorevT,KopY:Allocationofresourcesforsocialservices2008Jerusalem:
+Med2005,61:1256-1266. TaubCenterforSocialPolicyStudiesinIsrael;2009,[inHebrew].
+18. SimonJG,VandeMheenH,VanderMeerJB,MackenbachJP: 42. BalicerRD,ShadmiE,GeffenK,CohenA,AbramsC,Kinder-SiemensK,
+Socioeconomicdifferencesinself-assessedhealthinachronicallyill Regev-RosenbergS:Towardsamoreequitabledistributionofresources
+population:theroleofdifferenthealthaspects.JBehavMed2000, andassessmentofqualityofcare:validationofacomorbiditybased
+23:399-420. case-mixsystem.Harefuah2010,149:665-669,[inHebrew].
+19. StarfieldB,WeinerJ,MumfordL,SteinwachsD:Ambulatorycaregroups:a 43. EngstromSG,CarlssonL,OstgrenCJ,NilssonGH,BorgquistLA:The
+categorizationofdiagnosesforresearchandmanagement.HealthServ importanceofcomorbidityinanalysingpatientcostsinSwedishprimary
+Res1991,26:53-74. care.BMCPublicHealth2006,6:36.
+20. WeinerJP,StarfieldBH,LiebermanRN:JohnsHopkinsAmbulatoryCare 44. Sicras-MainarA,Navarro-ArtiedaR,Blanca-TamayoM,Velasco-VelascoS,
+Groups(ACGs).Acase-mixsystemforUR,QAandcapitation Escribano-HerranzE,Llopart-LópezJR,Violan-ForsC,Vilaseca-LlobetJM,
+adjustment.HMOPract1992,6:13-19. Sanchez-FontcubertaE,Benavent-AreuJ,Flor-SerraF,Aguado-JodarA,
+21. CarlssonL,BorjessonU,EdgrenL:Patientbased‘burden-of-illness’in Rodriguez-LopezD,Prados-TorresA,Estelrich-BennasarJ:Therelationship
+Swedishprimaryhealthcare.ApplyingtheJohnsHopkinsACGcase-mix betweeneffectivenessandcostsmeasuredbyarisk-adjustedcase-mix
+systeminaretrospectivestudyofelectronicpatientrecords.IntJHealth system:multicentrestudyofCatalonianpopulationdatabases.BMC
+PlannManage2002,17:269-282. PublicHealth2009,9:202.
+22. OruetaJF,Lopez-De-MunainJ,BaezK,AiarzaguenaJM,ArangurenJI, 45. ReidRJ,RoosNP,MacWilliamL,FrohlichN,BlackC:Assessingpopulation
+PedreroE:Applicationoftheambulatorycaregroupsintheprimarycare healthcareneedusingaclaims-basedACGmorbiditymeasure:a
+ofaEuropeannationalhealthcaresystem:doesitwork?MedCare1999, validationanalysisintheProvinceofManitoba.HealthServRes2002,
+37:238-248. 37:1345-1364.
+23. TheJohnsHopkinsUniversity:TheJohnsHopkinsUniversityACGCaseMix 46. LeeWC,HuangTP:ExplanatoryabilityoftheACGsystemregardingthe
+AdjustmentSystem.Documentation&ApplicationManual.Version8.1 utilizationandexpenditureofthenationalhealthinsurancepopulation
+Baltimore,MD:TheJohnsHopkinsUniversity;2007. inTaiwan-a5yearanalysis.JChinMedAssoc2008,71:191-199.
+24. RosnerB:FundamentalsofBiostatisticsBelmont,CA:ThomsonBrooks/Cole 47. DalyMC,DuncanGJ,McDonoughP,WilliamsDR:Optimalindicatorsof
+Publishers;2000. socioeconomicstatusforhealthresearch.AmJPublicHealth2002,
+25. CharlsonME,PompeiP,AlesKL,MacKenzieCR:Anewmethodof 92:1151-1157.
+classifyingprognosticcomorbidityinlongitudinalstudies:development
+andvalidation.JChronicDis1987,40:373-383. Pre-publicationhistory
+26. FischerLR,WeiF,RolnickSJ,JacksonJM,RushWA,GarrardJM,NitzNM, Thepre-publicationhistoryforthispapercanbeaccessedhere:
+LuepkeLJ:Geriatricdepression,antidepressanttreatment,and http://www.biomedcentral.com/1471-2458/11/609/prepub
+healthcareutilizationinahealthmaintenanceorganization.JAmGeriatr
+Soc2002,50:307-312. doi:10.1186/1471-2458-11-609
+27. MackieAS,PiloteL,Ionescu-IttuR,RahmeE,MarelliAJ:Healthcare Citethisarticleas:Shadmietal.:Assessingsocioeconomichealthcare
+resourceutilizationinadultswithcongenitalheartdisease.AmJCardiol utilizationinequityinIsrael:impactofalternativeapproachesto
+2007,99:839-843. morbidityadjustment.BMCPublicHealth201111:609.
+28. RennertG,PeterburgY:PrevalenceofselectedchronicdiseasesinIsrael.
+IsrMedAssocJ2001,3:404-408.
+29. PorathA,RabinowitzG,Raskin-SegalA:Qualityindicatorsforcommunity
+healthcareinIsrael,publicreport:2005-2007.Jerusalem:Ministryof
+Health;2008[http://www.health.gov.il/pages/default.asp?
+maincat=1&catid=98&pageid=4215],[inHebrew](Accessed21June2011).
+30. HosmerDW,LemeshowS:AppliedLogisticRegressionNewYork:JohnWiley
+&SonsInc;2000.
+31. IsraeliBureauofStatistics:CharacterizationandClassificationofLocal
+AuthoritiesbytheSocio-EconomicLevelofthePopulation.Jerusalem2003
+[http://www.cbs.gov.il/www/publications/local_authorities2003/
+local_authorities_e.htm],(Accessed30August2009).
+32. HardinJW,HilbeJM:GeneralizedEstimaingEquationsBocaRaton,Fla:
+Chapman&Hall/CRC;2003.
+33. StataCorp:StataStatisticalSoftware:Release10.CollegeStation,TX2007.
+34. OlssonS:Diffusion,utilizationandregionalvariationsintheuseofCT
+andMRIinSweden.ComputMethodsProgramsBiomed2001,66:129-135.
+35. MorrisS,SuttonM,GravelleH:Inequityandinequalityintheuseof
+healthcareinEngland:anempiricalinvestigation.SocSciMed2005, Submit your next manuscript to BioMed Central
+60:1251-1266. and take full advantage of:
+36. SibleyLM,MoineddinR,AghaMM,GlazierRH:Riskadjustmentusing
+administrativedata-basedandsurvey-derivedmethodsforexplaining
+• Convenient online submission
+physicianutilization.MedCare2010,48:175-182.
+37. BalicerRD,ShadmiE,LiebermanN,Greenberg-DotanS,GoldfrachtM, • Thorough peer review
+JanaL,CohenAD,Regev-RosenbergS,JacobsonO:Reducinghealth
+• No space constraints or color figure charges
+disparitiesinlowsocioeconomicandminoritypopulations:strategy
+planningandimplementationinIsrael’slargesthealthcareorganization. • Immediate publication on acceptance
+HealthServRes2011,46(4):1281-1299. • Inclusion in PubMed, CAS, Scopus and Google Scholar
+38. MajeedA,BindmanAB,WeinerJP:Useofriskadjustmentinsetting
+• Research which is freely available for redistribution
+budgetsandmeasuringperformanceinprimarycareI:howitworks.
+BMJ2001,323:604-607.
+Submit your manuscript at
+www.biomedcentral.com/submit

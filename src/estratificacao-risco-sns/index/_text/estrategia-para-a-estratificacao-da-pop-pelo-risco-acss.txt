@@ -1,0 +1,637 @@
+# Fonte: ESTRATÉGIA PARA A ESTRATIFICAÇÃO da pop pelo risco ACSS.pdf
+# Páginas: 21
+
+=== PÁGINA 1 ===
+ESTRATÉGIA PARA A ESTRATIFICAÇÃO
+DA POPULAÇÃO PELO RISCO
+3 de janeiro de 2022
+
+=== PÁGINA 2 ===
+ÍNDICE
+1. Introdução ..................................................................................................................................... 4
+2. Estratificação da população pelo risco ...................................................................................... 7
+2.1. Porquê implementar a estratificação pelo risco em Portugal? ................................................ 7
+3. Ajustamento pelo risco ...............................................................................................................10
+4. Objetivos da implementação da estratificação pelo risco em Portugal .................................12
+5. Instrumentos de estratificação ..................................................................................................14
+6. Plano de implementação ............................................................................................................17
+7. Monitorização e avaliação da implementação da estratificação pelo risco ...........................19
+8. Bibliografia ..................................................................................................................................20
+2
+
+=== PÁGINA 3 ===
+Siglas e acrónimos
+ACG – Adjusted Clinical Groups
+ACSS – Administração Central do Sistema de Saúde
+CRG – Clinical Risk Groups
+JADECARE – Joint Action on Digitally Enabled Integrated Person Centered Care
+OCDE – Organização para a Cooperação e Desenvolvimento Económico
+PRR – Plano de recuperação e resiliência
+3
+
+=== PÁGINA 4 ===
+1. Introdução
+Um pouco por todo o mundo, entre os países desenvolvidos, os sistemas de saúde estão a lidar com um conjunto
+de desafios tais como o envelhecimento da população, o aumento da cronicidade, expetativas mais elevadas da
+população quanto à sua saúde e às respostas de saúde, a carência de profissionais de saúde e a pressão da
+inovação terapêutica, associada a progressivo aumento da despesa, que constitui uma ameaça à
+sustentabilidade.
+Por outro lado, assistimos hoje a um conjunto de novas tendências que podem ter um papel relevante para
+assegurar cuidados de qualidade, centrados nas pessoas e nas suas necessidades, mais próximos e mais
+convenientes, contribuindo simultaneamente para assegurar não só a sustentabilidade do sistema, como também
+a sua reação na resposta a futuras ameaças globais de saúde.
+As doenças crónicas representam uma importante limitação na qualidade de vida e na independência funcional
+das pessoas que delas padecem, sendo um propulsor do incremento da despesa em saúde. Muitas destas
+doenças resultam da exposição acumulada e prolongada das pessoas a fatores de risco capazes de gerar
+doenças crónicas. O envelhecimento e os estilos de vida menos saudáveis acentuam o aumento da prevalência
+da doença crónica. O padrão de doença mudou, sendo cada vez maior a proporção da despesa em saúde
+relacionada com doenças crónicas. O futuro dos cuidados de saúde irá ser dominado pelo repto das doenças
+crónicas complexas, sendo na coexistência de múltiplas condições crónicas que se apresentam os maiores
+desafios para os atuais sistemas de saúde. Haverá um número crescente de pessoas com problemas múltiplos
+de saúde, mais comum entre os mais idosos. Portugal atravessa um momento de transição demográfica e
+epidemiológica importante, com o envelhecimento da população e aumento da cronicidade, realidade à qual o
+sistema de saúde ainda não se adaptou, com prejuízo para os doentes e para a sustentabilidade do sistema.
+De acordo com dados da OCDE, Portugal é o quarto país com maior percentagem da população com mais de 65
+anos (22,3%). A esperança média de vida aos 65 anos é elevada, vivendo as pessoas cerca de mais 20 anos,
+valor ligeiramente acima da média da OCDE. Contudo, 13 desses anos são vividos com incapacidade, acima da
+média da OCDE (9,9). Adicionalmente, 50% da população com mais de 65 anos tem, pelo menos uma doença
+crónica e 17%, pelo menos duas. Nestes doentes com maior carga de doença concentra-se maior consumo de
+recursos, sendo que a literatura indica que os doentes com multimorbilidade consomem 50 vezes mais recursos
+que um doente não crónico1.
+Não obstante os esforços desenvolvidos, para adequar a prestação de cuidados a esta realidade, continua a
+observar-se fragmentação, por vezes com intervenções episódicas, descontinuadas, reativas e centradas no
+tratamento da doença. Vários estudos têm concluído que tais características conduzem a atrasos nos
+diagnósticos, nomeadamente nas doenças crónicas mais prevalentes (diabetes, cardiovasculares, oncológicas,
+respiratórias), à duplicação de cuidados, a admissões hospitalares evitáveis, a pior qualidade de vida e a custos
+mais elevados. Nos doentes com multimorbilidade este problema é particularmente crítico. Os doentes percorrem
+diversas especialidades, para cada patologia que têm, realizando exames complementares, por vezes repetidos,
+4
+
+=== PÁGINA 5 ===
+e recebendo prescrições terapêuticas que, muitas vezes, não são a combinação ótima, para o conjunto das suas
+necessidades.
+No que respeita ao desafio da cronicidade, o modelo de cuidados de saúde requer todo um realinhamento que
+passa pela promoção da saúde desde os primeiros anos e ao longo de toda a vida, evitando ou protelando a
+ocorrência de doenças futuras, assim como pela prevenção da doença, apostando nos rastreios e diagnóstico
+precoce, e ainda na gestão da doença, evitado e mitigando as agudizações.
+Sabendo da importância que os determinantes sociais têm na saúde, as autarquias têm um papel fundamental a
+desempenhar, conforme diploma que concretiza o quadro de transferência de competências para os órgãos
+municipais (Decreto-Lei n.º 23/2019). Ao abrigo do documento, está prevista uma parceria estratégica entre os
+municípios e o SNS relativa aos programas de prevenção da doença, com especial incidência na promoção de
+estilos de vida saudáveis e de envelhecimento ativo.
+A pandemia veio demonstrar que as autarquias são atores chave nesta dimensão mais lata da saúde, porque
+conhecem o seu território e populações e, por isso, podem mobilizar os recursos existentes na comunidade para
+dar resposta a necessidades que, não sendo diretamente de saúde, têm um impacto muito significativo na
+mesma.
+A transformação do sistema passa também pela integração saúde-social, potenciando a continuidade de
+cuidados e organização dos percursos de cuidados centrados no doente e não nas especialidades profissionais,
+bem como a valorização das decisões dos doentes.
+Todo este novo paradigma beneficia do suporte das tecnologias. O desenvolvimento da telemedicina permite hoje
+prestar mais cuidados no domicílio, evitar deslocações desnecessárias dos utentes e dos profissionais e
+rentabilizar recursos. Alguns destes exemplos bem conhecidos são o telerastreio, a telemonitorização, as
+teleconsultas, as teleconsultadorias e, mais recentemente, a telereabilitação, como resposta às dificuldades de
+acesso decorrentes do COVID.
+Em Portugal beneficiamos hoje de uma panóplia imensa de sistemas de informação, sem precedente noutros
+países Europeus, que ajudam os profissionais na sua atividade. No entanto persiste o desafio de fazer todos
+estes sistemas comunicarem entre si, não só para ajudar a coordenar e articular cuidados, mas também para
+suportar a gestão nos vários níveis do sistema de saúde. Transformar dados em conhecimento, permite tomar
+melhores decisões, planear com base em evidência concreta e antecipar os acontecimentos.
+No sentido de prosseguir o quadruple aim, tornando 1) os sistemas de saúde mais integrados e centrados no
+doente, 2) adotando uma abordagem populacional, 3) considerando a satisfação dos profissionais e 4) mantendo
+o seu equilíbrio financeiro, tem vindo a ser adotada em vários países/regiões a estratificação da população pelo
+risco, uma abordagem populacional, sistemática e preditiva com a identificação de grupos com necessidades
+semelhantes, recorrendo a ferramentas específicas. Após a identificação desses grupos, são delineadas
+intervenções dirigidas a cada um, sendo possível, deste modo, adequar os níveis de recursos, em função das
+necessidades.
+5
+
+=== PÁGINA 6 ===
+A estratificação da população pelo risco é usada desde há muito nos Estados Unidos, principalmente para efeitos
+de financiamento2. Na Europa, a sua utilização encontra-se numa fase menos desenvolvida, sendo usada para
+financiamento, mas sobretudo para investigação, planeamento e gestão em termos de saúde pública.
+Reconhecendo a importância deste instrumento para uma gestão mais eficiente da saúde populacional e dos
+recursos, a ACSS tem como objetivo implementar a estratificação da população pelo risco. A sua importância é
+de tal forma estruturante que faz parte dos compromissos assumidos no âmbito do Plano de Recuperação e
+Resiliência (PRR).
+A estratificação pelo risco insere-se no PRR como um meio para fomentar a integração de cuidados, fazendo
+evoluir o atual modelo de cuidados no sentido de organizar processos assistenciais ajustados às características
+individuais de cada utente e com os seus percursos de vida, garantindo intervenções preventivas, antecipatórias
+e mais adequadas ao bem-estar de cada um, robustecendo também a capacidade de identificar situações de
+risco e de articulação com outros serviços de saúde e respostas sociais competentes. Não menos importante é
+a sua contribuição para uma alocação mais equilibrada dos recursos, ajustada às necessidades específicas de
+cada grupo populacional e para a melhoria contínua do desempenho.
+Em Portugal, já foram desenvolvidas iniciativas no âmbito da estratificação da população pelo risco. Em 2010 foi
+desenvolvido um trabalho de validação dos dados e de aplicação do ajustamento pelo risco pela empresa Verisk3.
+Em 2016/2017 foi efetuado um estudo com o agrupamento dos utentes da ARS Norte e das ULS em Adjusted Clinical
+Groups (ACG), da IASIST e Clinical Risk Groups (CRG), da 3M HIS4 tendo essa informação sido utilizada para
+demonstrar que o dimensionamento das listas de utentes dos médicos de medicina geral e familiar5 podia ter em
+conta critérios mais robustos e consequentemente mais justos. Posteriormente foi desenvolvida uma ferramenta
+nacional – o Índice de Complexidade do Utente (ICU)6 – que, em função de um conjunto de variáveis, permite calcular
+para cada utente inscrito, um valor/índice que tem capacidade preditiva da carga de trabalho dos profissionais de
+saúde dos cuidados de saúde primários, consumo de medicamentos, MCDT, utilização da rede de urgência, de
+consultas e internamentos hospitalares.
+Para suportar o processo de implementação da estratificação pelo risco, a ACSS participa de uma Joint Action da
+Comissão Europeia sobre integração de cuidados e cuidados centrados nas pessoas (JADECARE), cujo objetivo
+geral é disseminar boas práticas em termos de integração de cuidados, sendo uma das componentes principais, a
+estratificação pelo risco.
+6
+
+=== PÁGINA 7 ===
+2. Estratificação da população pelo risco
+A estratificação da população pelo risco não é um fim em si mesmo, mas antes uma abordagem sistemática, de
+abrangência populacional, usada para prever necessidades futuras, sejam elas morbilidade, consumo de
+recursos, custos, ocorrência de eventos adversos (admissões não planeadas que são potencialmente evitáveis)
+ou outro tipo de riscos. Apesar de a estratificação permitir calcular o consumo de recursos atual, a sua grande
+mais valia é, com base em dados históricos, calcular o consumo de recursos futuro. Com esta informação, a
+governação clínica hoje, torna-se mais efetiva, por permitir colocar os doentes em maior risco no radar,
+monitorizando-os e antecipando cuidados, intervindo à menor alteração, por forma a evitar descompensações.
+Em termos práticos, a estratificação classifica e agrupa os indivíduos, permitindo identificar subpopulações com
+risco comparável. Tipicamente a estratificação segue a lógica da pirâmide de Keiser Permanent. A subpopulação
+de mais elevado risco compreende apenas uma pequena percentagem da população total (5%), seguindo-se um
+grupo de menor risco (cerca de 20%), depois um grupo de baixo risco (cerca de 60% da população).
+Numa perspetiva de gestão da saúde da população, o objetivo é maximizar a saúde dos cidadãos, apostando na
+promoção da saúde, prevenção da doença e gestão da doença crónica, atuando de uma forma proactiva,
+monitorizando os utentes de mais elevado risco e atuando precocemente para minimizar intervenções evitáveis.
+Diferentes subgrupos da população têm diferentes necessidades, pelo que, para obter melhores resultados de
+saúde na população total, é necessário personalizar as intervenções para as diferentes necessidades. A
+estratificação da população permite a identificação dos diferentes grupos e das respetivas necessidades,
+podendo assim ser definidos programas dirigidos a essas mesmas necessidades e consequentemente alocar os
+recursos de forma diferenciada. Por exemplo, no topo da pirâmide estão os doentes mais complexos, que
+requerem um maior acompanhamento, pelo que, habitualmente estes doentes são incluídos em programas de
+gestão de caso. Na faixa seguinte da pirâmide, os doentes são crónicos, mas com menor complexidade, sendo,
+por isso, habitualmente incluídos em programas de gestão da doença (insuficiência cardíaca, diabetes, doença
+pulmonar obstrutiva crónica e multimorbilidade). O grupo mais abaixo beneficia de intervenções que o capacitem
+para a autogestão e os saudáveis, na base da pirâmide, requerem ações de promoção de saúde e prevenção de
+doença, evitando que transitem de nível.
+O facto de se personalizarem as intervenções em função das necessidades específicas dos grupos, permite uma
+distribuição mais equitativa dos recursos, mas também dos outcomes no global da população, sendo assim, útil
+a uma abordagem de gestão da saúde da população no seu todo, como detalhado no capítulo seguinte.
+2.1. Porquê implementar a estratificação pelo risco em Portugal?
+Implementar uma nova intervenção requer considerar a situação atual no contexto do Sistema, identificar os
+fatores ambientais e organizacionais e compreender a influência desses fatores. Da análise surgem inputs
+relevantes para suportar o planeamento estratégico e a decisão. Neste sentido, com o objetivo de ter uma boa
+perceção da situação atual em termos de cuidados integrados, centrados nos cidadãos, e contribuir para conhecer
+7
+
+=== PÁGINA 8 ===
+fatores facilitadores e barreiras à implementação, no âmbito da participação na JADECARE, foi feita uma análise
+SWOT, cujos resultados se apresentam de seguida.
+FORÇAS FRAQUEZAS
+− Temos muitos dados sobre atividade - Os dados que temos não estão traduzidos
+assistencial em conhecimento, não estão organizados
+− Já se recolhe informação sobre muitas de forma a poderem ser utilizados pelos
+variáveis que podem ser incorporadas no profissionais
+instrumento de estratificação; - A informação sobre o risco, assim como
+− Alguma informação sobre os utentes já é outra informação útil à governação clínica
+partilhada entre níveis de cuidados não está disponível aos profissionais
+− Estão já implementadas algumas boas - A informação atualmente partilhada entre
+práticas de integração – programas de níveis de cuidados é insuficiente (por
+gestão de caso, Programas de conciliação exemplo enfermagem, plano individual de
+terapêutica, Percursos assistenciais cuidados)
+integrados, Programa de Telessaúde, - Falta processo saúde eletrónico único
+Programa de Prescrição antibiótica entre - Faltam instrumentos para gestão da
+internamento e ambulatório (incluindo informação
+CSP); Telefarmácia hospitalar, entre - Os SI atualmente existentes não dão
+outros. resposta às necessidades da prática
+− Existem projetos de autonomia gestionária centrada no doente, não foram criados
+em alguns ACeS para essa finalidade
+− Há um alinhamento do discurso - Os profissionais não estão motivados para
+registar a informação
+profissional sobre integração de cuidados,
+codificada/standardizada, necessária à
+nas instituições, e disponibilidade para
+estratificação
+discutir
+- Falta analisar o que já se faz bem nos
+− Existência de lideranças ao nível local,
+projetos nacionais relacionados com
+comprometidas com a integração de
+integração de cuidados que já são boa
+cuidados
+prática, para melhorar
+− Estão disponíveis várias ferramentas que
+- Falta de autonomia das instituições
+facilitam estes modelos de cuidados
+- Dificuldades de alocação de recursos no
+(teleconsulta, prescrição eletrónica,
+âmbito dos sistemas de informação e
+telemonitorização, etc…)
+comunicação e falta de planificação
+atempada
+OPORTUNIDADES AMEAÇAS
+− O plano de recuperação e resiliência prevê − Ausência de estratégia concertada do MS
+345M€ para transformação digital na para a Integração de Cuidados/cuidados
+saúde centrados no cidadão
+− O plano de recuperação e resiliência inclui − Os percursos assistenciais definidos pela
+a definição de uma estratégia para a DGS não são user friendly
+estratificação pelo risco e financiamento − Falta de ligação dos dados de todas as
+para incrementar a capacidade dos áreas assistenciais, por doente
+cuidados de saúde primários prestarem − Falta alinhamento do financiamento com
+cuidados na comunidade/domicílio os modelos de cuidados centrados no
+− A DGS já tem trabalho feito em termos de cidadão/integração de cuidados
+coordenação de cuidados - percursos − Falta de alinhamento dos objetivos entre
+assistenciais níveis de cuidados
+− A pandemia veio alavancar o trabalho
+interprofissional e interinstitucional e a
+necessidade de integração e coordenação
+de cuidados
+8
+
+=== PÁGINA 9 ===
+− A pandemia veio alavancar a utilização de
+ferramentas que facilitam a integração e os
+cuidados centrados no doente,
+nomeadamente e telesaúde.
+− Existência de 2 BI em funcionamento -
+hospital e cuidados de saúde primários –
+com possibilidade de ter uma plataforma
+que agregue ambos.
+− A SPMS tem tido experiência com outros
+projetos internacionais em termos de SI.
+− Potencial de a SPMS aproveitar fundos
+internacionais para alavancar projetos
+locais, em termos de SI, beneficiando este
+projeto
+− É possível usar algoritmos de inteligência
+artificial que podem facilitar a codificação
+− Apoio do País Basco para melhorar a
+nossa prática
+− Existência de ULS – realidades já
+integradas
+Entre os vários aspetos salientados surge, desde logo, como área de intervenção estratégica a classificação
+e identificação dos doentes através de uma abordagem populacional, sistemática e preditiva do risco. A
+estratificação foi considerada como um dos fatores-chave, sem a qual qualquer abordagem, para melhorar os
+cuidados centrados nos cidadãos e integrar cuidados, fica comprometida, por não ser possível identificar os
+grupos populacionais e os indivíduos que requerem intervenções dirigidas às suas necessidades específicas e
+consequentemente planear e alocar os recursos que permitam dar as respostas adequadas.
+9
+
+=== PÁGINA 10 ===
+3. Ajustamento pelo risco
+Enquadradas naquilo que são modelos prospetivos de casemix, as ferramentas de ajustamento pelo risco
+permitem responder ao caracter de incerteza (“risco”) que caracteriza a utilização futura de cuidados de saúde
+por parte de uma população, na medida em que possibilitam prever essa utilização tendo em consideração as
+características da população em causa, ou seja, a sua “carga de doença” (burden of disease) e, logo, a sua
+necessidade de utilização de cuidados de saúde. Trata-se de um processo estatístico utilizado para ajustar a
+variação na utilização de cuidados (entre as instituições prestadoras de cuidados de saúde) em função da
+diferença das características (ou fatores de risco) da população.
+O ajustamento pelo risco é um mecanismo que garante um incentivo para a prestação de cuidados a utilizadores
+com elevado risco de consumo em cuidados de saúde, evitando a seleção adversa de utentes (ou seja, a escolha
+preferencial de utentes com menor complexidade, menor coexistência de múltiplas condições de doença). Ao
+prestador de cuidados será indiferente ter na sua lista utentes com elevado risco ou com baixo risco de consumo
+de cuidados, na medida em que o ajustamento pelo risco garante uma adequação dos recursos financeiros em
+função das características do utente e da maior probabilidade de consumo de cuidados e de recursos financeiros
+(como seja o caso dos mais idosos, doentes crónicos e com multiplicidade de patologias e que, em consequência,
+têm maiores custos em saúde). Ou seja, permite uma discriminação positiva das populações com maiores níveis
+de necessidades em saúde, procedendo a uma afetação mais justa de recursos ao garantir ao prestador de
+cuidados um pagamento maior se a probabilidade de consumo de cuidados de saúde por parte do utente for
+também maior.
+Ao ter por base um ajustamento em função das características do utente, este tipo de ferramentas têm como
+exigência imediata a necessidade de se caracterizar a população “a servir” em função de um conjunto de aspetos
+individuais, características do ser humano capazes de afetar o seu risco relativamente a determinados resultados
+em saúde e ao consumo de cuidados. Ao terem em linha de conta as patologias existentes, permitem a respetiva
+estratificação da população em função do risco de vir a necessitar de cuidados de saúde e em função da despesa
+per capita prevista associada a esses cuidados e, assim, fomentar a criação de medidas e políticas de saúde
+mais equitativas e adequadas às necessidades em saúde da população. Ao combinarem informações sobre
+diagnósticos, prescrições clínicas, custos e utilização histórica do sistema de saúde, entre outras, permitem
+explicar uma parte significativa da variabilidade que existe na utilização por parte da população dos serviços de
+saúde, possibilitando a definição de modelos preditivos da necessidade de cuidados de saúde e dos custos que
+lhe estão associados.
+Desta forma, a utilização de uma ferramenta de ajustamento pelo risco tem como resultado imediato a
+caracterização sistematizada da população relativamente àquelas variáveis, fornecendo informação ao
+planeamento e monitorização dos serviços de saúde bem como uma medida do casemix de cada prestador de
+saúde. Ou seja, da complexidade em termos clínicos e de consumo de recursos da população que lhe está
+adstrita.
+10
+
+=== PÁGINA 11 ===
+As ferramentas de ajustamento pelo risco, na sequência da criação de modelos de casemix, tiveram a sua origem
+nos E.U.A. sendo os modelos criados naquele país os que se encontram a ser ensaiados internacionalmente e
+que se pretende ensaiar para Portugal e comparar com o ICU. Todos se constituem como sistemas de
+classificação que atribuem a cada doente um grupo coerente em termos clínicos e exclusivos entre si, tendo por
+base dados de episódios de agudos em hospitais e informação relativa aos contactos com os cuidados de saúde
+primários. Na sua essência, os modelos de ajustamento pelo risco seguem a lógica comum aos sistemas de
+classificação de doentes, tendo como objetivo tornar compreensíveis as suas semelhanças e diferenças. Ou seja,
+numa ferramenta de ajustamento pelo risco, doentes que pertençam ao mesmo grupo terão risco semelhante
+quer em termos dos recursos de saúde que venham a consumir quer da despesa que potencialmente virá a ser
+gerada. Mediante a atribuição de um peso relativo a cada grupo de doentes que traduza o custo esperado no
+tratamento desses doentes, um sistema de classificação de doentes permite relacionar este casemix com os
+custos incorridos no tratamento dos doentes assistidos, servindo para caracterizar a “procura” de cuidados de
+saúde e podendo servir de base a um modelo de financiamento ajustado à complexidade dos doentes tratados.
+11
+
+=== PÁGINA 12 ===
+4. Objetivos da implementação da estratificação pelo risco em Portugal
+A estratificação da população pelo risco pode ter várias aplicações, sendo que no contexto Português se
+identificaram um conjunto de objetivos principais, por forma a focar a implementação em função dos mesmos:
+1. Apoio à governação clínica;
+2. Financiamento ajustado pelo risco;
+3. Alocação de recursos ajustada pelo risco;
+4. Avaliação de desempenho ajustada pelo risco.
+A estratificação da população pelo risco permite apoiar a governação clínica e a gestão em saúde, na medida
+em que qualquer profissional destas áreas, em qualquer contexto de cuidados, tem acesso imediato ao nível de
+risco de cada um dos doentes, e deste modo, consegue ter uma visão daqueles que necessitam de um
+acompanhamento mais frequente, mais proactivo. Neste seguimento, os doentes podem ser encaminhados para
+programas populacionais dirigidos às suas necessidades, tais como os programas de gestão de caso ou
+programas específicos para a insuficiência cardíaca, doença pulmonar obstrutiva crónica ou diabetes. Esta
+funcionalidade é particularmente relevante para a organização nacional, regional e ao nível dos municípios deste
+tipo de programas de integração de cuidados entre os cuidados de saúde primários, hospitalares e continuados
+de saúde.
+Na medida em que as ferramentas de ajustamento pelo risco, baseando-se em características demográficas,
+socioeconómicas e de morbilidade, permitem caracterizar a população e conseguem ter capacidade preditiva da
+utilização de recursos em saúde e consequentemente dos custos dessas prestações, possibilitam um
+ajustamento do financiamento pelo risco, com uma alocação de recursos financeiros mais justa e adequada, às
+necessidades de cada população. O ajustamento pelo risco cria um contexto em que é possível adequar o
+financiamento das instituições prestadoras de cuidados de saúde em função das características específicas dos
+indivíduos e dos diferentes estados de saúde das populações. Ou seja, o financiamento passa a estar focado no
+risco, em função da idade, género e carga de doença. Quando articuladas com o processo de contratualização,
+as ferramentas de ajustamento pelo risco potenciam a definição de respostas mais adequadas às necessidades
+efetivas da população, facilitando maior foco na promoção de saúde, prevenção de doença e gestão proactiva
+da doença crónica, contribuindo para a melhoria da eficiência das organizações de saúde individualmente e do
+SNS em termos globais.
+De forma semelhante ao financiamento, o ajustamento pelo risco também permite uma alocação mais adequada
+dos recursos físicos e humanos, em função das necessidades dos residentes. Uma população com risco mais
+elevado vai requerer necessariamente uma combinação diferente de recursos, nomeadamente nos cuidados de
+saúde primários, no sentido de gerir proactivamente o risco, reinventando até os papéis desempenhados pelos
+12
+
+=== PÁGINA 13 ===
+profissionais no seio da equipa de saúde multidisciplinar. Uma população com estas características requer
+também recursos que assegurem a continuidade de cuidados e profissionais que garantam a ligação entre os
+vários contextos de cuidados, importantes, por exemplo, na gestão da alta.
+O risco permite ainda avaliar o desempenho dos prestadores de uma forma mais justa. Atualmente, a um
+prestador que tenha custos mais elevados está associado um pior desempenho, quando na realidade esse custo
+adicional pode estar simplesmente relacionado com maior carga de doença da sua população de influência. O
+risco vem permitir ajustar esse, bem como outros indicadores, permitindo, deste modo, comparar o desempenho
+para carga igual de doença.
+13
+
+=== PÁGINA 14 ===
+5. Instrumentos de estratificação
+Os diversos os instrumentos usados para estratificar a população pelo risco diferem quanto ao objetivo para o
+qual foram construídos, metodologia usada e modo de implementação. Um estudo de revisão da literatura
+identificou, pelo menos, 21 modelos de ajustamento pelo risco7, sendo alguns deles versões diferentes dos
+originais. Para efeitos do presente documento, vamos abordar apenas três.
+Considerando que o ICU, embora necessitando ainda de ser desenvolvido, já se encontra implementado
+centralmente, calculando valores mensalmente para todos os utentes inscritos nos CSP. Considerando ainda
+que em 2016/2017 se procedeu ao estudo preliminar dos ACG e CRG (dois dos instrumentos mais utilizados no
+contexto Europeu, nomeadamente em Espanha) torna-se relevante proceder à comparação destes instrumentos
+em termos da caracterização da população e das respetivas capacidades preditivas da utilização do sistema de
+saúde. Importa, por isso, aplicar os três instrumentos a uma mesma população de forma retrospetiva com o
+objetivo de comparar resultados e perceber qual melhor caracteriza essa população e o que melhor explica o
+respetivo consumo de recursos global, na nossa realidade.
+Assim, passamos a descrever sumariamente estes três instrumentos e a apresentar, bem como se sistematizam
+alguns elementos comparativos, no Quadro 18–10.
+Adjusted Clinical Groups (ACG)
+Trata-se de um sistema de classificação de doentes que surge na sequência dos projetos de investigação de
+Barbara Starfield no anos 70, quando se analisou a relação entre carga da doença e utilização de cuidados de
+saúde por parte da população infantil11. Desde então a Bloomberg School of Public Health da John Hopkins
+University tem desenvolvido este sistema, consistindo na aplicação dum algoritmo que permite classificar os
+indivíduos em categorias de morbilidade mutuamente exclusivas, definidas de acordo com os padrões de doença
+esperados e recursos necessários, atribuindo um de 100 ACG a cada utente.
+Clinical Risk Groups (CRG)
+Trata-se de um sistema de classificação de doentes, desenvolvido pela 3M Health Information Systems, EUA12.
+É um sistema de classificação de doentes conciso e de base clínica, que relaciona o precurso clínico e as
+características do individuo com a quantidade e tipo de cuidados que serão consumidos no futuro, explicitando
+a interação de duas ou mais condições crónicas de forma a determinar os níveis de gravidade associados. Em
+função das variáveis utilizadas e da interação entre as mesmas, a cada indivíduo é atribuído um dos 1.080
+grupos exclusivos entre si.
+Índice de Complexidade do Utente (ICU)
+Desenvolvido pela ACSS permite calcular para cada utente inscrito, em função de um conjunto de variáveis, um
+valor/índice que tem capacidade preditiva da carga de trabalho dos profissionais de saúde dos cuidados de
+saúde primários, consumo de medicamentos, MCDT, utilização da rede de urgência, de consultas e
+internamentos hospitalares. Durante 2020 foi sujeito a uma análise/auditoria externa, financiada pela Comissão
+Europeia, tendo sido produzido um relatório que atesta a robustez dos métodos estatísticos usados bem como
+14
+
+=== PÁGINA 15 ===
+a capacidade preditiva da carga de trabalhos dos médicos de família no ano seguinte (Coeficiente de correlação
+de 69%) e recomendando um conjunto de melhorias designadamente através da incorporação de um conjunto
+extra de variáveis de morbilidade que permitam aumentar ainda mais a capacidade preditiva da utilização do
+sistema de saúde. Considerando que o ICU foi desenvolvido com um conjunto restrito de variáveis e foi calibrado
+para ter maior capacidade preditiva do trabalho médico futuro nos cuidados de saúde primários, considera-se
+relevante aumentar a respetiva robustez para conseguir prever outras vertentes de utilização futura do sistema
+de saúde, tornando-o assim mais útil para a avaliação do desempenho das unidades de saúde, para a gestão
+dos recursos nos vários níveis de decisão ou ainda para ajustar modelos de cuidados personalizados para
+grupos específicos.
+15
+
+=== PÁGINA 16 ===
+Quadro 1. Elementos comparativos de três ferramentas de estratificação pelo risco
+Ferramenta Origem Objetivo Metodologia Resultados
+John Hopkins - Prever a morbilidade futura - Utiliza registos administrativos e médicos de cuidados - Demonstra capacidade preditiva robusta para
+University (Estados e estimar custos de saúde primários e hospitalares, nomeadamente utilização de recursos de saúde
+Unidos), – Sujeito a licença códigos de diagnóstico e procedimentos para medir o
+comercializado em estado de saúde e estratificar a população em grupos
+Adjusted Clinical Groups Portugal pela IASIST com diagnósticos clínicos semelhantes, idade e género.
+(ACG) System - 92 grupos
+- modelo estatístico multivariado
+- Para cada ACG, um peso relativo indica os custos de
+saúde típicos para esse ACG relativamente à média
+individual na população
+3M HIS (Estados - Prever utilização futura de - Utiliza registos administrativos e médicos de cuidados - Demonstra capacidade para obter poupanças,
+Unidos), cuidados de saúde e de saúde primários e hospitalares, nomeadamente melhora a capacidade preditiva, estratifica a
+comercializado em explicar a utilização códigos de diagnóstico e procedimentos, dados de população de uma forma clara, facilita o
+Portugal pela 3M passada de cuidados e prescrição de medicamentos e estado funcional, para alinhamento das intervenções de saúde,
+Espana custo alocar cada indivíduo a um grupo de severidade melhorando a saúde da população e experiência
+Clinical Risk Groups – Sujeito a licença ajustada dos doentes
+(CRG)9 - 392 CRG e 1470 grupos de risco, incluindo os níveis - Em estudos comparativos no Canadá, demonstra
+de severidade melhor performance em termos de relevância
+- Para cada CRG, um peso relativo indica os custos de clínica e adequação do peso relativo dos recursos
+saúde típicos para esse CRG relativamente à média em comparação com ferramentas semelhantes
+individual na população. (ACG e HCC)
+ACSS Na sua versão atual, prevê - Utiliza registos médicos dos cuidados de saúde - Demonstra elevada capacidade preditiva da carga
+carga de trabalho médica primários, bem como prescrição de medicamentos, para de trabalho médica nos cuidados de saúde
+nos CSP calcular um índice relativo por utente, face à média da primários
+Ìndice de complexidade
+população (utente padrão)
+do utente (ICU)
+- modelo estatístico bivariado, baseado na combinação
+das diferentes variáveis, fazendo correlações entre a
+variável dependente e as independentes
+
+=== PÁGINA 17 ===
+6. Plano de implementação
+A presente estratégia para a estratificação da população pelo risco é acompanhada de um plano de
+implementação, com a duração prevista de três anos, e no qual são detalhadas as atividades, os atores
+envolvidos, o contexto onde se vai realizar cada uma, os prazos e KPI para monitorizar.
+Objetivo 1: Até fevereiro de 2023, a ACSS terá desenvolvido uma abordagem populacional baseada na
+estratificação pelo risco, com impacto na qualidade dos cuidados e sustentabilidade do SNS
+KPI
+Atividades Atores Contexto Timeline
+a) Definir os pilotos • ACSS
+para • 10 Entidades
+1 mês Nº e tipo de
+disponibilização piloto
+• ACSS Início em entidades
+de uma (conforme
+janeiro 2022
+ferramenta de previsto no
+estratificação PRR)
+b) Definir um plano
+de formação, 1 mês Plano de formação
+• ACSS • Entidades
+conforme previsto Início em (S/N)
+• ENSP piloto
+no plano de ação janeiro 2022
+da JADECARE
+c) Construir o
+caderno de
+encargos para
+aquisição da
+Nº de
+licença das
+2 meses especificações no
+ferramentas
+• ACSS • ACSS Início em caderno de
+comerciais, e
+janeiro 2022 encargos
+respetiva
+consultoria, para
+utilização na
+população
+definida
+d) Realizar sessões
+Nº e perfil dos
+de formação, 2 meses
+• ACSS • Entidades profissionais
+conforme previsto Início em
+• ENSP piloto formados
+no plano de ação fevereiro 2022
+da JADECARE
+• ACSS
+e) Desenvolver o
+• 10 Entidades Dashboard
+dashboard com a 1 mês
+piloto disponível no SDM
+informação sobre • ACSS Início em
+(conforme (S/N) 1
+o risco, para os fevereiro 2022
+previsto no
+pilotos
+PRR)
+Output do ICU para
+f) Desenvolver o
+12 meses prever consumo de
+ICU para prever
+• ACSS • ACSS Início em recursos global
+consumo de
+fevereiro 2022 S/N)
+recursos global
+1 Conforme previsto no PRR, será disponibilizado o acesso a instrumento de estratificação do risco para apoio à Governação
+Clínica nas unidades funcionais dos ACES: pelo menos 10 unidades até T3/2022 e pelo menos 900 unidades até T4/2023.
+
+=== PÁGINA 18 ===
+g) Estratificar a
+1 mês
+amostra da • ACSS População
+Início em
+população pelo • ACSS • Entidades estratificada (S/N)
+novembro 2022
+risco, com ICU, piloto
+ACG e CRG
+h) Relatório estudo
+comparativo do 2 meses Nº de critérios de
+ICU (em Início em seleção da
+• Entidade externa • ACSS
+agrupamentos de novembro 2022 ferramenta
+doentes), CRG e
+ACG
+Objetivo 2: Até setembro de 2023, a ACSS terá definido uma proposta para ajustamento do financiamento
+e da contratualização pelo risco, melhorando a alocação de recursos
+KPI
+Atividades Atores Contexto Timeline
+a) Testar cenários Proposta para o
+para ajustar o • ACSS modelo de
+3 meses
+modelo de • ULS • ACSS financiamento das
+Inicio em janeiro
+financiamento das • Ministério • ULS ULS, ajustado pelo
+2023
+ULS, ajustado pelo Finanças risco (S/N)
+risco
+b) Testar cenários Proposta para o
+para ajustar o • ACSS modelo de
+3 meses
+modelo de • ARS • ACSS financiamento das
+Inicio em janeiro
+financiamento das • Ministério • ARS ARS ajustado pelo
+2023
+ARS, ajustado pelo Finanças risco (S/N)
+risco
+c) Criar grupo para
+definir indicadores Nº e perfil dos
+1 mês
+mensuráveis para a profissionais que
+• ACSS • ACSS Inicio março
+avaliação de constituem o grupo
+2023
+desempenho,
+ajustados pelo risco
+d) Definir indicadores Nº de indicadores
+mensuráveis para a • ACSS de avaliação
+1 mês
+avaliação de • ACSS • Entidades ajustados pelo
+Início abril 2023
+desempenho, piloto risco
+ajustada pelo risco
+Objetivo 3: Até dezembro de 2024 a academia, em colaboração com a ACSS, terá publicado um estudo de
+avaliação dos resultados da implementação da estratificação pelo risco
+KPI
+Atividades Atores Contexto Timeline
+e) Realizar um estudo
+sobre os resultados 12 meses Relatório do
+• ACSS • ACSS
+da implementação Início em janeiro estudo (S/N)
+• Academia • pilotos
+da estratégia de 2023
+estratificação
+18
+
+=== PÁGINA 19 ===
+7. Monitorização e avaliação da implementação da estratificação pelo risco
+A implementação da estratégia de estratificação da população pelo risco seguirá uma metodologia Plan, Do,
+Study, Act (PDSA). A primeira fase de planeamento está refletida no presente documento, seguindo-se a
+implementação, monitorizada mensalmente. No final do primeiro semestre de aplicação será feita uma avaliação
+global sobre o cumprimento do plano, identificando barreiras e fatores facilitadores, seguida de ajustamento, se
+necessário, iniciando-se novo ciclo.
+19
+
+=== PÁGINA 20 ===
+8. Bibliografia
+1. Yoon J, Zulman D, Scott JY, Maciejewski ML. Costs associated with multimorbidity among VA patients.
+Med Care. 2014;52(3 SUPPL. 2).
+2. Kansagara D, Englander H, Salanitro A, Kagen D, Theobald C, Freeman M, et al. Risk prediction models
+for hospital readmission: A systematic review. Vol. 306, JAMA - Journal of the American Medical
+Association. American Medical Association; 2011. p. 1688–98.
+3. Andreakis A., Leonhardt R., McLure A., A F. Implementação da metodologia de ajustamento do risco no
+sistema de cuidados de saúde de Portugal, Relatório final. 2010.
+4. ACSS/DPS. Estudo de adequação de ferramentas de ajustamento pelo risco à realidade Portuguesa -
+1o relatório. 2014.
+5. ACSS. Organização das listas de utentes inscritos nos cuidados de saúde primários. 2017.
+6. ACSS. Índice de Complexidade dos Utentes Dimensionamento das Listas de Utentes dos Médicos de
+Família. 2018.
+7. Juhnke C, Bethge S, Mühlbacher AC. A Review on Methods of Risk Adjustment and their Use in
+Integrated Healthcare Systems. Int J Integr Care. 2016 Oct 26;16(4).
+8. Commission E. Patient Complexity. Report on methodological properties, statistical robustness and
+deployment simulation results. 2020.
+9. 3M. Measuring Population Health Status in Portugal : The Choice of a Population Health Status Grouper
+1 . How Well Does the Methodology Explain and Predict Population Health. 2021.
+10. Berlinguet M, Preyra C, Dean S. Comparing the Value of Three Main Diagnostic-Based Risk-Adjustment
+Systems ( DBRAS ). Can Heal Serv Res Found [Internet]. 2005 [cited 2021 Nov 28];(March):7. Available
+from: https://www.hopkinsacg.org/document/comparing-the-value-of-three-main-diagnostic-based-risk-
+adjustment-systems-dbras/
+11. The John Hopkins University. Bloomberg School of Public Health. The Johns Hopkins ACG® System.
+2011.
+12. Hughes, J.; Averill, R.F.; Eisenhandler, J.; Goldfield,, N.I.; Muldoon, J.; Neff, J.M.; Gay JC. Clinical Risk
+Groups (CRGs): a classification system for risk-adjusted capitation-based payment and health care
+management. Med Care. 2004;42(1).
+20
+
+=== PÁGINA 21 ===
+3 de janeiro de 2022
+ADMINISTRAÇÃO CENTRAL DO SISTEMA DE SAÚDE, IP
+Parque de Saúde de Lisboa | Edifício 16, Avenida do Brasil, 53
+1700-063 LISBOA | Portugal
+Tel Geral (+) 351 21 792 58 00 Fax (+) 351 21 792 58 48
+21

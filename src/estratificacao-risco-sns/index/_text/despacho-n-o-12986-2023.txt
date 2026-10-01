@@ -1,0 +1,482 @@
+# Fonte: Despacho n.º 12986-2023.pdf
+# Páginas: 8
+
+=== PÁGINA 1 ===
+Diário da República, 2.ª série PARTE C
+N.º 243 19 de dezembro de 2023 Pág. 77
+SAÚDE
+Gabinete do Secretário de Estado da Saúde
+Despacho n.º 12986/2023
+Sumário: Define a estratégia de utilização, no Serviço Nacional de Saúde (SNS), dos instrumen-
+tos de estratificação pelo risco clínico da população portuguesa.
+A rápida transformação epidemiológica, demográfica e social em curso, conjugada com o
+aumento das exigências e expectativas dos cidadãos, e com a pressão crescente sobre a des-
+pesa, são desafios transversais aos sistemas de saúde dos países mais desenvolvidos do mundo.
+Em Portugal, estes desafios são particularmente relevantes para o presente e o futuro do
+Serviço Nacional de Saúde (SNS), que é uma das principais realizações da democracia portuguesa
+e que assume um papel central no cumprimento da responsabilidade do Estado pela garantia do
+direito à proteção da saúde, nos termos previstos na Lei de Bases da Saúde, aprovada pela Lei
+n.º 95/2019, de 4 de setembro.
+É neste contexto que está em curso uma profunda reorganização do SNS, enquadrada pelo
+Decreto -Lei n.º 52/2022, de 4 de agosto, que aprova o novo Estatuto do SNS, através da qual se
+pretende reforçar a capacidade de gestão integrada dos recursos humanos, materiais e financeiros
+afetos ao serviço público de saúde, fomentando o trabalho colaborativo e em rede, e aproximando
+as respostas em saúde às necessidades concretas das comunidades e territórios.
+Esta reorganização passa, entre outras medidas, pela generalização do modelo organizacional
+das unidades locais de saúde (ULS), a quem compete garantir a prestação integrada de cuidados de
+saúde primários e hospitalares, nos termos definidos através do Decreto -Lei n.º 102/2023, de 7 de
+novembro. A partir de 1 de janeiro de 2024, o SNS estará organizado em 39 ULS, que coexistirão
+com três institutos portugueses de oncologia (IPO) e com o Hospital de Cascais, gerido em regime
+de parceria público -privada (PPP). Terá também ao seu dispor novos instrumentos de gestão e de
+governação clínica, que contribuirão para qualificar a resposta do SNS.
+Destacam -se aqui os instrumentos que permitem estratificar o risco clínico da população, ou
+seja, ferramentas tecnicamente validadas que, ao combinarem informações sobre diagnósticos,
+prescrições clínicas, utilização dos serviços de saúde, entre outras, ajudam a identificar subgrupos
+populacionais que têm características comparáveis e que apresentam necessidades em saúde
+semelhantes, sejam elas relacionadas com distribuição da morbilidade, complexidade clínica,
+consumo de recursos ou ocorrência de eventos adversos.
+Enquadradas naquilo que são sistemas de classificação em saúde, e de modelos prospetivos
+de casemix (à semelhança dos Grupos de Diagnósticos Homogéneos — GDH, utilizados em Por-
+tugal desde 1989 e cuja implementação foi, na altura, inovadora no quadro dos sistemas de saúde
+europeus), as ferramentas de estratificação pelo risco permitem identificar o «risco» da utilização
+futura de cuidados de saúde por parte de uma população, tendo em consideração as suas carac-
+terísticas específicas.
+Esta aproximação às reais necessidades em saúde permite, também, alavancar os meca-
+nismos de gestão no SNS, nomeadamente ao nível de planeamento, financiamento, organização
+dos cuidados, avaliação do desempenho, investigação, entre outros. Permite, ainda, desenvolver
+modelos inovadores de prestação de cuidados, que reforcem a promoção da saúde, a prevenção
+da doença e a identificação atempada das pessoas elegíveis para integrar programas de gestão
+da saúde, da doença crónica ou de casos complexos.
+Nos últimos anos, a Administração Central do Sistema de Saúde, I. P. (ACSS, I. P.), tem
+estudado diferentes instrumentos que estratificam o risco clínico da população, avaliando a sua
+aplicação à realidade portuguesa, o que tem permitido dar cumprimento a um dos objetivos pre-
+vistos no Plano de Recuperação e Resiliência (PRR), nomeadamente na reforma dos cuidados
+de saúde primários, onde foi assumida a meta de disponibilização, até final de 2023, de acesso a
+
+=== PÁGINA 2 ===
+Diário da República, 2.ª série PARTE C
+N.º 243 19 de dezembro de 2023 Pág. 78
+instrumentos de estratificação pelo risco para apoiar a governação clínica nas unidades funcionais
+dos cuidados de saúde primários.
+Este estudo tem sido realizado em duas vertentes, nomeadamente: i) criação e desenvolvimento
+do índice de complexidade dos utentes (ICU), pela própria ACSS, I. P., enquanto algoritmo de ajus-
+tamento e ponderação do risco que considera a idade, o género, as condições socioeconómicas, o
+ciclo de vida, a morbilidade e o contexto de exercício das equipas multiprofissionais. O ICU é hoje
+um instrumento que tem capacidade preditiva sobre a carga de trabalho assistencial necessária
+para garantir a qualidade nos cuidados de saúde primários, nomeadamente nas unidades de saúde
+familiar (USF), prevendo -se a sua utilização nos termos previstos no Artigo 37.º do regime jurídico da
+organização e do funcionamento das USF, aprovado através do Decreto -Lei n.º 103/2023, de 7 de
+novembro, e ii) aquisição, pela ACSS, I. P., em articulação com a SPMS — Serviços Partilhados do
+Ministério da Saúde, E. P. E., do acesso a uma das ferramentas internacionais de estratificação pelo
+risco, que procede à distribuição de utentes por Grupo de Risco Ajustado (GRA), correspondendo
+a grupos exclusivos entre si, que agregam utentes semelhantes do ponto de vista demográfico,
+risco clínico e consumo de recursos.
+Nesta sequência, e estando disponíveis estas novas ferramentas, importa agora operacio-
+nalizar a sua utilização no sistema de saúde português, nomeadamente no SNS, identificado
+as principais áreas de aplicação, as medidas necessárias e as entidades responsáveis pela sua
+concretização.
+Assim, ao abrigo do artigo 25.º do Decreto -Lei n.º 32/2022, de 9 de maio, na sua redação atual,
+e no uso de competência delegada pelo Despacho n.º 12167/2022, de 10 de outubro, do Ministro
+da Saúde, publicado no Diário da República, n.º 201, 2.ª série, de 18 de outubro, determino:
+1 — A utilização, no Serviço Nacional de Saúde (SNS), de instrumentos de estratificação do
+risco clínico de base populacional, nomeadamente para efeitos de planeamento, financiamento,
+prestação de cuidados, avaliação do desempenho e investigação.
+2 — A constituição de uma equipa de projeto responsável pelo planeamento do projeto de
+operacionalização da utilização dos instrumentos referidos no número anterior, composta por:
+a) Dois representantes da ACSS, I. P., sendo que um deles coordena os trabalhos;
+b) Um representante da Direção Executiva do Serviço Nacional de Saúde, I. P. (DE -SNS, I. P.);
+c) Um representante da Direção Geral da Saúde;
+d) Um representante do INFARMED — Autoridade Nacional do Medicamento e Produtos de
+Saúde, I. P.;
+e) Um representante da SPMS — Serviços Partilhados do Ministério da Saúde, E. P. E.
+3 — Cada entidade indica, à ACSS, I. P., os seus representantes no prazo máximo de 10 dias
+a contar da data da publicação do presente despacho.
+4 — A equipa de projeto pode solicitar a colaboração de profissionais das unidades do SNS,
+sempre que tal for considerado necessário.
+5 — O trabalho a desenvolver pela equipa de projeto deve seguir os seguintes pilares estra-
+tégicos de intervenção:
+a) Planeamento de recursos, considerando as necessidades em saúde das comunidades e dos
+territórios, nomeadamente na área da gestão estratégica dos recursos humanos e das instalações
+e equipamentos de saúde;
+b) Financiamento das entidades prestadoras de cuidados, considerando o risco clínico das
+populações, para assegurar uma afetação mais justa e equitativa dos recursos públicos;
+c) Definição de processos assistenciais e de modelos de intervenção clínica ajustados aos
+vários subgrupos populacionais, harmonizando critérios, normas e regras para implementação,
+a nível nacional, de programas de promoção da saúde, prevenção da saúde, gestão da doença
+crónica, gestão de casos complexos, entre outros;
+d) Avaliação do desempenho, valorizando as boas práticas nacionais e internacionais e padro-
+nizando os resultados de acordo com as diferenças no estado de saúde das populações locais, de
+forma a valorizar os ganhos em saúde efetivamente alcançados, em particular nas dimensões de
+acesso, qualidade, eficiência e bem -estar;
+
+=== PÁGINA 3 ===
+Diário da República, 2.ª série PARTE C
+N.º 243 19 de dezembro de 2023 Pág. 79
+e) Divulgação de informação sobre a distribuição da carga de doença na população, parti-
+lhando com as entidades e os profissionais de saúde dados agregados e anonimizados, de forma
+a apoiar a definição de estratégias de intervenção, a possibilitar o desenvolvimento de projetos de
+investigação em saúde, entre outros objetivos.
+6 — Sem prejuízo dos trabalhos a desenvolver pela equipa de projeto, a ACSS, I. P., divulga,
+a partir de 1 de janeiro de 2024, informação sobre a constituição das listas de utentes das equipas
+de saúde familiar (USF), nos termos previstos no artigo 37.º do Decreto -Lei n.º 103/2023, de 7 de
+novembro.
+7 — A ACSS, I. P. procede ainda à atualização e publicação anual, na sua página eletrónica,
+da tabela presente no anexo (cid:3473), relativa ao sistema de classificação de estratificação pelo risco apli-
+cável ao SNS, com a distribuição nacional da população pelos vários subgrupos de risco clínico,
+incluindo os respetivos pesos relativos.
+8 — A SPMS, E. P. E., em articulação com a ACSS, I. P., e com a DE- SNS, I. P., assegura o
+desenvolvimento e a manutenção dos sistemas informáticos que permitam às entidades do SNS
+dar cumprimento ao presente despacho, garantindo, também:
+a) A obrigatoriedade de registo dos dados necessários à consolidação da informação de
+suporte à estratificação pelo risco, nomeadamente o registo estruturado de códigos de diagnóstico
+em episódios de urgência e de consulta externa hospitalar;
+b) A disponibilização de alertas e de informação de retorno aos profissionais de saúde relativa
+à estratificação pelo risco da população que servem;
+c) A partir de 1 de outubro de 2024, a equipa de projeto referida no presente despacho evolui
+para equipa de governação e acompanhamento da utilização dos instrumentos de estratificação
+do risco clínico da população portuguesa, cabendo -lhe a missão de promover e acompanhar as
+iniciativas e as medidas que permitam a sua utilização no SNS.
+9 — O presente despacho produz efeitos na data da sua assinatura.
+7 de dezembro de 2023. — O Secretário de Estado da Saúde, Ricardo Jorge Almeida Perdigão
+Seleiro Mestre.
+ANEXO I
+Grupo de Risco Ajustado (GRA)
+Distribuição de utentes (*)
+Níveis
+de utilização GRA GRA descrição Tipo etário % utentes Peso relativo
+(NIU)
+0 5 200 Não utilizadores . . . . . . . . . . . . . . . . . . . . . . . . . . Todos . . . . . . . . . . . 14,9 % 0
+1 5 110 Sem diagnóstico ou só com diagnósticos não válidos Adulto . . . . . . . . . . 11,1 % 0,199 8
+3 4 100 2 -3 combinações de outros GDA’s, idade > 34 Adulto . . . . . . . . . . 5,9 % 1,117 6
+3 4 100 2 -3 combinações de outros GDA’s, idade > 34 Adulto + . . . . . . . . . 5,7 % 1,816 3
+1 1 600 Preventivo/administrativo . . . . . . . . . . . . . . . . . . Adulto . . . . . . . . . . 4,2 % 0,248 3
+1 300 Agudo minor, idade > 5 . . . . . . . . . . . . . . . . . . . . Adulto . . . . . . . . . . 4,2 % 0,267 9
+1 5 110 Sem diagnóstico ou só com diagnósticos não válidos Criança . . . . . . . . . 3,2 % 0,118 4
+1 5 110 Sem diagnóstico ou só com diagnósticos não válidos Adulto + . . . . . . . . . 2,7 % 0,686
+2 900 Condição médica crónica, estável . . . . . . . . . . . . Adulto . . . . . . . . . . 2,6 % 0,579 3
+2 900 Condição médica crónica, estável . . . . . . . . . . . . Adulto + . . . . . . . . . 2,4 % 0,990 8
+1 1 600 Preventivo/administrativo . . . . . . . . . . . . . . . . . . Criança . . . . . . . . . 2,1 % 0,178 3
+3 4 420 4 -5 combinações de outros GDA’s, idade > 44, 1+ Adulto + . . . . . . . . . 1,9 % 2,714 2
+GDA’s major.
+2 400 Agudo major . . . . . . . . . . . . . . . . . . . . . . . . . . . . Adulto . . . . . . . . . . 1,8 % 0,441
+1 300 Agudo minor, idade > 5 . . . . . . . . . . . . . . . . . . . . Criança . . . . . . . . . 1,7 % 0,245 6
+2 2 300 Agudo minor e condição médica crónica: estável Adulto . . . . . . . . . . 1,5 % 0,626 5
+
+=== PÁGINA 4 ===
+Diário da República, 2.ª série PARTE C
+N.º 243 19 de dezembro de 2023 Pág. 80
+Níveis
+de utilização GRA GRA descrição Tipo etário % utentes Peso relativo
+(NIU)
+2 500 Com probabilidade de ocorrer novamente, sem Adulto . . . . . . . . . . 1,4 % 0,449 1
+alergia.
+2 1 800 Agudo minor e agudo major . . . . . . . . . . . . . . . . Adulto . . . . . . . . . . 1,4 % 0,614 6
+3 4 420 4 -5 combinações de outros GDA’s, idade > 44, 1+ Adulto . . . . . . . . . . 1,2 % 2,085 5
+GDA’s major.
+2 2 300 Agudo minor e condição médica crónica: estável Adulto + . . . . . . . . . 1,2 % 1,051
+3 4 410 4 -5 combinações de outros GDA’s, idade > 44, Adulto . . . . . . . . . . 1,2 % 1,220 7
+GDA’s não major.
+3 4 910 6 -9 combinações de outros GDA’s, idade > 34, 0 -1 Adulto . . . . . . . . . . 1,1 % 2,416
+GDA’s major.
+2 2 100 Agudo minor e com probabilidade de ocorrer nova- Adulto . . . . . . . . . . 1,0 % 0,545 7
+mente, idade > 5, sem alergia.
+3 4 910 6 -9 combinações de outros GDA’s, idade > 34, 0 -1 Adulto + . . . . . . . . . 1,0 % 3,363 8
+GDA’s major.
+3 4 410 4 -5 combinações de outros GDA’s, idade > 44, Adulto + . . . . . . . . . 1,0 % 1,815 9
+GDA’s não major.
+2 1 300 Psicossocial, sem instabilidade psicológica . . . . Adulto . . . . . . . . . . 0,9 % 0,311 2
+1 1 600 Preventivo/administrativo . . . . . . . . . . . . . . . . . . Adulto + . . . . . . . . . 0,9 % 0,683 6
+2 1 800 Agudo minor e agudo major . . . . . . . . . . . . . . . . Criança . . . . . . . . . 0,8 % 0,624 8
+4 4 430 4 -5 combinações de outros GDA’s, idade > 44, 2+ Adulto + . . . . . . . . . 0,8 % 4,544
+GDA’s major.
+4 4 920 6 -9 combinações de outros GDA’s, idade > 34, 2 Adulto + . . . . . . . . . 0,8 % 5,753 4
+GDA’s major.
+1 200 Agudo minor, idade 2 a 5 . . . . . . . . . . . . . . . . . . Criança . . . . . . . . . 0,7 % 0,293 9
+3 4 310 4 -5 combinações de outros GDA’s, idade 18 a 44, Adulto . . . . . . . . . . 0,7 % 0,878 5
+GDA’s não major.
+3 3 200 Agudo minor/agudo major/com probabilidade de Adulto . . . . . . . . . . 0,6 % 0,936 7
+ocorrer novamente, idade > 11, sem alergia.
+2 3 800 2 -3 combinações de outros GDA’s, idade < 18 Criança . . . . . . . . . 0,6 % 0,786 7
+3 5 312 Bebé: 0 -5 GDA’s, GDA’s não major, peso à nas- Criança . . . . . . . . . 0,6 % 0,767 4
+cença normal.
+3 4 000 2 -3 combinações de outros GDA’s, feminino, idade Adulto . . . . . . . . . . 0,6 % 0,692 7
+18 a 34.
+2 2 500 Agudo minor e psicossocial, estável . . . . . . . . . . Adulto . . . . . . . . . . 0,6 % 0,378 1
+3 2 800 Agudo minor e com probabilidade de ocorrer nova- Adulto . . . . . . . . . . 0,5 % 0,766 9
+mente.
+2 400 Agudo major . . . . . . . . . . . . . . . . . . . . . . . . . . . . Criança . . . . . . . . . 0,5 % 0,371 1
+3 3 600 Agudo minor/agudo major/com probabilidade de Adulto . . . . . . . . . . 0,5 % 1,634 1
+ocorrer novamente/condições clínicas relacio-
+nadas com olhos e/ou dentes.
+1 300 Agudo minor, idade > 5 . . . . . . . . . . . . . . . . . . . . Adulto + . . . . . . . . . 0,5 % 0,701 6
+3 3 900 2 -3 combinações de outros GDA’s, masculino, Adulto . . . . . . . . . . 0,5 % 0,768 4
+idade 18 a 34.
+3 4 320 4 -5 combinações de outros GDA’s, idade 18 a 44, Adulto . . . . . . . . . . 0,4 % 1,727 7
+1+ GDA’s major.
+5 4 930 6 -9 combinações de outros GDA’s, idade > 34, 3 Adulto + . . . . . . . . . 0,4 % 8,58
+GDA’s major.
+2 500 Com probabilidade de ocorrer novamente, sem Criança . . . . . . . . . 0,4 % 0,426 6
+alergia.
+3 800 Condição médica crónica instável . . . . . . . . . . . . Adulto + . . . . . . . . . 0,4 % 1,890 2
+4 4 920 6 -9 combinações de outros GDA’s, idade > 34, 2 Adulto . . . . . . . . . . 0,4 % 4,935 2
+GDA’s major.
+4 4 430 4 -5 combinações de outros GDA’s, idade > 44, 2+ Adulto . . . . . . . . . . 0,4 % 3,920 9
+GDA’s major.
+3 3 600 Agudo minor/agudo major/com probabilidade de Adulto + . . . . . . . . . 0,4 % 2,112 9
+ocorrer novamente/condições clínicas relacio-
+nadas com olhos e/ou dentes.
+2 400 Agudo major . . . . . . . . . . . . . . . . . . . . . . . . . . . . Adulto + . . . . . . . . . 0,4 % 1,008 9
+3 800 Condição médica crónica instável . . . . . . . . . . . . Adulto . . . . . . . . . . 0,4 % 1,673 2
+3 1 722 Gravidez: 2 -3 GDA’s, GDA’s não major, não nascido Adulto . . . . . . . . . . 0,3 % 0,804 1
+2 2 100 Agudo minor e com probabilidade de ocorrer nova- Criança . . . . . . . . . 0,3 % 0,522 5
+mente, idade > 5, sem alergia.
+
+=== PÁGINA 5 ===
+Diário da República, 2.ª série PARTE C
+N.º 243 19 de dezembro de 2023 Pág. 81
+Níveis
+de utilização GRA GRA descrição Tipo etário % utentes Peso relativo
+(NIU)
+2 1 712 Gravidez: 0 -1 GDA’s, não nascido . . . . . . . . . . . Adulto . . . . . . . . . . 0,3 % 0,491 2
+5 5 070 10+ combinações de outros GDA’s, idade > 17, 4+ Adulto + . . . . . . . . . 0,3 % 17,814 1
+GDA’s major.
+2 2 000 Agudo minor e com probabilidade de ocorrer nova- Criança . . . . . . . . . 0,3 % 0,576 9
+mente, idade 2 a 5.
+3 3 700 Agudo minor/agudo major/com probabilidade de Adulto . . . . . . . . . . 0,2 % 1,318 4
+ocorrer novamente/psicossocial.
+3 4 210 4 -5 combinações de outros GDA’s, idade < 18, Criança . . . . . . . . . 0,2 % 1,030 8
+GDA’s não major.
+3 3 500 Agudo minor/com probabilidade de ocorrer nova- Adulto . . . . . . . . . . 0,2 % 0,748
+mente/psicossocial.
+4 1 721 Gravidez: 2 -3 GDA’s, GDA’s não major, nascido Adulto . . . . . . . . . . 0,2 % 2,405 4
+2 1 800 Agudo minor e agudo major. Adulto + . . . . . . . . . 0,2 % 1,120 3
+1 1 100 Condições clínicas relacionadas apenas com olhos Adulto . . . . . . . . . . 0,2 % 0,448 1
+e/ou dentes.
+3 3 000 Agudo minor/agudo major/com probabilidade de Criança . . . . . . . . . 0,2 % 1,019 1
+ocorrer novamente, idade 2 a 5.
+2 500 Com probabilidade de ocorrer novamente, sem Adulto + . . . . . . . . . 0,2 % 0,930 5
+alergia.
+1 1 100 Condições clínicas relacionadas apenas com olhos Criança . . . . . . . . . 0,2 % 0,221 6
+e/ou dentes.
+2 600 Com probabilidade de ocorrer novamente, com Adulto . . . . . . . . . . 0,2 % 0,376 9
+alergia.
+2 100 Agudo minor, idade 1 . . . . . . . . . . . . . . . . . . . . . Criança . . . . . . . . . 0,2 % 0,469 1
+5 4 930 6 -9 combinações de outros GDA’s, idade > 34, 3 Adulto . . . . . . . . . . 0,2 % 9,293 3
+GDA’s major.
+5 4 940 6 -9 combinações de outros GDA’s, idade > 34, 4+ Adulto + . . . . . . . . . 0,2 % 12,410 4
+GDA’s major.
+2 1 200 Outra condição crónica, instável . . . . . . . . . . . . . Adulto . . . . . . . . . . 0,2 % 0,502 9
+2 1 300 Psicossocial, sem instabilidade psicológica . . . . Criança . . . . . . . . . 0,2 % 0,421 8
+5 5 060 10+ combinações de outros GDA’s, idade > 17, 3 Adulto + . . . . . . . . . 0,1 % 11,707 9
+GDA’s major.
+2 2 200 Agudo minor e com probabilidade de ocorrer nova- Adulto . . . . . . . . . . 0,1 % 0,465 1
+mente, idade > 5, com alergia.
+2 2 400 Agudo minor e condições clínicas relacionadas com Criança . . . . . . . . . 0,1 % 0,362 8
+olhos e/ou dentes.
+3 2 800 Agudo minor e com probabilidade de ocorrer nova- Criança . . . . . . . . . 0,1 % 0,803 4
+mente.
+3 1 742 Gravidez: 4 -5 GDA’s, GDA’s não major, não nascido Adulto . . . . . . . . . . 0,1 % 1,164 9
+2 2 500 Agudo minor e psicossocial, estável . . . . . . . . . . Criança . . . . . . . . . 0,1 % 0,571 6
+4 1 741 Gravidez: 4 -5 GDA’s, GDA’s não major, nascido Adulto . . . . . . . . . . 0,1 % 2,847 4
+4 1 711 Gravidez: 0 -1 GDA’s, nascido . . . . . . . . . . . . . . . Adulto . . . . . . . . . . 0,1 % 2,053 9
+2 2 400 Agudo minor e condições clínicas relacionadas com Adulto . . . . . . . . . . 0,1 % 0,503 2
+olhos e/ou dentes.
+2 2 100 Agudo minor e com probabilidade de ocorrer nova- Adulto + . . . . . . . . . 0,1 % 0,970 6
+mente, idade > 5, sem alergia.
+3 3 100 Agudo minor/agudo major/com probabilidade de Criança . . . . . . . . . 0,1 % 0,876 3
+ocorrer novamente, idade 6 a 11.
+4 4 330 4 -5 combinações de outros GDA’s, idade 18 a 44, Adulto . . . . . . . . . . 0,1 % 3,866 6
+2+ GDA’s major.
+3 4 220 4 -5 combinações de outros GDA’s, idade < 18, 1+ Criança . . . . . . . . . 0,1 % 2,553 7
+GDA’s major.
+2 900 Condição médica crónica, estável . . . . . . . . . . . . Criança . . . . . . . . . 0,1 % 0,340 4
+3 3 200 Agudo minor/agudo major/com probabilidade de Adulto + . . . . . . . . . 0,1 % 1,504 3
+ocorrer novamente, idade > 11, sem alergia.
+2 600 Com probabilidade de ocorrer novamente, com Criança . . . . . . . . . 0,1 % 0,322 8
+alergia.
+3 2 900 Agudo minor/agudo major/com probabilidade de Criança . . . . . . . . . 0,1 % 1,579 4
+ocorrer novamente, idade 1.
+2 1 000 Outra condição crónica, estável . . . . . . . . . . . . . Adulto . . . . . . . . . . 0,1 % 0,401 5
+3 2 800 Agudo minor e com probabilidade de ocorrer nova- Adulto + . . . . . . . . . 0,1 % 1,292 7
+mente.
+
+=== PÁGINA 6 ===
+Diário da República, 2.ª série PARTE C
+N.º 243 19 de dezembro de 2023 Pág. 82
+Níveis
+de utilização GRA GRA descrição Tipo etário % utentes Peso relativo
+(NIU)
+3 1 400 Psicossocial, com instabilidade psicológica, sem Adulto . . . . . . . . . . 0,1 % 1,264 7
+menção estabilidade psicológica.
+3 3 300 Agudo minor/agudo major/com probabilidade de Adulto . . . . . . . . . . 0,1 % 0,869 8
+ocorrer novamente, idade > 11, com alergia.
+2 2 200 Agudo minor e com probabilidade de ocorrer nova- Criança . . . . . . . . . 0,1 % 0,461 3
+mente, idade > 5, com alergia.
+4 5 050 10+ combinações de outros GDA’s, idade > 17, 2 Adulto + . . . . . . . . . 0,1 % 7,969 5
+GDA’s major.
+2 2 300 Agudo minor e condição médica crónica: estável Criança . . . . . . . . . 0,1 % 0,456 4
+5 5 070 10+ combinações de outros GDA’s, idade > 17, 4+ Adulto . . . . . . . . . . 0,1 % 26,092 3
+GDA’s major.
+3 3 200 Agudo minor/agudo major/com probabilidade de Criança . . . . . . . . . 0,1 % 1,002 8
+ocorrer novamente, idade > 11, sem alergia.
+2 1 300 Psicossocial, sem instabilidade psicológica . . . . Adulto + . . . . . . . . . 0,1 % 0,635 7
+2 1 900 Agudo minor e com probabilidade de ocorrer nova- Criança . . . . . . . . . 0,1 % 0,732
+mente, idade 1.
+2 700 Asma . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Adulto . . . . . . . . . . 0,1 % 0,387 7
+4 5 322 Bebé: 0 -5 GDA’s, 1+ GDA’s major, peso à nascença Criança . . . . . . . . . 0,1 % 2,306 6
+normal.
+3 4 810 6 -9 combinações de outros GDA’s, feminino, idade Adulto 0,1 % 1,307 1
+18 a 34, GDA’s não major.
+1 1 100 Condições clínicas relacionadas apenas com olhos Adulto + . . . . . . . . . 0,1 % 1,864 5
+e/ou dentes.
+2 3 400 Agudo minor/com probabilidade de ocorrer nova- Criança . . . . . . . . . 0,1 % 0,592 8
+mente/condições clínicas relacionadas com olhos
+e/ou dentes.
+4 1 751 Gravidez: 4- 5 GDA’s, 1+ GDA’s major, nascido Adulto . . . . . . . . . . 0,1 % 3,398 1
+3 4 820 6 -9 combinações de outros GDA’s, feminino, idade Adulto . . . . . . . . . . 0,0 % 2,107 3
+18 a 34, 1+ GDA’s major.
+5 4 940 6 -9 combinações de outros GDA’s, idade > 34, 4+ Adulto . . . . . . . . . . 0,0 % 16,343 8
+GDA’s major.
+5 5 060 10+ combinações de outros GDA’s, idade > 17, 3 Adulto . . . . . . . . . . 0,0 % 12,930 6
+GDA’s major.
+4 1 771 Gravidez: 6+ GDA’s, 1+ GDA’s major, nascido Adulto . . . . . . . . . . 0,0 % 5,158 1
+4 5 050 10+ combinações de outros GDA’s, idade > 17, 2 Adulto . . . . . . . . . . 0,0 % 7,061 6
+GDA’s major.
+3 3 500 Agudo minor/com probabilidade de ocorrer nova- Criança . . . . . . . . . 0,0 % 0,921 8
+mente/psicossocial.
+2 3 400 Agudo minor/com probabilidade de ocorrer nova- Adulto . . . . . . . . . . 0,0 % 0,702 4
+mente/condições clínicas relacionadas com olhos
+e/ou dentes.
+3 4 610 6 -9 combinações de outros GDA’s, idade 6 a 17, Criança . . . . . . . . . 0,0 % 1,645
+GDA’s não major.
+3 3 700 Agudo minor/agudo major/com probabilidade de Criança . . . . . . . . . 0,0 % 1,503 1
+ocorrer novamente/psicossocial.
+4 5 040 10+ combinações de outros GDA’s, idade > 17, Adulto . . . . . . . . . . 0,0 % 3,705 1
+0 -1 GDA major.
+2 700 Asma . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Criança . . . . . . . . . 0,0 % 0,365 2
+2 1 200 Outra condição crónica, instável . . . . . . . . . . . . . Adulto + . . . . . . . . . 0,0 % 2,155 6
+3 1 762 Gravidez: 6+ GDA’s, GDA’s não major, não nascido Adulto . . . . . . . . . . 0,0 % 1,654
+3 2 600 Agudo minor e psicossocial, com instabilidade Adulto . . . . . . . . . . 0,0 % 1,046 1
+psicossocial, sem menção de estabilidade psi-
+cológica.
+4 1 761 Gravidez: 6+ GDA’s, GDA’s não major, nascido Adulto . . . . . . . . . . 0,0 % 3,431 7
+3 3 600 Agudo minor/agudo major/com probabilidade de Criança . . . . . . . . . 0,0 % 1,987 3
+ocorrer novamente/condições clínicas relacio-
+nadas com olhos e/ou dentes.
+2 2 500 Agudo minor e psicossocial, estável . . . . . . . . . . Adulto + . . . . . . . . . 0,0 % 0,697 3
+3 1 752 Gravidez: 4 -5 GDA’s, 1+ GDA’s major, não nascido Adulto . . . . . . . . . . 0,0 % 1,785 6
+4 1 731 Gravidez: 2- 3 GDA’s, 1+ GDA’s major, nascido Adulto . . . . . . . . . . 0,0 % 2,785 2
+4 1 772 Gravidez: 6+ GDA’s, 1+ GDA’s major, não nascido Adulto . . . . . . . . . . 0,0 % 3,106 5
+3 1 732 Gravidez: 2 -3 GDA’s, 1+ GDA’s major, não nascido Adulto . . . . . . . . . . 0,0 % 1,242 6
+
+=== PÁGINA 7 ===
+Diário da República, 2.ª série PARTE C
+N.º 243 19 de dezembro de 2023 Pág. 83
+Níveis
+de utilização GRA GRA descrição Tipo etário % utentes Peso relativo
+(NIU)
+4 4 620 6 -9 combinações de outros GDA’s, idade 6 a 17, Criança . . . . . . . . . 0,0 % 5,595 8
+1+ GDA’s major.
+3 800 Condição médica crónica instável . . . . . . . . . . . . Criança . . . . . . . . . 0,0 % 1,446 1
+4 5 040 10+ combinações de outros GDA’s, idade > 17, Adulto + . . . . . . . . . 0,0 % 4,984 6
+0 -1 GDA major.
+3 1 500 Psicossocial, com instabilidade psicológica, com Adulto . . . . . . . . . . 0,0 % 2,121 2
+menção estabilidade psicológica.
+3 4 720 6 -9 combinações de outros GDA’s, masculino, Adulto . . . . . . . . . . 0,0 % 2,423
+idade 18 a 34, 1+ GDA’s major.
+4 4 520 6 -9 combinações de outros GDA’s, idade < 6, 1+ Criança . . . . . . . . . 0,0 % 7,284 9
+GDA’s major.
+3 4 510 6 -9 combinações de outros GDA’s, idade < 6, GDA’s Criança . . . . . . . . . 0,0 % 1,892 7
+não major.
+4 4 730 6 -9 combinações de outros GDA’s, masculino, Adulto . . . . . . . . . . 0,0 % 8,772 2
+idade 18 a 34, 2+ GDA’s major.
+2 2 400 Agudo minor e condições clínicas relacionadas com Adulto + . . . . . . . . . 0,0 % 1,476 8
+olhos e/ou dentes.
+3 4 710 6 -9 combinações de outros GDA’s, masculino, Adulto . . . . . . . . . . 0,0 % 1,209 5
+idade 18 a 34, GDA’s não major.
+4 4 830 6 -9 combinações de outros GDA’s, feminino, idade Adulto . . . . . . . . . . 0,0 % 7,145
+18 a 34, 2+ GDA’s major.
+3 3 700 Agudo minor/agudo major/com probabilidade de Adulto + . . . . . . . . . 0,0 % 2,228 5
+ocorrer novamente/psicossocial.
+4 5 311 Bebé: 0 -5 GDA’s, GDA’s não major, baixo peso à Criança . . . . . . . . . 0,0 % 2,253 1
+nascença.
+5 5 321 Bebé: 0 -5 GDA’s, 1+ GDA’s major, baixo peso à Criança . . . . . . . . . 0,0 % 11,719 6
+nascença.
+2 1 000 Outra condição crónica, estável . . . . . . . . . . . . . Adulto + . . . . . . . . . 0,0 % 0,744 7
+3 3 300 Agudo minor/agudo major/com probabilidade de Criança . . . . . . . . . 0,0 % 0,793 4
+ocorrer novamente, idade > 11, com alergia.
+2 1 000 Outra condição crónica, estável . . . . . . . . . . . . . Criança . . . . . . . . . 0,0 % 0,440 8
+3 3 500 Agudo minor/com probabilidade de ocorrer nova- Adulto + . . . . . . . . . 0,0 % 1,080 7
+mente/psicossocial.
+3 1 400 Psicossocial, com instabilidade psicológica, sem Adulto + . . . . . . . . . 0,0 % 1,332 8
+menção estabilidade psicológica.
+3 2 700 Agudo minor e psicossocial, com instabilidade Adulto . . . . . . . . . . 0,0 % 1,759 8
+psicossocial e com menção de estabilidade psi-
+cológica.
+2 600 Com probabilidade de ocorrer novamente, com Adulto + . . . . . . . . . 0,0 % 0,678 5
+alergia.
+5 5 342 Bebé: 6+ GDA’s, 1+ GDA’s major, peso à nascença Criança . . . . . . . . . 0,0 % 8,522
+normal.
+2 2 200 Agudo minor e com probabilidade de ocorrer nova- Adulto + . . . . . . . . . 0,0 % 0,787 1
+mente, idade > 5, com alergia.
+2 3 400 Agudo minor/com probabilidade de ocorrer nova- Adulto + . . . . . . . . . 0,0 % 1,656 1
+mente/condições clínicas relacionadas com olhos
+e/ou dentes.
+3 3 300 Agudo minor/agudo major/com probabilidade de Adulto + . . . . . . . . . 0,0 % 1,109 3
+ocorrer novamente, idade > 11, com alergia.
+5 5 341 Bebé: 6+ GDA’s, 1+ GDA’s major, baixo peso à Criança . . . . . . . . . 0,0 % 39,581 1
+nascença.
+2 700 Asma . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Adulto + . . . . . . . . . 0,0 % 0,842 2
+2 1 200 Outra condição crónica, instável . . . . . . . . . . . . . Criança . . . . . . . . . 0,0 % 1,065 3
+3 5 332 Bebé: 6+ GDA’s, GDA’s não major, peso à nas- Criança . . . . . . . . . 0,0 % 2,128
+cença normal.
+3 2 600 Agudo minor e psicossocial, com instabilidade Adulto + . . . . . . . . . 0,0 % 1,262 6
+psicossocial, sem menção de estabilidade psi-
+cológica.
+5 5 030 10+ combinações de outros GDA’s, idade 1 a 17, Criança . . . . . . . . . 0,0 % 39,724 8
+2 GDA’s major.
+3 1 722 Gravidez: 2 -3 GDA’s, GDA’s não major, não nascido Criança . . . . . . . . . 0,0 % 0,704 9
+
+=== PÁGINA 8 ===
+Diário da República, 2.ª série PARTE C
+N.º 243 19 de dezembro de 2023 Pág. 84
+Níveis
+de utilização GRA GRA descrição Tipo etário % utentes Peso relativo
+(NIU)
+3 1 400 Psicossocial, com instabilidade psicológica, sem Criança . . . . . . . . . 0,0 % 0,915 7
+menção de estabilidade psicológica.
+2 1 712 Gravidez: 0 -1 GDA’s, não nascido . . . . . . . . . . . Criança . . . . . . . . . 0,0 % 0,361 5
+4 5 020 10+ combinações de outros GDA’s, idade 1 a 17, Criança . . . . . . . . . 0,0 % 8,279 2
+1 GDA major.
+3 1 500 Psicossocial, com instabilidade psicológica, com Adulto + . . . . . . . . . 0,0 % 2,120 3
+menção de estabilidade psicológica.
+3 2 600 Agudo minor e psicossocial, com instabilidade Criança . . . . . . . . . 0,0 % 0,826
+psicossocial, sem menção de estabilidade psi-
+cológica.
+3 1 742 Gravidez: 4 -5 GDA’s, GDA’s não major, não nascido Criança . . . . . . . . . 0,0 % 1,050 9
+4 1 721 Gravidez: 2 -3 GDA’s, GDA’s não major, nascido Criança . . . . . . . . . 0,0 % 2,538 1
+3 1 500 Psicossocial, com instabilidade psicológica, com Criança . . . . . . . . . 0,0 % 1,218 9
+menção de estabilidade psicológica.
+3 5 010 10+ combinações de outros GDA’s, idade 1 a 17, Criança . . . . . . . . . 0,0 % 3,664 8
+GDA’s não major.
+4 1 741 Gravidez: 4 -5 GDA’s, GDA’s não major, nascido Criança . . . . . . . . . 0,0 % 3,225 7
+3 2 700 Agudo minor e psicossocial, com instabilidade Criança . . . . . . . . . 0,0 % 1,723 3
+psicossocial e com menção de estabilidade psi-
+cológica.
+3 1 762 Gravidez: 6+ GDA’s, GDA’s não major, não nascido Criança . . . . . . . . . 0,0 % 2,216 2
+3 2 700 Agudo minor e psicossocial, com instabilidade Adulto + . . . . . . . . . 0,0 % 2,619 8
+psicossocial e com menção de estabilidade psi-
+cológica.
+4 1 711 Gravidez: 0 -1 GDA’s, nascido . . . . . . . . . . . . . . . Criança . . . . . . . . . 0,0 % 2,065 6
+4 1 761 Gravidez: 6+ GDA’s, GDA’s não major, nascido Criança . . . . . . . . . 0,0 % 3,632 9
+4 5 331 Bebé: 6+ GDA’s, GDA’s não major, baixo peso à Criança . . . . . . . . . 0,0 % 3,976 8
+nascença.
+4 1 772 Gravidez: 6+ GDA’s, 1+ GDA’s major, não nascido Criança . . . . . . . . . 0,0 % 3,976 8
+4 1 751 Gravidez: 4- 5 GDA’s, 1+ GDA’s major, nascido Criança . . . . . . . . . 0,0 % 3,976 8
+4 1 771 Gravidez: 6+ GDA’s, 1+ GDA’s major, nascido Criança . . . . . . . . . 0,0 % 3,976 8
+3 1 752 Gravidez: 4 -5 GDA’s, 1+ GDA’s major, não nascido Criança . . . . . . . . . 0,0 % 1,082 5
+4 1 731 Gravidez: 2- 3 GDA’s, 1+ GDA’s major, nascido Criança . . . . . . . . . 0,0 % 3,976 8
+3 1 732 Gravidez: 2 -3 GDA’s, 1+ GDA’s major, não nascido Criança . . . . . . . . . 0,0 % 1,082 5
+(*) Ano 2019.
+GDA — Grupos de Diagnósticos Agregados.
+317146075

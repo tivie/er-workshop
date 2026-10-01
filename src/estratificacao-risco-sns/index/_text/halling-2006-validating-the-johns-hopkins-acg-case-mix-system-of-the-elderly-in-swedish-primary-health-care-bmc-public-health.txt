@@ -1,0 +1,449 @@
+# Fonte: Halling 2006 Validating the Johns Hopkins ACG Case-Mix System of the elderly in Swedish primary health care (BMC Public Health).pdf
+# Páginas: 7
+
+=== PÁGINA 1 ===
+BMC Public Health
+BioMed Central
+Research article Open Access
+Validating the Johns Hopkins ACG Case-Mix System of the elderly
+in Swedish primary health care
+Anders Halling*1, Gerd Fridh2 and Ingvar Ovhed1
+Address: 1Blekinge Institute for Research & Development, Karlshamn, Sweden and 2Department of Primary Health Care, Blekinge County Council,
+Karlskrona, Sweden
+Email: AndersHalling*-anders.halling@ltblekinge.se; GerdFridh-gerd.fridh@ltblekinge.se; IngvarOvhed-ingvar.ovhed@ltblekinge.se
+* Corresponding author
+Published: 28 June 2006 Received: 06 March 2006
+Accepted: 28 June 2006
+BMC Public Health 2006, 6:171 doi:10.1186/1471-2458-6-171
+This article is available from: http://www.biomedcentral.com/1471-2458/6/171
+© 2006 Halling et al; licensee BioMed Central Ltd.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0),
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+Abstract
+Background: Individualbased measures for comorbidity are of increasing importance for planning
+and funding health care services. No measurement for individualbased healthcare costs exist in
+Sweden. The aim of this study was to validate the Johns Hopkins ACG Case-Mix System's
+predictive value of polypharmacy (regular use of 4 or more prescription medicines) used as a proxy
+for health care costs in an elderly population and to study if the prediction could be improved by
+adding variables from a population based study i.e. level of education, functional status indicators
+and health perception.
+Methods: The Johns Hopkins ACG Case-Mix System was applied to primary health care diagnoses
+of 1402 participants (60–96 years) in a cross-sectional community based study in Karlskrona,
+Sweden (the Swedish National study on Ageing and Care) during a period of two years before they
+took part in the study. The predictive value of the Johns Hopkins ACG Case-Mix System was
+modeled against the regular use of 4 or more prescription medicines, also using age, sex, level of
+education, instrumental activity of daily living- and measures of health perception as covariates.
+Results: In an exploratory biplot analysis the Johns Hopkins ACG Case-Mix System, was shown
+to explain a large part of the variance for regular use of 4 or more prescription medicines. The
+sensitivity of the prediction was 31.9%, whereas the specificity was 88.5%, when the Johns Hopkins
+ACG Case-Mix System was adjusted for age. By adding covariates to the model the sensitivity was
+increased to 46.3%, with a specificity of 90.1%. This increased the number of correctly classified by
+5.6% and the area under the curve by 11.1%.
+Conclusion: The Johns Hopkins ACG Case-Mix System is an important factor in measuring
+comorbidity, however it does not reflect an individual's capability to function despite a disease
+burden, which has importance for prediction of comorbidity. In this study we have shown that
+information on such factors, which can be obtained from short questionnaires increases the
+probability to correctly predict an individual's use of resources, such as medications.
+Page 1 of 7
+(page number not for citation purposes)
+
+=== PÁGINA 2 ===
+BMC Public Health 2006, 6:171 http://www.biomedcentral.com/1471-2458/6/171
+Background The aim of the study was to validate the Johns Hopkins
+During the 20th century there has been a dramatic change ACG Case-Mix System in Swedish primary health care and
+in demography of the western world, with an increasing to study if additional individual based data i.e. age, sex,
+elderly population. The group of elderly >80 years is now level of education, activity of daily living (ADL), instru-
+the fastest growing segment of the population [1]. With mental activity of daily living (IADL) and health percep-
+increasing age, there is an increased risk of having one or tion, obtained from questionnaries in a population study,
+more chronic diseases [2,3]. People with multiple chronic could improve the prediction.
+conditions take up a large part of the healthcare resources
+[4]. Significant progress has been made in the develop- Methods
+ment of therapies, disease management and patient edu- Study population
+cation, but with rare exceptions they have been focused on The Swedish National study on Ageing and Care (SNAC)
+single chronic conditions [5]. In Sweden where the is a populationbased-, multicenter-, cohort study, which
+healthcare system has centered around hospital care, there started enrollment of subjects in 2001. The study has four
+has recently been a change in policy with an increasing participating centers. One of the centers is SNAC-Blekinge
+lean towards primary health care to provide health care which encompasses the Karlskrona community situated
+for the elderly population. Today it is not possible from in south-eastern Sweden with 60600 inhabitants. This
+routine health care statistics to get an overall picture of study includes baseline data collected between April 2001
+care provided to patients with multiple chronic condi- and May 2003. A random, age stratified sample was
+tions. In the Swedish healthcare system, which has selected from the population registry among those aged
+become increasingly specialised this patient group is 60, 66, 72, 78, and 81 years. Among those aged 84, 87, 90,
+dependent on several different caregivers who often have 93, and 96 years the entire population was included.
+limited communication and consensus in planning for Details of the study has been described earlier [1].
+management of clinical care. This has resulted in a Approval was obtained from the Research Ethical Com-
+clouded picture, where the need of the patient could be mittee at Lund University, Sweden. Informed consent was
+unevenly distributed between different needs or fall obtained from all participants.
+between providers, due to lack of coordination and
+knowledge of the individuals overall needs. It has become Dependent variable
+increasingly important to establish a system to find and Drug use
+characterise patients with multiple chronic conditions as Data on drug use were obtained from the participant
+a growing body of research suggests that coordinated care interview. The participants were also asked to show con-
+(case management) results in better outcomes at lower tainers, prescriptions and medication lists. If the partici-
+costs [6]. The Johns Hopkins Case-Mix system [7] uses the pant was unable to give information, it was obtained from
+individual as the unit of analysis for clinical and popula- a relative, caregiver, medical staff or from prescription lists
+tion purposes, which scores the degree of comorbidity for those using the APODOS (Swedish Pharmacy Inc.)
+from diagnoses during a time period, obtained from elec- drug dispensing system. Drug use was defined as the use
+tronic patient records. Our hypothesis was that a measure- of drugs on a regular basis at the time of the interview and
+ment of comorbidity must take into account not just as needed at any time during the preceding month. Alter-
+burden of chronic conditions, but also other aspects that native medicines and over-the-counter drugs were also
+may be of importance in characterising an individual's registered, but were not used in the analyses. Drugs were
+comorbidity such as the individual's age, sex, level of edu- classified according to the Anatomical, Therapeutic and
+cation, functional status indicators, health perception and Chemical (ATC) classification system as recommended by
+attitudes towards future health. the WHO [10]. In Sweden funding of healthcare is done
+at the population level. No information exist on health
+Polypharmacy [8,9] is associated with treatment of multi- care cost exist on an individual level. Use of prescribed
+ple chronic conditions and represents the patient's doc- drugs represents a substantive part of the care for elderly
+tor(s) assessment of the patients overall burden of disease. and represents the patients doctor(s) assessment of the
+In the elderly it also represents a significant part of the cost patients overall burden of disease. Polypharmacy was
+for care. Since individual costs for care is not available in defined as the regular use of four or more prescription
+Sweden, as is the case also in many European countries medicines. The dependent variable was dichotomized 1
+because the funding is provided at the population level (regular use of four or more prescription medicines) or 0
+through national taxation, polypharmacy was chosen as a (regular use of less than four prescription medicines).
+proxy measurement of care provided with which comor-
+bidity was compared using the Johns Hopkins ACG Case-
+Mix system.
+Page 2 of 7
+(page number not for citation purposes)
+
+=== PÁGINA 3 ===
+BMC Public Health 2006, 6:171 http://www.biomedcentral.com/1471-2458/6/171
+Independent variable Activity of daily living (ADL) consisted of the following
+Comorbidity items: movement indoors, toilet, mobility from bed to
+The Johns Hopkins ACG Case-Mix System is based on the chair, dressing/undressing, continence, eating [14].
+theory that comorbidity, measured as a sum of diagnoses
+from a time period using special algorithms for grouping Instrumental activity of daily living (IADL) consisted of
+corresponds to a certain need for health care resources. the following items: cooking, laundry, use of public trans-
+Information about the Johns Hopkins ACG Case-Mix Sys- portation, bathing, shopping for food, household shores,
+tem, when used in Swedish primary health care and the mobility outdoors [15].
+grouping algorithms has been published earlier [11,12].
+Briefly, the end result of the grouping is that each patient Depression was measured through the Montgomery
+is allotted to one of 82 ACG groups, depending on his/her Åsberg Depression Rating Scale inventory [16]. The
+types of morbidity that are characterized using five criteria MADRS was specifically constructed for measuring
+1. Likely persistence of the condition 2. Severity of the depression and be sensitive to treatment effects. It
+condition 3. Aetiology 4. Diagnostic certainty and 5. Need includes 10 items and its range is between 0–60. In the
+for speciality care. Thus each ACG describes patients with present study 9 of the 10 items were used, hence yielding
+the same type and degree of comorbidity. Diagnoses were a range from 0–54. The MADRS has previously demon-
+obtained from electronic patient records of the three pri- strated to be a robust and valid measure of depression
+mary care districts in Karlskrona community of the partic- [17].
+ipants and the ACG Case-Mix system 6.0 was applied to
+the diagnoses in a period of up to two years before they For studying self-estimated health a questionnaire (SCB)
+participated in the baseline study of SNAC-Blekinge. For developed by Statistics Sweden for use in: Surveys of Liv-
+analysis purposes the ACGs were collapsed into six catego- ing Conditions in Sweden (ULF) was used [18].
+ries (0–5) of resource utilisation bands (RUB), a higher
+number indicating higher morbidity. The RUB for each Attitudes towards future health was determined using part
+participant was obtained from the output of the ACG soft- of a larger questionnaire on different aspects of health per-
+ware, where 0 indicated no need for primary health care ception developed and validated by Ware et al [19].
+resources and 5 very high need for primary health care
+resources [7]. Statistical analysis
+Independent variables to be included in a model were
+Covariables explored using biplots [20], where the variance explained
+The research data was obtained from questionnaire's, that by the variable is proportional to the length of the lines
+were part of the SNAC-Blekinge study. The scales used in and the correlation between different independent varia-
+this study were analysed to assess their reliability using the bles is proportional to the cosine of the angle between the
+raw item scores. Using the 'alpha' command which analy- lines. Logistic regression was used to fit a model with
+ses all items of a scale and in addition to calculating Cron- polypharmacy, as the dependent variable and RUB as the
+bach's α [13] generates a standardised summative independent variable. Sample weights were used to adjust
+measure (mean 0 and standard deviation 1) of each scale for disproportionate sampling between the age groups.
+into a new variable. If necessary the 'alpha' command The model was adjusted for age (model A), age and sex
+automatically reverse the items of the scales. Thus a new (model B) age, sex, level of education and IADL (model
+composite variable was made from each scale and was C), age, sex, level of education, IADL, SCB and Ware
+used as covariates in the analysis. (model D) in consecutive steps. Odds ratios for polyphar-
+macy at different levels of RUB were calculated for each
+Gender model. To evaluate the importance of RUB for predicting
+Age when the individual participated in the baseline the outcome a model E consisting of model D but exclud-
+study. ing RUB was made. The performance of model A-E for dis-
+criminating users and nonusers of polypharmacy was
+Level of education: the highest educational level of each assessed and compared with receiver operating character-
+participant was registered and categorised in the following istic analysis (ROC). To assess the predictive capacity of
+categories; incomplete public school, 6 years of public the model, we calculated the concordance rate between
+school, 9 years of public school, complete college educa- predicted and observed responses and used the Hosmer-
+tion, college education plus one year of post college edu- Lemeshow goodness-of-fit test [21]. All analyses were
+cation, complete university degree, complete PhD degree. done using statistical package Stata version 9.1 (Stata Cor-
+poration, Texas, USA).
+Page 3 of 7
+(page number not for citation purposes)
+
+=== PÁGINA 4 ===
+BMC Public Health 2006, 6:171 http://www.biomedcentral.com/1471-2458/6/171
+Table 1: Proportion of population with a specific degree of pants 1381 had given information on their use of pre-
+utilisation of primary health care and polypharmacy by age and scription drugs and a further 237 had missing values on
+gender.
+the independent variables, table 2. This left 1144 partici-
+Age (years) RUBa 60–69 70–79 80–89 90–96 pants with complete datasets, who participated in this
+n = 206 n = 192 n = 318 n = 88 study.
+% % % %
+The biplot analysis showed that ADL was highly corre-
+Female 0 59.7 21.9 19.2 36.4
+lated with IADL and MADRS to age. Due to risk of prob-
+1 3.4 4.2 8.2 11.4
+lems with multicollinearity these variables were omitted
+2 15.0 21.3 19.8 17.0
+3 18.4 46.9 45.3 28.4 from the models. The odds ratio for having polypharmacy
+4 3.4 5.7 6.3 6.8 was significantly increased in RUB 3 and 4, when com-
+5 0 0 1.3 0 pared with RUB 0, table 3. The number of participants in
+RUB 5 were small and the confidence intervall large. How-
+Polypharmacy (%)b 19.4 34.4 50.3 58.0
+ever in model A-C, those in RUB 5 had a higher need for
+polypharmacy. In further analysis the ability of the Johns
+Age (years) RUB 60–69 70–79 80–89 90–96
+Hopkins ACG Case-Mix system to discriminate between
+n = 186 n = 148 n = 207 n = 36
+% % % % users and nonusers of polypharmacy and if it could be
+improved was tested by adding independent variables to
+Male 0 64.5 21.6 23.7 22.2 the model in subsequent steps, table 4. The univariate
+1 2.1 6.8 7.3 5.6 model is not presented as missingness of data was age
+2 14.5 25.7 23.7 16.7 dependent and could violate missing data assumptions.
+3 17.2 38.5 39.6 47.2
+By adding independent variables to the model the sensi-
+4 1.6 6.1 4.8 8.3
+tivity rose by 14.4%, with a 1.6% decline in specificity.
+5 0 1.4 1.0 0
+The number of correctly classified rose by 5.6% and the
+Polypharmacy (%) 14.5 29.7 39.1 61.1 area under the curve by 11.1%. Using ROC analysis model
+D was shown to have a significantly better discriminatory
+a Resource utilisation band (RUB) according to the Johns Hopkins power when tested against models A-C (p < 0.001) or
+Case-mix system. model E (p < 0.001), where RUB had been excluded. The
+b Polypharmacy: regular use of four or more prescribed medications.
+predictive models that included RUB all had a good fit,
+whereas model E provided a poor fit.
+Results
+A total of 2312 individuals were invited to participate in Discussion
+the study. In total, 1402 (60.5%) of those invited agreed In this study we have shown that the Johns Hopkins ACG
+to participate. Of these 41.7% were men and 58.3% Case-Mix system is a major factor in the model explaining
+women. The participation rate was 75.2%, 66.3%, 53.7% the proxy variable polypharmacy. We have also shown
+and 47.0% for the age groups 60–69, 70–79, 80–89 and that the sensitivity of the Johns Hopkins ACG Case-Mix,
+90-years respectively. The proportion of participants in when used with Swedish primary health care diagnoses
+the study with different needs of primary health care and could be improved. This finding is not surprising since
+use of polypharmacy is shown in table 1. Of the partici- primary health care diagnoses provide little information
+on the severity of the diagnosis, the individuals ability to
+Table 2: Prevalence of missing values in independent variables. function despite a disease burden, the patient's health per-
+ception or his/her attitudes towards future health. By add-
+Age (years) 60–69 70–79 80–89 90–96
+ing information on the biologic severity of the diagnoses
+% % % %
+in subsequent steps, the individual's age, sex, level of edu-
+Female cation, functional status indicators and healthperception,
+Level of education 1.9 4.2 13.1 21.1 we were both able to improve the sensitivity and discrim-
+IADL function 0.5 0 1.0 0 inatory power of the prediciton of the proxy variable poly-
+SCB 2.4 4.7 16.5 37.6 pharmacy. Only models that included RUB provided a
+Ware 2.4 6.3 20.2 43.1
+good fit. We especially found that information on an indi-
+vidual's IADL function and self estimated health comple-
+Male
+ment the information given by the Johns Hopkins ACG
+Level of education 3.3 5.4 11.0 21.4
+IADL function 0 0.7 0.5 0 Case-Mix together with age and gender on the level of the
+SCB 3.2 6.1 13.0 38.1 individual's comorbidity.
+Ware 4.8 8.1 15.0 40.5
+Page 4 of 7
+(page number not for citation purposes)
+
+=== PÁGINA 5 ===
+BMC Public Health 2006, 6:171 http://www.biomedcentral.com/1471-2458/6/171
+Table 3: Odds ratios (OR) and 95% confidence intervals (CI) for use of polypharmacy (4 or more regular prescription medicines)
+according to resource utilisation band (RUB).
+RUB OR model A OR model B OR model C OR model D
+95%CI 95%CI 95%CI 95%CI
+n = 1144 n = 1144 n = 1144 n = 1144
+0 1.0 1.0 1.0 1.0
+1 0.9 0.4–1.8 0.9 0.4–1.7 0.9 0.5–1.9 1.0 0.5–2.1
+2 1.2 0.8–1.9 1.2 0.8–1.9 1.3 0.8–2.1 1.3 0.8–2.1
+3 3.0*** 2.1–4.4 3.0*** 2.0–4.4 3.3*** 2.2–4.9 3.0*** 2.0–4.6
+4 6.8*** 3.5–13.5 6.7*** 3.4–13.2 8.2*** 4.0–16.8 6.5*** 3.1–13.6
+5 6.4* 1.2–35.2 7.0* 1.2–39.6 7.8* 1.5–41.0 4.8 1.1–21.3
+* significant at 5%, ** significant at 1%, *** significant at 0.1%
+model A: adjusted for age
+model B: adjusted for age and sex
+model C: adjusted for age, sex, level of education and IADL function
+model D: adjusted for age, sex, level of education, IADL function, SCB and Ware
+The data for this study was derived from a population system were collected up to two years prior to their day of
+based study and a database of diagnoses from the elec- participation, which has been suggested to be optimal for
+tronic patient record system in primary health care. The the Swedish primary health care system where all chronic
+participation rate in the population study were lower in conditions are not registered each year [23].
+the older age groups and many of these non participants
+voluntarily reported that they were either to old or sick to A previous Swedish study has shown that the Johns Hop-
+participate, which is likely to have led to an underestima- kins ACG Case-Mix explain more of the variation in
+tion of comorbidity in the oldest age group. Also missing health care cost than age and gender alone [24]. This study
+values in independent variables of the self-administered has shown that the prediction of comorbidity can be
+questionnaires increased with age. The diagnoses used in improved by adding information on functional status
+this study was obtained from registers used in routine indicators which is in agreement with Mayo et al. [25] and
+medical care, without any additional training given to the that it can be further improved by adding selfestimated
+primary health care physicians. It is important to know health. The variance in health care cost explained by the
+that the Johns Hopkins ACG Case-Mix system is sensitive Johns Hopkins ACG Case-Mix system in a Canadian and
+towards number of diagnoses used per visit and that diag- Spanish study was larger than in a Swedish study, which
+nostic labelling by different physicians has been shown to might be due to differences in reimbursement system and
+vary [22]. In addition there are two private primary care diagnostic practice [26,27].
+physicians in the area, whose diagnostic registers were
+unavailable for us, which thus would have lowered the There is a need for an individualbased measure of comor-
+total comorbidity to a small degree. The diagnoses that we bidity both for funding of medical care and for planning
+used for calculations by the Johns Hopkins ACG Case-Mix of preventive- and medical services. Such a measure
+Table 4: Sensitivity, specificity, positive- and negative predicitive value (%) for detecting use of polypharmacy (4 or more regular
+prescription medicines) according to resource utilisation band (RUB).
+model A model B model C model D model E
+Sensitivity 31.9 33.6 38.4 46.3 41.2
+Specificity 88.5 89.2 89.8 90.1 90.2
+Positive predicitive value 55.4 58.3 62.7 67.8 65.5
+Negative predicitive value 74.4 75.0 76.5 78.9 77.4
+Correctly classified 71.0 72.0 73.9 76.6 75.1
+Area under ROC curve 0.72 (0.69–0.75)a 0.73 (0.70–0.76) 0.76 (0.73–0.79) 0.80 (0.77–0.82) 0.77 (0.74–0.80)
+Goodness-of-fit 0.90 0.39 0.64 0.31 0.01
+a 95% confidence interval
+model A: adjusted for age
+model B: adjusted for sex and age
+model C: adjusted for sex, age, level of education and IADL function
+model D: adjusted for sex, age, level of education, IADL function, SCB and Ware
+model E: model D excluding RUB
+Page 5 of 7
+(page number not for citation purposes)
+
+=== PÁGINA 6 ===
+BMC Public Health 2006, 6:171 http://www.biomedcentral.com/1471-2458/6/171
+should have as high validity as possible and be easy to use The results of this study would have been improved with
+in practical care. The Johns Hopkins ACG Case-Mix sys- diagnostic training of the primary care physicians in the
+tem provides such a system, which has been extensively study, although we believe it unlikely that the variation
+validated both in the USA, Canada and in Europe [28-30]. due to this can be totally eliminated, which is why we sug-
+Our study show that other measures complement the gest this comorbidity measure based on additional differ-
+information derived from this diagnosis based system in ent factors. Work on establishing Patient-level Clinical
+the prediction of comorbidity. In practical care it may also [35] costing in primary health care is currently ongoing in
+be of importance to have a comorbidity measure, which is Blekinge county and further work will be directed at stud-
+derived from different sources so as to minimise the effect ying if this measure holds in other clinical settings.
+of different diagnostic practices by different doctors and
+so called 'diagnostic gliding'. Conclusion
+This study was done to validate the Johns Hopkins Case-
+Comorbidity provides new challenges to health care serv- mix system in Swedish primary health care and to study if
+ices that have traditionally been focused on individual additional information from short questionnaires could
+diseases and with little substantial collaboration between increase the information of the individual's comorbidity
+primary care physicians and other specialist physicians. compared to that estimated by the Johns Hopkins Case-
+mix system alone. In this study we have shown that infor-
+During the last century demography has changed radically mation on these factors, increases the probability to cor-
+with moderate changes in the health care system. One of rectly predict an individual's comorbidity. This increased
+the challenges resulting from the successes of both pre- the number of correctly classified by 5.6% and the area
+ventive measures, better food and curative health services under the curve by 11.1%. Therefore we suggest that
+is the increase in the extent of comorbidity. Many elderly measures of comorbidity, which with relative ease could
+patients now receive health care services from many dif- be obtained from a population using questionnaires,
+ferent caregivers with little substantial collaboration. must include different dimensions of health and func-
+Some forms of patient-oriented case management are spe- tioning.
+cifically designed to enhance the coordination of care on
+the grounds that the common characteristics of successful Competing interests
+care for major chronic diseases as well as for preventive The author(s) declare that they have no competing inter-
+activities provide strong arguments for care to be coordi- ests.
+nated by primary care phycicians [31]. These primary care
+physicians however need to have the tools that easily Authors' contributions
+identify patients with comorbidity. Use of the Johns Hop- AH conceived the idea and designed the study, collected
+kins ACG Case-Mix system together with a geographical all the data, handled the ACG software, performed the sta-
+information system provides an interesting idea to visual- tistical analyses and wrote the manuscript. GF helped to
+ise comorbidity [32]. co-ordinate the work and drafted the manuscript. IO par-
+ticipated in the design of the study, drafted the manuscript
+Traditionally treatment programs have been focused on and helped to co-ordinate the work.
+individual diseases, whereas in reality 50% of all individ-
+uals with chronic conditions have multiple chronic condi- All authors read and approved the final manuscript.
+tions [33]. Individuals with multiple chronic conditions
+have clinical needs that may differentiate them from per- Acknowledgements
+sons with a single chronic condition. Evidence indicates The Swedish National study on Ageing and Care, SNAC, http://
+that chronic conditions cluster and that persons with mul- www.snac.org is financially supported by the Ministry of Health and Social
+tiple chronic conditions may have more rapid declines in Affairs, Sweden and the participating County Councils, Municipalities and
+University Departments. We are grateful to the staff, participants, partici-
+health status and a greater likelihood of disability. Use of
+pating counties and municipalities. We also thank Sten Engdahl, IT co-ordi-
+a valid measure of comorbidity and especially if it also
+nator for delivering data needed for the ACG Case-Mix analysis.
+could be a measure of different aspects of comorbidity
+that could be demonstrated on different axis in a star dia- References
+gram could be of value in guiding the out patient clinician 1. Lagergren M, Fratiglioni L, Rahm-Hallberg I, Berglund J, Elmståhl S,
+and discharging doctor to appropriate treatment pro- Hagberg B: A longitudinal study integrating population, care
+and social services data. The Swedish National study on
+grams. Relatively recently a treatment program not
+Aging and Care (SNAC). Aging Clin Exp Res 2004, 16:158-68.
+directed to a specific disease has been shown to improve 2. Wolff JL, Starfield B, Anderson G: Prevalence, expenditures and
+health status and reduce hospitalisation [34]. complications of multiple chronic conditions in the elderly.
+Arch Intern Med 2002, 162:2269-76.
+3. Rothenberg RB, Koplan JP: Chronic disease in the 1990s. Annu
+Rev Public Health 1990, 11:267-96.
+Page 6 of 7
+(page number not for citation purposes)
+
+=== PÁGINA 7 ===
+BMC Public Health 2006, 6:171 http://www.biomedcentral.com/1471-2458/6/171
+4. Hoffman C, Rice D, Sung HY: Persons with chronic conditions. primary care of a European national health care system:does
+Their prevalence and cost. JAMA 1996, 276:1473-79. it work? Med Care 1999, 37:238-48.
+5. Lorig K, Sobel DS, Stewart AL, Brown BW, Bandura A, Ritter P, 28. Reid R, MacWilliam L, Verhulst L, Roos N, Atkinson M: Perform-
+Gonzalez VM, Laurent DD, Holman HR: Evidence suggesting that ance of the ACG case-mix system in two Canadian prov-
+a chronic disease self-management program can improve inces. Med Care 2001, 39:86-99.
+health status while reducing hospitalization: A randomized 29. Sullivan CO, Omar RZ, Ambler G, Majeed A: Case-mix and varia-
+trial. Med Care 1999, 37:5-14. tion in specialist referrals in general practice. Br J Gen Pract
+6. Tsai A, Morton SC, Mangione CM, Keeler EB: A meta-analysis of 2005, 55:529-33.
+interventions to improve care for chronic illness. Am J Manag 30. Adams EK, Bronstein J, Raskind-Hood C: Adjusted Clinical
+Care 2005, 11:478-88. Groups: predictive accuracy for medicaid enrollees in three
+7. The Johns Hopkins ACG Case Mix System: Version 6.0 Release states. Health Care Financ Rev 2002, 24:43-61.
+Notes. PC (DOS/WIN/NT) and Unix Version 6.0 – April, 31. Bodenheimer T, Wagner EH, Grumbach K: Improving primary
+2003. Baltimore: Johns Hopkins Bloomberg School of public health; care for patients with chronic illness. JAMA 2002, 288:1775-79.
+2003. 32. Barnard DK, Hu W: The population health approach: health
+8. Jyrkka J, Vartiainen L, Hartikainen S, Sulkava R, Enlund H: Increasing GIS as a bridge from theory to practice. Int J Health Geogr 2005,
+use of medicines in elderly persons: a five-year follow-up of 4:23.
+the Kuopio 75+ Study. Eur J Clin Pharmacol 2006, 62:151-8. 33. Hoffman C, Rice D, Sung HY: Persons with chronic conditions:
+9. Flaherty JH, Perry HM 3rd, Lynchard GS, Morley JE: Polypharmacy their prevalence and costs. JAMA 1995, 276:1473-79.
+and hospitalization among older home care patients. J Geron- 34. Lorig KR, Sobel DS, Stewart AL, Brown BW Jr, Bandura A, Ritter P,
+tol A Biol Sci Med Sci 2000, 55:554-59. Gonzales VM, Laurent DD, Holman HR: Evidence suggesting that
+10. WHO Collaborating Centre for Drug Statistics and Methodology: a chronic disease self-management program can improve
+Guidelines for ATC classification and DDD assignement. health status while reducing hospitalization: A randomized
+Oslo, Norway: World Health Organization; 1995. trial. Med Care 1999, 37:5-14.
+11. Carlsson L, Börjesson U, Edgren L: Patient based 'burden-of-ill- 35. KPP i primärvården-result at från ett pilotprojekt. (Patient-
+ness' in Swedish Primary Health Care. Applying the Johns level Clinical Costing applied to Swedish primary health
+Hopkins ACG Case-mix System in a retrospective study of care- results from a project. In Swedish). Stockholm, Landst-
+electronic patient records. Int J Health Plann Manage 2002, ingsförbundet; 2003.
+17:269-82.
+12. Starfield B, Weiner J, Mumford L, Steinwachs D: Ambulatory care Pre-publication history
+groups: a categorization of diagnoses for research and man-
+agement. Health Serv Res 1991, 26:53-74. The pre-publication history for this paper can be accessed
+13. Cronbach LJ: Coefficient alpha and the internal structure of here:
+tests. Psychometrika 1951, 16:297-333.
+14. Katz S, Ford AB, Moskowitz RW, Jackson BA, Jaffe MW: Studies of
+illness in the aged. The Index of ADL: A standardized meas- http://www.biomedcentral.com/1471-2458/6/171/pre
+ure of biological and psychosocial function. JAMA 1963, pub
+185:914-19.
+15. Lawton MP, Brody EM: Assessment of older people: self-main-
+taining and instrumental activities of daily living. Gerontologist
+1969, 9:179-86.
+16. Montgomery SA, Åsberg M: A new depression scale designed to
+be sensitive to change. Br J Psychiatry 1979, 134:382-89.
+17. Svanborg P, Åsberg M: A comparison between the Beck
+Depression Inventory (BDI) and the self-rating version of the
+Montgomery Åsberg Depression Rating Scale (MADRS). J
+Affect Disord 2001, 64:203-16.
+18. Survey of Living Conditions in Sweden (ULF), Statistics Swe-
+den (february 2006) [http://www.scb.se]
+19. Ware JE: Scales for measuring general health perceptions.
+Health Serv Res 1976, 11:396-415.
+20. Kohler U, Luniak M: Data inspection using biplots. Stata J 2005,
+5:208-23.
+21. Lemeshow S, Hosmer DW: A review of goodness of fit statistics
+for use in the development of logistic regression models. Am
+J Epidemiol 1982, 115:92-106.
+22. Britt H, Angelis M, Harris E: The reliability and validity of doc-
+tor-recorded morbidity data in active data collection sys-
+tems. Scand J Prim Health Care 1998, 16:50-55.
+23. Carlsson L, Strender L-E, Fridh G, Nilsson GH: Clinical categories
+of patients and encounter rates in primary health care- a
+three-year study in defined populations. BMC Publ Health 2006, Publish with BioMed Central and e very
+6:35.
+scientist can read your work free of charge
+24. Engström SG, Carlsson L, Östgren C-J, Nilsson GH, Borgquist LA:
+The importance of comorbidity in analysing patient costs in "BioMed Central will be the most significant development for
+Swedish primary care. BMC Publ Health 2006, 6:36.
+disseminating the results of biomedical research in our lifetime."
+25. Mayo NE, Nadeau L, Levesque L, Miller S, Poissant L, Tamblyn R:
+Does the addition of functional status indicators to case-mix Sir Paul Nurse, Cancer Research UK
+adjustment indices improve prediction of hospitalization, Your research papers will be:
+institutionalization, and death in the elderly? Med Care 2005,
+43:1194-202. available free of charge to the entire biomedical community
+26. Reid R, MacWilliam L, Roos N, Bogdanovic B, Black C: Measuring
+peer reviewed and published immediately upon acceptance
+morbidity in populations: performance of the Johns Hopkins
+adjusted clinical group case-mix adjustement system in cited in PubMed and archived on PubMed Central
+Manitoba. University of Manitoba, Canada; 1999. yours — you keep the copyright
+27. Orueta JF, Lopez-De-Munain J, Baez K, Aiarzaguena JM, Aranguren JI,
+Pedrero E: Application of the Ambulatory Care Groups in the Submit your manuscript here: BioMedcentral
+http://www.biomedcentral.com/info/publishing_adv.asp
+Page 7 of 7
+(page number not for citation purposes)

@@ -1,0 +1,275 @@
+# Fonte: Circular-Normativa_4_Estratificacao-pelo-risco.pdf
+# Páginas: 10
+
+=== PÁGINA 1 ===
+N. 4/2024/ACSS
+DATA: 2024-02-15
+CIRCULAR NORMATIVA
+PARA: Unidades Locais de Saúde, EPE
+ASSUNTO: Estratificação pelo Risco
+Os instrumentos de estratificação pelo risco constituem-se como uma peça basilar para orientar a
+mudança de paradigma que as Unidades Locais de Saúde (ULS) vêm trazer ao Serviço Nacional de
+Saúde (SNS), com a criação de um modelo de organização e funcionamento que visa a integração
+efetiva dos cuidados primários e hospitalares, incluindo a comunidade. O conhecimento integrado da
+população servida por cada ULS emerge como uma necessidade absoluta num cenário onde concorre
+com o foco no tratamento dos doentes que chegam aos serviços de saúde e nos contactos agudos,
+existindo uma visão proactiva da população e antecipação das necessidades específicas de cada
+estrato, de forma a prevenir contactos, promovendo a saúde, evitando e gerindo a doença e
+consequentemente a utilização desnecessária de cuidados mais diferenciados.
+A publicação do Despacho n.º 12986/2023, de 7 de dezembro, vem dar continuidade aos esforços
+desenvolvidos pela Administração Central do Sistema de Saúde (ACSS), definindo a estratégia de
+utilização, no SNS, dos instrumentos de estratificação pelo risco da população portuguesa. Esta
+estratégia inclui 4 pilares estratégicos de intervenção:
+a) Planeamento de recursos, considerando as necessidades em saúde das comunidades e dos
+territórios, nomeadamente, na área da gestão estratégica dos recursos humanos e das instalações
+e equipamentos de saúde;
+Administração Central do Sistema de Saúde, I.P.
+Parque de Saúde de Lisboa | Edifício 16 | Avenida do Brasil, 53 | 1700-063 Lisboa | Portugal
+Tel. Geral: 21 792 58 00 | Fax: 21 792 58 48 | Email: geral@acss.min-saude.pt | www.acss.min-saude.pt
+Página 1 de 10
+
+=== PÁGINA 2 ===
+b) Definição de processos assistenciais e de modelos de intervenção clínica ajustados aos vários
+subgrupos populacionais, harmonizando critérios, normas e regras para implementação, a nível
+nacional, de programas de promoção da saúde, prevenção da saúde, gestão da doença crónica,
+gestão de casos complexos, entre outros;
+c) Financiamento das entidades prestadoras de cuidados, considerando o risco clínico das
+populações, para assegurar uma afetação mais justa e equitativa dos recursos públicos;
+d) Avaliação do desempenho.
+Estratificação pelo Risco: o que é?
+A estratificação da população pelo risco é uma abordagem sistemática, de abrangência populacional,
+usada para prever necessidades futuras, sejam elas morbilidade, consumo de recursos, custos ou
+ocorrência de eventos adversos, tais como admissões não planeadas e potencialmente evitáveis. Na
+sequência da criação dos modelos de casemix, as ferramentas de estratificação pelo risco,
+apresentam-se como sistemas de classificação que atribuem a cada utente inscrito um grupo
+clinicamente coerente e exclusivo. Têm por base dados do percurso de cada utente no ecossistema
+de saúde, sejam cuidados de saúde primários, hospitalares ou medicamentos dispensados em
+farmácias comunitárias e prescritos em qualquer unidade de saúde pública ou privada. Para além
+disso, possibilitam ainda a inclusão de utentes que, não tendo recorrido ao sistema de saúde, serão
+potenciais utilizadores do mesmo.
+No que se refere ao Grupo de Risco Ajustado (GRA) mencionado no Despacho n.º 12986/2023, de 7
+de dezembro, e em termos práticos, uma vez obtida a informação necessária acima descrita, acionando
+o software respetivo, é possível agrupar cada utente num GRA específico em função das suas
+necessidades em saúde e, a partir do agrupamento de todos os utentes, proceder à estratificação de
+toda a população por segmentos em função do risco de necessidade de cuidados de saúde:
+Administração Central do Sistema de Saúde, I.P.
+Parque de Saúde de Lisboa | Edifício 16 | Avenida do Brasil, 53 | 1700-063 Lisboa | Portugal
+Tel. Geral: 21 792 58 00 | Fax: 21 792 58 48 | Email: geral@acss.min-saude.pt | www.acss.min-saude.pt
+Página 2 de 10
+
+=== PÁGINA 3 ===
+Detendo Portugal um SNS caracterizado pela utilização dos Grupos de Diagnósticos Homogéneos
+(GDH) há mais de 30 anos, salienta-se que a principal diferença entre uma ferramenta de estratificação
+pelo risco e os GDH será o facto de a primeira caracterizar cada indivíduo de uma população,
+considerando a informação disponível em todos os contactos de saúde, e a segunda caracterizar o
+episódio hospitalar do indivíduo, sem integração entre todos os contactos de saúde. Acresce que a
+atribuição de um grupo de pertença a cada indivíduo da população no âmbito de uma ferramenta de
+ajustamento pelo risco requer informação mais abrangente do que a necessária à atribuição de um
+GDH por episódio, na medida em que requer informação de cuidados hospitalares, de cuidados de
+saúde primários e de medicamentos (ao invés dos GDH, que requerem informação relativa ao episódio
+hospitalar) de forma a ser possível caracterizar a carga de doença de cada elemento. Uma ferramenta
+de estratificação pelo risco será assim mais ampla e transversal que a classificação de doentes por
+GDH, constituindo-se a informação que possibilita o agrupamento de um episódio em GDH como parte
+da informação necessária para a atribuição do GRA de pertença de cada utente e apresentando-se
+como um instrumento que na realidade potencia a integração entre os níveis de prestação de cuidados.
+Assim, uma ferramenta de ajustamento pelo risco não visa substituir um sistema como os GDH,
+Administração Central do Sistema de Saúde, I.P.
+Parque de Saúde de Lisboa | Edifício 16 | Avenida do Brasil, 53 | 1700-063 Lisboa | Portugal
+Tel. Geral: 21 792 58 00 | Fax: 21 792 58 48 | Email: geral@acss.min-saude.pt | www.acss.min-saude.pt
+Página 3 de 10
+
+=== PÁGINA 4 ===
+mantendo-se este último como um sistema de classificação na gestão da produção de uma instituição
+hospitalar e do financiamento de determinada produção. De igual forma, e em matéria daquilo que é a
+prática de registo de diagnósticos e procedimentos e da codificação clínica nos organismos do SNS,
+uma ferramenta de ajustamento pelo risco mantém as exigências de informação já em vigor
+requerendo, igualmente, o aprimoramento dos processos de registo e codificação. Trata-se, pois, de
+uma ferramenta complementar das já existentes.
+Grupos de Risco Ajustado: aplicação aos utentes do SNS
+Determinado o GRA de pertença de cada utente, e conforme expresso no Anexo I do Despacho em
+apreço, cada GRA terá um peso relativo. Isto é, cada grupo de utentes tem um peso relativo que traduz
+a complexidade média desses utentes, traduzida em carga de doença, sendo possível relacionar esta
+carga de doença com as necessidades futuras de cuidados de saúde. O peso relativo de cada grupo
+corresponde a um coeficiente de ponderação que reflete a carga de doença e consumo expectável de
+recursos de saúde de um utente típico agrupado em cada grupo, expresso em termos relativos face à
+carga de doença e consumo expectável de consumo de recursos do utente típico a nível nacional.
+A distribuição da população resultante da aplicação de um modelo de estratificação por GRA pode ser
+representada através de uma pirâmide de Kaiser onde, regra geral, cerca de 5% dos utentes que
+recorrem aos serviços de saúde representam cerca de 20% do consumo de recursos. A pirâmide de
+Kaiser adaptada ao total de utentes inscritos no SNS e utentes que, não estando inscritos nos Cuidados
+de Saúde Primários, recorreram a cuidados de saúde hospitalares durante o ano 20191, resulta em
+cerca de 63% da população com baixo risco de consumo de cuidados de saúde (na medida em que
+será a população não utilizadora ou com reduzida carga de doença identificada) e cerca de 37% da
+população complexa do ponto de vista da carga de doença e consumo de recursos de saúde. De entre
+estes 37% de utentes, 4% corresponde a uma subpopulação de Risco Muito Alto, onde se incluem
+os complexos crónicos, seguindo-se um grupo de utentes com Risco Alto (16%), e finalmente um
+grupo de utentes com Risco Moderado (80%):
+1 Último ano de informação completa, sem contexto de pandemia COVID-19.
+Administração Central do Sistema de Saúde, I.P.
+Parque de Saúde de Lisboa | Edifício 16 | Avenida do Brasil, 53 | 1700-063 Lisboa | Portugal
+Tel. Geral: 21 792 58 00 | Fax: 21 792 58 48 | Email: geral@acss.min-saude.pt | www.acss.min-saude.pt
+Página 4 de 10
+
+=== PÁGINA 5 ===
+Considerando que cada GRA possui um peso relativo em função da complexidade dos utentes que
+agrupa, é possível, à semelhança do que se efetua com os GDH, calcular o índice de casemix GRA de
+cada ULS, mais concretamente um Índice de Risco Ajustado – IDRA:
+∑ (Utentes GRAi x Peso relativo GRAi )
+∑ Utentes GRAi
+Aplicação da Estratificação pelo Risco no desenvolvimento dos eixos estratégicos
+a) Planeamento de recursos, considerando as necessidades em saúde das comunidades e
+dos territórios, nomeadamente na área da gestão estratégica dos recursos humanos e das
+instalações e equipamentos de saúde
+A estratificação permite identificar grupos populacionais com maior probabilidade de consumir
+recursos. Isso possibilita uma alocação mais precisa de recursos, físicos e humanos, para atender às
+necessidades desses grupos específicos. Com a identificação dos grupos de risco, é possível
+dimensionar a força de trabalho de forma mais adequada, apoiando assim no planeamento dos
+recursos humanos. Por exemplo, se uma determinada população tem uma alta prevalência de doenças
+crónicas, é necessário um mix adequado de profissionais de saúde especializados na resposta a essas
+necessidades. Uma vez que a estratificação permite que os recursos sejam direcionados para a
+prevenção e intervenção em estádios iniciais de doenças, isso pode reduzir a procura por serviços de
+saúde intensivos e de elevado custo, a longo prazo.
+Administração Central do Sistema de Saúde, I.P.
+Parque de Saúde de Lisboa | Edifício 16 | Avenida do Brasil, 53 | 1700-063 Lisboa | Portugal
+Tel. Geral: 21 792 58 00 | Fax: 21 792 58 48 | Email: geral@acss.min-saude.pt | www.acss.min-saude.pt
+Página 5 de 10
+
+=== PÁGINA 6 ===
+Relativamente às instalações e equipamentos, com a compreensão das necessidades específicas de
+diferentes grupos, as instalações de saúde podem ser planeadas e equipadas de acordo. Por exemplo,
+se uma população tem uma alta taxa de idosos, as estruturas precisam estar equipados para lidar com
+as condições associadas ao envelhecimento.
+Ao conhecer as características e necessidades específicas de diferentes grupos, os serviços de saúde
+podem ser adaptados para oferecer um atendimento mais personalizado e eficaz, melhorando a
+qualidade geral dos serviços prestados. O planeamento dos recursos trar-nos-á, consequentemente,
+o incremento necessário da eficiência dos recursos no SNS e a promoção de equidade na sua
+distribuição.
+b) Definição de processos assistenciais e de modelos de intervenção clínica ajustados aos
+vários subgrupos populacionais, harmonizando critérios, normas e regras para implementação,
+a nível nacional, de programas de promoção da saúde, prevenção da saúde, gestão da doença
+crónica, gestão de casos complexos, entre outros
+Ao estratificar a população com base no risco, os profissionais de saúde podem personalizar os
+cuidados de acordo com as necessidades específicas de cada grupo. Isso pode envolver a adaptação
+de protocolos e intervenções para atender às condições de saúde prevalentes em cada estrato de
+risco. A identificação de grupos de alto risco permite que os profissionais de saúde adotem abordagens
+diferentes tais como, por exemplo, programas de gestão de caso. Nos casos com múltiplas condições,
+a coordenação eficaz de cuidados entre diferentes profissionais de saúde e organizações é
+fundamental para garantir uma abordagem integrada e holística. A estratificação é especialmente
+valiosa na gestão de doenças crónicas. Os modelos de intervenção clínica podem ser desenvolvidos
+com base na compreensão das necessidades únicas de pacientes com diferentes níveis de risco,
+promovendo a autogestão e a adesão ao tratamento.
+Esta abordagem incentiva a monitorização contínua da saúde de diferentes grupos, possibilitando
+ajustes regulares nos processos assistenciais e nas intervenções clínicas com base em mudanças nas
+condições de saúde da população. Estes processos e modelos de intervenção clínica mais ajustados
+Administração Central do Sistema de Saúde, I.P.
+Parque de Saúde de Lisboa | Edifício 16 | Avenida do Brasil, 53 | 1700-063 Lisboa | Portugal
+Tel. Geral: 21 792 58 00 | Fax: 21 792 58 48 | Email: geral@acss.min-saude.pt | www.acss.min-saude.pt
+Página 6 de 10
+
+=== PÁGINA 7 ===
+às necessidades implicam também uma priorização na alocação de recursos no sentido de maximizar
+o impacto nos grupo de risco mais elevado. Por outro lado, permite uma avaliação mais precisa dos
+resultados dos cuidados de saúde. Deste modo, é possivel identificar intervenções que são mais
+eficazes para determinados grupos, contribuindo para a melhoria contínua da qualidade dos serviços.
+c) Financiamento das entidades prestadoras de cuidados, considerando o risco clínico das
+populações, para assegurar uma afetação mais justa e equitativa dos recursos públicos
+A estratificação da população permite uma alocação mais eficiente de recursos financeiros. Os
+investimentos podem ser direcionados para as áreas de maior necessidade, maximizando o impacto
+na melhoria da saúde da população. Através do planeamento das intervenções e dos recursos
+necessários com base nas necessidades da população, surge um importante reforço ao modelo de
+financiamento das unidades de saúde, fomentando uma afetação mais equitativa de recursos ao
+garantir ao prestador de cuidados maior financiamento se a probabilidade de consumo de cuidados da
+sua população também for maior. Este modelo tem uma relevância especial no momento de
+alargamento a todo o país das Unidades Locais de Saúde, integrando a prestação de cuidados
+primários e hospitalares, que terão melhores instrumentos para gerir a sua população, já que o
+financiamento segue as necessidades de cada população, promovendo a equidade na alocação de
+recursos financeiros e a coesão do território. Acresce que o financiamento por capitação das ULS
+passa a estar ajustado por numa ferramenta de estratificação da população, que considera todo um
+conjunto de outras variáveis, não consideradas anteriormente nos modelos de financiamento por
+capitação que vigoraram no SNS.
+d) Avaliação do desempenho
+Ao estratificar a população pelo risco, torna-se possível comparar o desempenho de diferentes regiões,
+pois ao considerar as características específicas de cada população, permite avaliações mais justas e
+relevantes. A estratificação permite a padronização dos indicadores de saúde com base nos níveis de
+Administração Central do Sistema de Saúde, I.P.
+Parque de Saúde de Lisboa | Edifício 16 | Avenida do Brasil, 53 | 1700-063 Lisboa | Portugal
+Tel. Geral: 21 792 58 00 | Fax: 21 792 58 48 | Email: geral@acss.min-saude.pt | www.acss.min-saude.pt
+Página 7 de 10
+
+=== PÁGINA 8 ===
+risco, o que é essencial para avaliar o desempenho em diferentes contextos, considerando as
+peculiaridades demográficas, epidemiológicas e socioeconómicas de cada população.
+Ao analisar o desempenho em diferentes estratos de risco, é possível identificar boas práticas que
+estão associadas a resultados positivos. Essas práticas podem ser partilhadas e implementadas em
+outras áreas para melhorar o desempenho global do sistema de saúde. A estratificação permite avaliar
+o acesso aos cuidados de saúde de maneira mais detalhada, considerando as necessidades
+específicas de diferentes grupos, fundamental para garantir acesso, particularmente nos grupos de
+risco mais elevado.
+A avaliação da qualidade dos cuidados pode ser refinada ao considerar os diferentes estratos de risco.
+Isso inclui a análise de indicadores de qualidade específicos para grupos de utentes com diferentes
+condições de saúde, garantindo que os cuidados sejam eficazes e seguros em todas as circunstâncias.
+Ao estratificar a população pelo risco, é possível avaliar a eficiência na utilização de recursos de acordo
+com as necessidades específicas de cada grupo. Isso permite otimizar a alocação de recursos e
+identificar áreas onde melhorias na eficiência podem ser alcançadas.
+A estratificação contribui para uma avaliação mais abrangente do bem-estar e satisfação do paciente,
+levando em consideração os resultados específicos para grupos de risco. Isso inclui a avaliação da
+experiência do paciente em termos de cuidados recebidos, acesso a informações e apoio psicossocial.
+Este processo facilita um ciclo contínuo de avaliação e melhoria. A disponibilização de dados
+estratificados pode ser útil para dar feedback contínuo aos prestadores e fomentar a implementação
+de mudanças eficazes para melhorar o desempenho nas diferentes dimensões.
+Estratificação pelo Risco: Necessidades imediatas
+Tratando-se de uma nova ferramenta que agrega informação de vários pontos da rede do SNS, e que
+servirá os interesses dos utentes das ULS, integrando cuidados de saúde primários e cuidados
+hospitalares numa visão estratégica, propicia e potencia o acesso ao tipo de cuidados que mais se
+coaduna com as efectivas necessidades do cidadão. A estratificação pelo risco constitui-se como uma
+nova ferramenta de gestão, a utilizar no SNS ao nível das ULS, primordial à integração efectiva de
+Administração Central do Sistema de Saúde, I.P.
+Parque de Saúde de Lisboa | Edifício 16 | Avenida do Brasil, 53 | 1700-063 Lisboa | Portugal
+Tel. Geral: 21 792 58 00 | Fax: 21 792 58 48 | Email: geral@acss.min-saude.pt | www.acss.min-saude.pt
+Página 8 de 10
+
+=== PÁGINA 9 ===
+cuidados de saúde primários e hospitalares. Importa assim que a sua utilização seja realizada de forma
+articulada e discutida, visando o objectivo comum da integração da prestação de cuidados à população.
+Assim:
+1. É criada a Rede de Interlocutores Locais para a Estratificação pelo Risco – RILER, em estreita
+articulação com a equipa de projecto criada no âmbito do Despacho n.º 12986/2023, de 7 de
+dezembro, tendo cada ULS que nomear, para o efeito, um Interlocutor Local para a
+Estratificação pelo Risco – ILER.
+2. Compete ao ILER proceder à dinamização da utilização dos instrumentos de estratificação pelo
+risco em cada ULS, nomeadamente no que diz respeito à definição de estratégias de formação
+contínua interna, de melhoria continuada de registos clínicos, de análise de dados relativos à
+estratificação pelo risco da população da área de influencia e sua divulgação e utilização para o
+planeamento de recursos, definição de processos assistenciais e avaliação de desempenho;
+3. Cada ULS indica o ILER referido no ponto anterior até dia 23 de fevereiro, para o endereço
+eletrónico estratificacao_risco@acss.min-saude.pt, com indicação do nome, cargo e contacto mais
+direto;
+4. Mantêm-se inalteradas todas as necessidades e regras relativas à codificação clinica pela
+International Classification of Diseases - Clinical Modification/Procedures Coding System -
+ICD10CM/PCS (ICD10CM/PCS), devendo as unidades reforçar esta atividade de forma a encurtar
+o prazo entre a alta do episódio e a conclusão da codificação clínica bem como reforçar a atividade
+de auditoria interna à codifcação clinica;
+5. Mantêm-se inalteradas todas as necessidades e regras relativas à utilização da ICD10CM/PCS no
+âmbito da gestão de inscritos em cirurgia;
+6. Devem as instituições reforçar a utilização da ICD10CM para registos de diagnósticos no âmbito
+das Consultas Externas e Urgências hospitalares;
+7. Mantém-se inalteradas todas as necessidades e regras relativas à utilização da Classificação
+Internacional de Cuidados de Saúde Primários - Segunda Edição – ICPC 2E.
+Administração Central do Sistema de Saúde, I.P.
+Parque de Saúde de Lisboa | Edifício 16 | Avenida do Brasil, 53 | 1700-063 Lisboa | Portugal
+Tel. Geral: 21 792 58 00 | Fax: 21 792 58 48 | Email: geral@acss.min-saude.pt | www.acss.min-saude.pt
+Página 9 de 10
+
+=== PÁGINA 10 ===
+O Presidente do Conselho Diretivo
+Digitally signed by Vitor Herdeiro
+CN=Vitor Herdeiro, O=Administração Central
+do Sistema de Saúde IP, T=Presidente do
+Conselho Diretivo, C=PT
+Date: 2024-02-16T09:54:38 +00:00
+Reason:
+(Victor Herdeiro)
+Administração Central do Sistema de Saúde, I.P.
+Parque de Saúde de Lisboa | Edifício 16 | Avenida do Brasil, 53 | 1700-063 Lisboa | Portugal
+Tel. Geral: 21 792 58 00 | Fax: 21 792 58 48 | Email: geral@acss.min-saude.pt | www.acss.min-saude.pt
+Página 10 de 10

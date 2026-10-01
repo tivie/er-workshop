@@ -1,0 +1,1436 @@
+# Fonte: Gifford 2004 Health-Based Capitation Risk Adjustment in Minnesota Public Health Care Programs (HCFR).pdf
+# Páginas: 21
+
+=== PÁGINA 1 ===
+Health-Based Capitation Risk Adjustment in Minnesota
+Public Health Care Programs
+Gregory A. Gifford, Ph.D., Kevan R. Edwards, M.A., and David J. Knutson
+This article documents the history and tion payment for each health plan enrollee.
+implementation of health-based capitation Capitation is defined as a contract arrange­
+risk adjustment in Minnesota public health ment whereby a purchaser agrees to pay
+care programs, and identifies key imple­ health plans a fixed payment per capita/
+mentation issues. Capitation payments in enrollee per month in return for which
+these programs are risk adjusted using an health plans assume responsibility for the
+historical, health plan risk score, based on provision of all covered services for their
+concurrent risk assessment. Phased imple­ enrolled populations (Hurley, Freund, and
+mentation of capitation risk adjustment for Paul, 1993). Health plans are then effec­
+these programs began January 1, 2000. tively at risk for additional health care
+Minnesota’s experience with capitation risk costs that exceed capitation revenues.
+adjustment suggests that: (1) implementa­ There are formally three distinct prepaid
+tion can accelerate encounter data submis­ public program populations administered by
+sion, (2) administrative decisions made the State of Minnesota: (1) the Prepaid
+during implementation can create issues Medical Assistance Program (PMAP), (2)
+that impact payment model performance, Prepaid General Assistance Medical Care
+and (3) changes in diagnosis data man­ (PGAMC), and (3) Prepaid Minnesota Care
+agement during implementation may (PMNC). PMAP is Minnesota’s Medicaid
+require changes to the payment model. managed care program that serves low-
+income residents, including Aid to Families
+BACKGROUND with Dependent Children (AFDC)-eligible
+families, pregnant females, children, and the
+Problem elderly. PMAP operates in 83 of Minnesota’s
+87 counties and continues to expand.
+Minnesota began a prepaid managed PGAMC is a managed care program that
+care demonstration, under an 1115 waiver serves low-income Minnesota residents
+(Weiner et al., 1998), for its public health who do not qualify for PMAP or other State
+care programs in 1985. A key component or Federal health insurance programs.
+of this demonstration is that the State pays PGAMC primarily serves single or mar­
+participating managed care organizations a ried Minnesota residents between the ages
+fixed, prepaid premium or monthly capita- of 21 and 64 who have no children.
+PMAP and PGAMC were implemented
+Gregory A. Gifford and Kevan R. Edwards are with the in 1985. There were approximately 249,000
+Minnesota Department of Health. David J. Knutson is with the
+PMAP enrollees and 28,000 PGAMC
+Park Nicollet Institute. The research in this article was support­
+ed in part by a grant from the Robert Wood Johnson Foundation enrollees in calendar year (CY) 2000.
+to the Health Economics Program of the Minnesota Department
+PMNC is a subsidized insurance program
+of Health. The statements expressed in this article are those of
+the authors and do not necessarily reflect the views or policies for Minnesotans who have somewhat greater
+of the Minnesota Department of Health, Park Nicollet Institute,
+assets than people eligible for PMAP or
+Robert Wood Johnson Foundation, or the Centers for Medicare
+& Medicaid Services (CMS).
+HEALTH CARE FINANCING REVIEW/Winter 2004-2005/Volume 26, Number 2 21
+
+=== PÁGINA 2 ===
+PGAMC, but no other access to public or pri­ the Minnesota health policy arena in 1993,
+vate health insurance. PMNC began in as a part of State and national level health
+October 1992 and converted to a prepaid man­ care reform proposals (Minnesota Depart­
+aged care program in 1996. PMNC is jointly ments of Health and Human Services,
+funded by the Federal Government, a 1.5-per­ 1996). In 1994, legislation was passed that
+cent tax on health care provider revenues, and required the submission of a report by the
+enrollee premiums, which are assessed on the Minnesota Departments of Health and
+basis of a sliding scale. Approximately 165,000 Commerce regarding the implementation
+persons were enrolled in PMNC in 2000. This of risk adjustment. The report, submitted
+article focuses exclusively on the PMAP and to the Minnesota legislature in early 1995,
+PMNC programs. recommended the development of a risk-
+From the inception of these programs and adjustment mechanism for the PMAP,
+until January 1, 2000, capitation payment rates PGAMC, and PMNC programs. Legislation
+have been based on combinations of the demo­ passed during that session required the
+graphic characteristics, age, sex, prepaid pro­ Minnesota Departments of Health and
+gram, region, institutional status, Medicare Human Services to jointly develop the risk-
+coverage status, pregnancy status, parental sta­ adjustment system, in consultation with a
+tus, and family income. Rates for some pro­ stakeholder advisory committee—the
+grams were further adjusted by region. Over Public Programs Risk Adjustment Work
+time, experts and policymakers have become Group (PPRAWG).
+increasingly concerned about biased selection,
+the profit realized by enrolling healthier, low- Risk-Adjustment Method Evaluation
+cost enrollees, and the financial penalties that Criteria
+can result for health plans from enrolling sick­
+er, high-cost enrollees, and generally the inad­ The main criterion by which we chose to
+equacy of demographic-based capitation rate- evaluate risk-adjustment options reflected
+setting systems (Newhouse et al., 1989; the fundamental objective of this initiative: to
+Fowles et al., 1996). improve the accuracy with which capitation
+As a result, it has become apparent that the payments are targeted to the illness burden
+demographic basis of capitation rates does of prepaid populations. Given this objective, a
+not sufficiently reflect the relative health secondary priority was to minimize the
+based risk of prepaid populations. To address administrative impacts of adopting risk
+this need, a number of methods of measuring adjustment. Given these priorities, the two
+population health status have been developed major criteria by which we chose to evaluate
+in recent years, supported in part by the alternative risk-assessment methods were:
+Federal Government for possible application non-random or skewed group predictive per­
+to the Medicare Program (Weiner et al., 1996; formance and administrative feasibility
+Ellis et al., 1996; Medicare Payment Advisory (Minnesota Department of Health and
+Commission, 1998). Minnesota Department of Commerce, 1995).
+Throughout our evaluation, however, we also
+Risk-Adjustment Mandate in monitored individual level predictive perfor­
+Minnesota mance (i.e., R2 statistics) for any inconsisten­
+cies with non-random group-level results.
+Proposals to set capitation rates for Non-random/skewed group predictive
+these programs on the basis of health sta­ performance refers to the relative degree to
+tus-based risk adjustment first surfaced in which alternative risk-adjustment methods
+22 HEALTH CARE FINANCING REVIEW/Winter 2004-2005/Volume 26, Number 2
+
+=== PÁGINA 3 ===
+can produce unbiased predictions for tient diagnosis data are usually more
+skewed or non-random subpopulations accessible. One important disadvantage of
+(Dunn et al., 1996). Methods that under- such a method, however, is that it creates
+predict for certain non-random subpopula­ an incentive to find recipients with the tar­
+tions and overpredict for others create geted conditions, and reduces incentives
+clear incentives for risk selection, to the for ambulatory care.
+extent that the subpopulations are readily Population-based diagnosis classification
+identifiable by participating health plans. methods, on the other hand, focus on
+By administrative feasibility, we mean entire populations. That is, when assessing
+the degree to which alternative methods the risk of any given entity (e.g., enrollees
+can be implemented efficiently. To maxi­ of a benefit plan or health plan), all
+mize administrative feasibility, the State enrollees would be included in the assess­
+chose to build on existing work in this ments, including those for whom there was
+area, and focus on models and methods (1) no health care utilization, (2) only
+that would utilize existing claims, ambulatory utilization, or (3) both inpa­
+encounter, and eligibility data systems, or tient and ambulatory utilization during the
+minimize changes in those systems wher­ year. An important advantage of these
+ever possible. In fact, key features of the methods is that they minimize incentives
+risk-adjustment model implemented for to avoid enrolling people with particular
+these programs resulted directly from the types of conditions, because all enrollees
+adaptation of risk-adjustment methods to are assessed and a comprehensive array of
+the existing capitation ratesetting systems. both ambulatory- and inpatient-based con­
+ditions are included. However, one disad­
+PAYMENT MODEL DEVELOPMENT vantage is that they require participating
+AND KEY CHARACTERISTICS health plans to maintain both inpatient and
+ambulatory data management systems.
+Selection of Population-Based Method Nevertheless, in 1997 the Minnesota
+Departments of Health and Human Services
+The State considered two basic types of recommended that the risk-adjustment
+capitation risk-adjustment methods: (1) tar­ mechanism should be based on a popula­
+geted conditions methods, and (2) popula­ tion-based diagnosis classification method.
+tion-based methods. Targeted conditions Once the State narrowed the scope of
+methods essentially focus on a small sub­ required encounter data to elements that
+set of specific clinical conditions that are were uniformly collected across health
+usually treated in inpatient settings, and plans, the participating health plans indi­
+account for a small fraction of a given pop­ cated their support for this recommenda­
+ulation and a significant, but relatively tion through the PPRAWG.
+small proportion of expenditures (Managed
+Risk Medical Insurance Board, 1995). The Selection of ACG Case-Mix System
+principal advantage of a targeted condi­
+tions method is that it would require the Three diagnosis classification systems
+submission of the number of recipients were initially proposed as candidates for the
+with each of the targeted conditions only risk-adjustment model—ACGs (then known
+each year. This is significantly easier than as ambulatory care groups) (Weiner et al.,
+if conditions typically treated in ambulato­ 1996), diagnosis cost groups (Ellis et al.,
+ry settings were included, because inpa­ 1996), and the disability payment system
+HEALTH CARE FINANCING REVIEW/Winter 2004-2005/Volume 26, Number 2 23
+
+=== PÁGINA 4 ===
+(Kronick et al., 1996). After some discussion, capitation payment model. In the following,
+key stakeholders supported this proposal. we briefly review the key decisions, and
+Based on considerable preliminary testing rationales for those decisions, that led to
+we conducted, and studies conducted by oth­ the particular characteristics of the capita­
+ers that have addressed the relative predic­ tion risk-adjustment payment model adopt­
+tive accuracy of these methods (Dunn et al., ed for Minnesota prepaid public health
+1996), staff recommended the Johns Hopkins care programs.
+ACG case-mix system as the basis of the risk- The capitation risk-adjustment payment
+adjustment model. Based on those recom­ model implemented by Minnesota to this
+mendations, and that the ACGs were the point is distinguished by three key charac­
+most widely used population-based case-mix teristics: (1) the risk-assessment model is
+system, the Minnesota Commissioners of the concurrent or retrospective; (2) capitation
+Departments of Health and Human Services rates assigned to health plan enrollees are
+recommended to the legislature that the ACG risk adjusted based on historical, health
+case-mix system be the basis of the capitation plan level risk scores; and (3) the imple­
+risk-adjustment payment model in the mentation of capitation risk adjustment is
+Minnesota prepaid public programs being gradually phased-in over time. These
+(Minnesota Department of Health, 1998). are the three features of the Minnesota
+At the time, within the ACG case-mix risk-adjustment payment model that, taken
+system there were two options for diagno­ together, distinguish it from most other
+sis classification: ambulatory diagnostic risk-adjustment payment models in use at
+groups (ADGs) and ACGs, now known as the time (University of Maryland Baltimore
+adjusted clinical groups (Johns Hopkins County, 2003). Taken together, this type of
+University School of Hygiene and Public payment model represented what was
+Health, Health Services Research and viewed as the most efficient method of
+Development Center, 2000). The ADG implementing capitation risk adjustment in
+classification system is a multivariate sys­ Minnesota, given its history and experi­
+tem, whereas the ACG system is a mutual­ ence with prepaid public health care pro­
+ly exclusive categorization system. The grams.
+ACG system was selected primarily
+because it could be implemented with only Selection of Concurrent Risk-
+minor changes to the existing capitation Adjustment Model
+payment system managed in Minnesota. A
+model based on ADGs, however, because it Originally, the State planned to imple­
+would have been a multivariate, additive ment a prospective risk-adjusted capitation
+model, would have required significant model for these populations. In general,
+changes to those systems. ACGs could capitation models make payments to
+simply replace the existing demographic health plans for their enrollees based on
+rate cells as new rate cells in the existing enrollees’ expected level of utilization in
+payment system. advance of their actual utilization of ser­
+vices. A key assumption underlying capita­
+Implementation tion models is that the relative size of the
+advance payments is sufficient to cover the
+As of January 1, 2000, Minnesota began actual utilization generated by the covered
+to phase-in health-based capitation risk populations during the covered period. In a
+adjustment to replace the demographic demographic (risk-adjusted) capitation
+24 HEALTH CARE FINANCING REVIEW/Winter 2004-2005/Volume 26, Number 2
+
+=== PÁGINA 5 ===
+model, the relative size of the advance pay­ Further, because a prospective model
+ments is based on the relative levels of requires a period of continuous enrollment
+expected utilization for various demo­ during the risk-assessment period to
+graphic categories (e.g., females, age 18­ increase the reliability of risk assessment
+30). (Starfield, 1998), enrollees without the
+What distinguishes a prospective risk- required period of enrollment would also
+adjusted capitation model is that the rela­ by definition be non-risk adjustable. And,
+tive size of the advance payment levels is rates for the non-risk adjustable subpopula­
+based on a measure of the prior risk of tions would, therefore, need to be based on
+each enrollee, where the prior risk of each some other method, such as demograph­
+enrollee is captured by explicit measures ics. Assuming full implementation of
+of their health status from one point in prospective risk-adjusted capitation as a
+time, to predict their utilization for a later replacement of the demographic method,
+payment period. Enrollee health status is two distinct ratesetting systems would
+measured based on the diagnoses on their become necessary: (1) the risk-adjusted
+health care claims and encounters from a capitation payment system, and (2) a
+period prior to the payment period. The demographic rate cell system for the non-
+risk assessment is defined as prospective risk adjustable subpopulations.
+because it reflects the ability of an assess­ Given that fully implementing a prospec­
+ment of risk observed during one time tive risk-adjusted payment model meant
+period to predict utilization that occurs dur­ substituting two ratesetting systems, for
+ing a later time period. one demographic system, the State select­
+When implemented, a prospective risk- ed a concurrent risk-adjustment model for
+adjusted capitation rate is assigned to each implementation. A concurrent risk-adjust­
+health plan enrollee based on the ACG to ment model is one in which capitation pay­
+which they were assigned from their prior ment levels are based on the current risk
+diagnosis history. One key advantage of a of each enrollee. In its ideal form, a con­
+prospective model is that payment levels current model would be one in which the
+assigned to each enrollee can be tailored to current risk of each enrollee reflects the
+their own individual expected level of uti­ ability of enrollee health status observed at
+lization that can be predicted from their one time to predict their utilization from
+prior health status. Another is that, by the same time period. Prediction, as it is
+focusing on conditions that predict future used here, refers to the measured, system­
+utilization, they attach importance to atic ability of explanatory variables (e.g.,
+chronic versus acute conditions, and thus, diagnoses observed during a given period
+encourage more disease management of time), to anticipate observed variation in
+focusing on more manageable (e.g., chron­ outcome variables (e.g., utilization observed
+ic) conditions (Van de Ven and Ellis, 2000). during the same time period).
+One complication of a prospective The major advantages of a concurrent
+model, however, is that it requires access model are: (1) because diagnoses and ser­
+to a diagnosis history for current enrollees vices are taken from the same period, pre­
+from a prior risk-assessment period. As a dictive performance is arguably higher
+result, new enrollees are effectively not than for a prospective model, and (2) all
+risk adjustable. Therefore, assuming such enrollees are effectively risk adjustable.
+a model, some other method of developing The major disadvantage, however, is that
+rates becomes necessary for new enrollees. because the conceptually ideal form of a
+HEALTH CARE FINANCING REVIEW/Winter 2004-2005/Volume 26, Number 2 25
+
+=== PÁGINA 6 ===
+concurrent model is based on an assump­ payment period are then assigned the
+tion of instant access to diagnosis data at same fixed capitation rate assigned to their
+the time it is needed to assess enrollee health plan. Health plan risk scores reflect
+risk, it is not feasible. In particular, because each health plan’s aggregate risk profile
+it takes some time to process the for the relevant, prior 1-year risk assess­
+claims/encounter records from which the ment period—hence the term historical,
+diagnosis data are taken (e.g., 3 to 6 health plan risk score. To compensate for
+months), the time period from which diag­ the fact that the health plan risk scores
+noses are taken (the risk-assessment peri­ reflect health plan risk profiles that are, by
+od) must necessarily precede the period definition, historical and therefore may not
+for which capitation payments are made track sufficiently with current costs, the
+(payment period). To adapt the concurrent State chose to update these risk scores and
+model to this data processing reality, the payment rates quarterly. In fact, the issue
+State developed the concept of the histori­ of the inconsistency between enrollee uti­
+cal, health plan risk score—so that risk lization during the payment period and that
+assessment could take place prior to, and capitation payments are both constant
+independent of, the payment period. across all enrollees, and a reflection of a
+prior member population is significant.
+Development of the Historical, Health Another important assumption underly­
+Plan Risk Score ing the decision to use the historical,
+health plan risk score that should be
+In general, the State defined an histori­ acknowledged, however, is that given the
+cal, health plan risk score as a relative risk size of the prepaid health plan populations,
+score assigned to participating health the State expected considerable stability in
+plans, based on the assessment of the con­ the scores over time. For example, for the
+current risk of the member populations PMAP population, the size of health plan
+from a period prior to the beginning of the populations participating in the Twin City
+payment period. Operationally, historical, metropolitan area ranged from 23,413 to
+health plan risk scores are the mean pro­ 90,892 enrollees in State fiscal year (FY)
+gram specific, concurrent ACG relative 2000. Nevertheless, however, the decision
+risk weight for a given health plan popula­ to update the health risk scores and rates
+tion across all individuals enrolled for 1 or quarterly was intended to address changes
+more months in the health plan during the in these risk scores overtime.
+1-year risk-assessment period ending 9 We should also acknowledge the issue
+months prior to the beginning of the pay­ created by the use of data regarding all
+ment period. The ACG weights reflect the health plan enrollees, irrespective of
+concurrent relative risk of health plan pop­ length of enrollment, when health plan risk
+ulations for any given program during the scores are based on concurrent risk
+risk-assessment period. assessment. Because there is a positive
+These health plan risk scores are then relationship between enrollment length
+used to risk adjust statewide, program- spe­ and the reliability of the diagnosis data as a
+cific conversion factors, or base capitation measure of health or morbidity status
+rates. The result is that a fixed or constant (Gifford, 2002), requiring a minimum
+capitation rate is assigned to each health length of enrollment to be considered risk
+plan participating in each program. All adjustable (e.g., 6 months) should increase
+members of a given health plan during a the reliability of the diagnosis data used for
+26 HEALTH CARE FINANCING REVIEW/Winter 2004-2005/Volume 26, Number 2
+
+=== PÁGINA 7 ===
+risk assessments. Although the per mem­ The weights are based on the mean State
+ber per month (PMPM) risk-assessment FY 1996 PMPM charge for each ACG, for
+method—by weighting observations by which the charge distribution was truncat­
+enrollment length—appears to address ed at three standard deviations above the
+this problem to some degree, we have test­ mean ACG-specific PMPM State FY 1996
+ed this issue in the discussion section. charges.
+The decision to truncate charges result­
+Development of Concurrent ACG ed from the observation of a number of
+Weights ACGs with both small numbers of
+enrollees and one or two enrollees for
+Concurrent ACG weights used for CYs which total State FY 1996 charges far
+2000-2002 were based on State FY 1996 fee- exceeded, and were therefore, not typical
+for-service (FFS) program eligibility and of the charges of the other cases assigned
+claims data. Minnesota chose to develop to the same ACG. We were concerned
+ACG weights from data based on its own both that the: (1) ACG weights would be
+program populations to ensure that the very unstable; and (2) resulting ACG
+benefits sets and populations underlying weights might create a number of ACGs
+the weights are the same or comparable to for which the capitation payment would so
+current enrollee populations and benefit exceed enrollee actual costs, that an attrac­
+sets. In State FY 1996, because these pro­ tive opportunity for gaming the system
+grams were operating FFS primarily in non- would be created. Three possible methods
+metro Minnesota, these weights are for reducing the impact of outliers were
+arguably not applicable to their prepaid compared (Edwards, Knutson, and Gifford,
+counterparts operating primarily in the 1999).
+Twin City metropolitan area. However, In the first simulation, total individual
+because these data have been the basis of State FY 1996 charges were truncated at
+capitation rates for these programs to this $25,000 to simulate a $25,000-per enrollee
+point, and because they represented the annual stop loss or reinsurance threshold.
+only data source available for this purpose Most health plans participating in PMAP in
+at the time, the State chose to use them for Minnesota carry some form of private rein­
+these programs as the basis of the initial surance, and the $25,000 threshold was
+ACG weights. selected to represent a reasonable approx­
+ACG weights were developed for the imation of the level of coverage held by
+combined PMAP and PMNC population health plans. In the second simulation,
+which was comprised mainly of pregnant PMPM charges were truncated at three
+women and children. We combined these standard deviations above the mean for
+populations because several ACGs for each specific ACG. In the third simulation
+these populations were insufficiently popu­ the charge data from all enrollees for
+lated when weights were calculated for whom the standardized residual exceeded
+these populations separately, and the bene­ 2.0 was removed from the weight calcula­
+fit sets for these programs are approxi­ tion.
+mately the same. The ACG weights and Results showed that the second method,
+underlying data for the combined FFS truncating PMPM charges at three standard
+State FY 1996 PMAP/PMNC population deviations above the mean within ACGs,
+are available on request from the author. both maximized predictive performance of
+HEALTH CARE FINANCING REVIEW/Winter 2004-2005/Volume 26, Number 2 27
+
+=== PÁGINA 8 ===
+Table 1
+Projected Changes in Revenues for Health Plans Due to Risk Adjustment Implementation
+Degree of Implementation
+Health Plan 100 Percent Payment Effect 5 Percent Payment Effect
+Blue Plus -15.6 -0.8
+Itasca Medical Care 3.2 0.2
+Group Health Plan 1.9 0.1
+Medica Health Plans 13.3 0.7
+UCare Minnesota 2.6 0.1
+HealthPartners -11.7 -0.6
+First Plan of Minnesota 1.8 0.1
+Metropolitan Health Plan 0.5 0.0
+SOURCE: Minnesota Department of Human Services, Payment Policy Division, internal report, October 1999.
+the corresponding ACG weights and mini­ be impacted by 100 and 5 percent imple­
+mized the exclusion of observed charges mentation. The analysis was based on
+from the weight calculation. Thus, truncating health plan encounter data covering ser­
+charges at three standard deviations above vices provided during the period January
+the specific ACG mean prior to the calcula­ 1999-March 1999. This period was selected
+tion of ACG weights was adopted. To main­ because it was the longest period of time
+tain budget neutrality, all charges removed for which encounter data was available, at
+from the payment system as a result of out­ the time the impact analysis was conduct­
+lier truncation were added to the base rates. ed. In Table 1, results are expressed in
+terms of the percentage change in rev­
+Impact Analysis and Phase-In enues attributable to the implementation of
+risk-adjusted capitation payment model.
+Originally, the State planned to simulate Results indicated considerable variation
+the implementation of fully risk-adjusted rates in both the direction and degree of health
+for these programs in CY 1999, during which plan revenue changes. Because these rev­
+time capitation payments to participating enue changes were viewed as significant,
+health plans would continue to be based on full implementation in CY 2000 was consid­
+the demographic method to give them time ered not feasible. To give health plans time
+to adjust to projected revenue changes. The to adapt to these impacts, the State chose
+risk-adjustment payment model was to be to phase-in the risk-adjustment payment
+fully implemented then in CY 2000. However, model beginning with CY 2000 contracts.
+rather than introduce health-based risk
+adjustment immediately, and fully in year one Implementation Phase-In
+(CY 2000), the State chose to: (1) conduct an
+analysis of the impact of the new payment During the phase-in period, capitation
+model on health plan public program rev­ payments for each enrolled individual are
+enues, and (2) phase-in implementation set to the weighted sum of two compo­
+based on the results of that impact analysis. nents: (1) a demographic rate cell rate, and
+(2) a risk-adjusted rate based on enrollees’
+Impact Analysis health plan risk score. Note that the phase-
+in effectively creates the need to adminis­
+The objective of the impact analysis was ter two payment models—a risk-adjust­
+to project the degree to which health plan ment and demographic model. This fact
+public program capitation revenues would
+28 HEALTH CARE FINANCING REVIEW/Winter 2004-2005/Volume 26, Number 2
+
+=== PÁGINA 9 ===
+Table 2 The phase-in was frozen at 50 percent for
+Rate of Risk Adjustment Phase-In, by CY 2003 contracts for a number of reasons:
+Calendar Years (1) uncertainty associated with the inten­
+Risk Adjustment Demographic tion to recalibrate CY 2004 ACG weights
+Year Weight Weight based on health plan encounter data, (2)
+Percent steady increases in aggregate program
+2000 5 95
+level risk scores, and (3) uncertainty relat­
+2001 30 70
+2002 50 50 ed to the need to upgrade the ACG case-
+2003 50 50 mix system from 4.0 to be compatible with
+2004 50 50
+current International Classification of
+SOURCE: Minnesota Department of Human Services, Payment Policy
+Division, October 2005. Diseases, Ninth Revision, Clinical Modifi­
+cation (ICD-9-CM) (Centers for Disease
+has implications for the relative advantages
+Control and Prevention, 2003) code usage.
+and disadvantages the payment model cho­
+sen by Minnesota.
+Calculating Health Plan Risk Scores
+The expression below shows the opera­
+tional formula currently used to calculate
+A health plan risk score (HPRS) is the
+capitation payments for enrollees in these
+mean program specific ACG weight for a
+programs.
+given health plan across all health plan
+member months, as expressed by the fol­
+Cap Pmt =
+i h p
+lowing equation:
+WgtD x DemRCWt x RBRate +
+i h p p r
+WgtRA x HPRS x SBRate .
+h p p ∑ ACGWT
+where: WgtD = weight assigned to pmpm hp
+HPRS =
+demographic rate cell compo­ h p
+∑ Months
+nent of rate; hp
+where: ∑ ACGWT = the sum of
+DemRCWt = existing demo­ pmpm hp
+the FFS SFY96 ACG pmpm
+graphic rate cell weight;
+weights for health plan hp; and ∑
+RBRate = regional base rate
+Months = the sum of health
+WgtRA = weight assigned to risk hp
+plan member months for health
+adjustment component of rate;
+plan hp.
+HPRS = historical health plan
+Operationally, ACG weights are
+risk score;
+assigned to health plan members based on
+SBRate = statewide base rate;
+the ACGs assigned from the diagnoses on
+i = individual enrollee;
+the claims and encounter records from the
+h = health plan;
+health plan for the services covered by the
+r = Minnesota region (i.e.,
+health plan during the risk-assessment
+Hennepin County, rest of seven
+period. We refer to this method as the
+county Twin City area, and rest
+health plan specific diagnosis assessment
+of Minnesota); and
+method. This method is distinguished
+p = program.
+from one that would use the diagnoses on
+the claims and encounter records from all
+The rate at which risk adjustment has
+services that occurred during the assess­
+been phased-in over the first 4 years of
+ment period across all providers. We refer
+implementation is summarized in Table 2.
+HEALTH CARE FINANCING REVIEW/Winter 2004-2005/Volume 26, Number 2 29
+
+=== PÁGINA 10 ===
+Figure 1
+Trends in Mean Health Plan Risk Scores, by Public Program: April 1998-June 2001
+Medical Assistance
+General Assistance Medical Care
+MinnesotaCare/Medical Assistance
+1.6
+MinnesotaCare/Non-Medical Assistance
+1.4
+1.2
+0.6
+1 2 3 4 5 6 7 8 9 1 0
+Quarterly Assessment Period
+erocS
+ksiR
+nalP
+htlaeH
+naeM
+1.0
+0.8
+SOURCE: Minnesota Department of Human Services, Payment Policy Division, June, 2002.
+NOTE: Twelve-month period included in quarterly risk assessments used to calculate health plan risk scores
+(e.g., 1st period 4/1/98-3/31/99 used to calculate risk scores for setting rates for 1/1/2000 - 3/31/2000).
+to this method as the all health plan Mn SFY96 Chg
+pmpm c
+diagnosis assessment method. The deci­ ACGWT =
+pmpm c
+sion regarding diagnosis assessment Mn SFY96 Chg
+pmpm
+method also raises questions regarding where: Mn SFY96 Chg = mean
+pmpm c
+the reliability of the risk-assessment model SFY 1996 pmpm charge across
+and has also been the focus of some sys­ all providers for ACG c; and
+tematic testing, which we will discuss Mn SFY96 Chg = mean SFY
+pmpm
+again later (Gifford, 2001). 1996 pmpm charge across all
+providers and across all ACGs
+Calculating ACG Weights for a given FFS SFY96 program
+population.
+Finally, the ACG weights assigned to Program enrollees were assigned ACGs
+health plan enrollees are the ratio of the based on all diagnoses observed across all
+mean State FY 1996 PMPM charges for months of enrollment in a given program
+each ACG to the mean State FY 1996 in State FY 1996, irrespective of enrollment
+PMPM charge across all ACGs for each length. Then, as a result of weighting enrollee
+FFS State FY 1996 program population, as observations by months of enrollment, the
+expressed by the following equation: relevant concurrent ACG weight is effectively
+30 HEALTH CARE FINANCING REVIEW/Winter 2004-2005/Volume 26, Number 2
+
+=== PÁGINA 11 ===
+Figure 2
+Trends in Health Plan Risk Scores, by Health Plan: Medical Assistance, April 1998-June 2001
+Blue Plus
+HealthPartners
+Medica
+1.30 Metro Health Plan
+UCare Minnesota
+1.20
+1.10
+0.90
+1 2 3 4 5 6 7 8 9 1 0
+Quarterly Assessment Period
+erocS
+ksiR
+nalP
+htlaeH
+1.25
+1.15
+1.05
+1.00
+0.95
+SOURCE: Minnesota Department of Human Services, Payment Policy Division, June, 2002.
+NOTE: Twelve-month period included in quarterly risk assessments used to calculate health plan risk scores
+(e.g., 1st period 4/1/98-3/31/99 used to calculate risk scores for setting rates for 1/1/2000 - 3/31/2000).
+assigned to each month of program enroll­ CY 2000 were adjusted by health plan risk
+ment. As a result, within any given ACG, scores from the period July 1998-June
+the degree to which the ACG weights 1999, and so on.
+reflect the charge data of the assigned Because health plan risk scores are
+enrollees is directly proportional to their essentially the mean FFS State FY 1996
+length of enrollment. ACG weight for a given program, they
+Figure 1 shows aggregate health plan reflect the risk of prepaid health plan popu­
+risk scores for each program across partic­ lations relative to the risk of the parallel FFS
+ipating health plans. Figures 2 and 3 show FY 1996 population. For example, because
+health plan risk scores for each of the 10 the mean risk score for the PMAP began at
+quarterly risk assessments used to risk 1.1097, the average risk of the PMAP popu­
+adjust capitation payments from January lation, across participating health plans, was
+2000-June 2002 for the PMAP and PMNC approximately 11 percent higher than the
+programs (Table 3 contains source data). combined FFS State FY 1996 PMAP/
+Rates for the first quarter of CY 2000 were PMNC MA population (Figure 1).
+adjusted by the health plan risk scores This finding can be explained to signifi­
+based on the period April 1998-March cant degree by two observations. First, the
+1999. Then, rates for the second quarter of PMAP/PMNC populations were combined
+HEALTH CARE FINANCING REVIEW/Winter 2004-2005/Volume 26, Number 2 31
+
+=== PÁGINA 12 ===
+Figure 3
+Trends in Health Plan Risk Scores, by Health Plan: MinnesotaCare Medical Assistance,
+April 1998-June 2001
+Blue Plus
+HealthPartners
+Medica
+0.85 Metro Health Plan
+UCare Minnesota
+0.80
+erocS
+ksiR
+0.75
+nalP
+htlae
+0.70
+H
+0.65
+0.60
+1 2 3 4 5 6 7 8 9 10
+Quarterly Assessment Period
+SOURCE: Minnesota Department of Human Services, Payment Policy Division, June 2002.
+NOTE: Twelve-month period included in quarterly risk assessments used to calculate health plan risk scores
+(e.g., 1st period 4/1/98-3/31/99 used to calculate risk scores for setting rates for 1/1/2000 - 3/31/2000).
+when the ACG weights were developed, plan improved its encounter data system to
+due to a few small cell/ACG sizes for the include all diagnoses on each claim.
+PMAP/PMNC population. Because the Second, a similar sharp increase occurred
+combined PMAP/PMNC set of ACG in the HealthPartners risk score between
+weights were used to calculate health plan assessment periods 8 and 9, which was
+risk scores for health plans participating in approximately when that health plan made
+these prepaid programs, and because the an improvement to its encounter data sys­
+PMNC has a higher eligibility income tem.
+threshold, we expected it to have lower
+risk relative to the PMAP population. DISCUSSION
+Regarding patterns in the trends in
+health plan risk scores, although the over­ The history, characteristics, and imple­
+all trend is upward, there were two other mentation of health-based capitation risk
+observations worth noting. First, a sharp adjustment in Minnesota has identified
+increase in the Blue Plus risk score important issues regarding implementa­
+between assessment periods 5 and 6 corre­ tion methods that others evaluating health-
+sponds to the time (i.e., approximately late based capitation risk-adjustment methods
+CY 1999 to early 2000) when that health may find useful to consider. Specifically,
+32 HEALTH CARE FINANCING REVIEW/Winter 2004-2005/Volume 26, Number 2
+
+=== PÁGINA 13 ===
+HEALTH CARE FINANCING REVIEW/Winter 2004-2005/Volume 26, Number 2
+3
+elbaT
+1002
+enuJ
+ot
+8991
+lirpA
+doireP
+tnemssessA
+dna
+,nalP
+htlaeH
+,margorP
+yb
+serocS
+ksiR
+nalP
+htlaeH
+ni
+sdnerT
+01
+9
+8
+7
+6
+5
+4
+3
+2
+1
+doireP
+tnemssessA
+1002/6-0002/7
+1002/3-0002/4
+0002/21-0002/1
+0002/9-9991/01
+0002/6-9991/7
+0002/3-9991/4
+9991/21-9991/1
+9991/9-8991/01
+9991/6-8991/7
+9991/3-8991/4
+margorP
+ytilibigilE
+9112.1
+9191.1
+0641.1
+9541.1
+1741.1
+2131.1
+4051.1
+9531.1
+8421.1
+7901.1
+ecnatsissA
+lacideM
+4935.1
+2635.1
+1005.1
+1284.1
+0254.1
+3104.1
+3504.1
+9163.1
+9143.1
+2123.1
+CMAG
+0097.0
+6197.0
+4877.0
+4587.0
+9777.0
+4537.0
+5847.0
+8027.0
+5517.0
+9317.0
+AM/eraCnM
+9652.1
+4542.1
+3322.1
+6991.1
+2881.1
+0180.1
+9870.1
+1820.1
+7510.1
+1310.1
+AM-noN/eraCnM
+doireP
+tnemssessA
+)AM(
+ecnatsissA
+lacideM
+nalP
+htlaeH
+9132.1
+5612.1
+7102.1
+2991.1
+0191.1
+8270.1
+7250.1
+8240.1
+9899.0
+9069.0
+sulP
+eulB
+0012.1
+4391.1
+3089.0
+1100.1
+5210.1
+3740.1
+5770.1
+0630.1
+4120.1
+7689.0
+srentraPhtlaeH
+6172.1
+1642.1
+5991.1
+4802.1
+2022.1
+4522.1
+5062.1
+9962.1
+5372.1
+3462.1
+acideM
+8512.1
+4481.1
+0431.1
+4190.1
+4950.1
+2260.1
+8690.1
+6780.1
+1590.1
+3950.1
+nalP
+htlaeH
+orteM
+5241.1
+4811.1
+5121.1
+2601.1
+2201.1
+7380.1
+6970.1
+9340.1
+4010.1
+4599.0
+atosenniM
+eraCU
+doireP
+tnemssessA
+AM
+eraCatosenniM
+nalP
+htlaeH
+0718.0
+5808.0
+1897.0
+1208.0
+6497.0
+7817.0
+1517.0
+2007.0
+5596.0
+5396.0
+sulP
+eulB
+8508.0
+6128.0
+9437.0
+1747.0
+9557.0
+8157.0
+5477.0
+6607.0
+0596.0
+5976.0
+srentraPhtlaeH
+5818.0
+6097.0
+5357.0
+0837.0
+8147.0
+0567.0
+7018.0
+0977.0
+1257.0
+7347.0
+acideM
+3046.0
+1867.0
+6886.0
+5907.0
+1846.0
+9646.0
+3427.0
+2547.0
+2957.0
+0408.0
+nalP
+htlaeH
+orteM
+3157.0
+7667.0
+1877.0
+8697.0
+5767.0
+7337.0
+0557.0
+8147.0
+8257.0
+3857.0
+atosenniM
+eraCU
+margorP
+ytilibigilE
+9112.1
+9191.1
+0641.1
+9541.1
+1741.1
+2131.1
+4051.1
+9531.1
+8421.1
+7901.1
+ecnatsissA
+lacideM
+4935.1
+2635.1
+1005.1
+1284.1
+0254.1
+3104.1
+3504.1
+9163.1
+9143.1
+2123.1
+CMAG
+0097.0
+6197.0
+4877.0
+4587.0
+9777.0
+4537.0
+5847.0
+8027.0
+5517.0
+9317.0
+AM/eraCnM
+9652.1
+4542.1
+3322.1
+6991.1
+2881.1
+0180.1
+9870.1
+1820.1
+7510.1
+1310.1
+AM-noN/eraCnM
+doireP
+tnemssessA
+AM-noN
+eraCatosenniM
+nalP
+htlaeH
+5872.1
+5752.1
+5032.1
+4102.1
+7781.1
+3399.0
+2779.0
+0949.0
+7349.0
+0739.0
+sulP
+eulB
+3813.1
+6703.1
+8941.1
+4541.1
+7061.1
+3771.1
+5202.1
+4570.1
+7420.1
+8910.1
+srentraPhtlaeH
+2592.1
+5362.1
+5202.1
+2081.1
+2171.1
+4191.1
+7632.1
+0161.1
+3621.1
+1601.1
+acideM
+0193.1
+6814.1
+9093.1
+3353.1
+7072.1
+1532.1
+2712.1
+1571.1
+1551.1
+4002.1
+nalP
+htlaeH
+orteM
+8022.1
+5212.1
+5742.1
+1332.1
+4032.1
+9561.1
+1951.1
+6531.1
+4931.1
+4441.1
+atosenniM
+eraCU
+doireP
+tnemssessA
+eraC
+lacideM
+ecnatsissA
+lareneG
+nalP
+htlaeH
+2164.1
+2724.1
+5093.1
+8253.1
+1103.1
+3011.1
+3421.1
+9790.1
+8970.1
+2810.1
+sulP
+eulB
+0084.1
+0494.1
+2503.1
+3292.1
+4713.1
+7353.1
+4273.1
+8753.1
+2903.1
+0282.1
+srentraPhtlaeH
+7956.1
+0676.1
+4756.1
+9646.1
+1775.1
+3115.1
+5805.1
+1564.1
+7344.1
+8514.1
+acideM
+6317.1
+8686.1
+6836.1
+8906.1
+9316.1
+5206.1
+3795.1
+5225.1
+1905.1
+2505.1
+nalP
+htlaeH
+orteM
+5534.1
+8783.1
+4504.1
+9193.1
+2063.1
+3343.1
+1423.1
+1182.1
+1932.1
+2602.1
+atosenniM
+eraCU
+.9991
+,rebotcO
+,troper
+lanretni
+,noisiviD
+yciloP
+tnemyaP
+,secivreS
+namuH
+fo
+tnemtrapeD
+atosenniM
+:ECRUOS
+33
+
+=== PÁGINA 14 ===
+the Minnesota experience suggests that: undefined possible uses made compliance
+(1) multisite encounter-data collection is appear hazardous to participating health
+feasible; (2) important decisions regarding plans. Once the required data elements
+the implementation of concurrent versus were restricted to just those needed for
+prospective, and health plan level versus specified purposes (e.g., quality assurance,
+individualized risk-adjustment models, are risk adjustment), and those uniformly
+likely to be affected by the relative impor­ available across participating health plans,
+tance of various administrative issues; (3) the collection of the encounter data
+the implementation of health-based capita­ became accelerated. However, when it
+tion risk adjustment identifies many opera­ became clear that capitation payments
+tional issues and related decisions that can were about to be based on encounter data,
+significantly affect model performance; its submission was greatly accelerated.
+and (4) increases in population risk scores Therefore, the policy decision to base
+in early stages of implementation strongly capitation payments on diagnoses from
+suggest the need for adjustments to the health plan claims and encounter data
+payment model to compensate. clearly created a powerful incentive to sub­
+mit the data. However, we also should
+Multisite Encounter Data Collection emphasize that Minnesota’s selection of a
+concurrent model added to the incentive
+Risk-adjusted capitation payment models for encounter data submission.
+based on diagnosis data for conditions typ­
+ically treated in inpatient settings have Concurrent Versus Prospective
+been criticized for not predicting costs ade­ Models
+quately, and reducing incentives for ambu­
+latory care. As a result, although efforts In a concurrent model, health plan mem­
+are underway to include diagnoses from bers for whom there were no claims or
+outpatient settings in risk-adjustment pay­ encounter records for a given assessment
+ment models, the health plan industry has period are assigned a relative risk score of
+cited the burden of such a requirement zero (0.0). As a result, health plans learned
+(Medicare Payment Advisory Commission, early that health plan risk scores for health
+2002). The Minnesota experience strongly plans unable to submit the required encounter
+suggests that the burden of outpatient data would be effectively set to 0.0.
+encounter data collection is not sufficient Admittedly, health plan risk scores for health
+to preclude the systematic collection of plans that do not submit encounter data under
+multisite claims and encounter data. a prospective model, would also be very low.
+Explicitly defining the purposes of However, when health plan representatives
+encounter data collection serves to clearly noticed the weight for the non-user cell (i.e.,
+delimit its possible uses, and thereby ACG 5200) was 0.0, their sense of urgency
+reduce significant disincentives to submit regarding the encounter data appeared to
+the data. Historically, even though the increase substantially. Consequently, it
+PMAP has been operating since 1985, and became clear early that the prospect of health
+health plans were contractually obligated plan risk scores = 0 was both a distinguishing
+to submit encounter since then, its submis­ characteristic of the concurrent model chosen
+sion was uneven. One major problem was by the State, and a feature of the payment
+that because the data was being collected model that appeared to add to the incentive to
+for multiple purposes, uncertainty about submit encounter data.
+34 HEALTH CARE FINANCING REVIEW/Winter 2004-2005/Volume 26, Number 2
+
+=== PÁGINA 15 ===
+At this point we should emphasize that demographics during phase-in—or a total
+the decision to include all enrollees, irre­ of three payment systems. However, we
+spective of enrollment length, in the con­ should recognize that the long-term objec­
+current risk-assessment model creates a tive is to phase-out the less accurate demo­
+possible payment model performance graphic model, so that when the risk-
+issue. Recall that in the concurrent risk- adjusted payment model is fully imple­
+assessment model chosen by the State, all mented, the historical, health plan level
+individuals enrolled in a health plan for 1 or concurrent model will become a single
+more months are risk adjustable. However, payment system.
+diagnoses records for individuals with very
+short lengths of enrollment are likely to be Health Plan Versus Individualized
+a less reliable measure of their health/ Payment Models
+morbidity status than for enrollees with
+longer lengths of enrollment. We have The decision to base capitation payment
+found that although the PMPM method of rates on the historical, health plan risk
+risk assessment in a way corrects for this score clearly makes the administration of
+problem to some extent, a per member the concurrent risk-adjustment method
+(PMbr) risk-assessment method can adjust more feasible. However, the appropriate­
+for this issue explicitly (Gifford, 2002). ness of the model is based on the assump­
+In addition, we want to be clear that one tion that, barring major changes in the
+possible advantage of prospective models, composition of the participating health
+over risk adjusting using historical, health plan populations, there is considerable con­
+plan risk scores, is that they assign pay­ sistency in overall health plan risk scores
+ments that are uniquely tailored to the over time. To the extent this assumption is
+prior risk profiles of each health plan false, such a model may not track with cur­
+enrollee. As a result, a prospective model is rent aggregate costs as well as a prospec­
+more likely to assign payments to enrollees tive model, even with quarterly updates. In
+that are more consistent with their utiliza­ fact, in response to this issue, the State
+tion that occurs during the payment period briefly considered a retrospective reconcil­
+than the historical, health plan level con­ iation—or settle up as they referred to it—
+current model, although we know of no between capitation payments and actual
+empirical evidence to support this hypoth­ costs from the payment period. Yet the con­
+esis. cept was rejected out of concern that it
+Finally, as a result of the decision to might set an ill-advised precedent. The
+phase-in implementation, the advantage of plan was to effectively settle up for differ­
+a single payment system under the histori­ ences between efficiency standardized
+cal, health plan level concurrent model ver­ costs incurred during the payment period
+sus two under a prospective model dimin­ and capitation payments. However, due to
+ishes to some degree. Under phase-in, apprehension that such a policy might
+although both models would require both invite requests to reconcile payments with
+a demographic- and diagnosis-based model, costs that may be driven by inefficiency,
+a prospective model would require effec­ the idea was rejected.
+tively two demographic payment models: In addition, we also believe that as a
+(1) one for the non-risk adjustable subpop­ result of the diagnosis assessment method
+ulation, and (2) one to accommodate the chosen by the State in implementing the
+percentage of the payment that is based on historical, health plan risk score, there may
+HEALTH CARE FINANCING REVIEW/Winter 2004-2005/Volume 26, Number 2 35
+
+=== PÁGINA 16 ===
+be an issue as to whether or not the pre­ measure of health status, with the PMPM
+dictive accuracy of the payment model risk-assessment method, the accuracy of
+could be improved. More specifically, risk assessments declines with enrollment
+because health plan risk is assessed for the length. Assuming some optimal enrollment
+1-year period ending 9 months prior to the length threshold for reliable risk measure­
+beginning of the payment period, there is ment, when enrollment length declines
+sufficient time for all (or nearly all) claims below that threshold, the hypothesis is that
+and encounter data submissions for the individuals’ true morbidity status is not
+period to be finalized and processed. In being given sufficient opportunity to mani­
+fact, we believe that it is the combination of fest itself. We propose that the two charac­
+historical, health plan risk scores based on teristics of the PMPM method of calculat­
+a concurrent model that makes it feasible ing relative risk measures that augment
+to implement a risk-adjustment payment this phenomenon are: (1) health plan mem­
+model applicable to all enrollees, irrespec­ ber or program enrollee observations are
+tive of enrollment continuity. And, the effectively weighted by member months or
+quarterly updates introduce sufficient con­ months of enrollment when calculating
+sistency between current and historical weights, and (2) the sum of total utilization
+risk to make it acceptable to participating incurred PMbr per (risk assessment) peri­
+health plans. od is effectively converted into mean
+However, although by adopting the monthly figures per member (i.e., PMPM)
+health plan risk score, the health plan spe­ (Wrightson, 1990).
+cific diagnosis assessment method is a log­ Although weighting enrollee observa­
+ical operational decision, we suspect it may tions by enrollment length necessarily
+create a payment model performance counteracts the effects of the positive rela­
+issue. In particular, the decision to use only tionship between enrollment length and
+those diagnoses on claims and encounters the reliability of diagnoses as a measure of
+covered by the health plan for which a risk health status within a given level of risk, it
+score is being calculated—health plan spe­ also means that predictive performance
+cific diagnosis assessment—may compro­ declines with enrollment length. Therefore,
+mise the ability of the risk assessment to when programs are affected by significant
+accurately characterize the morbidity bur­ enrollment turnover or variation in average
+den of populations. This method contrasts enrollment length between health plans,
+with what we refer to as an all health plan predictive performance for the participat­
+diagnosis assessment method. ing health plans will be affected. In addi­
+tion, in developing the ACG weights, as
+Payment Model Performance Issues enrollment length declines, the step of con­
+verting total utilization over the enrollment
+One issue results from the selection of period into monthly figures results in rela­
+what we referred to as a comprehensive tive risk weights that are arguably less reli­
+concurrent model, in which all enrollees able measures of enrollees’ typical month­
+irrespective of enrollment length are ly utilization than for individuals enrolled
+included in risk assessments. The issue is for longer periods.
+the following: because we know that within In fact, the issue of the relationship
+a 1-year risk assessment period there is a between error in measuring the true mor­
+positive relationship between enrollment bidity status of individuals and the length
+length and the reliability of diagnoses as a of the diagnosis observation time period is,
+36 HEALTH CARE FINANCING REVIEW/Winter 2004-2005/Volume 26, Number 2
+
+=== PÁGINA 17 ===
+we suggest, implied in the conceptual/clin­ ment method fundamentally alters this
+ical basis of the development of the ACG measurement phenomenon. With respect
+case-mix system—the clustering of mor­ to the methods used in calculating ACG
+bidity concept. One of the original clinical weights, its distinguishing features are (1)
+developers of the ACG system, has argued member observations are not weighted by
+that risk measurement methods based on member months—the unit of observation
+the presence of particular diagnoses are is the health plan enrollee or member, (2)
+less likely to successfully characterize pop­ the weights and relative risk measures are
+ulation morbidity than are methods based based simply on total utilization incurred
+on morbidity clusters (Starfield, 1998). PMbr per year, and (3) the use of an adjust­
+One possible explanation is that combina­ ment factor that compensates for the rela­
+tions of conditions (i.e., morbidity clusters) tionship between enrollment length and
+interact in ways that may not be sufficient­ the reliability with which diagnoses reflect
+ly accommodated by methods that focus population morbidity. In fact, in testing we
+on the presence of particular diagnoses, performed comparing the predictive per­
+but which may only emerge in clinical formance of the PMPM and PMbr meth­
+records over relatively long periods of ods, the PMbr method predicted both
+time. monthly and total utilization more accu­
+Irrespective of the mechanism, however, rately than the PMPM method across the
+Starfield argues that a method that catego­ full range of enrollment length. We argue
+rizes combinations of diagnoses experi­ that the PMbr method measures risk more
+enced by populations in a period of time accurately than the PMPM method
+(usually a year) is more likely to best char­ because the emphasis (weight) is on peo­
+acterize the morbidity burden of popula­ ple, not months; and that it accommodates
+tions than one that focuses on the occur­ the hypothesis that as enrollment length
+rence of individual diagnoses. For these declines, the reliability with which mea­
+reasons, the very conceptual basis of the sured risk reflects true risk declines by
+ACG case-mix system appears to argue adjusting risk scores upward correspond­
+that to maximize the accuracy with which ingly to compensate (Gifford, 2002).
+we measure the morbidity status of popula­
+tions we should focus on capturing clusters Health Plan Specific Method
+or combinations of conditions. And, it is
+arguable that these diagnosis clusters, by A second payment model performance
+virtue of their sheer complexity, are more issue is a possible relationship between the
+likely to evidence themselves in diagnostic reliability of diagnosis-based risk assess­
+records as the length of the enrollment ments and the choice between the health
+period over which diagnoses have been plan specific versus all health plan diagno­
+recorded increases. Therefore, as enroll­ sis assessment methods. In fact, the deci­
+ment length decreases, the ability of diag­ sion to employ a health plan specific diag­
+noses to accurately reflect population mor­ nosis assessment method may be a natural,
+bidity declines, and the PMPM method logical consequence of the decision to risk
+augments this problem for the reasons pre­ adjust capitation on the basis of historical,
+viously cited. health plan risk scores. Because we are
+As an alternative, the Johns Hopkins trying to measure the prior, concurrent
+University (2000) ACG development team risk of health plan populations, it makes
+has suggested that the PMbr risk assess­ sense to restrict the diagnosis data to that
+HEALTH CARE FINANCING REVIEW/Winter 2004-2005/Volume 26, Number 2 37
+
+=== PÁGINA 18 ===
+which was on the claims and encounter Once that is accomplished, however, we
+records for services provided during the plan to evaluate the relative accuracy with
+period when members were enrolled with which each of these methods can predict
+the health plan for which a risk score is actual efficiency standardized health plan
+being calculated. Conceptually, the argu­ utilization based on encounter data. In
+ment is why should we give health plan B these studies, health plan level predictive
+credit for the delivery of a baby that was performance will be tested by comparing
+covered by health plan A. mean predicted utilization to mean actual
+Operationally, this means that when cal­ health plan utilization due solely to risk
+culating the risk score for a given health mix, after controlling for health plan varia­
+plan, only those diagnoses submitted by tion in mean utilization within risk (ACG)
+that same health plan are used to assign cell. By controlling for health plan variation
+ACGs and ACG weights to the health plan in mean utilization within risk cell, we will
+members. However, during any given risk- then compare predicted capitation to mean
+assessment period, some members of a observed utilization, net of sources of vari­
+given health plan member population are ation in mean utilization for each health
+also members of another health plan at dif­ plan other than risk or morbidity burden
+ferent times (e.g., as a result of changing (e.g., efficiency differences).
+health plans during open enrollment). And, One hypothesis is that the all health plan
+although the diagnoses from all the health method is a better measure of risk simply
+plans of which Minnesota public program because it is closer to the goal of assigning
+enrollees were members during a given all diagnosis codes assigned by providers
+risk-assessment period are available for during a predetermined period of time, the
+use in assigning health plan member method of assembling diagnoses for ACG
+ACGs, ACG weights, and calculating assignment recommended by Starfield
+health plan risk scores, the State currently (1998) and the Johns Hopkins University
+does not do so. We would refer to such a (2000) ACG development team. This
+method as an all health plan diagnosis hypothesis is based on the assumption that
+assessment method. In fact, when we con­ any decision that increases access to the
+ducted an early test of health plan risk full array of diagnoses assigned during a
+score sensitivity to these alternatives, we given assessment period will in turn
+found that when health plan member pop­ increase the likelihood that the combina­
+ulations are enrolled in multiple health tions of conditions present in populations
+plans in significant numbers, risk scores are given the opportunity to express them­
+are meaningfully affected (Gifford, 2001). selves. The all health plan method may be
+However, health plan risk score sensitivity a better measure simply because it broad­
+to these methods does not indicate perfor­ ens the diagnosis assessment window and
+mance differences. In fact, we have not yet increases the chances of capturing the
+tested the relative predictive performance of morbidity clusters of populations, versus
+the all health plan versus the health plan the occurrence of particular diagnoses at
+specific methods because recorded charges particular points in time.
+and payments in the encounter data have not However, the competing hypothesis is
+yet been validated, nor have decisions that the diagnoses recorded by the health
+regarding whether or not to price or assign plan accurately reflect more often than not
+relative values to these data been made. the problems for which members were
+38 HEALTH CARE FINANCING REVIEW/Winter 2004-2005/Volume 26, Number 2
+
+=== PÁGINA 19 ===
+treated during the assessment period. Thus, increases in the sickness of these popula­
+while the issue may reduce to the relative tions over time. In either case, once the
+prevalence of acute versus chronic or per­ State determines the relative degree to
+sistent conditions in these populations, only which these trends reflect measurement
+by empirically testing the relative predictive error versus true changes in the relative
+performance of these methods for the rele­ risk of these populations over time, the
+vant populations, will the issue be resolved. payment model will need to be adapted cor­
+respondingly to compensate.
+Risk Scores and Payment Model
+Characteristics Next Steps
+Finally, a key objective in implementing Given (1) the dated nature of the ACG
+a capitation risk-adjustment mechanism is case-mix system currently in use, (2) that
+to compensate for valid and reliably mea­ the FFS State FY 1996 data underlying the
+sured variation in the relative risk among ACG weights are both dated and do not
+participating health plans, but not for represent the current prepaid program
+either variation in those measures that populations, and (3) steady increases in
+does not reflect risk, or inaccuracy in those the program level risk scores, the State
+measures. As a result, now that this pay­ intends to update the payment model for
+ment system has been operating for some CY 2006 contracts. To address the first
+time, the issue of the degree to which issue, the State intends to upgrade to ACG
+trends in these scores reflect valid and reli­ version 6.0 which will accommodate more
+able increases in health-based risk versus current ICD-9-CM code usage. To address
+phenomena other than risk, and/or other the second, the State completed an
+population or systemic changes has impor­ encounter data validation study and is
+tant State payment policy implications. updating ACG weights using Federal fiscal
+For instance, differences in trends in year 2002 encounter data for use in 2006
+risk scores among health plans, combined contracts. Regarding the third, the State is
+with observations regarding differences acutely aware of the need to make changes
+among health plans with respect to data to the payment model, in particular the
+systems, suggest that data system charac­ base rates, because, at the time, it had yet
+teristics can have significant impacts on to adjust the base rates to compensate for
+health plan risk scores. In addition, it is rising program level risk scores, and the
+entirely conceivable that with the advent of State’s expenditures for its prepaid pro­
+payment being tied to the comprehensive grams were steadily increasing. Finally,
+recording of diagnoses by providers, when the encounter data becomes avail­
+increases in aggregate risk scores may able, we are encouraging the State to use it
+simply reflect better diagnosis coding by to evaluate the payment model perfor­
+providers. The implication of this would be mance issues previously identified for use
+that rising trends in health plan risk scores in future implementations.
+are in part indications of a reduction in
+measurement error, not true increases in CONCLUSIONS
+the risk of these populations, for which the
+risk-adjustment mechanism was never The following result from our participa­
+intended to pay. However, some portion of tion in implementing health-based capita­
+these trends can be attributed to true tion risk adjustment in Minnesota. First,
+HEALTH CARE FINANCING REVIEW/Winter 2004-2005/Volume 26, Number 2 39
+
+=== PÁGINA 20 ===
+participating health plans (1) appreciate Edwards, K., Knutson, D.J., and Gifford, G.: Risk
+Adjustment and the Impact of Outliers on Prospective
+the use of explicit measures of health sta­
+Risk Models: Differential Methods of Determining
+tus in capitation ratesetting, and (2) as a
+Where, When, and How to Cut the Edge. Presented
+result are willing to invest in making the at the 1999 Minnesota Health Services Research
+necessary changes to their claims and Conference. Minneapolis, MN. February 23, 1999.
+encounter systems. Second, the choice Ellis, R., Pope, G., Iezzoni, L., et al.: Diagnosis-
+between a health plan level concurrent ver­ Based Risk Adjustment for Medicare Capitation
+Payments. Health Care Financing Review 17(3):101­
+sus individualized prospective model is sig­
+128, Spring 1996.
+nificant, and centers largely on the impor­
+Fowles J., Weiner J.A., Knutson D.J. et al.: Taking
+tance of the consistency between capita­
+Health Status into Account When Setting Capitation
+tion payments and costs incurred in the Rates: A Comparison of Risk-Adjustment Methods.
+payment period. Third, in the process of
+Journal of the American Medical Association.
+276(16):1316-1321, October 23-30, 1996.
+implementing health-based capitation risk
+Gifford, G.: Health Plan Risk Score Sensitivity to
+adjustment, important issues regarding
+Health Plan Specific vs. All Health Plan Risk
+operational decisions that may have signif­ Adjustment Methods. Prepared for the Public
+icant effects on the performance of the Programs Risk Adjustment Work Group. St. Paul,
+payment model are likely to be raised. MN. March 7, 2001.
+Fourth, because health-based capitation Gifford, G.: A Test of a ‘Member’ Based Method of
+Risk Adjusting Capitation. Presented at the Sixth
+risk adjustment ties diagnoses to capitation
+Annual Minnesota Health Services Research
+payments, changes to diagnosis coding
+Conference, Minneapolis, MN. February 26, 2002.
+and management are likely to occur in the
+Gifford, G.: VanCleave, E., Oberstar, J., et al.:
+initial stages of implementation. As a Understanding the Role of Risk in Regional
+result, the composition of changes in Expenditure Differences: Implications for Capitation
+Rate Setting. Presented at the Third Annual
+aggregate risk scores over time (e.g., real
+Minnesota Health Services Research Conference,
+versus measurement error) will be an Minneapolis, MN. February 23, 1999.
+empirical issue bearing directly on possi­
+Hurley, R.E., Freund, D.A., and Paul, J.E.: Managed
+ble changes to the payment model during Care in Medicaid—Lessons for Policy and Program
+early stages of implementation. Design. Health Administration Press. Ann Arbor,
+MI. 1993.
+Johns Hopkins University School of Hygiene and
+ACKNOWLEDGMENTS
+Public Health, Health Services Research and
+Development Center: The Johns Hopkins ACG Case-
+We would like to thank Lynn Blewett, Mix System—Software Documentation & Application
+Virginia Weslowski, Scott Leitz, Jason Manual. Version 4.5. Baltimore, MD. February
+2000.
+Wiley, Barbara Hahn, and Rachel Halpern
+Kronick, R., Dreyfus, T., Lee, L., and Zhou, Z.:
+for their assistance with this article.
+Diagnostic Risk Adjustment for Medicaid: The
+Disability Payment System. Health Care Financing
+REFERENCES Review 17(3):7-33, Spring, 1996.
+Managed Risk Medical Insurance Board: Methods
+Centers for Disease Control and Prevention: for Calculating and Applying Risk Assessment and
+International Classification of Diseases, Ninth Risk Adjustment Measures. Health Insurance Plan of
+Revision, Clinical Modification (ICD-9-CM). California Working Paper. San Francisco, CA. 1995.
+Internet address: http://www.cdc.gov/nchs/about/
+Medicare Payment Advisory Commission: Risk
+otheract/icd9/abticd9.htm. (Accessed 2004.)
+Adjustment. Chapter 2 in Report to the Congress:
+Dunn, D., Rosenblatt, A., Taira, D., et al.: Evaluation Medicare Payment Policy, Volume II: Analytic
+and Comparison of Risk Assessment Methods— Papers. Washington, DC. March 1998.
+Predictive Accuracy. A Comparative Analysis of
+Methods of Health Risk Assessment. Society of
+Actuaries, 1996.
+40 HEALTH CARE FINANCING REVIEW/Winter 2004-2005/Volume 26, Number 2
+
+=== PÁGINA 21 ===
+Medicare Payment Advisory Commission: How Van de Ven, W. and Ellis, R.: Risk Adjustment in
+Medicare Pays for Services: An Overview. Chapter Competitive Markets. In Culyer, A., and Newhouse,
+1 in Report to the Congress: Medicare Payment J. (eds.): Handbook of Health Economics. Elsevier
+Policy. Washington, DC. March 2002. Science B.V. Amsterdam. 2000.
+Minnesota Departments of Health and Human Weiner, J.A., Dobson, A., Maxwell, S. et al.: Risk-
+Services: Risk Adjustment in Public Programs—A Adjusted Medicare Capitation Rates Using
+Progress Report to the Legislature. St. Paul, MN. Ambulatory and Inpatient Diagnoses. Health Care
+January 1996. Financing Review 17(3):77-99, Spring, 1996.
+Minnesota Department of Health and Minnesota Weiner, J.A., Tucker, A., Collins, A., et al.: The
+Department of Commerce: Risk Adjustment: Report Development of a Risk-Adjusted Capitation System:
+from the Commissioner of Health and the The Maryland Medicaid Model. Journal of
+Commissioner of Commerce to the Legislature. St. Ambulatory Care Management 21(4):29-52, October
+Paul MN. January 1995. 1998.
+Minnesota Department of Health: Risk Adjustment Wrightson, Jr., C.W.: Capitation Rate Development:
+and Rate Setting Methods in Public Programs—A The Actuarial/Fee-for-Service Method. In: HMO
+Report to the Legislature. January 1998. Rate Setting & Financial Strategy. Health
+Administration Press. Ann Arbor, Michigan. 1990.
+Newhouse, J.P., Manning, W.G., Keeler, E.B., and
+Sloss, E.M.: Adjusting Capitation Rates Using
+Objective Health Measures and Prior Utilization. Reprint Requests: Gregory A. Gifford, Ph.D., Research Scientist,
+Health Care Financing Review 10(3):41-54, Spring Health Economics Program, Health Policy, Information, and
+Compliance Monitoring Division, Minnesota Department of
+1989.
+Health, 85 East Seventh Place, Suite 300, St. Paul, MN 55101.
+Starfield, B.: Morbidity and Primary Care. In: E-mail: greg.gifford@state.mn.us
+Primary Care—Balancing Health Needs, Services,
+and Technology. Oxford University Press. New
+York. 1998.
+University of Maryland Baltimore County: A Guide
+to Implementing a Health-Based Risk-Adjusted
+Payment System for Medicaid Managed Care
+Programs. Centers for Medicare & Medicaid
+Services. Baltimore, MD. March 2003. Internet
+address http://www.cms.hhs.gov/medicaid/man­
+agedcare/default.asp. (Accessed 2005.)
+HEALTH CARE FINANCING REVIEW/Winter 2004-2005/Volume 26, Number 2 41

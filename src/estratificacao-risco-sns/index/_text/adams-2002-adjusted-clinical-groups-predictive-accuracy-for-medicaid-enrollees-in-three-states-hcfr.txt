@@ -1,0 +1,1097 @@
+# Fonte: Adams 2002 Adjusted Clinical Groups Predictive Accuracy for Medicaid Enrollees in Three States (HCFR).pdf
+# Páginas: 19
+
+=== PÁGINA 1 ===
+Adjusted Clinical Groups: Predictive Accuracy for Medicaid
+Enrollees in Three States
+E. Kathleen Adams, Ph.D., Janet M. Bronstein, Ph.D., and Cheryl Raskind-Hood, M.P.H.
+Actuarial split-sample methods were used ing concerns. Low provider participation,
+to assess predictive accuracy of adjusted lack of provider and patient education and
+clinical groups (ACGs) for Medicaid certain aspects of Medicaid populations have
+enrollees in Georgia, Mississippi (lagging in made translation of private into Medicaid
+managed care penetration), and California. managed care sometimes difficult. Due to
+Accuracy for two non-random groups— low capitation rates relative to costs
+high-cost and located in urban poor (McCue et al., 1999) the interest of com-
+areas—-was assessed. Measures for random mercial plans in Medicaid may be waning
+groups were derived with and without (Felt-Lisk, 1999; Forbes et al., 1998).
+short-term enrollees to assess the effect of As States become purchasers under
+turnover on predictive accuracy. ACGs managed care, the issue of risk selection
+improved predictive accuracy for high-cost arises. Given one premium, plans have an
+conditions in all States, but did so only for incentive to encourage enrollment of better
+those in Georgia’s poorest urban areas. health risks and discourage enrollment of
+Higher and more unpredictable expenses of worse ones, thereby competing on risk
+short-term enrollees moderated the predic- selection, not price. Access, especially for
+tive power of ACGs. This limitation was those most ill can become compromised.
+significant in Mississippi due in part, to Diagnosis-based risk adjustment has the
+that State’s very high proportion of short- potential to alter these incentives. Some
+term enrollees. States (e.g., Maryland and Minnesota) use
+ACGs in their Medicaid Programs while
+INTRODUCTION others use the Disability Payment System
+(e.g., Colorado and Oregon) or Chronic
+While States continue to expand their Illness and Disability Payment System
+use of Medicaid managed care, the percent (CDPS) (Delaware and Michigan) and
+of States’ enrollees in capitated arrange- more are in the planning stages (Kronick
+ments varies from under 3 to 80-100 per- et al., 2000).
+cent across States (Holahan, Rangarajan, The purpose of this study is to assess the
+and Schirmer, 1998). Medicaid managed predictive accuracy of risk adjustment
+care has helped States to manage and lower within Medicaid welfare and poverty-relat-
+program outlays and yet, there are continu- ed populations using the ACGs system,
+Version 4.0, developed at Johns Hopkins
+E. Kathleen Adams and Cheryl Raskind-Hood are with Emory University. This study adds to information
+University. Janet M. Bronstein is with the University of Alabama
+on the prediction errors for these systems
+at Birmingham. The research in this article was funded jointly
+by the Henry J. Kaiser Family Foundation and the Public Policy (Kronick et al., 2000) by examining predic-
+Institute of California (PPIC). The views expressed in this arti-
+tive accuracy for ACGs within California,
+cle are those of the authors and do not necessarily reflect the
+views of Emory University, the University of Alabama at Georgia, and Mississippi. We also examine
+Birmingham, the Henry J. Kaiser Family Foundation, PPIC, or
+the Centers for Medicare & Medicaid Services (CMS). how the predictive accuracy of the ACG
+HEALTH CARE FINANCING REVIEW/Fall 2002/Volume 24, Number 1 43
+
+=== PÁGINA 2 ===
+system is affected by short-term enrollees vately insured. A study of staff-model
+and potential selection based on urban HMOs reported an initial increase in uti-
+location within Medicaid populations. lization for Medicaid beneficiaries, but no
+We chose to look at Georgia and permanent increase (Hart et al., 1997).
+Mississippi as southern States that have Another found costs per Aid to Families
+not successfully implemented capitated with Dependent Children (AFDC) and
+Medicaid managed care and that lag poverty-related Medicaid enrollee 23 per-
+behind in private health maintenance orga- cent higher than for the commercially
+nization (HMO) penetration. They serve insured after enrollment in (nine) HMOs
+poorer, perhaps sicker, Medicaid enrollees (Welch and Wade, 1995). The present
+in generally more rural environments that study is part of a larger one that examined
+are perhaps less amenable to capitation. relative use and costs of Medicaid versus
+California, by contrast, leads the country in private insured (Adams et al., 2001).
+private managed care and is currently Those results indicated that Medicaid
+expanding Medi-Cal managed care using a enrollees cost more based on price-stan-
+two-plan model. In this model, Medi-Cal dardized measures and these higher costs
+enrollees in 12 counties across the State reflected either higher case mix or higher
+have a choice of a local initiative versus pri- use of certain services (e.g., inpatient
+vate commercial plan(s); the local network days) or both, across the study States. If
+is required to retain safety-net providers. States do not risk adjust, plans will have an
+California is considering the implementa- incentive to enroll healthier Medicaid
+tion of risk adjustment based on ACGs enrollees, avoid Medicaid markets, or
+(California Department of Health Services, underserve Medicaid beneficiaries.
+2002); a recent report noted that risk Risk adjustment of rates can help address
+adjustment could address potential risk these issues if they improve the accuracy
+selection within the two-plan model of rates paid to plans in relation to expens-
+(Adams, Bronstein, and Becker, 2000). es. A study of children under age 13 found
+Risk-adjustment methods should improve risk adjusters (e.g., health status, prior
+the accuracy of predicted costs. Traditional use) increased predictive ability from 5
+actuarial methods are used here to exam- percent with age and sex to as much as 70
+ine the predictive accuracy of ACGs for percent (Newhouse et al., 1993). Another
+random groups among the Medicaid and study found ACGs increased the ratio of
+privately insured and for non-random payments to expected expenses from less
+groups within Medicaid. Including private than 25 to almost 70 percent for Medicaid
+sector data allows for comparison to earlier children with chronic health conditions
+studies of risk adjustment (Dunn et al., (Fowler and Anderson, 1996).
+1996) and places the analysis within the A comprehensive study (Dunn et al.,
+context of the study States’ broader insur- 1996) of existing risk-adjustment methods
+ance pool. based on privately insured, compared
+ACGs with others using prospective and
+BACKGROUND STUDIES retrospective models. Prospective risk
+adjustment, the most prevalent in research
+As States seek to induce commercial and practice, is modeled by developing
+plans to integrate Medicaid enrollees, a risk-adjusted payments from one year of
+key question is whether Medicaid enrollees data to predict actual expenses during the
+pose a different insurance risk than pri- next year. Retrospective or concurrent
+44 HEALTH CARE FINANCING REVIEW/Fall 2002/Volume 24, Number 1
+
+=== PÁGINA 3 ===
+risk adjustment is modeled by developing insurance risks as they expand clientele.
+adjusted payments from one-half of a sam- We consider (ACGs) for both Medicaid
+ple to predict actual expenses for the other and private insured and within Medicaid,
+one-half of the sample in the same year. All for those with high-cost conditions or living
+risk-adjustment methods studied outper- in poorer urban areas; both groups could
+formed age and sex alone and relative to no be potentially selected against. Finally, we
+risk adjustment, would reduce, but not consider how short-term enrollees, or
+remove, incentives for risk selection turnover, might affect the use of risk
+(Dunn et al., 1996). While retrospective adjustment. Earlier work by Adams et al.
+models have generally been used for pay- (2000) found short-term enrollees more
+ment, the high turnover characteristic of costly on a monthly basis.
+State Medicaid welfare and poverty-related
+groups may justify the use of concurrent DATA AND METHODS
+models for profiling or making retrospec-
+tive adjustments to payments. Data for our analysis are drawn from the
+The study by Dunn et al. (1996) did not Medicaid enrollment and claims data
+include Medicaid data. One study of dis- for 1994 for Georgia, Mississippi, and
+abled Medicaid enrollees found the DPS California. Data for Georgia and Mississippi
+markedly improved on age and sex models were raw files from the States while the
+(Kronick et al., 1996). Researchers of the California data were from the State
+Maryland ACG-based system also noted Medicaid Research Files (SMRF) main-
+significant improvement with ACGs, but tained by CMS. All 1994 enrollees in
+the final payment system made special Georgia and Mississippi were included.
+adjustments for pregnant females, short- Due to the size of California’s Medi-Cal
+term enrollees, those with rare and expen- files data, enrollees in seven urban and
+sive diseases, and those residing in the city rural counties were used: Alameda, Los
+of Baltimore (Weiner et al., 1998). The Angeles, San Francisco, San Diego,
+study by Kronick et al. (2000) adds signifi- Humboldt, Butte, and Tulare. Enrollment
+cant new information for Medicaid popula- in these counties represent approximately
+tions. This work shows that the CDPS 58 percent of total State enrollees.
+improves on the DPS and ACG systems, The Medicaid enrollment files contained
+but not the ambulatory diagnostic groups monthly eligibility, raw eligibility codes,
+(ADGs), in terms of predictive accuracy for and age and sex. In a broader study by
+AFDC adults and children. As they note, Adams et al. (2001), eligibility was col-
+information on the usefulness of diagnostic lapsed into four groups: (1) AFDC (now
+classification systems for these enrollment Temporary Assistance to Needy Families
+groups has been less readily available. [TANF]) or welfare-related groups; (2)
+The present analysis adds to our under- poverty-related or expansion groups; (3)
+standing by using data on both Medicaid disabled; and (4) foster care children.
+and privately insured and examining pre- Medically needy in the study States with
+dictive accuracy for welfare and poverty- this program (Georgia and California)
+related eligibility groups within three were included in their respective categori-
+States for one diagnostic classification sys- cal eligibility group. We omitted those age
+tem. In Georgia and Mississippi, where 65 or over since they are often not included
+capitated managed care remains low, plans in States’ Medicaid managed care Programs
+will likely compare Medicaid with private and we compared Medicaid to private
+HEALTH CARE FINANCING REVIEW/Fall 2002/Volume 24, Number 1 45
+
+=== PÁGINA 4 ===
+working age populations in parts of the for the two insured groups. We also omit
+study. Data on detailed diagnoses, proce- payments for durable medical equipment,
+dure codes, and amounts paid were drawn direct reimbursements to providers for
+from the claims files for each enrollee. case management services and nursing
+Data for the privately insured are from home claims. Overall sample sizes for each
+the 1994 Medstat MarketScan data. The study State are shown in Table 1.
+MarketScan data are a non-random sample California, a State known for its efficien-
+of large, self-insured employers nationwide cies in the Medi-Cal Program (Zuckerman
+and include claims for more than 7 million et al., 1998) spends less per enrollee
+individuals and dependents. These indi- ($2,686) than Georgia ($2,788), but more
+viduals work in a range of occupational set- than Mississippi ($2,582). Approximately
+tings (e.g., manufacturing, retail, finance, 45 percent of California’s total population is
+insurance, and government) including in capitated managed care, far higher than
+some wage levels ($8 in retail) more compa- Georgia (16 percent) or Mississippi (3 per-
+rable to Medicaid populations. Individuals cent). Both Georgia and Mississippi have
+are generally in firms that self-insure; this virtually no capitated MMC while California,
+type of coverage applies to almost one-half as noted, is implementing the two-plan
+(48.9 percent) of workers according to the model. They are currently considering
+Medical Expenditure Panel Survey the implementation of ACGs (California
+(MEPS). MarketScan claims data also Department of Health Services, 2002). We
+include detailed diagnoses, procedure also note, as shown in the Medicaid
+codes, and amounts paid (inclusive of Enrollment column in Table 1, the portion
+copay and deductibles) which allow us to of those enrolled for less than 6 months is
+complete comparable analyses on the pub- far greater in Mississippi than in the other
+licly and privately insured, a comparison two study States. The majority of our analy-
+often lacking in the literature. A separate sis uses data for those enrolled in Medicaid
+file on covered lives by age and sex was for 6 months or more.
+used to identify the number of non-users;
+dummy records were created for these METHODS
+individuals.
+We exclude those enrolled in a capitated We use ACGs, Version 4.0 to assess rela-
+plan since full claims would not be avail- tive health risks of the Medicaid and
+able for them. We also omit outpatient pre- privately insured. This system clusters the
+scription drug claims. While drug costs diagnoses (International Classification of
+are increasing rapidly, differences across Diseases, Ninth Revision, Clinical Modifi-
+Medicaid and privately insured would largely cation [ICD-9-CM]) recorded on claims for
+reflect coverage differences. Furthermore, inpatient and ambulatory care observed
+the Medstat MarketScan system does not for an individual over a given time period
+contain drug data for all covered lives. (e.g., a year). The system first assigns
+Finally, because drug claims lack diag- claims for individuals to 1 or more of 34
+noses, their omission does not affect ACG ADGs. The system then categorizes indi-
+assignment. However, their omission could viduals into 1 of 52 mutually exclusive risk
+have a small effect on the comparative pre- groups (ACGs) based on their observed
+dictive analysis if the differences in aver- health problems, age, and sex. The value
+age costs across ACGs varies without, ver- of the ACG system is that it identifies cate-
+sus with, drug costs in a different manner gories of individuals that are relatively
+46 HEALTH CARE FINANCING REVIEW/Fall 2002/Volume 24, Number 1
+
+=== PÁGINA 5 ===
+HEALTH CARE FINANCING REVIEW/Fall 2002/Volume 24, Number 1 47
+1
+elbaT
+4991:seziS
+elpmaS
+dna
+setatS
+ydutS
+no
+ataD
+dnuorgkcaB
+srebmuN
+eellornE
+ydutS
+1diacideM
+detaleR
+ytrevoP
+dna
+erafleW
+margorP
+diacideM
+llarevO
+noitalupoP
+tnecreP
+shtnoM
+6
+shtnoM
+6
+detatipaC
+tnecreP
+detatipaC
+eroM
+ro
+sseL
+ro
+derusnI
+etavirP
+eraC
+deganaM
+diaP
+sralloD
+1seellornE
+eraC
+deganaM
+rooP
+1latoT
+etatS
+055
+485,2
+605,881
+71
+686,2$
+877,6
+54
+71
+716,13
+ainrofilaC
+251
+040,1
+577,741
+2
+887,2
+071,1
+61
+51
+831,7
+aigroeG
+991
+822
+007,72
+1
+285,2
+075
+3
+52
+006,2
+ippippissiM
+.snoillim
+ni
+rebmuN
+1
+.2002
+,ytisrevinU
+yromE
+,.K.E
+,smadA:ECRUOS
+
+=== PÁGINA 6 ===
+homogeneous within ACG and relatively with replacement. We chose the group
+distinct across them in terms of expected size of 2,500 following Dunn et al. (1996);
+health care utilization and expense while predictive accuracy will increase
+(Weiner et al., 1998; 1991). The ACG sys- with the size of the group they found this
+tem is built on a hierarchy of all problems effect levels off beyond a group size of
+for which an individual seeks care. For 2,000 to 3,000 individuals. Given that out-
+example, a person with one or more minor liers can affect predictive accuracy, we test-
+acute conditions (such as minor infection) ed with and without truncation (taking into
+is assigned to one ACG, while a person account the similarity of results, we pre-
+with multiple serious conditions (such as sent results without truncation).
+diabetes or asthma) is assigned to another. We used two sets of predictor variables:
+Non-users of any services during the time (1) age and sex and (2) age, sex, and ACG.
+observed are assigned to their own ACG. The difference in accuracy gained with the
+Actual per member per month expendi- inclusion of ACGs is our focus. The models
+tures are calculated by dividing total health were fit using data for only welfare (then
+care expenditures by number of months AFDC) and poverty-related enrollees who
+enrolled (this is the measure of resource are enrolled 6 months or more. We have
+used throughout the article). Monthly fuller claims experience for these long-
+enrollment is available in Medicaid data. term enrollees and hence, observation of
+For the privately insured we estimated the diagnoses, their ACG assignment, and
+member months using MarketScan data measurement of resource use is more reli-
+on mean length of enrollment by age and able; most applications of the ACG system
+sex for all covered lives. While we found lit- use resource weights based on this long-
+tle variation in the number of months term enrollee sample (Weiner, 1998). We
+enrolled by age and sex groups this do, however, provide one test of predictive
+method may understate or overstate accuracy for those enrolled less than 6
+months enrolled for a particular individual. months by using an ACG assignment
+We use one year of data to test the pre- based on their shorter observation period.
+dictive ability of ACGs with a concurrent We focused on the welfare and poverty-
+and retrospective model. It is known that related groups as those most States enroll in
+these models would not perform as well if managed care first. These groups are also
+applied prospectively, but as previously more comparable with the privately insured
+noted, they may be particularly useful for which, by and large, does not include elder-
+the Medicaid population. We use the split- ly or disabled. Even though the disabled
+sample actuarial technique (Dunn et al., Medicaid populations are high cost and per-
+1996; Fowler et al., 1996; Ellis et al., 1996) haps amenable to cost savings, States did
+that first splits the sample into two random not initially mandate their participation
+groups. Fifty percent of the estimation (Holahan, 1999). Still, this landscape is
+sample is used to estimate the relationship rapidly changing. Regenstein and Schroer
+of age, sex, and ACG groups to per mem- (1998) note that approximately one in four
+ber per month expenditures. The remain- non-elderly disabled are enrolled in man-
+ing 50 percent, the prediction sample, is aged care, the majority of which are capitat-
+used to generate random samples (50 ed arrangements although certain ser-
+groups of 2,500 each) of enrollees for vices—behavioral health, pharmacy, dental,
+whom expenditures are predicted using hospice and long term care—are often
+the regression coefficients. We sampled carved out. However, other researchers
+48 HEALTH CARE FINANCING REVIEW/Fall 2002/Volume 24, Number 1
+
+=== PÁGINA 7 ===
+have thoroughly addressed the issue of risk The second resource measure—a set of
+adjusters for the Medicaid disabled and we resource weights—is used to derive a sum-
+were interested in the effect of turnover, mary case-mix index for private and
+more characteristic of the welfare and Medicaid insured within each State. These
+poverty-related groups, on risk adjustment. indices are created by first using average
+There are two types of resource measures resource measures by ACG to create the
+used in parts of this analysis. These are: (1) relative weights. These weights are the
+State-specific Medicaid and private-specific simple mean expenditures per member per
+expected resource measures (per member month within each ACG divided by the
+per month) by age, sex and ACG, and (2) grand mean (per member per month)
+pooled Medicaid and private relative across all ACGs; these are based on pooled
+resource weights (based on per member per Medicaid and private sample data in each
+month) by ACG within each State. The first State. To derive the case-mix index, these
+is used to gauge predictive accuracy while weights are multiplied by the number of
+the latter is used to derive a case-mix index. cases in each ACG within the insured
+The resource measures for the predictive group, summed and divided by the total
+accuracy analysis are derived from the esti- number of persons in the insured group, as
+mation random sample using regression follows:
+analysis. Our use of a simple regression
+model to derive expected resource use fol- Index=[($ACG/$ACG )*n]/Σ n
+i AVG i i…N i
+lows earlier work (Dunn et al., 1996; Fowler
+and Anderson, 1996; Ellis et al., 1996) and is Where n = the number of cases in the ith
+i
+the equivalent of taking mean actual expen- ACG. Note that the ACG system assigns
+ditures for each (mutually exclusive) risk non-users to their own ACG and hence,
+group. This is akin to what States do to set non-users are included in the total N. An
+capitated rates unless they were willing to insured group’s index will be higher if
+use averages by ACG from other States as there are more enrollees in the ACGs with
+suggested by Kronick et al. (1996). relatively higher weights. Given the sensi-
+The first resource measure, predicted tivity of these weights to geographic varia-
+per member per month expenditures, is tion in coding, payment, and completeness
+the predicted value from the regressions. of data we also estimated the weights (and
+This predicted value becomes the simulat- indices) based on pooled (across the three
+ed payment for individuals based on their States) Medicaid and, in turn, privately
+specific age, sex and ACG category. For insured data.
+example, two females in the age group 35- To assess the issue of turnover in the
+44 in Georgia Medicaid, assume one is not Medicaid population we repeat the predic-
+pregnant, but has asthma (ACG = 700) and tive accuracy analysis in several ways.
+the other has an uncomplicated pregnancy Since assignment of ACG for enrollees in
+(ACG = 1710). Their predicted expense the Medicaid system for less than 6
+and payment would be based on the same months is less reliable we first use only age
+age and sex coefficient, but a different one and sex regression coefficients to predict
+for their specific ACG; the predicted per per member per month expenses for them.
+member per month for the first in Georgia We test age and sex coefficients derived
+Medicaid was $23.28 and for the second, from the greater than 6-month sample and
+$197.29. (The full set of regression results in turn, coefficients by age and sex specif-
+is available on request from the authors.) ic to less than 6-month enrollees. We then
+HEALTH CARE FINANCING REVIEW/Fall 2002/Volume 24, Number 1 49
+
+=== PÁGINA 8 ===
+test the use of ACG assignments for those poverty (20 percent or more), joblessness,
+enrolled less than 6 months, but use age female-headed families and welfare receipt;
+and sex and ACG coefficients derived from severely distressed neighborhoods have
+those enrolled more than 6 months to pre- 40 percent or more in poverty, these char-
+dict their expected resource use. In each acteristics, plus high teenage dropout rates
+instance, we derive summary measures for (Kasarda, 1993). To approximate such
+random groups including both short- and neighborhoods, we identified enrollees in
+long-term enrollees. the predictive sample in urban counties
+While the regression R2 provides a sum- and ZIP Codes characterized by the pover-
+mary measure of the predictive power (addi- ty cut offs. We omit Mississippi from this
+tion of the ACGs increased it from around analysis since it is predominantly rural
+0.01 to 0.35 for the privately insured and from and, therefore, the urban population from
+0.04 to 0.32 for Medicaid insured, across the which to draw repeated samples was small.
+study States) for individuals, it can be affected Further, plans could not easily select on
+by a small number of cases with large errors. this basis since the majority of Mississippi
+Further, it does not provide measures of typi- ZIP Codes met the 20 percent poverty level
+cal error size or summary measures across cut-off.
+plans. To address these issues we use a set of
+individual and group measures of predictive RESULTS
+accuracy (Dunn et al., 1996).
+In general, these measures use the simu- One of the key questions for plans enter-
+lated payments for individuals (based on the ing the Medicaid market is whether the
+regression coefficients) and compare these expected resource use of the poorer popu-
+with their actual expenditures. Comparisons lations enrolled in Medicaid managed care,
+are summarized using a: (1) mean absolute generally the younger females and chil-
+prediction error, (2) mean absolute percent- dren in welfare and poverty-related eligibil-
+age prediction error, and (3) predictive ity groups, differ from those seen for simi-
+ratio. The mean absolute prediction error lar age and sex groups in the private sector.
+averages (across the 50 groups) the To further describe the samples and the
+absolute difference between mean actual differences across the two insured groups,
+and mean predicted expenditures for indi- we show data by age, sex, and pregnancy
+viduals in the group. The percentage error status. We also include the mean total
+is this prediction error reported as a per- expenditures for each of these groups
+centage of the predicted value, and aver- (Table 2).
+aged. The predictive ratio is the ratio of the These data show many of the expected
+total sum of predicted dollars for individuals patterns. Medicaid enrollees are far more
+in a group to the sum of their actual dollar likely to be younger, female, and to have
+expenses, averaged across the 50 groups. higher pregnancy rates than privately
+As such, it indicates whether the average insured. Most of the males enrolled in
+plan will receive more or less in total pay- Medicaid are children (age 0-17), whereas
+ments than expenses incurred. males in the privately insured sample are
+We use census data for analysis of poten- distributed fairly evenly across the age
+tial risk selection based on Medicaid groups (Table 2). Of the study State’s
+enrollee’s neighborhood. Distressed neigh- Medicaid enrollees 60–65 percent are
+borhoods (Kasarda, 1993) simultaneously female as opposed to the 55 percent that
+exhibit disproportionately high levels of are privately insured. Only 3-5 percent of
+50 HEALTH CARE FINANCING REVIEW/Fall 2002/Volume 24, Number 1
+
+=== PÁGINA 9 ===
+Table 2
+Mean Total Expeditures per Enrollee,by Sex and Age in Study States:1994
+Private Medicaid
+State N Percent Mean N Percent Mean
+California
+Males 85,093 45.2 $2,046.26 812,548 39.9 $367.51
+0-17 Years 21,386 25.1 1,153.60 665,715 81.9 316.80
+18-34 Years 16,805 19.7 1,329.70 83,584 10.3 400.62
+35-44 Years 16,590 19.5 1,703.36 38,952 4.8 647.26
+45-54 Years 15,400 18.1 2,461.70 18,642 2.3 885.78
+55-64 Years 14,912 17.5 4,086.45 5,656 0.7 1,262.08
+Females 103,365 54.8 2,216.30 1,222,503 60.1 672.66
+0-17 Years 20,136 19.5 1,047.15 655,909 53.7 317.53
+18-34 Years 23,739 23.0 2,052.35 393,074 32.2 1,402.94
+35-44 Years 22,481 21.7 2,325.61 131,024 10.7 1,047.16
+45-54 Years 20,254 19.6 2,571.56 35,589 2.9 975.32
+55-64 Years 16,755 16.2 3,277.55 6,907 0.6 1,181.49
+Pregnant 4,929 4.8 5,833.07 144,753 11.8 3,660.24
+Georgia
+Males 67,488 45.7 1,596.95 328,206 36.9 754.62
+0-17 Years 19,370 28.7 994.58 313,135 95.4 748.85
+18-34 Years 12,401 18.4 1,115.29 10,031 3.1 643.22
+35-44 Years 13,425 19.9 1,484.56 3,353 1.0 1,279.95
+45-54 Years 13,604 20.2 2,021.60 1,416 0.4 1,494.50
+55-64 Years 8,688 12.9 3,136.19 271 0.1 1,184.58
+Females 80,223 54.3 1,665.99 560,607 63.1 1,281.22
+0-17 Years 17,664 22.0 762.81 320,939 57.2 753.17
+18-34 Years 18,294 22.8 1,647.17 196,467 35.0 2,096.13
+35-44 Years 18,761 23.4 1,819.55 36,039 6.4 1,520.30
+45-54 Years 18,993 23.7 2,005.93 6,261 1.1 1,387.68
+55-64 Years 9,511 11.9 2,505.06 901 0.2 1,379.49
+Pregnant 3,014 3.8 5,949.27 87,500 15.6 4,481.79
+Mississippi
+Males 12,204 44.1 1,329.68 84,949 37.3 367.51
+0-17 Years 3,442 28.2 666.24 82,580 97.2 362.07
+18-34 Years 2,105 17.2 633.89 1,838 2.2 460.50
+35-44 Years 2,205 18.1 1,347.18 381 0.4 768.65
+45-54 Years 2,763 22.6 1,590.58 116 0.1 1,111.59
+55-64 Years 1,689 13.8 3,099.18 34 0.0 1,506.03
+Females 15,488 55.9 1,358.68 142,797 62.7 672.66
+0-17 Years 3,327 21.5 634.32 90,816 63.6 368.85
+18-34 Years 3,025 19.5 1,208.05 40,897 28.6 1,271.74
+35-44 Years 3,761 24.3 1,549.25 8,836 6.2 945.46
+45-54 Years 3,153 20.4 1,572.12 1,868 1.3 947.09
+55-64 Years 2,222 14.3 2,022.94 380 0.3 1,110.12
+Pregnant 398 2.6 4,478.27 17,760 12.4 2,631.90
+NOTE:Expenditures are mean annual expenses for all inpatient and outpatient services a for those enrolled 6 months or more.
+SOURCE:Adams, E.K., Emory University, 2002.
+the privately insured females in our sam- While Table 2 provides insight on the
+ples have a pregnancy diagnoses during basic differences between Medicaid and
+the year. This is in stark contrast to the per- the privately insured, it is difficult to sum-
+centages seen in the Medicaid sample. In marize what these mean for relative health
+our study States. 17-24 percent of the wel- risks. One way to measure and compare
+fare-related females have pregnancy diag- health risks across these groups is the
+noses, compared with 8-11 percent of the ACG-based case-mix index (Table 3).
+poverty-related groups.
+HEALTH CARE FINANCING REVIEW/Fall 2002/Volume 24, Number 1 51
+
+=== PÁGINA 10 ===
+Table 3
+Comparison of Privately and Publicly Insured Groups,by Study States:1994
+Medicaid Enrollees1
+State Privately Insured All Welfare and Poverty Related
+California 1.19 0.99 0.97
+Georgia 0.69 1.05 1.02
+Mississippi 0.69 0.94 1.02
+1 Enrolled 6 months or more.
+NOTE:Indices are derived based on relative resource weights by adjusted clinical group.
+SOURCE:Adams, E.K., Emory University, 2002.
+These indices indicate the Medicaid wel- aged care may be a factor to consider when
+fare and poverty-related groups exhibit a making such comparisons and/or as States
+higher case mix than their privately insured seek to expand Medicaid managed care.
+counterparts in Georgia and Mississippi, One way to gauge the predictive power of
+but not California. The latter is surprising, ACGs is to simulate their use in setting per
+but may reflect the very high penetration of member per month rates for random groups.
+managed care in that State. That is, those Table 4 results indicate that the use of ACGs
+privately insured and not in an HMO in improves predictive power, but risk adjust-
+California may be disproportionately less ment based on ACGs was more effective for
+healthy, avoiding managed care. While the our privately versus Medicaid insured sample.
+Medstat data are not necessarily represen- For the random groups all predictive
+tative of all privately insured, a large por- ratios are generally close to one, indicating
+tion of the privately insured in California that the per member per month capitated
+that are not in capitated managed care are rates (or predicted amounts) would be
+likely in the types of large, self-insured very close to actual expenses across a
+employer plans sampled by Medstat. large number of plans (50) to which
+As noted, the use of State-specific pooled enrollees are randomly assigned. This
+weights might affect these case-mix simply illustrates that individual prediction
+indices. We therefore re-estimated them errors tend to cancel out in large groups.
+using relative weights derived by pooling That is, even simple models using age and
+data across the three States’ private (and sex predict relatively well when individuals
+separately, Medicaid) samples. Using are randomly enrolled across plans.
+these relative weights, the California pri- In reality, individuals are not distributed
+vate index was higher (1.20) than Georgia’s randomly and sicker enrollees may con-
+(.78) or Mississippi’s (0.73) while their centrate in a few plans. We assess the pre-
+Medicaid index lie in between (0.98 versus dictive accuracy of ACGs in light of poten-
+1.16 in Georgia and 0.88 in Mississippi) tial selection processes or non-random
+(Adams, Bronstein, and Becker, 2000). This enrollment of Medicaid enrollees across
+suggests our California sample of privately plans: high-cost cases, and those residing
+insured has a higher case mix than their in poorer urban neighborhoods.
+privately insured counterparts in Georgia The high-cost, chronic conditions includ-
+or Mississippi, consistent with our hypoth- ed in the analysis are: cancer, heart disease,
+esis.1 California’s Medi-Cal has a slightly HIV, diabetes, sickle cell anemia, and con-
+higher case-mix index than Mississippi.
+These findings indicate that State variation 1 We also estimated the private index using only females and
+males under age 18 in the Medstat MarketScan data and the
+in the penetration of private sector man-
+results held.
+52 HEALTH CARE FINANCING REVIEW/Fall 2002/Volume 24, Number 1
+
+=== PÁGINA 11 ===
+HEALTH CARE FINANCING REVIEW/Fall 2002/Volume 24, Number 1 53
+4
+elbaT
+4991:setatS
+ydutS
+yb,spuorG
+modnaR—ycaruccA
+evitciderP
+htnoM
+rep
+rebmeM
+rep
+fo
+yrammuS
+ippississiM
+aigroeG
+ainrofilaC
+diacideM
+etavirP
+diacideM
+etavirP
+diacideM
+etavirP
+rorrE
+etulosbA
+naeM
+rorrE
+etulosbA
+naeM
+rorrE
+etulosbA
+naeM
+rorrE
+etulosbA
+naeM
+rorrE
+etulosbA
+naeM
+rorrE
+etulosbA
+naeM
+)rorrE
+tnecreP
+naeM(
+)rorrE
+tnecreP
+naeM(
+)rorrE
+tnecreP
+naeM(
+)rorrE
+tnecreP
+naeM(
+)rorrE
+tnecreP
+naeM(
+)rorrE
+tnecreP
+naeM(
+puorG
+)0.7(
+4$
+)1.7(
+9$
+)5.3(
+4$
+)7.8(
+31$
+)8.6(
+4$
+)7.6(
+51$
+xeS
+,egA
+)1.6(
+4
+)8.5(
+8
+)3.3(
+3
+)1.6(
+9
+)5.6(
+4
+)9.5(
+31
+GCA
+dna
+,xeS
+,egA
+soitaR
+evitciderP
+20.1
+00.1
+00.1
+40.1
+99.0
+79.0
+xeS
+,egA
+10.1
+79.0
+00.1
+10.1
+99.0
+00.1
+GCA
+dna
+,xeS
+,egA
+hcae
+ni
+)erom
+ro
+shtnom
+6
+dellorne(
+selpmas
+diacideM
+dna
+derusni
+yletavirp
+eht
+fo
+flah-eno
+evitciderp
+eht
+morf
+tnemecalper
+htiw
+delpmas
+hcae
+005,2
+fo
+spuorg
+modnar
+05
+rof
+devired
+era
+serusaeM:SETON
+.puorg
+lacinilc
+detsujda
+si
+GCA.etatS
+.2002
+,ytisrevinU
+yromE
+,.K.E
+,smadA:ECRUOS
+
+=== PÁGINA 12 ===
+Table 5
+Summary of per Member per Month Predictive Accuracy—Non-Random,High-Cost Medicaid
+Groups,by Study States:1994
+State Mean Absolute Error Mean Absolute Percent Error Predictive Ratio
+California
+Age, Sex $259 77.10 0.23
+Age, Sex, and ACG 119 35.30 0.65
+Georgia
+Age, Sex 273 69.40 0.30
+Age, Sex, and ACG 100 24.60 0.74
+Mississippi
+Age, Sex 201 72.10 0.28
+Age, Sex, and ACG 92 35.00 0.67
+NOTES:ACG is adjusted clinical group.Measures are derived for 50 samples of 2,500 each drawn from the predictive one-half of the Medicaid
+sample enrolled 6 months or more.
+SOURCE:Adams, E.K., Emory University, 2002.
+genital anomalies. (A full list of the of the The predictive ratios (Table 5) across
+ICD-9-M codes used to define these high- the 50 plans average from 0.23 in California
+cost conditions is available on request from to 0.30 in Georgia for those with high-cost
+the authors.) The per member per month conditions when payments are based on
+expenses for those welfare and poverty- age and sex alone. While they improve
+related with any of the high-cost conditions markedly with ACGs, the predictive ratios
+range from $279 in Mississippi to $335 in still indicate underpayment, averaging
+California, and $387 in Georgia. These from 0.65 in California to 0.74 in Georgia.
+ranged from almost four times the per Other characteristics could also lead to
+member per month for welfare and poverty- selection or non-random distribution of
+related enrollees overall in Georgia, to enrollees across plans. Geographic char-
+almost six times as much in California. acteristics, such as location in poorer
+Risk-adjusted payments for 50 groups, neighborhoods, for example, could be
+randomly selected from the total pool of readily used to select out certain enrollees
+individuals with high-cost conditions, thought to be higher users. Geographic
+result in far greater accuracy than pay- location may also correlate with access
+ments based on age and sex alone (Table problems such as the lack of office-based
+5). In each State the mean absolute error physician practices physically located
+is reduced by more than $100 per member there (Goldstein, 1994). Some States have
+per month and mean absolute percent adjusted their rates to reflect unmeasured
+error is at least cut in one-half. While re- characteristics that lead to higher costs in
+insurance would address the issue of these areas (Weiner, 1998). These two
+unpredictable, high-cost cases, it would not characteristics may work together if, for
+address the additional, predictable expens- example, an urban teaching hospital locat-
+es (less than a $50,000-cap) associated with ed in a poor neighborhood is either part of
+these conditions. Of those with high-cost a Medicaid managed care network or is
+conditions, less than 1 percent had annual forming its own, as in the California two-
+expenses more than $50,0002 in any study plan model. If premiums for providers
+State. Results based on truncated data specializing in care to low-income areas are
+(more than $50,000) still show a marked not risk adjusted, they may find them-
+improvement in predictive power when selves at a financial disadvantage.
+risk adjusters are included.
+2 Data available upon request from authors.
+54 HEALTH CARE FINANCING REVIEW/Fall 2002/Volume 24, Number 1
+
+=== PÁGINA 13 ===
+Table 6
+Summary of per Member per Month Predictive Accuracy—Non-Random,High-Poverty Medicaid
+Groups,by Study States:1994
+State Mean Absolute Error Mean Absolute Percent Error Predictive Ratio
+California1
+Age, Sex $7 10 1.01
+Age, Sex, and ACG 6 9 1.01
+Georgia1
+Age, Sex 5 5 1.01
+Age, Sex, and ACG 5 5 1.05
+California2
+Age, Sex 7 12 1.07
+Age, Sex, and ACG 7 11 0.91
+Georgia2
+Age, Sex 6 6 0.95
+Age, Sex, and ACG 3 3 1.02
+1 Enrollees in urban ZIP Code residence that have 20 percent or more of the population under 100 percent of Federal poverty level.
+2 Enrollees in urban ZIP Code residence that have 40 percent or more of the population under 100 percent of Federal poverty level.
+NOTES:ACG is adjusted clinical group.Measures are derived for 50 samples of 2,500 each drawn from the predictive one-half of the Medicaid
+sample enrolled 6 months or more.
+SOURCE:Adams, E.K., Emory University, 2002.
+In Table 6 we show the mean absolute not an underpayment issue for the 20 per-
+and mean absolute percent error for 50 cent or more poverty areas in either State,
+groups of 2,500 drawn from the poorest plans would be paid only 95 percent of
+urban ZIP Codes in California and Georgia. expected costs in the poorest areas (40 per-
+We note that these analyses are based on cent or more) of Georgia without risk
+coefficients from an urban subsample of adjustment. Given relatively low margins
+the estimation sample. among commercial plans (Rogal and
+First, the mean absolute and percentage Gauthier, 1998) this could provide enough
+error is somewhat higher for these non-ran- incentive for them to avoid these areas.
+dom groups than for the random groups as Adding an ACG adjustment increases pre-
+shown in Table 4. For those in ZIP Codes dictive accuracy significantly there. In the
+with 20 percent or more poverty, the mean higher poverty areas in California, howev-
+absolute error equals $5 in Georgia and $7 er, expenses are lower than those predict-
+in California. There is only a slight improve- ed by age and sex alone, but higher than
+ment in predictive accuracy with the use of those predicted when risk adjusted using
+ACGs for the California enrollees and no ACGs. This suggests that this high-pover-
+improvement in Georgia. In these areas, ty group uses more resources than we
+actual expenditures are somewhat lower would expect, given their risk profile. This
+than those predicted by age and sex, but may relate to unmeasured differences in
+the difference does not appear related to health risk or higher costs of providers
+risk status (risk adjustment based on ACGs (e.g., public teaching hospitals) located in
+does not improve predictions). these areas. Each would call for a different
+For enrollees in the 40 percent or more State policy response.
+poverty areas, the mean absolute and per- Turnover is a key issue for Medicaid
+centage error, without ACG adjustment is Programs. As enrollees come in and out of
+higher which suggests expenses are less the system, program managers and physi-
+predictable for enrollees in these poorest cians will likely have difficulty providing
+areas. While the results indicate there is continuity of care. Turnover can pose a
+HEALTH CARE FINANCING REVIEW/Fall 2002/Volume 24, Number 1 55
+
+=== PÁGINA 14 ===
+particular problem for managed care and them, or based only on data for those
+for setting capitated rates since States will enrolled less than 6 months. This can be
+not have the necessary diagnostic informa- viewed as a blended rate. In the third bank
+tion to set risk-adjusted rates for short- we use the ACG assignment of short-term
+term enrollees. While concurrent and ret- enrollees (based on their limited observa-
+rospective rate adjustments may help in tion time) and apply the age, sex, and ACG
+this regard, those newly enrolling may regression coefficients from the long-term
+need and use more resources than others enrollees. Together, these illustrate possi-
+in the same ACG due to potential post- ble options States might use to adjust pay-
+ponement of needed medical care. Thus, if ments for individuals for which they have lit-
+short-term or new enrollees account for a tle time to observe utilization and expenses.
+large portion of the plans’ caseload this can With the inclusion of the short-term
+cause financial problems. enrollees, the absolute mean error and per-
+Our data indicate short-term enrollment centage errors in the first bank are
+is a major issue in Mississippi. Mean markedly higher than those for random
+months enrolled for all (short- and long- groups of long-term enrollees; the mean
+term) welfare and poverty related enrollees errors range from $13-$45, compared with
+in Mississippi was 6.6 versus 9.3 -9.9 mean errors of $3-$4 (Table 4). The high-
+months in the other two States; short-term est errors are in Mississippi where the per-
+enrollees accounted for almost one-half (47 cent error averages 30 percent. The
+percent) of Mississippi’s welfare and effects on the predictive ratios are also pre-
+poverty related enrollees as opposed to 15 sented in Table 4. In both California and
+percent in Georgia and 21 percent in Mississippi, payments based on age and
+California. Further, the differences in per sex coefficients for those enrolled more
+member per month were greater in than 6 months would underpay plans. In
+Mississippi. Short-term welfare and pover- California, the predictive ratio is 0.83 and
+ty-related enrollees cost $179 per member in Mississippi, it equals 0.77. Only in
+per month (versus $59) for long-term Georgia does the random distribution of
+enrollees in Mississippi. In Georgia, short- short- and long-term enrollees across plans
+term enrollees cost $117 per member per result in a predictive ratio close to one.
+month (versus $94) and in California, $141 We use the age and sex coefficients and
+(versus $58). simulate payment based on data for short-
+Up to this point in the analysis we have term enrollees (Table 4). We note that this
+included only those enrolled more than 6 is the approach taken by Maryland in their
+months in our tests of predictive accuracy. adaptation of the ACG system (Weiner, et
+To address the turnover issue we present al., 1998). The results show that the mean
+the age, sex, and ACG models for random and percentage errors fall for California,
+groups of enrollees inclusive of the short- but not for the other two States; errors are
+term (less than 6 months) enrollees (Table still dramatically higher in Mississippi. The
+7). First, we used age and sex coefficients predictive ratio, however, for California is
+based on those enrolled 6 months or more closer to one as is Georgia’s. This blended
+for the short-term enrollees; we apply ACG rate approach seems to work well in these
+risk adjustment to only the long-term States. In Mississippi, however, the mean
+enrollees. The only change in the second percentage error is actually higher and the
+bank is that we used age and sex coeffi- predictive ratio indicates that plans would
+cients for the short-term enrollees unique to be over paid. Short-term enrollees in this
+56 HEALTH CARE FINANCING REVIEW/Fall 2002/Volume 24, Number 1
+
+=== PÁGINA 15 ===
+Table 7
+Summary of per Member per Month Predictive Accuracy for Alternative Models—Random
+Medicaid Groups,by Study States:1994
+State Mean Absolute Error1 Mean Absolute Percent Error1 Predictive Ratio1
+California2
+Age, Sex $14 18 0.83
+Age, Sex, and ACG 14 18 0.83
+Georgia
+Age, Sex 13 12 1.02
+Age, Sex, and ACG 13 12 1.02
+Mississippi
+Age, Sex 45 30 0.77
+Age, Sex, and ACG 45 30 0.77
+California3
+Age, Sex 8 11 1.03
+Age, Sex, and ACG 8 11 1.02
+Georgia
+Age, Sex 13 12 1.02
+Age, Sex, and ACG 13 12 1.02
+Mississippi
+Age, Sex 45 52 1.30
+Age, Sex, and ACG 45 51 1.30
+California4
+Age, Sex, and ACG 18 23 0.77
+Georgia
+Age, Sex, and ACG 11 9 0.92
+Mississippi
+Age, Sex, and ACG 52 40 0.61
+1 No truncation.
+2 Based on 6 months or more.
+3 Unique to less than/more than 6 months.
+4 Based on more than 6 months.
+NOTES:ACG is adjusted clinical group.Measures are derived for 50 samples of 2,500 each drawn from the predictive one-half of the Medicaid sample
+enrolled 6 months or more.
+SOURCE:Adams, E.K., Emory University, 2002.
+State apparently have a highly unpre- DISCUSSION
+dictable expenditure pattern and, as previ-
+ously noted they also comprise a signifi- Our analysis indicates that ACGs can be
+cantly larger portion of total welfare and useful in addressing potential risk selec-
+poverty related enrollees in this State. tion under managed care even within the
+We tested the potential of assigning an younger, welfare and poverty-related
+ACG to short-term enrollees despite the Medicaid enrollee groups who exhibit sig-
+short observation period and using age, nificant turnover, in Georgia and California.
+sex, and ACG coefficients and simulated As with most policies, the adaptation of
+payments from those enrolled for 6 months risk adjustment must be State-specific. In
+or more (Table 7). In all three States this Georgia and California, for example, ACG
+results in an underpayment of plans. None risk adjustment with a blended rate for
+of the three approaches tested here appear short- and long-term enrollees appears
+to be viable for welfare and poverty related viable. However, they differ in terms of
+groups in Mississippi. their ability to use ACGs to account for
+HEALTH CARE FINANCING REVIEW/Fall 2002/Volume 24, Number 1 57
+
+=== PÁGINA 16 ===
+higher costs seen in urban poor areas. We did find a lower percent—2 versus
+Mississippi’s welfare and poverty-related 10—of urban Medicaid enrollees in the
+enrollees exhibit such high levels of poorest ZIP Codes in California than
+turnover that they would likely need spe- Georgia, consistent with findings of limited
+cial policies to accompany any risk-adjust- concentration of the poor in western ver-
+ment system. sus southern cities (Kasarda, 1993). This
+As with earlier studies, we find the use of may make policies to address selection in
+ACGs improve Medicaid payment accura- urban poor areas more important in
+cy relative to those based on only age and Georgia, but our inability to predict for
+sex in all three States. While risk adjust- enrollees in distressed California neigh-
+ment will not fully reduce the incentives of borhoods is relevant to that State’s two-
+plans to select those without higher-cost plan model if local initiatives dispropor-
+chronic conditions, it offers other advan- tionately serve poorest urban areas.
+tages such as the ability to monitor pat- California is now considering the imple-
+terns of enrollment and utilization across mentation of risk adjustment based on
+plans and payment negotiations. The ACGs for these counties.
+implementation of risk adjustment, howev- A challenge for implementing risk
+er, requires that States put more effort and adjustment in Medicaid can be turnover in
+incur expenses to obtain reliable, current the population. A churning of enrollees in
+encounter data on which to monitor and and out of the Medicaid Program is well
+update payment rates and policies. documented (Carrasquillo et al., 1998). In
+As previously noted, we found risk adjust- general, this raises the issue of prospective
+ment improved accuracy for selection based versus concurrent and retrospective pay-
+on location in the poorest urban areas in ment adjustment. While States might
+Georgia only. Difficulty in predicting for assume that short-term enrollees are
+these groups may reflect unmeasured dif- replaced by other short-term enrollees of
+ferences in health status related to poorer similar risk and, therefore, that plans’ pro-
+socioeconomic environments. Some States, files are stable over time, it is the relative
+including Maryland, have used simple distribution of short-term enrollees across
+adjustments for their most urbanized areas plans that matters for payment equity. If
+(Baltimore) to “…compensate for what are new enrollees are distributed dispropor-
+believed to be unmeasured health status dif- tionately among plans, this may mean that
+ferences…” there (Weiner, 1998). These concurrent and retrospective adjustment is
+results may also reflect that access is an justified and/or needed in Medicaid
+issue—provider systems in these inner Programs.
+urban areas are often emergency rooms, It does appear that States are making
+safety-net hospitals, and community clinics special adjustments to their payments to
+where the costs of care are higher and con- address issues related to short-term
+tinuity of care is harder to assure. This enrollees even when using diagnoses-
+points to the fact that risk adjustment alone based risk adjustment. Although some
+cannot be used to address all aspects of pay- States recognize the potentially higher
+ment policy. State policies to assure appro- costs of new enrollees (Schwalberg, 1997)
+priate use of emergency room and adequate or plan to update rates more frequently
+payment of higher-cost safety-net providers (Weiner et al., 1998) to address this issue,
+need to be coordinated with their risk- Washington found new enrollees cost
+adjustment methods. more per member per month and
+58 HEALTH CARE FINANCING REVIEW/Fall 2002/Volume 24, Number 1
+
+=== PÁGINA 17 ===
+increased Medicaid capitation rates 1996). Also, the Medstat data are a large,
+accordingly (Schwalberg, 1997). Our convenience sample of the privately insured
+results indicate that our study States may and are not necessarily representative of
+also need such adjustments. Lacking ade- the non-capitated privately insured nation-
+quate information on health risks for short- ally, nor within the study States. We also
+term enrollees, they may under or over pay note, as did Kronick et al. (2000), that
+plans. While age and sex adjusters specif- while our data precede the passage of wel-
+ic to short-term enrollees worked fairly fare reform, the relationship of diagnoses
+well in California and Georgia, the high to expenditures and the type of diagnoses
+proportion of short-term enrollees (almost seen across large numbers will be applica-
+50 percent) in the welfare and poverty- ble to current enrollees in these eligibility
+related groups in Mississippi and the groups. Finally, the availability of only 1
+apparent unpredictable nature of their year of data meant we tested only concur-
+expenses appears to limit that State’s abili- rent and retrospective adjustment—risk
+ty to set accurate rates. adjusters would not work as well prospec-
+Mississippi has had historically high tively as our analysis implies.
+poverty rates, and high unemployment as While we only examine three States,
+well as relatively low Medicaid eligibility Medicaid policy does require State-specific
+levels. This means there are relatively information. Further, the differences seen
+more poor, likely uninsured, families that here across States are informative. Our
+cannot qualify for Medicaid until they lose finding that even the younger females and
+whatever source of income they may have, children in Medicaid have a higher case
+develop severe health problems, or become mix than privately insured in southern
+pregnant. Our data show there is signifi- States, but not in California implies that the
+cantly more turnover, or at least short-term privately insured not enrolled in an HMO
+enrollees, in this State as well. This would in California may be less healthy. While
+indicate there is a significant movement of this might lead us to conclude that
+needy, perhaps less healthy, enrollees in California can more easily attract commer-
+and out of the Mississippi Medicaid cial plans into Medi-Cal markets, it is likely
+Program. While this deserves further that the differences in Medicaid managed
+attention, we do not find the results incon- care across our States is due to a more fun-
+sistent with this State’s background. To damental issue. When Georgia and Missis-
+the extent these are pregnant females sippi tested capitated managed care, for
+enrolling late in their pregnancy, Mississippi example, enrollment was voluntary and
+(along with other States) can use supple- plans were not able to enroll sufficient
+mental or other payment adjustments to numbers to remain viable.
+deal with these expenses (Holahan et al., Even if these States move to mandatory
+1999). Medicaid managed care, however, plans
+We note several study limitations. First, will make decisions regarding the
+we have only examined the ACG system. Medicaid market based on relative health
+While it performed comparably to others risks and expected costs across the public
+in predictive accuracy (Dunn et al., 1996), and private sectors. The private sector
+some note that the ACG system separates does not generally view risk adjustment as
+the very healthy from the sick but may not warranted, given its costs and payment
+distinguish well among persons with dif- errors in the 5-7 percent range (Rogal and
+ferent degrees of illness (Kronick et al., Gauthier, 1998). This may not hold for
+HEALTH CARE FINANCING REVIEW/Fall 2002/Volume 24, Number 1 59
+
+=== PÁGINA 18 ===
+Medicaid markets, however, where profit Goldstein, A.: Many Doctors in Few Places: Where
+margins are lower (Felt-Lisk, 1999). Doctors Work. The Washington Postp. A1, July 31,
+1994.
+Medicaid agencies in these States should
+Hart, L.G., Wagner, E., Pirzada, S. et al.: Physician
+consider how attractive their rates would
+Staffing Ratios in Staff-Model HMOs: A Cautionary
+be under the limitations imposed by cur- Tale. Health Affairs 16(1):55-70, January/February,
+rent Federal policy (Holahan et al., 1999) 1997.
+and the higher case-mix found here for Holahan, J., Rangarajan, S., and Schirmer, M.:
+their Medicaid enrollees. Medicaid Managed Care Payment Rates in 1998.
+Health Affairs 18(3):217-227, May/June, 1999.
+Kasarda, J.D.: Inner-City Concentrated Poverty and
+REFERENCES
+Neighborhood Distress: 1970 to 1990. Housing
+Policy Debate 4(3):253-302, 1993.
+Adams, E.K., Bronstein, J.M., and Becker, E.R.:
+Kronick, R., Dreyfus, T., Lee, L., and Zhou, Z.:
+Medi-Cal and Managed Care: Risk, Costs and
+Diagnostic Risk Adjustment for Medicaid: The
+Regional Variation. Monograph, ISBN:1-58213-056-
+Disability Payment System. Health Care Financing
+6. Public Policy Institute of California.
+Review17(3):7-33, Spring 1996.
+San Francisco, CA. 2000.
+Kronick, R., Gilmer, T., Dreyfus, T., and Lee, L.:
+Adams, E.K., Bronstein, J.M., Becker, E.R., and
+Improving Health-Based Payment for Medicaid
+Raskind-Hood, C.: Payment Levels, Resource Use
+Beneficiaries: CDPS. Health Care Financing Review
+and Insurance Risk of Medicaid versus Private
+21(3):29-64, Spring 2000.
+Insured in Three States. Journal of Health Care
+Finance28(1):1-21, 2001. Newhouse, J.P., Sloss, E.M., Manning, W.G., and
+Keeler, E.B.: Risk Adjustment for a Children’s
+California Department of Health Services, MediCal
+Capitation Rate. Health Care Financing Review
+Policy Division, personal communication. Sacramento,
+15(1)39-54, Fall 1993.
+California. July 22, 2002.
+McCue, M.J., Hurley, R.J., Draper, D.A. and
+Carrasquillo, O., Himmelstein, D.U., Woolhandler, S.,
+Jurgensen, M.: Reversal of Fortune: Commercial
+and Bor, D.H.: Can Medicaid Managed Care
+HMOs in the Medicaid Market. Health Affairs
+Provide Continuity of Care to New Medicaid
+18(1):223-230, January/February, 1999.
+Enrollees? An Analysis of Tenure on Medicaid.
+American Journal of Public Health 88(3): 464-466, Regenstein, M., and Schroer, S.: Medicaid Managed
+March, 1998. Care for Persons with Disabilities: State Profiles. The
+Henry J. Kaiser Foundation. Washington, DC.
+Dunn, D.L., Rosenblat, A., Taira, D.A. et al.: A
+December 1998.
+Comparative Analysis of Methods of Health Risk
+Assessment. SOA Monograph M-HB96-1, Society of Rogal, D.L., and Gauthier, A.K.: Are Health-Based
+Actuaries. 1996. Payments a Feasible Tool for Addressing Risk
+Segmentation? Inquiry35(2):115-121, Summer 1998.
+Ellis, R.P., Pope, G.C., Iezzoni, L.I. et al.: Diagnosis-
+Based Risk Adjustment for Medicare Capitation Schwalberg, R.: The Development of Capitation
+Payments. Health Care Financing Review. 17(3): Rates Under Medicaid Managed Care Programs: A
+101-128, Spring 1996. Pilot Study. Vol. 1: Summary and Analysis of
+Findings. The Henry J. Kaiser Foundation.
+Felt-Lisk, S.: The Changing Medicaid Managed
+Washington, DC. November 1997.
+Care Market: Trends in Commercial Plans’
+Participation. The Kaiser Commission on Medicaid Weiner, J.P., Starfield, B., Steinwachs, D., and
+and the Uninsured. The Henry J. Kaiser Family Mumford, L.: Development and Application of a
+Foundation. Washington DC. 1999. Population-Oriented Measure of Ambulatory Care
+Case-Mix. Medical Care29(5):452-72, 1991:
+Forbes, A., Bowser, C., Cabrey, M., and Tortu, D.:
+Pennsylvania’s Medicaid Managed Care Unravels Weiner, J.P., Tucker, A.M., Collins, A.M., et al.: The
+as Providers Flee. State Health Watch 5(10):7-9 Development of a Risk-Adjusted Capitation
+October 1998. Payment System: The Maryland Medicaid Model.
+Journal of Ambulatory Care Management. 21(4):29-
+Fowler, E.J., and Anderson, G.F.: Capitation Adjustment
+52, October 1998.
+for Pediatric Populations, Pediatrics 98(1):10-17,
+July, 1996.
+60 HEALTH CARE FINANCING REVIEW/Fall 2002/Volume 24, Number 1
+
+=== PÁGINA 19 ===
+Welch, W. P., and Wade, M.: The Relative Cost of
+Medicaid Enrollees and the Commercially Insured
+in HMOs. Datawatch14(2):212-223, Summer 1995.
+Zuckerman, S., Coughlin, T., Nichols, L., et al.:
+Health Policy for Low-Income People in California.
+The Urban Institute, Washington, DC., August
+1998.
+Reprint Requests: E. Kathleen Adams, Ph.D., Associate
+Professor, Rollins School of Public Health, Room 656, 1518
+Clifton Road NE., Atlanta, GA. 30322. E-mail: eadam01@
+sph.emory.edu
+HEALTH CARE FINANCING REVIEW/Fall 2002/Volume 24, Number 1 61

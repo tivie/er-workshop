@@ -1,0 +1,808 @@
+# Fonte: Chang Weiner 2010 Application of the Johns Hopkins ACG case-mix system in Taiwan (BMC Medicine).pdf
+# Páginas: 13
+
+=== PÁGINA 1 ===
+ChangandWeinerBMCMedicine2010,8:7
+http://www.biomedcentral.com/1741-7015/8/7
+RESEARCH ARTICLE Open Access
+An in-depth assessment of a diagnosis-based risk
+adjustment model based on national health
+insurance claims: the application of the Johns
+Hopkins Adjusted Clinical Group case-mix system
+in Taiwan
+Hsien-Yen Chang*, Jonathan P Weiner
+Abstract
+Background: Diagnosis-based risk adjustment is becoming an important issue globally as a result of its
+implications for payment, high-risk predictive modelling and provider performance assessment. The Taiwanese
+National Health Insurance (NHI) programme provides universal coverage and maintains a single national
+computerized claims database, which enables the application of diagnosis-based risk adjustment. However,
+research regarding risk adjustment is limited. This study aims to examine the performance of the Adjusted Clinical
+Group (ACG) case-mix system using claims-based diagnosis information from the Taiwanese NHI programme.
+Methods: A random sample of NHI enrollees was selected. Those continuously enrolled in 2002 were included for
+concurrent analyses (n = 173,234), while those in both 2002 and 2003 were included for prospective analyses (n =
+164,562). Health status measures derived from 2002 diagnoses were used to explain the 2002 and 2003 health
+expenditure. A multivariate linear regression model was adopted after comparing the performance of seven
+different statistical models. Split-validation was performed in order to avoid overfitting. The performance measures
+were adjusted R2 and mean absolute prediction error of five types of expenditure at individual level, and predictive
+ratio of total expenditure at group level.
+Results: The more comprehensive models performed better when used for explaining resource utilization.
+Adjusted R2 of total expenditure in concurrent/prospective analyses were 4.2%/4.4% in the demographic model,
+15%/10% in the ACGs or ADGs (Aggregated Diagnosis Group) model, and 40%/22% in the models containing EDCs
+(Expanded Diagnosis Cluster). When predicting expenditure for groups based on expenditure quintiles, all models
+underpredicted the highest expenditure group and overpredicted the four other groups. For groups based on
+morbidity burden, the ACGs model had the best performance overall.
+Conclusions: Given the widespread availability of claims data and the superior explanatory power of claims-based
+risk adjustment models over demographics-only models, Taiwan’s government should consider using claims-based
+models for policy-relevant applications. The performance of the ACG case-mix system in Taiwan was comparable to
+that found in other countries. This suggested that the ACG system could be applied to Taiwan’s NHI even though
+it was originally developed in the USA. Many of the findings in this paper are likely to be relevant to other
+diagnosis-based risk adjustment methodologies.
+*Correspondence:hchang2@jhsph.edu
+DepartmentofHealthPolicy&Management,BloombergSchoolofPublic
+Health,JohnsHopkinsUniversity,624NBroadwaySt,Baltimore,MD21205,
+USA
+©2010ChangandWeiner;licenseeBioMedCentralLtd.ThisisanOpenAccessarticledistributedunderthetermsoftheCreative
+CommonsAttributionLicense(http://creativecommons.org/licenses/by/2.0),whichpermitsunrestricteduse,distribution,and
+reproductioninanymedium,providedtheoriginalworkisproperlycited.
+
+=== PÁGINA 2 ===
+ChangandWeinerBMCMedicine2010,8:7 Page2of13
+http://www.biomedcentral.com/1741-7015/8/7
+Background comprehensive, including inpatient and outpatient ser-
+Risk adjustment has become an increasingly important vices, pharmacy services, Chinese medicine and dental
+toolinhealthcarearoundtheglobe.Itisbeingextensively services. Beneficiaries have complete freedom of choice
+applied to provider performance assessment [1-3], high of providers and therapies, and they do not need to go
+risk predictive modelling for disease management [4-6] through ‘gatekeepers’ in order to obtain medical services
+and payment adjustment [7-10]. Through these applica- from specialists. The primary source of funding for the
+tionsthebroadergoalsofequity,efficiencyandimproved NHI is the payment of premiums shared by the insured,
+outcomesmaybeachievedinahealthcaresystem.Health the employers and the government. In terms of reim-
+indicatorsthatareoftenusedforriskadjustmentinclude bursement, the global budget payment system was
+demographicfactors,subjective/self-reportedhealthstatus adopted in order to contain the growth of medical
+[11,12],biomedicalclinicalindicators[13,14],priorexpen- expenditure. Within budget limits, the NHI reimburses
+diture[15,16]andclaims-basedmorbidityburdenindica- contracted providers mostly on a fee-for-service basis,
+tors(using diagnostic codes [17,18] or medication codes using uniform national fee schedules. Entering the sec-
+[9,19-21]). Even though demographic factors are most ond decade, reform of Taiwan’s NHI has focused on
+often used given the availability of the data, both prior- three aspects: quality improvement; financial balance;
+expenditure and claims-based health indicators perform and expansion of social participation. In order to
+muchbetterthandemographicfactors[8,9,13,14,16,19,22]. achieve the first two goals, the implementation of risk
+However, since risk adjustment models are usually adjustment is crucial [33].
+adoptedforpaymentadjustment,modelsusingdiagnosis Diagnosis-based risk adjustment is still a very new
+and/or pharmacy data are preferred as prior use models concept in Asia and all existing risk adjustment technol-
+couldofferinappropriateincentivestoincreaseservicesin ogies were developed using claims data from Western
+ordertoreceivehigherpayments.Diagnosisand/orphar- countries. Several studies evaluated their performance in
+macy-basedriskadjustmentmodelshave beendeveloped Taiwan [34,35]. However, they were either methodologi-
+and gradually adopted in Canada, the USA and Europe cally limited (for example, split-validation was not per-
+[9,23-29]. formed), only reported a single measure at individual
+The Johns Hopkins Adjusted Clinical Group (ACG) level (R2), or simply focused on total expenditure. Given
+system is a comprehensive risk adjustment software that that diagnosis-based risk adjustment has different impli-
+incorporates diagnosis information, pharmacy informa- cations at individual and group level (such as budget
+tion, or both, to capture an individual’s morbidity bur- allocation) and across different types of expenditures, it
+den [23,24,30]; ACG actuarial cells and Aggregated is necessary to thoroughly examine risk adjustment
+Diagnosis Group (ADG) binary morbidity markers have models before they can be directly applied in Taiwan. In
+been extensively examined in the USA [8,16], Canada addition, in most cases, previous evaluations of risk
+[31] and other European countries [32]. However, adjustment models have used regional datasets or
+Expanded Diagnosis Clusters (EDCs), another output of focused only on sub-population. Taiwan is one of very
+the ACG system, have not been assessed carefully in few health care systems in the world which has universal
+terms of performance on risk adjustment. EDCs are bin- coverage and a single national computerized database
+ary indicators which show whether or not an individual that includes medical diagnosis information on almost
+has specific diseases/symptoms. It has been shown that 100% of the population. For this reason the results of
+a substantial fraction of health costs resulted from the this paper have potential policy and methodology impli-
+treatment of a relatively small number of common, but cations for most other high or middle income nations.
+expensive, chronic diseases [15]. Therefore, our supposi- In this paper we aimed to assess the performance of
+tion is that the basic ACG models can be improved the ACG system using Taiwan’s NHI claims data and to
+upon by the inclusion of selected disease conditions evaluate how adding EDCs could affect the performance
+(represented by EDCs) [17]. of the ACG system.
+Taiwan launched a government-run, single-payer
+National Health Insurance (NHI) programme in May Methods
+1995. All Taiwanese nationals are obligated by law to Data sources
+join this programme to ensure adequate risk pooling. The source of the data was a longitudinal dataset pre-
+Under the jurisdiction of the national government’s pared by Taiwan’s BNHI, which is available for research-
+Department of Health, the NHI is administered by the ers interested in observing longitudinal changes of
+Bureau of National Health Insurance (BNHI) and six medical utilization. Individuals’ identifiers in this dataset
+regional branches are in charge of administrating the have been encrypted in order to protect privacy and
+NHI in each area. The NHI’s benefit packages are confidentiality, and this study has been approved by the
+
+=== PÁGINA 3 ===
+ChangandWeinerBMCMedicine2010,8:7 Page3of13
+http://www.biomedcentral.com/1741-7015/8/7
+Johns Hopkins School of Public Health Institutional ADG is a grouping of diagnosis codes similar in terms
+Review Board. This dataset contained enrollment and of severity and likelihood of persistence of the health
+claims files of a randomly chosen 1% of Taiwan’s popu- condition treated over a relevant period of time, typi-
+lation (about 200,000 individuals). The enrollment files cally 1 year. ADGs are not mutually exclusive and indi-
+contained individual subscription information and viduals can have multiple ADGs (up to 32). Individuals
+demographic factors, including sex, date of birth, type of are then placed into one of 93 discrete ACG categories
+beneficiaries and location. The claims files contained according to their assigned ADGs, age and sex. The
+comprehensive records of inpatient care, ambulatory result is that individuals within a given ACG experi-
+care, pharmacy store, dental care and Chinese medicine enced a similar pattern of morbidity and resource con-
+services, including date of service, ICD-9-CM (Interna- sumption. The Johns Hopkins EDC methodology assigns
+tional Classification of Diseases) diagnosis codes, each ICD code to a single disease category or EDC;
+claimed medical expenses and the amount of co-pay- there are 264 EDCs in total. ICD codes within an EDC
+ment for each encounter. The requirement was 12- share similar clinical characteristics and are expected to
+months enrollment in year 2002 for concurrent analyses, induce similar types of diagnostic and therapeutic
+while 24 months enrollment in years 2002 and 2003 responses.
+were required for prospective analyses. The final sample
+size was 173,234 in the concurrent and 164,562 in pro- Measuring predictive performance
+spective analyses. The following risk adjustment models (from the sim-
+Annual health expenditures were aggregated from all plest to the most comprehensive) were used to explain
+inpatient, outpatient and pharmacy store claimed five types of expenditure (total, inpatient, outpatient,
+expenses for every enrollee, including claimed reimbur- medical and drug), both concurrently and prospectively:
+sement, medication expenses and co-payments; expenses
+for dental care and Chinese medicine were excluded 1. Demographics only,
+from this aggregation. The total expenditure could be 2. ACGs only,
+further divided into inpatient/outpatient/pharmacy store 3. ADGs with demographics,
+expenditure, or medical/drug/pharmacy service expendi- 4. ADGs plus selected EDCs with demographics, and
+ture. Given that pharmacy store and pharmacy service 5. Full EDCs with demographics.
+expenditure was very small (each accounted for less
+than 2.5% of the total expenditure), results of both cate- Selected EDCs were derived from the results of step-
+gories were not reported. The 2002 expenditure was wise analyses using all EDCs (Additional file 1) and the
+used for concurrent analyses while year 2003 expendi- final set of selected EDCs were different in concurrent
+ture was used for prospective analyses. The unit of (33 EDCs) and prospective analyses (19 EDCs). As
+money in Taiwan is the New Taiwan Dollar (NTD); the expenditure is a non-negative variable, negative pre-
+exchange rate is about 32 NTD: 1 US dollar as of dicted expenditures from models were set at zero.
+November 2009. Demographic factors included: sex; The performance of five risk adjustment models was
+type of beneficiaries (insured or dependent); categorical evaluated at two levels: adjusted R2 and mean absolute
+age (0-17, 18-34, 35-49, 50-64, 65+); insurance category prediction error (MAPE) [22,36] at individual level, and
+(based on insured’s type of job); residence (three levels predictive ratio (PR) at group level. MAPE was the aver-
+with different degrees of population density); and local- age of all absolute differences between the observed and
+ity (six regions: Taipei, Northern, Central, Southern, the predicted. MAPEs of different types of expenditure
+Kao-Ping and Eastern). Diagnosis-based risk adjustment were divided by their respective means so that results
+factors, including ACGs, ADGs and EDCs, were derived on different types of expenditures could be compared.
+from the ACG case-mix system (Version 7.1) using the PR was calculated by dividing mean predicted expendi-
+individuals’ overall ICD-9-CM codes from both inpatient ture by mean actual expenditure within a selected group
+and outpatient records in 2002 (diagnosis codes from of subjects. The model performed better if R2 was lar-
+dental care and Chinese medicine were excluded). ger, MAPE was smaller and the PR was closer to one.
+Split analysis was performed (a randomly selected 70%
+The ACG risk adjustment system of study subjects were used for model development
+ACG actuarial cells are mutually exclusive health status while the rest was set aside for model validation), and
+categories defined by morbidity pattern, age and sex. measures of model performance were obtained from the
+The ACG system assigns all ICD-9-CM codes to one of validation set to avoid overfitting.
+32 diagnostic clusters (ADGs) based on five clinical Among these three indicators, R2 was easily influenced
+dimensions: duration; severity; diagnostic certainty; by outliers [37]. Therefore, three models with different
+aetiology; and specialty care involvement [23,24]. Each levels of truncation were performed in order to reduce
+
+=== PÁGINA 4 ===
+ChangandWeinerBMCMedicine2010,8:7 Page4of13
+http://www.biomedcentral.com/1741-7015/8/7
+the influence of outliers: no truncation (raw expendi- full EDCs model explained roughly 40% of variances in
+ture); truncation at two standard deviations above mean the total expenditure. In prospective analyses, the demo-
+of log expenditure plus one; and truncation at the top graphic model explained 4%, the ACGs and ADGs mod-
+0.5%. Definitions of groups used to calculate PR els explained about 10%, the ADGs plus selected EDCs
+included actual total expenditure quintiles, disease bur- model and full EDCs model explained over 20% of var-
+den and age/sex group. Disease burden was classified iances. In concurrent analyses, the adjusted R2 of medi-
+into six categories from very low to very high morbidity cal expenditures was much higher than pharmacy
+and was also based on an output of the ACG system. In expenditure across all models. In the prospective ana-
+concurrent analyses, group classification could only be lyses, the adjusted R2 of medical expenditure was only
+based on the 2002 (current) information; in prospective higher among the two EDCs-related models while com-
+analyses, however, group classification could be based parable in other models. In addition, in concurrent ana-
+on either the 2002 (prior) or the 2003 (current) lyses, the adjusted R2 of outpatient expenditures was
+information. slightly higher in simpler models while comparable to
+that of inpatient expenditure in the two EDC-related
+Statistical analysis models. In prospective analyses, the adjusted R2 of out-
+All statistical analyses were conducted using SAS™ soft- patient expenditure was always higher across all models.
+ware version 9.1. Several statistical methods had been Comparing adjusted R2 of concurrent and prospective
+proposed for the analysis of expenditure and no single analyses, it was found that the lower adjusted R2 of total
+method was seen to be the best under different condi- expenditure in prospective analyses was the result of the
+tions examined in these studies [38-40]. Comparisons of lower prospective adjusted R2 of medical and inpatient
+these statistical models for the explanation of expendi- expenditure (the adjusted R2 of pharmacy and outpati-
+ture are presented in Additional file 2. In this study, ent expenditure from both concurrent and prospective
+given the very high R2, the comparable MAPE, the stan- analyses was similar).
+dard approach usually adopted in studies involving risk In both concurrent and prospective analyses, trunca-
+adjustment [41,42] and a very large sample size [16], the tion increased adjusted R2 across all types of expendi-
+ordinary least squares (OLS) regression model was used. ture, especially in pharmacy and outpatient expenditure.
+The only exception was that the adjusted R2 of prospec-
+Results tive medical expenditure in the EDC-related models
+Characteristics of the population (Table 1) remained the same after truncation. After truncation,
+The distribution of demographic factors and medical the adjusted R2 was higher in pharmacy expenditure
+utilization was similar among all subjects included in (compared to medical expenditure) and outpatient
+concurrent and prospective analyses. About half of the expenditure (relative to inpatient expenditure), and the
+study subjects were male and 40% were the insured. differences of adjusted R2 (pharmacy/medical expendi-
+The mean age in 2002 was 35 years and 10% were ture and inpatient/outpatient expenditure) were much
+elderly. About one-third lived in the areas within the larger in prospective analyses. We also found that the
+Taipei Branch, while only 2% were from the Eastern adjusted R2 of pharmacy expenditure increased the most
+Branch. About 65% were living in rural county areas. after truncation. In addition, it also showed that the
+Only 10% had not made any outpatient visit, while 8% more the number of observations truncated, the higher
+had at least one inpatient stay. About 90% had non-zero the adjusted R2. After truncation at the top 0.5%, the
+total expenditure and a similar percentage had non-zero adjusted R2 of total expenditure in two EDCs models,
+drug expenditure. The 2003 expenditure of the prospec- increased from 40% to 53% in concurrent analyses and
+tive sample were about the same as the 2002 expendi- from 22% to 29% in prospective analyses; such an
+ture of the concurrent sample. Mean total expenditure increase was larger in concurrent analyses.
+was about 14,500 NTDs, among which medical expendi- Adjusted R2 was different between the elderly and
+ture (10,000 NTDs) was much higher than pharmacy non-elderly group (Table 4). In concurrent analyses, the
+expenditure (4000 NTDs). Outpatient expenditure (9500 adjusted R2 in four ACG-related risk adjustment models
+NTDs) was also much higher than inpatient expenditure was always larger in the elderly population, with the
+(4800 NTDs). exception of the adjusted R2 of outpatient expenditure
+from the two EDCs models. The biggest difference was
+Proportion of total variance explained bythe models the adjusted R2 of inpatient expenditure. It was about
+(adjusted R2) (Tables 2 and 3) 20 percentile larger in the elderly population in the
+In concurrent analyses, the demographic model EDC-related models. The adjusted R2 of total expendi-
+explained 4%, the ACGs and ADGs models explained ture in the non-elderly population ranged from 1.4% in
+about 15%, the ADGs plus selected EDCs model and the demographic model to 33% in the EDCs-related
+
+=== PÁGINA 5 ===
+ChangandWeinerBMCMedicine2010,8:7 Page5of13
+http://www.biomedcentral.com/1741-7015/8/7
+Table 1Characteristics ofthe Taiwanese population for Mean absolute prediction error (%) (Tables 2 and 3)
+concurrent andprospective analyses In concurrent analyses, MAPE of total expenditure in
+Concurrent Prospective the demographic model was 109%; that from the ACG
+Inclusioncriteria 200212month 2002&200324 model was 87%, which was better than the ADGs model
+enrollment monthenrollment (94%), and the MAPEs from the two EDC-related mod-
+No.ofobservations 173,234 164,562 els were roughly the same (78%). In the prospective ana-
+Male 50.16% 49.35% lyses, the MAPE of total expenditure in the
+Insured 40.77% 40.93% demographic model was 112%. Those of the ACG and
+Agein2002 34.86 34.98 ADG models were close (103%), while the MAPEs of
+Agegroupin2002 the two EDCs-related models were about 96%. Both
+0-17 23.29% 23.84% concurrent and prospective analyses showed that
+18-34 28.22% 26.83% MAPEs were the smallest in outpatient expenditures,
+35-49 24.96% 25.51% then total, pharmacy, and medical expenditures, while
+50-64 13.83% 14.19% the largest MAPEs were from inpatient expenditures.
+65+ 9.70% 9.62% MAPEs of outpatient expenditures were about half of
+BureauofNationalHealth those from inpatient expenditures across all models. In
+Insurancebranch addition, MAPEs were smaller in concurrent analyses
+Taipei 32.68% 32.52% than in prospective analyses.
+North 14.84% 14.81%
+Central 19.78% 19.94% Predictive ratio (PR) (Tables 5 and 6)
+Southern 14.24% 14.42% Expenditure levels by quintiles
+Kao-Pin 16.10% 16.03% All models underpredicted total expenditure in the high-
+Eastern 2.32% 2.27% est quintile group while expenditure was overpredicted
+Residencelevel in the four other groups. When groups were defined
+Specialmunicipality 21.66% 21.31% based on current information (2002 expenditure for the
+City 14.94% 15.13% concurrent and 2003 expenditure for the prospective
+County 63.37% 63.56% analyses), PR decreased from the lowest to the highest
+Medicalutilization Year2002 Year2003 quintile group. There was an especially large drop mov-
+1+Outpatientvisit/ 89.99% 89.71% ing from the lowest to the second lowest group. Among
+expenditure
+the current classification, PR was smaller in concurrent
+1+Inpatientvisit/expenditure 8.04% 7.17%
+than prospective analyses. When groups were defined
+1+Drugexpenditure 89.46% 87.77%
+using prior classification (in prospective analyses only),
+1+Totalexpenditure 90.38% 90.05%
+the decreasing trend was not clear and PR was much
+Totalexpenditure(NTD/ 14,279 14,741
+smaller. In general, comprehensive models usually per-
+year)*
+formed better than simpler models and the demographic
+Medicalexpenditure(NTD/ 9,968 10,214
+year)* model performed much worse than the other models.
+Pharmacyexpenditure 3,912 4,108 Morbidity status
+(NTD/year)* Overall, comprehensive models tended to perform better
+Inpatientexpenditure(NTD/ 4,781 4,788 with the exception of the ACG model. The ACG model
+year)*
+performed far better than all other models in concurrent
+Outpatientexpenditure 9,245 9,577
+analyses. PR of people with the lowest morbidity burden
+(NTD/year)*
+was only about 0.9 in the ACG model but was more
+1USdollar=32NewTaiwandollar(NTD)asofNovember2009
+than 100 in the other models. Similarly, all models
+tended to overpredict the total expenditure for people
+models, while in the elderly population it was from 0.4%
+with the lower morbidity burden, who had lower total
+to 45%. In the prospective analyses, the adjusted R2 in
+expenditure, while underpredicted expenditure for peo-
+the elder population was only larger in pharmacy expen-
+ple with higher morbidity burden (hence higher total
+diture, while smaller or similar in all other expenditure.
+expenditure). There was no decreasing trend for PR
+The adjusted R2 in the non-elderly population ranged
+other than that in the demographic model or current
+from 1.7% in the demographic model to 22% in the
+classification in prospective analyses. PR based on cur-
+EDC-related models, while in the elderly population it
+rent classification usually deviated further from 1 in pro-
+was from 0.3% to 16%. Demographic models performed
+spective than in concurrent analyses. PR based on prior
+badly in the elderly population in both prospective and
+classification was much better than that on current
+concurrent analyses.
+
+=== PÁGINA 6 ===
+ChangandWeinerBMCMedicine2010,8:7 Page6of13
+http://www.biomedcentral.com/1741-7015/8/7
+Table 2Concurrentadjusted R-squared andmean absolute prediction errorofalternate riskfactors anddifferent
+categories ofexpenditure.
+Totalexpenditure Typeofexpenditure Sourceofexpenditure
+Medical Pharmacy Inpatient Outpatient
+R2:(1)rawexpenditure
+Demographics-only 0.0421 0.0305 0.0266 0.0132 0.0477
+ACGs 0.1486 0.1319 0.0597 0.0894 0.1107
+ADGsanddemographics 0.1709 0.1435 0.0848 0.0976 0.1342
+ADGs,33EDCsanddemographics 0.3895 0.3938 0.155 0.3053 0.3156
+264EDCsanddemographics 0.3972 0.3993 0.1638 0.3191 0.3216
+R2:(2)expendituretruncatedat2standarddeviationsabovemeanoflog(expenditure+1)
+Truncatedcriterion 595,431 339,360 86,013 262,810 449,657
+%oftruncatedcases 0.24% 0.33% 0.32% 0.33% 0.15%
+Demographics-only 0.0701 0.0545 0.1664 0.0299 0.0855
+ACGs 0.2275 0.2265 0.3012 0.1753 0.1935
+ADGsanddemographics 0.2599 0.2523 0.3843 0.1919 0.2323
+ADGs,33EDCsanddemographics 0.4825 0.4492 0.4738 0.3643 0.4321
+264EDCsanddemographics 0.4969 0.4695 0.5238 0.3994 0.4409
+R2:(3)expendituretruncatedattop0.5%
+Truncatedcriterion 333,235 250,144 70,948 193,296 115,412
+%oftruncatedcases 0.47% 0.48% 0.44% 0.51% 0.45%
+Demographics-only 0.0963 0.0629 0.1785 0.0323 0.1836
+ACGs 0.298 0.2576 0.3162 0.1845 0.402
+ADGsanddemographics 0.3419 0.2873 0.4032 0.2051 0.4767
+ADGs,33EDCsanddemographics 0.517 0.4618 0.4855 0.3626 0.5539
+264EDCsanddemographics 0.5414 0.488 0.5377 0.4021 0.588
+Meanabsolutepredictionerror:rawexpenditure
+Demographics-only 109.19% 118.23% 111.02% 174.62% 94.09%
+ACGs 86.72% 94.69% 93.40% 144.80% 74.21%
+ADGsanddemographics 94.42% 105.85% 95.91% 164.70% 75.33%
+ADGs,33EDCsanddemographics 77.93% 86.17% 87.61% 133.71% 68.89%
+264EDCsanddemographics 77.57% 87.51% 83.40% 133.32% 68.34%
+Numberinstudysample(validationonly):51,970
+classification, probably because the difference in mean models and 40%/22% in the models containing EDCs.
+expenditures across groups was much smaller. The adjusted R2 of medical/outpatient expenditure was
+Age/sex group always larger than that of pharmacy/inpatient expendi-
+Comprehensive models tended to perform better. ture. The performance of the ADGs plus selected EDCs
+Among younger groups, PR deviated further from 1 in models was comparable to that of the full EDCs model.
+females. However, among elder groups, on the contrary, When predicting expenditure for groups based on
+deviation was larger in males. Overall, PR was closer to expenditure quintiles, all models underpredicted the
+1 in male compared to the female groups in both con- highest group while overpredicting the other four
+current and prospective analyses. In addition, there was groups. For population sub-groups selected on morbid-
+a tendency for all models to overpredict total expendi- ity burden, however, the ACGs model had the best per-
+ture in the elder groups while underpredicting in the formance overall.
+younger groups in both genders, especially in prospec- The prerequisite for adopting diagnosis-based risk
+tive analyses and simpler models. adjustment models is that individuals’ diagnosis infor-
+mation has to be complete and available. Given the con-
+Discussion sistently high enrollment rate (99% by the end of 2006
+We found that the adjusted R2 of total expenditures in [43]), the high NHI-contracted rate of providers (above
+concurrent/prospective analyses was about 4% in the 90% [43,44]), a comprehensive benefit package and the
+demographic model, 15%/10% in the ACGs or ADGs centralization of claims data, diagnosis information
+
+=== PÁGINA 7 ===
+ChangandWeinerBMCMedicine2010,8:7 Page7of13
+http://www.biomedcentral.com/1741-7015/8/7
+Table 3Prospective adjusted R2 andmean absolute prediction error ofalternate riskfactorsanddifferent categories
+ofexpenditure.
+Totalexpenditure Typeofexpenditure Sourceofexpenditure
+Medical Pharmacy Inpatient Outpatient
+R2:(1)rawexpenditure
+Demographics-only 0.0442 0.0308 0.0323 0.0146 0.0435
+ACGs 0.0853 0.0643 0.0531 0.0312 0.0833
+ADGsanddemographics 0.1014 0.0714 0.0752 0.0353 0.1022
+ADGs,19EDCsanddemographics 0.2194 0.2154 0.1310 0.0797 0.3285
+264EDCsanddemographics 0.2250 0.2196 0.1481 0.0842 0.3281
+R2:(2)expendituretruncatedat2standarddeviationabovemeanoflog(rawexpenditure+1)
+Truncatedcriterion 618,385 344,754 98,239 294,026 462,867
+%oftruncatedcases 0.27% 0.37% 0.32% 0.29% 0.19%
+Demographics-only 0.0635 0.0516 0.1489 0.0281 0.0710
+ACGs 0.1187 0.1015 0.2202 0.0562 0.1305
+ADGsanddemographics 0.1427 0.1179 0.2943 0.0661 0.1594
+ADGs,19EDCsanddemographics 0.2746 0.2130 0.3483 0.0902 0.3670
+264EDCsanddemographics 0.2830 0.2193 0.3972 0.0989 0.3740
+R2:(3)expendituretruncatedattop0.5%
+Truncatedcriterion 356,940 276,041 74,088 194,860 124,309
+%oftruncatedcases 0.49% 0.48% 0.47% 0.50% 0.48%
+Demographics-only 0.0889 0.0579 0.1662 0.0326 0.1664
+ACGs 0.1580 0.1126 0.2427 0.0611 0.2819
+ADGsanddemographics 0.1920 0.1310 0.3227 0.0728 0.3454
+ADGs,19EDCsanddemographics 0.2814 0.2105 0.3814 0.0935 0.4207
+264EDCsanddemographics 0.2960 0.2177 0.4283 0.1031 0.4495
+Meanabsolutepredictionerror:rawexpenditure
+Demographics-only 111.76% 120.43% 115.22% 180.28% 97.42%
+ACGs 102.21% 112.01% 105.59% 172.66% 87.81%
+ADGsanddemographics 103.64% 115.56% 104.12% 175.53% 87.85%
+ADGs,19EDCsanddemographics 95.83% 106.84% 97.97% 170.66% 80.84%
+264EDCsanddemographics 96.52% 108.51% 97.30% 172.85% 81.81%
+Numberofstudysample(validationonly):49,369.
+should be able to capture an individual’s morbidity 18.62 and 18.20, respectively. Given this slight variation,
+information and is readily available in Taiwan. Among it seemed that the increased coding was not likely to be
+the 1.25 million unique diagnoses encountered by a problem for this study.
+173,234 subjects, only 0.393% were non-grouped and Several risk adjusters have been evaluated in Taiwan,
+0.78% were unknown to the ACG system. Given the including catastrophic disease status [45], prior utiliza-
+very small number in both cases, it provided face valid- tion [45-48], diagnosis-based models [45-47,49,50] and
+ity in the quality of diagnosis and the ability of the ACG pharmacy-based models [34,51]. It was found that prior
+system to process claims data in Taiwan. utilization yielded the highest R2. Diagnosis-based mod-
+One possible weakness of the study is that the coding els performed better than pharmacy-based models, while
+may have improved over the study years so that people the catastrophic disease status was somewhat less effi-
+with the same condition had more complete ICD codes cient than the pharmacy-based models. The ACG sys-
+reported if they used medical services during a latter tem has been examined in several studies [35,49,50,52].
+period. Therefore, we examined the number of ICD Given the difference in the truncation levels, statistical
+codes reported for each person from 2000 to 2003. If methods and how expenditure was calculated, it was dif-
+the number did not differ very much, it would imply ficult to make direct comparisons. However, the general
+that the improved coding might not be a problem for findings that the ACGs/ADGs categorical model did not
+this analysis. The numbers of ICD codes assigned to perform as well as other claims-based risk adjustment
+each patient from year 2000 to 2003 were: 17.86, 18.07, models that document individual diseases (such as the
+
+=== PÁGINA 8 ===
+ChangandWeinerBMCMedicine2010,8:7 Page8of13
+http://www.biomedcentral.com/1741-7015/8/7
+Table 4Concurrentand prospective adjusted R-Squared ofrawexpenditures by two age groups.
+Totalexpenditure Typeofexpenditure Sourceofexpenditure
+Medical Pharmacy Inpatient Outpatient
+Concurrentanalyses
+Thenon-elderlypopulation(N=46,895)
+Demographics-only 0.014 0.012 0.006 0.004 0.018
+ACGs 0.105 0.1 0.032 0.06 0.076
+ADGsanddemographics 0.133 0.12 0.05 0.079 0.094
+ADGs,33EDCsanddemographics 0.325 0.348 0.105 0.211 0.316
+264EDCsanddemographics 0.329 0.355 0.105 0.219 0.324
+Theelderlypopulation(N=5,075)
+Demographics-only 0.004 0.001 0.013 0.002 0.005
+ACGs 0.158 0.133 0.114 0.113 0.105
+ADGsanddemographics 0.197 0.164 0.165 0.149 0.137
+ADGs,33EDCsanddemographics 0.452 0.433 0.233 0.418 0.279
+264EDCsanddemographics 0.445 0.425 0.229 0.421 0.273
+Prospectiveanalyses
+Thenon-elderlypopulation(N=44,628)
+Demographics-only 0.017 0.014 0.008 0.005 0.018
+ACGs 0.059 0.049 0.025 0.023 0.055
+ADGsanddemographics 0.072 0.056 0.038 0.026 0.068
+ADGs,19EDCsanddemographics 0.215 0.237 0.112 0.04 0.351
+264EDCsanddemographics 0.218 0.242 0.124 0.045 0.35
+Theelderlypopulation(N=4,741)
+Demographics-only 0.003 0.002 0.009 0.002 0.003
+ACGs 0.063 0.042 0.115 0.023 0.074
+ADGsanddemographics 0.075 0.047 0.164 0.03 0.096
+ADGs,19EDCsanddemographics 0.166 0.155 0.178 0.097 0.263
+264EDCsanddemographics 0.155 0.14 0.196 0.094 0.248
+EDCs) and that the adjusted R2 of outpatient expendi- improved the predictive power of the risk adjustment
+ture was much higher than that of inpatient expendi- models [15,17]. It may be necessary to incorporate
+ture, still hold in this study. important disease indicators if the ACG system were
+The performance of the ACGs/ADGs model in Tai- used. That is the approach used by the current ACG-
+wan was comparable to what the models had achieved PM model in ACG version 7.0 and after.
+among the general population in other countries. This Quality improvement and financial balance are two of
+in part suggested that the ACG system can be directly three main goals of Taiwan’s NHI reform set up by the
+applied to Taiwan’s NHI system. The lower R2 perfor- NHI’s Second Generation Planning Committee [33] and
+mance of both categorical models compared to other both require strong risk adjustment tools. One major
+disease-specific diagnosis-based models is probably due approach suggested by the Committee to achieve quality
+to the limited numbers of variables included in both improvement is to release valid and understandable
+models and the difference in the grouping algorithm quality information regarding healthcare providers to
+(ACGs has 93 mutually exclusive categories and ADGs the public in order that beneficiaries can make informed
+consist of only 32 binary variables). However, after add- decisions. However, before quality information can be
+ing selected disease indicators to the ADGs model, the released, it is important and necessary to implement risk
+performance was comparable to what could be achieved adjustment so that patient differences across healthcare
+by other diagnosis-based models (40% concurrently and organizations are controlled for and variation in the
+22% prospectively in raw total expenditure). This finding quality of care can be attributed to providers. In addi-
+was consistent with results from previous research that tion, the Planning Committee also concluded that the
+patients of some common and expensive chronic dis- payment system reform should involve healthcare provi-
+eases accounted for a relatively large proportion of ders in taking on more financial responsibility for con-
+healthcare costs and adding these disease indicators taining costs and it was suggested that the per-case
+
+=== PÁGINA 9 ===
+ChangandWeinerBMCMedicine2010,8:7 Page9of13
+http://www.biomedcentral.com/1741-7015/8/7
+Table 5Concurrentpredictive ratios ofalternate riskfactors anddifferent categories ofexpenditures.
+Group Mean Demographics ACGs ADGsand ADGs,33EDCsand 264EDCsand
+expenditure demographics demographics demographics
+Expendituregroupbyquintiles(currentclassification:basedon2002)
+0-20 267.1 44.127 5.384 6.667 6.034 7.587
+20-40 1634.4 6.316 3.282 2.845 2.362 2.197
+40-60 3739.1 2.941 2.439 2.359 1.92 1.742
+60-80 2898.3 1.658 1.963 2.026 1.556 1.445
+80-100 57344 0.433 0.687 0.752 0.81 0.828
+Morbidityburden(currentclassification:basedon2002morbiditylevel)
+Non-user 7.6 1688.88 0.924 186.889 170.046 254.982
+Verylow 1750.8 5.511 1.138 0.407 0.645 0.935
+Low 4282 2.323 0.931 0.924 0.932 1.011
+Moderate 13290.6 1.168 1.044 1.203 1.07 1.051
+High 38526.2 0.561 0.948 1.108 0.991 0.954
+Very 106731.5 0.313 1.028 0.861 0.971 0.955
+High
+Demographicgroup(sexandagegroup)
+M,0~18 6312.9 1.982 1.01 1.077 0.981 1.043
+M,18~34 7037.6 1.9 0.949 1.097 1.016 0.997
+M,35~49 10971.9 1.344 1.135 1.058 1.006 0.976
+M,50~64 22590.3 0.679 0.928 0.911 0.975 0.973
+M,65+ 50066.9 0.381 0.798 0.887 0.992 1.023
+F,0~18 6989 1.8 0.887 0.932 0.843 0.89
+F,18~34 8221.8 1.676 1.178 1.388 1.167 1.053
+F,35~49 11974.7 1.208 1.224 1.208 0.993 0.955
+F,50~64 22404.3 0.689 1.137 1.141 1.016 1.009
+F,65+ 43574.6 0.384 0.931 0.974 1.031 1.052
+payments and partial capitation should replace the cur- burden and health services utilization, such as Chinese
+rent fee-for-service payment system [33]. The imple- medicine.
+mentation of risk adjustment is necessary in order to The calculation of an individual’s enrollment period
+ensure equity if any form of capitation or budgeted pay- was a concern in this study. As only an individual’s lat-
+ment system is used in the future. Both of these issues est enrollment record was included in the yearly enroll-
+are likely to be applicable to most other developed ment files starting from 2003, it was only possible to
+healthcare systems around the globe. calculate the exact length of enrollment before 2003 but
+Given the availability and comprehensiveness of claims not afterwards. It was assumed in this study that all sub-
+data, Taiwan has the necessary information to imple- jects in the 2003 file were enrolled in NHI starting from
+ment diagnosis-based risk adjustment. This study January 2003 for the following reasons: (1) the enroll-
+further shows that the ACG case-mix system performs ment type of all enrollment records in 2003 was the
+comparably to diagnosis-based risk adjustment models same - ‘transferring in’ indicates that an individual had a
+applied in other health care systems and far better than new enrollment record because of the change in insur-
+the demographics-only model currently employed for ance identity or unit and they were all enrolled prior to
+the NHI. Therefore, incorporating diagnosis-based risk this change; (2) the enrollment rate was consistently
+adjustment into NHI will be a major task facing health- high in Taiwan; (3) the distribution of individuals’ length
+care policymakers and administrators in Taiwan. of enrollment in 2003 and after, based on this assump-
+tion, was similar to that in 2002 or earlier. The effect of
+Limitations this assumption was that some subjects who were not
+The ACG system was developed using American health 12-month enrollees in 2003 would be included in the
+insurance claims; given the differences in healthcare sys- study.
+tems and care-seeking behaviours, it may be necessary In this analysis people who did not have continuous
+to adjust the risk classification system inherent in the enrollment over the study period were excluded. This
+model so that it can reflect the local patterns of disease led to some differences of characteristics between
+
+=== PÁGINA 10 ===
+ChangandWeinerBMCMedicine2010,8:7 Page10of13
+http://www.biomedcentral.com/1741-7015/8/7
+Table 6Prospective predictive ratios ofalternaterisk factorsanddifferent categories ofexpenditures.
+Group Mean Demographics ACGs ADGsand ADGs,19EDCsand 264EDCsand
+expenditure demographics demographics demographics
+Expendituregroupbyquintiles(priorclassification:basedon2002)
+0-20 276.2 3.915 1.427 1.359 1.374 1.617
+20-40 1646.6 2.212 1.5 1.222 1.189 1.177
+40-60 3737.7 1.573 1.455 1.3 1.181 1.122
+60-80 8270 1.31 1.582 1.5 1.318 1.246
+80-100 51801.4 0.537 0.727 0.811 0.872 0.888
+Expendituregroupbyquintiles(currentclassification:basedon2003)
+0-20 233.2 52.474 29.365 28.362 27.018 28.393
+20-40 1513.5 6.949 5.456 4.68 4.474 4.507
+40-60 3571.8 3.187 3.093 2.76 2.492 2.424
+60-80 8192.6 1.736 1.982 1.889 1.679 1.632
+80-100 59354.1 0.43 0.525 0.587 0.641 0.649
+Morbidityburden(priorclassification:basedon2002morbiditylevel)
+Non-user 3013.8 4.432 1.216 1.449 1.411 1.754
+Verylow 4081.3 2.483 1.046 0.636 0.837 1.032
+Low 5746.9 1.775 0.95 0.879 0.968 1.022
+Moderate 15844.5 1.019 1.002 1.05 1.003 0.983
+High 34475.8 0.64 1.019 1.099 1.061 1.026
+Very 78192.9 0.429 1.012 0.922 0.984 0.985
+high
+Morbidityburden(currentclassification:basedon2003morbiditylevel)
+Non-user 8.2 1592.85 726.045 794.094 755.867 811.262
+Verylow 1651 6.124 4.273 3.597 3.473 3.641
+Low 3965.4 2.571 2.143 1.87 1.798 1.826
+Moderate 14477.2 1.125 1.165 1.183 1.168 1.152
+High 38039.1 0.578 0.76 0.812 0.808 0.802
+Very 110996 0.301 0.439 0.48 0.529 0.539
+high
+Demographicgroup(sexandagegroup)
+M,0~18 6932 1.815 1.005 1.075 1.065 1.097
+M,18~34 7654 1.841 1.018 1.082 1.012 1.041
+M,35~49 11403 1.35 1.218 1.069 1.077 1.059
+M,50~64 24776.7 0.642 0.905 0.835 0.863 0.859
+M,65+ 51787.1 0.386 0.672 0.761 0.85 0.901
+F,0~18 4976.6 2.554 1.38 1.478 1.401 1.409
+F,18~34 7948.9 1.799 1.228 1.392 1.252 1.171
+F,35~49 12074.5 1.253 1.348 1.223 1.125 1.074
+F,50~64 24265.9 0.664 1.054 0.998 1.003 0.973
+F,65+ 43298.1 0.401 0.846 0.882 0.95 1.009
+subjects in the analysis sample and the target popula- healthcare expenditure and inpatient visits (even though
+tion, which may have moderately affected the generaliz- they did not have full-year enrollment), although a
+ability of the results. It was found that there were higher proportion of them did not use any medical
+statistically significantly differences in demographics and service.
+medical utilization between those who had full 12- The reason for this seemingly conflicting result might
+month enrollment and those who did not in 2002 be that the group without full enrollment mainly con-
+(Table 7) and between those having 24-month enroll- sisted of two different types of people: those who died
+ment in both 2002 and 2003 and those having 12- during the year and those who served in the army in
+month enrollment only in 2002 (Table 8). Those that year (and thus were removed from this dataset for
+excluded from the analyses had a much higher average national security reasons). People tended to consume a
+
+=== PÁGINA 11 ===
+ChangandWeinerBMCMedicine2010,8:7 Page11of13
+http://www.biomedcentral.com/1741-7015/8/7
+Table 7Characteristics ofsubjects withcontinuous and Table 8Characteristics ofsubjects withcontinuous and
+incomplete enrollment among 2002enrollees (N = incomplete enrollment in 2003among2002continuous
+181,790). enrollees.
+20021~11 200212month 200212month 2002and200324
+month enrollment enrollmentonly monthenrollmentonly
+enrollment
+Numberof 8672 164,562
+Numberofobservations 8,556 173,234 observations
+Male 56.42% 50.16% Male 65.59% 49.35%
+Insured 30.89% 40.77% Insured 37.80% 40.93%
+Agein2002 32.38 34.86 Agein2002 32.73 34.98
+Agegroupin2002 Agegroupin2002
+0-17 15.45% 23.29% 0-17 12.88% 23.84%
+18-34 50.41% 28.22% 18-34 54.60% 26.83%
+35-49 18.70% 24.96% 35-49 14.56% 25.51%
+50-64 7.47% 13.83% 50-64 6.85% 14.19%
+65+ 7.97% 9.70% 65+ 11.10% 9.62%
+BureauofNationalHealth BureauofNationalHealthInsurance
+InsuranceBranchin2002 Branchin2002
+Taipei 39.96% 32.68% Taipei 34.79% 32.59%
+North 16.78% 14.84% North 15.77% 14.80%
+Central 16.66% 19.78% Central 17.60% 19.90%
+Southern 11.00% 14.24% Southern 11.55% 14.39%
+Kao-Pin 13.35% 16.10% Kao-Pin 17.44% 16.04%
+Eastern 2.25% 2.32% Eastern 2.85% 2.29%
+Residencelevelin2002 Residencelevelin
+Specialmunicipality 26.57% 21.66% 2002
+Special 26.09% 21.43%
+City 14.56% 14.94%
+municipality
+County 58.87% 63.37%
+City 14.03% 14.99%
+Medicalutilizationin2002*
+County 59.88% 63.58%
+1+Outpatientvisit/expenditure 76.26% 89.99%
+Medicalutilization
+1+Inpatientvisit/expenditure 11.76% 8.04% in2002
+1+Drugexpenditure 76.34% 89.46% 1+Outpatientvisit/ 83.38% 90.34%
+1+Totalexpenditure 77.57% 90.38% expenditure
+Totalexpenditure(NTD/year)† 23,351 14,279 1+Inpatientvisit/ 14.00% 7.73%
+expenditure
+Medicalexpenditure(NTD/year) 17,677 9,968
+† 1+Drugexpenditure 83.15% 89.79%
+Pharmacyexpenditure(NTD/ 5,309 3,912 1+Totalexpenditure 83.99% 90.72%
+year)†
+Totalexpenditure 31,962 13,348
+Inpatientexpenditure(NTD/ 17,209 4,781 (NTD/year)*
+year)†
+Medicalexpenditure 23,835 9,238
+Outpatientexpenditure(NTD/ 6,007 9,245 (NTD/year)*
+year)†
+Pharmacy 7,586 3,718
+*Forthosewithout12fullmonthsenrollment,theactualutilizationis expenditure(NTD/
+underestimated. year)*
+†1USdollar=32NewTaiwandollar(NTD)asofNovember2009 Inpatient 20,141 3,972
+expenditure(NTD/
+year)*
+lot more medical resources before they died, so the
+Outpatient 11,640 9,119
+average expenditure would increase hugely. On the
+expenditure(NTD/
+other hand, those who served in the army were mostly year)*
+in their twenties and, hence, less likely to use medical
+*1USdollar=32NewTaiwandollar(NTD)asofNovember2009
+services and therefore the proportion of people using
+any service decreased. Therefore, the results of this
+study may not be fully generalizable to those who died
+during the year or were or may be in the army.
+
+=== PÁGINA 12 ===
+ChangandWeinerBMCMedicine2010,8:7 Page12of13
+http://www.biomedcentral.com/1741-7015/8/7
+Future research directions Acknowledgements
+Taiwan’s NHI provides beneficiaries’ comprehensive TheauthorsthankDrWeng-FoungHuang,aprofessoratNationalYang-
+MingUniversity,Taipei,Taiwan,forhiscollaborationinthisproject.This
+drug coverage. With drug information readily available, studyisbasedinpartondatafromtheNationalHealthInsuranceResearch
+it will be interesting to evaluate how a pharmacy-based DatabaseprovidedbytheBureauofNationalHealthInsurance,Department
+risk adjustment model, such as the ACG system’s phar- ofHealthandmanagedbyNationalHealthResearchInstitutesinTaiwan.
+Theinterpretationandconclusionscontainedhereindonotrepresentthose
+macy-based morbidity groups (Rx-MG) measures, works ofBureauofNationalHealthInsurance,DepartmentofHealthorNational
+in Taiwan and how much improvement can be made by HealthResearchInstitutesinTaiwan.
+including pharmacy information in the claims-based risk
+Authors’contributions
+adjustment model. Furthermore, most diagnosis infor- HYCdesignedthestudy,cleanedthedata,performedthestatisticalanalysis
+mation used for risk adjustment models is cross-sec- anddraftedthemanuscript.JWprovidedinsightintotheconceptand
+designofthestudyandrevisedthemanuscriptcriticallyforimportant
+tional, due in part to the difficulty of obtaining an
+intellectualcontent.Allauthorsreadandapprovedthefinalmanuscript.
+individual’s longitudinal diagnosis information. Given
+the universal and lifelong coverage under NHI in Tai- Competinginterests
+HYCworkedasapart-timeresearchassistantforDrJonathanWeiner,oneof
+wan, this setting provides a very good opportunity to
+thefoundersoftheACGsystem,whenpursuinghisPhDatJohnsHopkins
+examine how bringing in longitudinal claims data will University.Theauthoriscurrentlyhiredaspost-doctoratefellowatJohn
+affect the performance of risk adjustment models. HopkinsUniversitywithpartofthefundingcomingfromtheACGteam.JW
+isoneofthedevelopersoftheACGsystem.TheJohnsHopkinsUniversity
+receivesroyaltiesfornon-academicuseofsoftwarebasedontheACG
+Conclusions
+methodology.
+Given the availability of claims data and the much better
+Received:17December2009
+performance of claims-based risk adjustment models
+Accepted:18January2010 Published:18January2010
+over the demographics-only model, Taiwan’s govern-
+ment should incorporate claims-based models in the References
+important policy-setting processes, such as resource 1. LiuCF,SalesAE,SharpND,FishmanP,SloanKL,Todd-StenbergJ,
+NicholWP,RosenAK,LovelandS:Case-mixadjustingperformance
+allocation, predictive modeling for high-risk case finding
+measuresinaveteranpopulation:pharmacy-anddiagnosis-based
+and cost prediction. The performance of the ACG risk approaches.HealthServRes2003,38(5):1319-1337.
+adjustment system in Taiwan is comparable to that 2. ThomasJW,GrazierKL,WardK:Comparingaccuracyofrisk-adjustment
+methodologiesusedineconomicprofilingofphysicians.Inquiry2004,
+found in other countries; therefore, this suggests that
+41(5):218-231.
+the ACG system may be directly applied to Taiwan’s 3. HuangIC,DominiciF,FrangakisC,DietteGB,DambergCL,WuAW:Isrisk-
+NHI even though it was originally developed using USA adjustorselectionmoreimportantthanstatisticalapproachforprovider
+profiling?Asthmaasanexample.MedDecisMaking2005,25(5):20-34.
+claims data. In addition, it may be necessary to utilize
+4. AshAS,ZhaoY,EllisRP,SchleinKramerM:Findingfuturehigh-costcases:
+the disease indicators component (EDCs) of the ACG comparingpriorcostversusdiagnosis-basedmethods.HealthServRes
+system in order to ensure the highest performance of 2001,36(6Pt2):194-206.
+5. RadcliffTA,CoteMJ,DuncanRP:Theidentificationofhigh-costpatients.
+the ACG system. Given the experience in Taiwan, it is
+HospTop2005,83(5):17-24.
+very likely that other nations will be able to apply the 6. MeenanRT,GoodmanMJ,FishmanPA,HornbrookMC,O’Keeffe-RosettiMC,
+ACG system or other similar diagnosis-based risk BachmanDJ:Usingrisk-adjustmentmodelstoidentifyhigh-costrisks.
+MedCare2003,41(5):1301-1312.
+adjustment tools if insurance claims or other computer-
+7. FitzHenryF,ShultzEK:Health-risk-assessmenttoolsusedtopredictcosts
+ized data sources capturing ambulatory and inpatient indefinedpopulations.JHealthcInfManag2000,14(5):31-57.
+medical diagnoses are available. 8. AComparativeAnalysisofClaims-BasedToolsforHealthRisk
+Assessment.http://www.soa.org/files/pdf/risk-assessmentc.pdf.
+9. ZhaoY,AshAS,EllisRP,AyanianJZ,PopeGC,BowenB,WeyukerL:
+AdditionalFile1:ProcessofGeneratingSelectedEDCs.Appendix Predictingpharmacycostsandothermedicalcostsusingdiagnosesand
+Clickhereforfile drugclaims.MedCare2005,43(5):34-43.
+[http://www.biomedcentral.com/content/supplementary/1741-7015-8-7- 10. FowlesJB,WeinerJP,KnutsonD,FowlerE,TuckerAM,IrelandM:Taking
+S1.DOC] healthstatusintoaccountwhensettingcapitationrates:acomparison
+AdditionalFile2:ComparisonofDifferentStatisticalModels. ofrisk-adjustmentmethods.JAMA1996,276(5):1316-1321.
+Appendix 11. PietzK,AshtonCM,McDonellM,WrayNP:Predictinghealthcarecostsina
+Clickhereforfile populationofveteransaffairsbeneficiariesusingdiagnosis-basedrisk
+[http://www.biomedcentral.com/content/supplementary/1741-7015-8-7- adjustmentandself-reportedhealthstatus.MedCare2004,
+S2.DOCX] 42(5):1027-1035.
+12. ParkersonGRJr,HarrellFEJr,HammondWE,WangXQ:Characteristicsof
+adultprimarycarepatientsaspredictorsoffuturehealthservices
+charges.MedCare2001,39(5):1170-1181.
+13. NewhouseJP,ManningWG,KeelerEB,SlossEM:Adjustingcapitationrates
+Abbreviations usingobjectivehealthmeasuresandpriorutilization.HealthCareFinanc
+ACG:AdjustedClinicalGroup;ADG:AggregatedDiagnosisGroup;BNHI: Rev1989,10(5):41-54.
+BureauofNHI;EDC:ExpandedDiagnosisCluster;ICD:International 14. SernyakMJ,RosenheckR:Riskadjustmentinstudiesusingadministrative
+ClassificationofDiseases;MAPE:meanabsolutepredictionerror;OLS: data.SchizophrBull2003,29(5):267-271.
+ordinaryleastsquares;NHI:NationalHealthInsurance;NTD:NewTaiwan 15. vanVlietRC,VenvandeWP:Towardsacapitationformulaforcompeting
+dollar;PM:predictivemodelling;PR:predictiveratio. healthinsurers.Anempiricalanalysis.SocSciMed1992,34(5):1035-1048.
+
+=== PÁGINA 13 ===
+ChangandWeinerBMCMedicine2010,8:7 Page13of13
+http://www.biomedcentral.com/1741-7015/8/7
+16. ShenY,EllisRP:Howprofitableisriskselection?Acomparisonoffour 40. BuntinMB,ZaslavskyAM:Toomuchadoabouttwo-partmodelsand
+riskadjustmentmodels.HealthEcon2002,11(5):165-174. transformation?ComparingmethodsofmodelingMedicare
+17. DudleyRA,MedlinCA,HammannLB,CisternasMG,BrandR,RennieDJ, expenditures.JHealthEcon2004,23(5):525-542.
+LuftHS:Thebestofbothworlds?Potentialofhybridprospective/ 41. IezzoniLI:Riskadjustmentformeasuringhealthcareoutcomes.Chicago:
+concurrentriskadjustment.MedCare2003,41(5):56-69. HealthAdministrationPress,21997.
+18. AshAS,EllisRP,PopeGC,AyanianJZ,BatesDW,BurstinH,IezzoniLI, 42. GreenwaldLM:Medicarerisk-adjustedcapitationpayments:from
+MacKayE,YuW:Usingdiagnosestodescribepopulationsandpredict researchtoimplementation.HealthCareFinancRev2000,21(5):1-5.
+costs.HealthCareFinancRev2000,21(5):7-28. 43. DepartmentofHealth:HealthStatisticsinTaiwan,2006:PartIII.Current
+19. SalesAE,LiuCF,SloanKL,MalkinJ,FishmanPA,RosenAK,LovelandS,Paul SituationofMedicalFacilities,MedicalPersonnel,andMedicalServices.
+NicholW,SuzukiNT,PerrinE,etal:Predictingcostsofcareusinga Taipei:DepartmentofHealth,ROC2007.
+pharmacy-basedmeasureriskadjustmentinaveteranpopulation.Med 44. BureauofNationalHealthInsurance:NationalHealthInsuranceAnnual
+Care2003,41(5):753-760. StatisticalReport:2006.Taipei:BureauofNationalHealthInsurance,
+20. LamersLM,vanVlietRC:Multiyeardiagnosticinformationfromprior DepartmentofHealth,ROC2007.
+hospitalizationasarisk-adjusterforcapitationpayments.MedCare1996, 45. ChangRE,LinW,HsiehCJ,ChiangTL:Healthcareutilizationpatternsand
+34(5):549-561. riskadjustmentunderTaiwan’sNationalHealthInsurancesystem.J
+21. KuhlthauK,FerrisTG,DavisRB,PerrinJM,IezzoniLI:Pharmacy-and FormosMedAssoc2002,101(5):52-59.
+diagnosis-basedriskadjustmentforchildrenwithMedicaid.MedCare 46. ChangRE,LaiCL:Useofdiagnosis-basedriskadjustmentmodelsto
+2005,43(5):1155-1159. predictindividualhealthcareexpenditureundertheNationalHealth
+22. Acomparativeanalysisofclaims-basedmethodsofhealthrisk InsurancesysteminTaiwan.JFormosMedAssoc2005,104(5):883-890.
+assessmentforcommercialpopulations.http://www.soa.org/files/pdf/ 47. ChangS:DevelopmentofRisk-AdjustedDiagnosticGroupsBasedonAll
+_asset_id=2583046.pdf. DiagnosticInformationandApplicationstoRiskAdjustmentModels.
+23. StarfieldB,WeinerJ,MumfordL,SteinwachsD:Ambulatorycaregroups:a Taipei:NationalTaiwanUniversity2006.
+categorizationofdiagnosesforresearchandmanagement.HealthServ 48. TsaiWD,LoJC:Capitationpaymentsystem:riskfactorsestimation.Acad
+Res1991,26(5):53-74. EconPap2000,28(3):31-261.
+24. WeinerJP,StarfieldBH,SteinwachsDM,MumfordLM:Developmentand 49. LeeWC,HuangTP:ExplanatoryabilityoftheACGsystemregardingthe
+applicationofapopulation-orientedmeasureofambulatorycarecase- utilizationandexpenditureofthenationalhealthinsurancepopulation
+mix.MedCare1991,29(5):452-472. inTaiwan–a5-yearanalysis.JChinMedAssoc2008,71(5):191-199.
+25. AshA,PorellF,GruenbergL,SawitzE,BeiserA:AdjustingMedicare 50. LeeWC:QuantifyingmorbiditiesbyAdjustedClinicalGroupsystemfora
+capitationpaymentsusingpriorhospitalizationdata.HealthCareFinanc Taiwanpopulation:anationwideanalysis.BMCHealthServRes2008,
+Rev1989,10(5):17-29. 8:153.
+26. EllisRP,AshA:RefinementstotheDiagnosticCostGroup(DCG)model. 51. LiuF:AmbulatoryRisk-AdjustedModelBasedonPrescriptionofChronic
+Inquiry1995,32(5):418-429. Disease.Taipei:NationalTaiwanUniversity2004.
+27. PopeGC,EllisRP,AshAS,LiuCF,AyanianJZ,BatesDW,BurstinH, 52. LinC:ComparingtheAbilityofDifferentDiagnosis-BasedRiskAdjusters
+IezzoniLI,IngberMJ:Principalinpatientdiagnosticcostgroupmodelfor toPredictIndividuals’AmbulatoryExpendituresundertheNational
+Medicareriskadjustment.HealthCareFinancRev2000,21(5):93-118. HealthInsurance.Taipei:NationalTaiwanUniversity2006.
+28. FishmanPA,GoodmanMJ,HornbrookMC,MeenanRT,BachmanDJ,
+O’KeeffeRosettiMC:Riskadjustmentusingautomatedambulatory Pre-publicationhistory
+pharmacydata:theRxRiskmodel.MedCare2003,41(5):84-99. Thepre-publicationhistoryforthispapercanbeaccessedhere:http://www.
+29. SloanKL,SalesAE,LiuCF,FishmanP,NicholP,SuzukiNT,SharpND: biomedcentral.com/1741-7015/8/7/prepub
+ConstructionandcharacteristicsoftheRxRisk-V:aVA-adapted
+pharmacy-basedcase-mixinstrument.MedCare2003,41(5):761-774. doi:10.1186/1741-7015-8-7
+30. TheJohnsHopkinsACGCase-MixSystemReferenceManualVersion7.0. Citethisarticleas:ChangandWeiner:Anin-depthassessmentofa
+Baltimore:JohnsHopkinsBloombergSchoolofPublicHealth2005. diagnosis-basedriskadjustmentmodelbasedonnationalhealth
+31. ReidRJ,RoosNP,MacWilliamL,FrohlichN,BlackC:Assessingpopulation insuranceclaims:theapplicationoftheJohnsHopkinsAdjustedClinical
+Groupcase-mixsysteminTaiwan.BMCMedicine20108:7.
+healthcareneedusingaclaims-basedACGmorbiditymeasure:a
+validationanalysisintheProvinceofManitoba.HealthServRes2002,
+37(5):1345-1364.
+32. CarlssonL,BorjessonU,EdgrenL:Patientbased‘burden-of-illness’in
+Swedishprimaryhealthcare.ApplyingtheJohnsHopkinsACGcase-mix
+systeminaretrospectivestudyofelectronicpatientrecords.IntJHealth
+PlannManage2002,17(5):269-282.
+33. NHI’sSecondGenerationPlanningCommittee:TowardsANationalHealth
+InsuranceSystemWhereRightsandDutiesAreMet:TheFinalReportby
+NHI’sSecondGenerationPlanningCommittee.InNHI’sSecond
+GenerationPlanningCommittee,ExecutiveYuan.Taiwan:ROC2004.
+34. HsiehM:RefiningDiagnosis-BasedRiskAdjustmentModelswith
+PrescriptionInformation.Taipei.NationalTaiwanUniversity2005.
+35. HungS:UsingACGCase-MixSystemtoEvaluatetheAmbulatory
+UtilizationofLiverDiseaseinTaiwan.Taipei.NationalYang-Ming Submit your next manuscript to BioMed Central
+University2006. and take full advantage of:
+36. CousinsMS,ShickleLM,BanderJA:Anintroductiontopredictive
+modelingfordiseasemanagementriskstratification.DisManag2002,
+5(5):157-167. • Convenient online submission
+37. HuG,RootM:Accuracyofpredictionmodelsinthecontextofdisease • Thorough peer review
+management.DisManag2005,8(5):42-47.
+• No space constraints or color figure charges
+38. BloughDK,MaddenCW,HornbrookMC:Modelingriskusinggeneralized
+linearmodels.JHealthEcon1999,18(5):153-171. • Immediate publication on acceptance
+39. ManningWG,MullahyJ:Estimatinglogmodels:totransformornotto • Inclusion in PubMed, CAS, Scopus and Google Scholar
+transform?.JHealthEcon2001,20(5):461-494.
+• Research which is freely available for redistribution
+Submit your manuscript at
+www.biomedcentral.com/submit

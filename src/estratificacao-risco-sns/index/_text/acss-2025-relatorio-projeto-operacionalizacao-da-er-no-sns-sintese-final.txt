@@ -1,0 +1,580 @@
+# Fonte: ACSS 2025 Relatorio Projeto Operacionalizacao da ER no SNS - Sintese Final.pdf
+# Páginas: 32
+
+=== PÁGINA 1 ===
+Projeto de Operacionalização da Utilização dos Instrumentos de
+Estratificação da População pelo Risco no SNS
+15 dezembro 2025
+
+=== PÁGINA 2 ===
+Siglas e Acrónimos
+ACG – Agrupador Adjusted Clinical Groups (ACG), John Hopkins University (Estados Unidos)
+ACSS - Administração Central do Sistema de Saúde, IP
+BDMH - Base de Dados de Morbilidade Hospitalar
+BI - Business Intelligence
+BI-ER - Sistema de business Intelligence para a Estratificação pelo risco
+CRG - Agrupador Clinical Risk Groups (CRG), da 3M Health Information Systems (Estados
+Unidos)
+ER – Estratificação pelo Risco
+GRA - Grupos de Risco Ajustado
+IDRA - Índice de Risco ajustado
+RSE- Registo de Saúde Eletrónico
+SIM@SNS - Sistema de Informação e Monitorização do SN
+SNS - Serviço Nacional de Saúde
+SPMS - Serviços Partilhados do Ministério da Saúde
+2 / 32
+
+=== PÁGINA 3 ===
+Índice
+1. Resumo Executivo ................................................................................................................. 3
+2. Enquadramento ...................................................................................................................... 5
+3. Trabalho Realizado ................................................................................................................ 8
+3.1 Vertente Sistemas de Informação ........................................................................ 12
+3.2 Vertente Capacitação ......................................................................................... 19
+3. Resultados Alcançados ........................................................................................................ 23
+4. Fatores Críticos de Sucesso ................................................................................................ 26
+5. Conclusão e Próximos Passos ............................................................................................. 28
+3 / 32
+
+=== PÁGINA 4 ===
+Índice de Figuras
+FIGURA 1 - CARACTERÍSTICAS DAS FERRAMENTAS DE ESTRATIFICAÇÃO PELO RISCO ........................................ 5
+FIGURA 2 - EXEMPLO DE PIRÂMIDE DE KAISER PERMANENT ....................................................................... 6
+FIGURA 3 - EXEMPLOS DE APLICAÇÃO DA ESTRATIFICAÇÃO PELO RISCO ....................................................... 7
+FIGURA 4 – TRABALHO REALIZADO PELA ACSS NO ÂMBITO DA ESTRATIFICAÇÃO PELO RISCO ............................. 9
+FIGURA 5 - PILARES DE ATUAÇÃO DA ESTRATIFICAÇÃO PELO RISCO ........................................................... 10
+FIGURA 6 - ORGÂNICA DA RILER E DOS ILER ...................................................................................... 11
+FIGURA 7 - FUNCIONAMENTO DO AGRUPADOR ......................................................................................... 13
+FIGURA 8 - ECRÃ DE ENTRADA DO BI-ER ........................................................................................... 14
+FIGURA 9 - COMPONENTES DE EXPLORAÇÃO DE DADOS DO BI-ER ........................................................... 15
+FIGURA 10 – EXEMPLOS DE DASHBOARDS, MERAMENTE EXEMPLIFICATIVO .................................................. 15
+FIGURA 11 - PIRÂMIDE DE KAISER NACIONAL 2024 (FONTE: ACSS/SPMS, EXTRAÇÃO DADOS ABRIL DE 2025) ... 16
+FIGURA 12 - PIRÂMIDE ETÁRIA NACIONAL POR NÍVEL DE RISCO 2024 (FONTE: ACSS/SPMS; EXTRAÇÃO DADOS
+ABRIL DE ............................................................................................................................ 17
+FIGURA 13 - EXEMPLO DE ANÁLISES AD-HOC (DADOS DE TESTE) ............................................................. 18
+FIGURA 14 - CONSULTA DE DADOS DE ESTRATIFICAÇÃO PELO RISCO NO REGISTO DE SAÚDE ELETRÓNICO ......... 18
+FIGURA 15 - FIGURA 9 - EXEMPLO DE DADOS DISPONIBILIZADOS NO RSE (DADOS DE TESTE FICTÍCIOS) .............. 19
+FIGURA 16 - VETORES ORIENTADORES DA CAPACITAÇÃO ....................................................................... 20
+FIGURA 17 - OBJETIVOS E ESTRATÉGIAS DA CAPACITAÇÃO ...................................................................... 21
+FIGURA 18- ORGANIZAÇÃO DAS ULS POR GRUPOS ................................................................................... 22
+FIGURA 19 - ESTRUTURA DOS PLANOS DE AÇÃO LOCAIS ........................................................................ 22
+FIGURA 20 - EXEMPLOS DE CONTEÚDOS DOS PLANOS DE AÇÃO LOCAIS .................................................... 24
+FIGURA 21 - EVIDÊNCIAS DE RESULTADOS ALCANÇADOS ....................................................................... 25
+FIGURA 22 - FATORES CRÍTICOS DE SUCESSO ..................................................................................... 26
+FIGURA 23 - PRÓXIMOS PASSOS ...................................................................................................... 28
+4 / 32
+
+=== PÁGINA 5 ===
+1. Resumo Executivo
+O SNS enfrenta crescentes desafios resultantes do envelhecimento populacional, da multimorbilidade e da
+pressão sobre os recursos financeiros, tornando-se crucial desenvolver modelos de gestão baseados em
+dados que permitam alinhar a resposta dos serviços de saúde com as reais necessidades das populações.
+A estratificação pelo risco assume um papel fundamental ao permitir prever necessidades, sejam elas ao
+nível da morbilidade, do consumo de recursos, dos custos, ou da ocorrência de eventos adversos,
+constituindo-se como um instrumento de apoio à gestão das ULS e um auxiliar primordial à integração
+efetiva de cuidados de saúde primários e hospitalares.
+Neste cenário, a publicação do Despacho n.º 12986/2023, de 19 de dezembro de 2023, vem determinar a
+utilização dos instrumentos de estratificação pelo risco no Serviço Nacional de Saúde (SNS) e criar, para
+esse efeito, o Projeto de Operacionalização da Utilização dos Instrumentos de Estratificação pelo
+Risco, descrevendo o presente relatório as atividades desenvolvidas ao abrigo deste projeto durante o ano
+de 2024, assim como os trabalhos que lhe deram origem.
+Do conjunto de resultados alcançados destacam-se:
+• A adoção de um agrupador de estratificação pelo risco, assente em Grupos de Risco Ajustados
+(GRA);
+• Estratificação pelo risco dos 10,5 milhões de utentes inscritos em unidades de CSP;
+• A constituição da Rede de Interlocutores Locais (RILER) e a formação de Equipas Locais de
+Estratificação pelo Risco (ER) em todas as ULS;
+• A capacitação de profissionais em todas as Unidades Locais de Saúde (ULS) na assimilação de
+conceitos de estratificação e na utilização das ferramentas desenvolvidas;
+• A elaboração, pelas Equipas Locais de ER de cada ULS, de Planos de Ação Locais para a
+implementação de medidas e programas associados à estratificação pelo risco.
+• O desenvolvimento do BI-ER, ferramenta analítica de business intelligence para consulta e análise
+de dados de estratificação pelo risco;
+Foram identificados os seguintes fatores críticos de sucesso, sem os quais não poderiam ter sido
+alcançados os objetivos do projeto, que importa realçar:
+• A existência de informação centralizada por utente e de a mesma se encontrar normalizada;
+• O patrocínio da tutela, que conferiu legitimidade institucional à iniciativa da estratificação;
+• O planeamento, que possibilitou otimizar a utilização dos recursos e minimizar riscos de atraso
+na execução das tarefas;
+Relatório Projeto Operacionalização da ER no SNS_Sintese_Final
+3 / 32
+
+=== PÁGINA 6 ===
+• A adoção de um modelo de funcionamento em rede, que permitiu assegurar de forma eficaz a
+capacitação dos diferentes intervenientes no projeto;
+• A utilização de processos digitais, com destaque para a plataforma e-learning eStudo, utilizado
+como repositório central de informação, que possibilita a consolidação de conhecimentos sempre
+que necessário.
+• A aposta na capacitação, que resultou numa efetiva adoção pelas Equipas Locais de ER das ULS
+da estratificação pelo risco;
+No final de 2024, reconhece-se, assim, que foram produzidos resultados relevantes que comprovam a
+utilidade e o potencial da estratificação pelo risco. Entende-se que a adoção desta iniciativa se encontra
+ainda numa fase inicial, exigindo continuidade no trabalho realizado. É necessário investir no reforço das
+práticas já implementadas, promovendo a consolidação e enriquecimento do modelo desenvolvido.
+Relatório Projeto Operacionalização da ER no SNS_Sintese_Final
+4 / 32
+
+=== PÁGINA 7 ===
+2. Enquadramento
+O SNS enfrenta crescentes desafios resultantes do envelhecimento populacional, da multimorbilidade e da
+pressão sobre os recursos financeiros. Neste contexto, torna-se crucial desenvolver modelos de gestão
+baseados em dados que permitam alinhar a resposta dos serviços de saúde com as reais necessidades
+das populações.
+A estratificação pelo risco assume, neste contexto, um papel fundamental, ao consistir numa abordagem
+sistemática, de abrangência populacional, utilizada para prever necessidades, sejam elas ao nível da
+morbilidade, do consumo de recursos, dos custos, ou da ocorrência de eventos adversos, tais como
+admissões não planeadas potencialmente evitáveis, ou outro tipo de riscos. Constitui-se, assim, como um
+instrumento de apoio à gestão das ULS e a utilizar no SNS, sendo um auxiliar primordial à integração
+efetiva de cuidados de saúde primários e hospitalares.
+Para obter dados estratificados pelo risco torna-se necessário utilizar ferramentas específicas de
+estratificação pelo risco, apelidadas de “agrupadores”. Estas ferramentas enquadram-se naquilo que são
+sistemas de classificação em saúde e modelos prospetivos de casemix e permitem identificar o “risco” (ou
+a maior probabilidade) que caracteriza a utilização futura de cuidados de saúde de grupos ou sub-grupos
+de uma população, na medida em que possibilitam prever essa utilização tendo em consideração as
+características da população em causa, ou seja, a sua “carga de doença” (burden of disease) e, logo, a sua
+necessidade de utilização futura de cuidados de saúde.
+Figura 1 - Características das Ferramentas de Estratificação pelo Risco
+Caracterizam-se por ser softwares com um conjunto de algoritmos que, ao receberem informação sobre a
+população em análise, identificam essa carga de doença para cada indivíduo, determinando o risco
+associado. Estas ferramentas, ao combinarem dados sobre diagnósticos, prescrições e utilização dos
+serviços de saúde, identificam grupos populacionais com características e necessidades de saúde
+Relatório Projeto Operacionalização da ER no SNS_Sintese_Final
+5 / 32
+
+=== PÁGINA 8 ===
+semelhantes, seja em termos de morbilidade, complexidade clínica, consumo de recursos ou eventos
+adversos.
+Tipicamente a estratificação pelo risco segue a lógica da Pirâmide de Kaiser Permanent, em que a
+população com risco se subdivide em risco muito alto (5%), risco alto (cerca de 15%) e risco moderado
+(cerca de 80% da população):
+Figura 2 - Exemplo de Pirâmide de Kaiser Permanent
+Assim, com base no conhecimento das características específicas de cada grupo, torna-se possível estimar
+não só o uso futuro de cuidados de saúde, como também delinear intervenções dirigidas a cada um e
+adequar os níveis de recursos em função das necessidades identificadas, permitindo, entre outros, uma
+maior aproximação dos serviços e programas de saúde às necessidades reais dos utentes.
+Uma abordagem baseada na estratificação pelo risco, para além de potenciar a inovação nos modelos de
+prestação de cuidados, promovendo a saúde, prevenindo doenças e identificando, de forma precoce,
+pessoas que possam integrar programas de gestão de saúde, doença crónica ou casos complexos, vem,
+também, trazer mais-valias em diferentes áreas, destacando-se o planeamento, o financiamento, a
+organização de cuidados e a avaliação de desempenho no SNS.
+De seguida apresentam-se alguns exemplos práticos de aplicação que podem decorrer do acesso a
+informação associada à estratificação pelo risco:
+Relatório Projeto Operacionalização da ER no SNS_Sintese_Final
+6 / 32
+
+=== PÁGINA 9 ===
+Figura 3 - Exemplos de Aplicação da Estratificação pelo Risco
+A publicação do Despacho n.º 12986/2023, de 19 de dezembro de 2023, vem determinar a utilização dos
+instrumentos de estratificação de risco clínico no SNS e criar, para esse efeito, o Projeto de
+Operacionalização da Utilização dos Instrumentos de Estratificação pelo Risco.
+O objetivo deste documento é descrever os trabalhos realizados para cumprir este desiderato.
+Relatório Projeto Operacionalização da ER no SNS_Sintese_Final
+7 / 32
+
+=== PÁGINA 10 ===
+3. Trabalho Realizado
+Desde 2010 que a ACSS tem vindo a estudar o tema da estratificação pelo risco (ER) e a avaliar a sua
+aplicabilidade à realidade portuguesa. Muito trabalho foi executado, realçando-se os seguintes marcos
+principais:
+Relatório Projeto Operacionalização da ER no SNS_Sintese_Final
+8 / 32
+
+=== PÁGINA 11 ===
+Figura 4 – Trabalho realizado pela ACSS no âmbito da Estratificação pelo Risco
+Importa destacar que em 2023 a ACSS, em colaboração com a SPMS, procedeu a um estudo comparativo
+de três ferramentas de estratificação pelo risco, a saber:
+• Agrupador Índice de Complexidade do Utente (ICU), que se encontrava a ser desenvolvido pela
+ACSS;
+• Agrupador Adjusted Clinical Groups (ACG), da John Hopkins University (Estados Unidos);
+• Agrupador Clinical Risk Groups (CRG), da 3M Health Information Systems (Estados Unidos).
+Para o efeito foi considerada a população inscrita nas 8 ULS existentes nessa data, o que abrangeu cerca
+de 1 milhão de utentes inscritos. Para reforçar a robustez e a independência desta análise, incorporou-se
+a expertise académica, numa parceria com o Instituto de Saúde Pública da Universidade do Porto (ISPUP).
+Finalizado o estudo comparativo, concluiu-se não existirem diferenças substantivas entre os ACG e CRG.
+Neste cenário, tendo como objetivo o tratamento e caracterização dos dados de 10,5 milhões de utentes
+inscritos, optou-se por proceder ao lançamento de um concurso público internacional para aquisição de
+uma ferramenta de estratificação pelo risco que o permitisse, que resultou na adjudicação da ferramenta
+ACG .
+Relatório Projeto Operacionalização da ER no SNS_Sintese_Final
+9 / 32
+
+=== PÁGINA 12 ===
+Ainda em 2023, é publicado o Despacho n.º 12986/2023, de 19 de dezembro, que define a estratégia de
+utilização dos instrumentos de estratificação pelo risco da população portuguesa, assim como a equipa
+responsável pelo Projeto de Operacionalização da Utilização dos Instrumentos de Estratificação pelo
+Risco, composta por:
+• Dois representantes da ACSS, sendo que um coordenador dos trabalhos;
+• Um representante da Direção Executiva do SNS (DE -SNS);
+• Um representante da Direção Geral da Saúde;
+• Um representante do INFARMED — Autoridade Nacional do Medicamento e Produtos de Saúde;
+• Um representante da SPMS — Serviços Partilhados do Ministério da Saúde.
+Ficou definido que, a partir de 1 de outubro de 2024, a Equipa de Projeto evoluiria para uma estrutura de
+governação e acompanhamento da utilização dos instrumentos de estratificação pelo risco, cabendo-lhe a
+missão de dar continuidade ao trabalho executado até essa data e de promover e acompanhar as iniciativas
+e as medidas conducentes à continuação da sua utilização no SNS.
+Neste despacho encontram-se, também, definidos os cinco seguintes pilares de atuação da estratificação
+pelo risco:
+Figura 5 - Pilares de Atuação da Estratificação pelo Risco
+Contém, ainda, a publicação da primeira “Tabela de Grupos de Risco Ajustados – GRA”, apresentando-
+se a percentagem de utentes e os respetivos pesos relativos subdivididos por:
+• Níveis de Utilização (NUR) de recursos, que variam entre o nível 0 – “Sem diagnóstico ou
+diagnósticos inválidos” e o nível 5 – “Utilização de Recursos Muito Alta”;
+• Tipo etário (Criança, Adulto e Adulto +),
+Relatório Projeto Operacionalização da ER no SNS_Sintese_Final
+10 / 32
+
+=== PÁGINA 13 ===
+Em 2024, procedeu-se à elaboração e publicação da Circular Normativa nº4/2024 da ACSS, que criou a
+Rede de Interlocutores Locais para a Estratificação pelo Risco (RILER) e definiu que cada ULS procedesse
+à identificação de Interlocutores Locais para a Estratificação pelo Risco (ILER) à dinamização da utilização
+dos instrumentos de estratificação pelo risco em cada ULS, nomeadamente no que diz respeito à definição
+de estratégias de formação contínua interna, de melhoria continuada de registos clínicos, de análise de
+dados relativos à estratificação pelo risco da população da área de influencia e sua divulgação e utilização
+para o planeamento de recursos, definição de processos assistenciais e avaliação de desempenho.
+A orgânica definida para a RILER e para os ILER foi a seguinte:
+Figura 6 - Orgânica da RILER e dos ILER
+Posteriormente, cada ULS criou uma Equipa Local de ER, cujas características variaram de ULS para ULS,
+quer em termos de dimensão, quer em termos de perfis dos seus elementos. De facto, no final de 2024 o
+número de elementos das equipas variava entre 1 e 37 e os perfis respetivos abrangiam elementos dos
+Conselhos de Administração (por exemplo, diretores clínicos), das áreas de planeamento e controle de
+gestão, dos cuidados de saúde primários ou hospitalares, farmacêuticos, da comunicação, médicos de
+saúde pública, etc.
+A 6 de março de 2024 ocorreu a reunião de arranque do Projeto de Operacionalização da Utilização dos
+Instrumentos de Estratificação pelo Risco, com a formalização do lançamento da RILER, onde estiveram
+presentes Elementos dos Concelhos de Administração das ULS, os ILER, elementos das Equipas Locais
+de ER e da Equipa de Projeto.
+Nesta reunião foi apresentada a metodologia de abordagem definida para o projeto, que teve como base
+duas vertentes principais:
+• Vertente Sistemas de Informação, associada ao desenvolvimento de sistemas que
+possibilitassem, por um lado, a produção de dados associados à estratificação pelo risco e, por
+Relatório Projeto Operacionalização da ER no SNS_Sintese_Final
+11 / 32
+
+=== PÁGINA 14 ===
+outro, a sua disponibilização aos utilizadores desta informação, realçando-se os elementos das
+Equipas Locais de ER e os profissionais de saúde;
+• Vertente Capacitação, que garantisse que quer os ILER, quer os elementos que integrassem as
+Equipas Locais de ER e, ainda, os profissionais de saúde, se encontrassem aptos a utilizar e a
+interpretar os dados relacionados com a ER.
+Nos pontos seguintes detalham-se os trabalhos efetuados, assim como os resultados alcançados em cada
+uma das vertentes.
+3.1 Vertente Sistemas de Informação
+No âmbito dos sistemas de informação, para dar suporte à operacionalização da estratificação pelo risco,
+procedeu-se ao desenvolvimento/adaptação de cinco peças fundamentais:
+• Passaram a ser considerados dados de 10,5 milhões de utentes inscritos e a respetiva informação
+estratificada pelo risco;
+• O BI-ER, ferramenta analítica desenvolvida em 2024, que se encontra disponível para utilização
+em todas as ULS e inclui, para além de dashboards, a possibilidade de produção de listagens ad-
+hoc personalizadas em função das necessidades do utilizador;
+• Os sistemas clínicos (SClinico) de cuidados de saúde primários (CSP) e hospitalares, que
+passaram a possibilitar diretamente aos profissionais de saúde o acesso a dados de estratificação
+pelo risco;
+• O Registo de Saúde Eletrónico (RSE), que viu complementada a informação clínica do utente
+disponível para consulta pelos profissionais de saúde com dados da estratificação pelo risco.
+Relatório Projeto Operacionalização da ER no SNS_Sintese_Final
+12 / 32
+
+=== PÁGINA 15 ===
+Dados considerados
+Durante o ano de 2023, com o objetivo de realizar um estudo comparativo das ferramentas de estratificação
+pelo risco tendo em conta as 8 ULS existentes à data e os utentes inscritos respetivos, a ACSS, em parceria
+com a SPMS, procedeu ao agrupamento da informação relativa aos utentes inscritos naquelas ULS nas
+ferramentas em análise.
+Depois de finalizado o estudo, alargou-se o processo de estratificação a todo o território nacional, ou seja,
+a 39 ULS e a 10,5 milhões de utentes inscritos, cujos dados passaram a ser considerados para efeitos de
+ER, abrangendo o período entre 31 dezembro 2019 e 31 de julho 2024.
+O processo realizado de agrupamento de utentes está descrito na figura seguinte e inclui o envio de
+informação registada centralmente de morbilidade e de contactos com os serviços de saúde para a
+ferramenta de estratificação pelo risco (sediada na SPMS), tendo como resultado a atribuição de um GRA
+de pertença a cada utente, assim como de um outro conjunto de variáveis associadas à estratificação1.
+Figura 7 - Funcionamento do Agrupador
+1 A ferramenta de estratificação pelo risco que foi utilizada corresponde ao software Adjusted Clinical Groups, Versão
+13.0., da Johns Hopkins University.
+Relatório Projeto Operacionalização da ER no SNS_Sintese_Final
+13 / 32
+
+=== PÁGINA 16 ===
+Neste contexto, realça-se que:
+• As fontes de dados são:
+1. Base de Dados de Morbilidade Hospitalar (BDMH) - Armazena informações de
+morbilidade hospitalar, como internamentos, consultas externas, episódios de
+ambulatório e urgências;
+2. Sistema de Informação e Monitorização do SNS (SIM@SNS) - Contém dados
+relacionados com os Cuidados de Saúde Primários, incluindo informações sobre
+medicamentos prescritos e aviados em farmácia comunitária e dados pessoais dos
+utentes;
+3. Ferramenta de ajustamento pelo Risco - Software que procede à estratificação da
+população pelo risco em Grupos de Risco Ajustado. Para tal, os dados provenientes da
+BDMH e SIM@SNS, são preparados devidamente e integrados diretamente via BD neste
+software, que em seguida procede à estratificação da população pelo risco.
+• Os dados de estratificação pelo risco resultantes são disponibilizados no BI-ER e no RSE (Registo
+de Saúde Eletrónico).
+Sistema de BI para a Estratificação pelo Risco (BI-ER)
+A ACSS, em parceria com a SPMS, procedeu em 2024 ao desenvolvimento do BI-ER, ferramenta analítica
+para exploração de dados de estratificação da população pelo risco, de forma estruturada e normalizada,
+permitindo, entre outras funcionalidades, a comparabilidade no contexto nacional.
+Figura 8 - Ecrã de Entrada do BI-ER
+Relatório Projeto Operacionalização da ER no SNS_Sintese_Final
+14 / 32
+
+=== PÁGINA 17 ===
+Disponibilizado em produção a 31 de outubro de 2024 nas 39 ULS e aos elementos dos organismos centrais
+representados na Equipa de Governação e Acompanhamento (anterior Equipa de Projeto), o BI-ER
+disponibiliza dados de estratificação pelo risco da população inscrita em cada ULS e possui duas
+componentes de exploração de dados:
+Figura 9 - Componentes de Exploração de Dados do BI-ER
+Os Dashboards disponibilizam uma visão por ULS, apresentando dados que permitem conhecer a
+respetiva população em diferentes dimensões:
+Figura 10 – Exemplos de Dashboards, meramente exemplificativo
+A título de exemplo, apresentam-se duas figuras que retratam a Pirâmide de Kaiser e a Pirâmide Etária por
+nível de risco que são disponibilizadas no BI-ER, sendo os dados relativos a utentes inscritos em CSP em
+2024:
+Relatório Projeto Operacionalização da ER no SNS_Sintese_Final
+15 / 32
+
+=== PÁGINA 18 ===
+Figura 11 - Pirâmide de Kaiser Nacional 2024 (Fonte: ACSS/SPMS, extração dados abril de 2025)
+Relatório Projeto Operacionalização da ER no SNS_Sintese_Final
+16 / 32
+
+=== PÁGINA 19 ===
+Figura 12 - Pirâmide Etária Nacional por Nível de Risco 2024 (Fonte: ACSS/SPMS; extração dados abril de
+2025)
+Nas análises ad-hoc, o utilizador tem a capacidade de selecionar variáveis e filtros para efetuar análises
+e extrações de dados, de acordo com as suas necessidades:
+Relatório Projeto Operacionalização da ER no SNS_Sintese_Final
+17 / 32
+
+=== PÁGINA 20 ===
+Figura 13 - Exemplo de Análises Ad-hoc (Dados de Teste)
+Para além do apoio aos utilizadores do BI-ER efetuado pela Equipa de Governação e Acompanhamento,
+foi criada na SPMS uma equipa de manutenção que dá suporte técnico a dúvidas que possam surgir.
+Outros Sistemas de Informação
+Tendo em conta o valor da informação de estratificação pelo risco produzida, considerou-se que a mesma
+deveria ser, também, disponibilizada para consulta no RSE pelos profissionais de saúde, tanto da área dos
+cuidados de saúde primários, como dos hospitalares. O acesso aos dados da ER, através do SClinico,
+assim, é efetuado da seguinte forma:
+Figura 14 - Consulta de Dados de Estratificação pelo Risco no Registo de Saúde Eletrónico
+Relatório Projeto Operacionalização da ER no SNS_Sintese_Final
+18 / 32
+
+=== PÁGINA 21 ===
+Os dados disponibilizados pelo RSE têm o seguinte formato:
+Figura 15 - Figura 9 - Exemplo de Dados Disponibilizados no RSE (dados de teste fictícios)
+3.2 Vertente Capacitação
+A estratificação pelo risco, sendo uma iniciativa estruturante que pressupõe a assimilação de novos
+conceitos e abordagens ao nível do utente/cidadão, das entidades de saúde e do próprio ecossistema de
+saúde, obrigou a que a vertente da capacitação assumisse uma particular importância, tendo sido
+considerada como um dos pontos críticos do projeto.
+Entendeu-se que o Projeto de Operacionalização da Utilização dos Instrumentos de Estratificação
+pelo Risco não se limitava à disponibilização de sistemas de informação com dados estratificados para
+utilização, mas que deveria abranger igualmente, a capacitação dos diferentes intervenientes — em
+especial das Equipas Locais de ER — na temática da estratificação, contribuindo para o desenvolvimento
+de conhecimentos que permitissem tirar pleno partido desses sistemas e que, em paralelo, resultassem
+num forte envolvimento e adesão à iniciativa da estratificação, assim como na criação de espaços que
+incentivassem o diálogo entre equipas e a partilha de experiências.
+Assim, tendo em conta a existência da RILER, dos ILER e das Equipas Locais de ER, foram definidos três
+vetores orientadores que, no seu conjunto, contribuiriam para o envolvimento efetivo de todos:
+Relatório Projeto Operacionalização da ER no SNS_Sintese_Final
+19 / 32
+
+=== PÁGINA 22 ===
+Figura 16 - Vetores Orientadores da Capacitação
+Possuindo a RILER como base de sustentação, pretendeu-se, com o trabalho realizado, incentivar e
+promover:
+• A colaboração entre si dos diferentes elementos das Equipas Locais de ER, assim como entre
+ULS e, ainda, com a Equipa de Projeto (posteriormente Equipa de Governação e
+Acompanhamento), contribuindo para o alcance de objetivos comuns associados à estratificação
+pelo risco;
+• A aprendizagem de conceitos e abordagens associados à estratificação e o aperfeiçoamento das
+capacidades de atuar no terreno, através da identificação de formas de aplicação da estratificação
+pelo risco em função das realidades da ULS de pertença;
+• A partilha de conhecimentos e experiências, assim como de boas práticas, para que a sua
+disseminação contribuísse para a criação de ambientes de melhoria contínua que potenciassem
+o alcance de sinergias e ganhos de eficiência.
+De seguida, apresentam-se os objetivos e as estratégias definidos para cada um dos vetores:
+Relatório Projeto Operacionalização da ER no SNS_Sintese_Final
+20 / 32
+
+=== PÁGINA 23 ===
+Figura 17 - Objetivos e Estratégias da Capacitação
+Procedeu-se, assim, à definição de uma estratégia de formação dos ILER e restantes elementos das
+Equipas Locais de ER sobre os conceitos associados à estratificação, formas de analisar e interpretar os
+dados, assim como consultar os dados de ER disponibilizados nos diferentes sistemas de informação.
+O objetivo foi criar as condições necessárias para que, no final desta etapa, as Equipas Locais de ER se
+encontrassem preparadas para definir e implementar estratégias sustentadas em dados da estratificação
+pelo risco, assim como para formar outros utilizadores para colocar em prática a estratégia de estratificação
+por risco prevista no Despacho 12986/2023.
+Assim, foram dinamizadas formações presenciais e online, dirigidas aos Interlocutores Locais de ER (ILER)
+e às Equipas Locais de ER de cada ULS. O plano incluiu sessões de introdução aos conceitos de
+estratificação, interpretação de dados, utilização do BI-ER, assim como sessões para suporte à construção
+dos planos de ação locais de ER e de acompanhamento da respetiva implementação.
+As sessões de capacitação realizadas foram as seguintes:
+Fase Objetivo Presentes Nº Calendário
+1 Reunião de apresentação do projeto e ILER das 39 ULS 1 reunião Março, 2024
+apresentação da abordagem ao projeto
+7 reuniões Abril a maio de
+Formação inicial sobre ER 2024
+ILER e elementos das (1 por grupo)
+2 equipas locais de ER,
+divididos por grupos 7 reuniões Maio de 2024
+Sessões de esclarecimento sobre ER
+(1 por grupo)
+Apresentação de Planos de Ação Locais ILER e elementos das 7 reuniões Julho de 2024
+3 para implementação da Estratificação equipas locais de ER,
+(1 por grupo)
+pelo risco: divididos por grupos
+Relatório Projeto Operacionalização da ER no SNS_Sintese_Final
+21 / 32
+
+=== PÁGINA 24 ===
+Fase Objetivo Presentes Nº Calendário
+ILER e elementos das 7 reuniões Outubro de 2024
+4 Sessões de formação sobre o BI-ER equipas locais de ER,
+(1 por grupo)
+divididos por grupos
+ILER e elementos das 7 reuniões Novembro de
+5 Sessões de acompanhamento da equipas locais de ER, 2024
+implementação local da ER (1 por grupo)
+divididos por grupos
+As ULS presentes nas sessões foram organizadas em sete grupos da seguinte forma:
+Figura 18- Organização das ULS por Grupos
+No âmbito dos Planos de Ação Locais, foram apresentados trinta e sete que se encontravam estruturados
+da seguinte forma:
+Figura 19 - Estrutura dos Planos de Ação Locais
+Relatório Projeto Operacionalização da ER no SNS_Sintese_Final
+22 / 32
+
+=== PÁGINA 25 ===
+3. Resultados Alcançados
+No final de 2024, é possível afirmar que a iniciativa da estratificação pelo risco se encontra em
+funcionamento em todas as ULS e que o Projeto de Operacionalização da Utilização dos Instrumentos
+de Estratificação pelo Risco cumpriu os seus objetivos.
+De facto, ao nível da vertente Sistemas de Informação constata-se que:
+• Prodeceu-se à Estratificação Pelo Risco da totalidade dos utentes inscritos em unidades de CSP;
+• Foi desenvolvido e disponibilizado a todas as ULS o BI-ER, uma ferramenta que permite aos
+utilizadores da Rede de ER o acesso a dados de estratificação;
+• Foi enriquecida com dados de estratificação a consulta pelos profissionais de saúde de informação
+clínica dos utentes.
+Quanto à vertente Capacitação, conclui-se que os ILER e respetivas Equipas Locais de ER se encontram
+capacitados para analisar e interpretar os dados de estratificação, assim como para definir planos de ação
+locais associados à implementação da ER nas suas instituições. Este conhecimento ficou demonstrado no
+conjunto de Planos de Ação Locais apresentados pelas ULS nas sessões ocorridas em julho e em
+novembro de 2024:
+Relatório Projeto Operacionalização da ER no SNS_Sintese_Final
+23 / 32
+
+=== PÁGINA 26 ===
+Figura 20 - Exemplos de Conteúdos dos Planos de Ação Locais
+De facto, ao longo das sessões efetuadas para acompanhamento da implementação local da ER,
+realizadas em dezembro, constatou-se que as Equipas Locais de ER já tinham analisado e interpretado os
+dados disponibilizados pelo BI-ER, utilizando e aplicando os seus conhecimentos na definição de trabalhos
+em áreas tão diversas como polifarmácia, multimorbilidade, urgências evitáveis e planos de cuidados.
+Realça-se que a criação da RILER foi uma peça importante que contribuiu para a criação de um modelo de
+funcionamento assente na colaboração, aprendizagem e partilha dentro das próprias Equipas Locais de
+ER, entre as ULS e com a Equipa de Governação e Acompanhamento.
+De seguida apresentam-se evidências dos resultados alcançados:
+Relatório Projeto Operacionalização da ER no SNS_Sintese_Final
+24 / 32
+
+=== PÁGINA 27 ===
+Figura 21 - Evidências de Resultados alcançados
+Conclui-se, assim, que os instrumentos de estratificação pelo risco no SNS que foram disponibilizados se
+encontravam em funcionamento e a ser utilizados convenientemente no final de 2024.
+O trabalho executado criou as condições para que a iniciativa da estratificação pelo risco fosse continuada
+e consolidada em 2025 e nos anos seguintes.
+Relatório Projeto Operacionalização da ER no SNS_Sintese_Final
+25 / 32
+
+=== PÁGINA 28 ===
+4. Fatores Críticos de Sucesso
+No âmbito do Projeto de Operacionalização da Utilização de Instrumentos de Estratificação pelo
+Risco no SNS foram identificados os seguintes seis fatores críticos de sucesso, sem os quais não poderiam
+ter sido alcançados os objetivos do projeto:
+Figura 22 - Fatores Críticos de Sucesso
+O patrocínio da tutela conferiu legitimidade institucional à iniciativa da estratificação pelo risco, tendo
+funcionado, em conjunto com o envolvimento ativo dos Conselhos de Administração das ULA, como
+mobilizador quer para a identificação dos ILER, quer também para a criação da RILER.
+A criação de um modelo de funcionamento em rede – com base na RILER, suportado e acompanhado
+por uma equipa central – a Equipa de Projeto (posteriormente denominada Equipa de Governação e
+Acompanhamento), revelou-se determinante para o sucesso do projeto. Este modelo, tendo em conta, entre
+outros fatores, que o número de elementos das Equipas Locais das ULS ascendia a um total superior a 300
+elementos, permitiu assegurar de forma eficaz a aprendizagem, a partilha de experiências e a colaboração.
+Só através desta abordagem foi possível garantir o envolvimento das diferentes equipas e proceder à sua
+capacitação de forma eficiente e sustentada.
+O planeamento revelou-se crucial ao ter-se definido internamente o prazo de operacionalizar até ao final
+de 2024 a utilização dos instrumentos de estratificação pelo risco no SNS. Neste contexto, a definição clara
+dos trabalhos a realizar nas vertentes de Sistemas de Informação e de Capacitação permitiu orientar e
+integrar o trabalho de ambas as equipas, assim como otimizar a utilização dos recursos e minimizar riscos
+de atraso na execução das tarefas. Desta forma, as datas de execução foram cumpridas, o que resultou
+num reforço da confiança das Equipas Locais de ER na utilização dos dados produzidos pela estratificação.
+Relatório Projeto Operacionalização da ER no SNS_Sintese_Final
+26 / 32
+
+=== PÁGINA 29 ===
+Foi efetuada uma aposta na capacitação das Equipas Locais de ER, tendo-se considerado que a mesma
+era determinante para a adoção com sucesso dos instrumentos de estratificação pelo risco nas ULS. Sendo
+esta uma abordagem nova, com uma enorme variedade de aplicações no terreno, considerou-se que, para
+além da formação associada à aplicação de estratificação a disponibilizar às Equipas Locais de ER (o BI-
+ER), haveria também que explicar quais os conceitos subjacentes à estratificação e formas de análise e
+interpretação dos dados, assim como incentivar as equipas a identificar possíveis utilizações desse tipo de
+informação na sua instituição. Considera-se que as ações de capacitação efetuadas apoiaram a efetiva
+adoção da estratificação pelo risco nas ULS.
+Outro fator crítico de sucesso residiu na existência de informação centralizada por utente e de a mesma
+se encontrar normalizada, sem a qual o agrupador GRA, nem outra ferramenta de estratificação pelo risco,
+poderia ser utilizado.
+Por último, os processos digitais assumiram igualmente um papel importante no projeto, destacando-se
+a utilização da plataforma e-learning eStudo, detida pela SPMS. Esta plataforma funciona como repositório
+central de informação, disponibilizando às Equipas Locais de ER o acesso às gravações das sessões de
+formação realizadas, bem como a documentação de apoio e outros conteúdos sobre a temática da
+estratificação. Para além de possibilitar a consolidação de conhecimentos sempre que necessário aos
+elementos mais experientes, o acesso a esta plataforma proporciona aos novos elementos a possibilidade
+de efetuar on-line os mesmos percursos formativos.
+Relatório Projeto Operacionalização da ER no SNS_Sintese_Final
+27 / 32
+
+=== PÁGINA 30 ===
+5. Conclusão e Próximos Passos
+A rápida mudança nos padrões epidemiológicos, demográficos e sociais, aliada ao aumento das
+expectativas dos cidadãos e à crescente pressão sobre os gastos, representa um desafio para os sistemas
+de saúde, havendo que aproximar as respostas de saúde às reais necessidades dos cidadãos e das
+comunidades, assumindo especial relevância o uso de ferramentas que estratificam o risco clínico da
+população.
+O processo de implementação da estratificação pelo risco no SNS vem, assim, representar um marco na
+modernização da gestão em saúde, colocando o SNS na vanguarda da utilização de dados para a tomada
+de decisão. A consolidação do BI-ER, bem como a capacitação das equipas e diferentes utilizadores
+envolvidos nesta abordagem, criaram condições para uma utilização sustentada e estratégica da
+estratificação pelo risco, contribuindo para uma gestão mais eficiente e alinhada com as necessidades reais
+da população.
+Tendo sido produzidos resultados relevantes, a adoção da estratificação pelo risco encontra-se apenas no
+início, havendo que dar-lhe continuidade, por forma a enriquecer e consolidar o modelo desenvolvido. Os
+próximos passos deverão, assim, centrar-se nas seguintes áreas:
+Figura 23 - Próximos Passos
+Presentemente o BI-ER é já considerado um instrumento a utilizar na definição de estratégias e programas
+de saúde pelas entidades, esperando-se que esta utilização seja consolidade. O IDRA é utilizado no
+processo de financiamento por capitação das unidades de saúde desde 2024, existindo a intenção de,
+estando os registos de diagnósticos mais normalizados, introduzir no modelo de financiamento e factor
+compensatório para quem melhore o estado de saúde dos seus utentes e diminua o IDRA. Por outro lado,
+pretende-se também que a informação de utentes associada à estratificação pelo risco e disponibilizada
+Relatório Projeto Operacionalização da ER no SNS_Sintese_Final
+28 / 32
+
+=== PÁGINA 31 ===
+aos profissionais de saúde aporte valor em sede de prestação de cuidados e que vá sendo complementada
+com outros dados que se concluam ser também necessários para enriquecer a informação existente.
+Quanto aos elementos das Equipas Locais de ER de cada ULS que foram uma peça fundamental para que
+a iniciativa de estratificação pelo risco fosse implementada no terreno e começasse, logo no primeiro ano,
+a produzir resultados, considera-se que, tendo sido percecionados os benefícios e as vantagens desta
+iniciativa, irão dar continuidade aos trabalhos que foram executados e proceder á atualização dos seus
+planos de ação, assim como à dinamização e acompanhamento das respetivas medidas, sustentadas e
+apoiadas pela estrutura central de governação e acompanhamento.
+Relatório Projeto Operacionalização da ER no SNS_Sintese_Final
+29 / 32
+
+=== PÁGINA 32 ===
+Projeto de Operacionalização da Utilização dos Instrumentos de
+Estratificação pelo Risco no SNS
+15 dezembro 2025
+Administração Central do Sistema de Saúde, I.P.
+Parque de Saúde de Lisboa | Edifício 16 | Avenida do Brasil, 53 | 1700-063 Lisboa | Portugal
+Tel. Geral: 21 792 58 00 | Email: geral@acss.min-saude.pt | www.acss.min-saude.pt

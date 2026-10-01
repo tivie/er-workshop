@@ -1,0 +1,578 @@
+# Fonte: Orueta 2013 Predictive risk modelling in the Spanish population - Basque Country (BMC HSR).pdf
+# Páginas: 9
+
+=== PÁGINA 1 ===
+Oruetaetal.BMCHealthServicesResearch2013,13:269
+http://www.biomedcentral.com/1472-6963/13/269
+RESEARCH ARTICLE Open Access
+Predictive risk modelling in the Spanish
+population: a cross-sectional study
+Juan F Orueta1*, Roberto Nuño-Solinis2† , Maider Mateos2† , Itziar Vergara1† , Gonzalo Grandes1†
+and Santiago
+Esnaola3†
+Abstract
+Background: Anincreasein chronic conditions is currently the greatest threat to humanhealth and to the
+sustainability of health systems. Risk adjustment systems mayenablepopulation stratificationprogrammes to be
+developed and become instrumental in implementing new models of care.
+The objectives of this study are to evaluate the capability of ACG-PM, DCG-HCC and CRG-based modelsto predict
+healthcare costs and identify patients that will be highconsumers and to analyse changes to predictivecapacity
+when socio-economic variables are added.
+Methods: This cross-sectional study used data ofall Basque Country citizens over 14 years of age (n=1,964,337)
+collected ina period of 2years. Data from the first 12 months (age, sex, area deprivation index, diagnoses,
+procedures, prescriptions and previous cost) were used to construct the explanatory variables. The ability of models
+to predict healthcare costs in thefollowing 12 monthswas assessed using the coefficient ofdetermination and to
+identify thepatientswith highest costs by means of receiver operating characteristic (ROC) curve analysis.
+Results: The coefficients of determinationranged from 0.18 to 0.21 for diagnosis-based models, 0.17-0.18 for
+prescription-based and 0.21-0.24 for thecombination of both.The observed area under theROC curve was
+0.78-0.86 (identifying patients witha cost higher than P-95) and 0.83-0.90(P-99). The values of the DCG-HCC models
+are slightly higherand those ofthe CRG models are lower, although prescription informationcould not be used in
+thelatter. On adding previous costdata,differences between the three systems decrease appreciably. Inclusion of
+thedeprivationindex led to only marginal improvementsin explanatory power.
+Conclusion: The case-mix systems developed intheUSA can be useful in a publicly financedhealthcare system
+withuniversal coverage to identify people atrisk of high health resource consumption and whose situationis
+potentially preventable through proactive interventions.
+Keywords: Risk-adjustment,Burden ofillness, Actuarial prediction, Health risk stratification
+Background multiple pathologies requires such a high number of re-
+Increased life expectancy combined with other factors current hospitalisations and other costly treatments that
+has produced a progressive increase in the prevalence of the cost of their care accounts for the majority of the
+chronic diseases and multimorbidity situations, espe- budgetsof health organisations.
+cially in the older population strata. However, current In this context, in 2010 the Basque Government’s De-
+healthcare systems were designed to serve primarily partment of Health published a Strategy to tackle the
+acute episodes of illness and have trouble meeting the challenge of Chronicity in the Basque Country [2],
+complex healthcare needs that this group of people containing a series of policies and projects to reinvent
+present [1]. In addition, a small number of patients with the healthcare delivery model and adapt it to this new
+situation. In order for interventions to be effective and
+efficient, they should be implemented among those pa-
+*Correspondence:jon.orueta@osakidetza.net
+†Equalcontributors tients whose care needs match the profile for which they
+1Osakidetza,BasqueHealthService,Bilbao,Spain were designed. This fact raises the need to develop a
+Fulllistofauthorinformationisavailableattheendofthearticle
+©2013Oruetaetal.;licenseeBioMedCentralLtd.ThisisanOpenAccessarticledistributedunderthetermsoftheCreative
+CommonsAttributionLicense(http://creativecommons.org/licenses/by/2.0),whichpermitsunrestricteduse,distribution,and
+reproductioninanymedium,providedtheoriginalworkisproperlycited.
+
+=== PÁGINA 2 ===
+Oruetaetal.BMCHealthServicesResearch2013,13:269 Page2of9
+http://www.biomedcentral.com/1472-6963/13/269
+population stratification system based on risk adjust- This coverage and the benefits package are common to
+mentmechanisms. Spanish citizens and foreign nationals within Spanish
+The risk adjustment models use information obtained nationalterritory.
+from patients to explain the variation in healthcare re- The SNS is publicly funded through general taxes. At
+source consumption, cost and the outcomes of the care the point of delivery, provision is free of charge, with the
+they receive. To do this, models were developed using exception of pharmaceuticals prescribed, which entail a
+different explanatory variables such as demographics, co-payment.
+past consumption of health resources and health status Theregionalorganizationalstructureistheresultofa
+[3-7]. Incorporating clinical variables generates greater devolution process. Geopolitically, Spain is made up of
+explanatory power. Moreover, systems that contain these 17 regions referred to as Autonomous Communities.
+variablesareeasiertointerpretforthehealthcareprofes- The 17 regional health ministries have primary control
+sionals responsiblefor caring for thesepatients. over the funding, organization, and delivery of health
+Amongthebest-knownpredictive instrumentsareAd- serviceswithintheirterritory.These competencieswere
+justed Clinical Groups (ACG-PM) [8], Diagnostic Cost transferred over the past 30 years and, in particular, the
+Groups/Hierarchical Condition Categories (DCG-HCC) Basque Health Service, called Osakidetza, was created
+[9] and Clinical Risk Groups (CRG) [10]. All three were in1983.
+designed in the U.S., and are robust systems from a stat- In the Basque Country, there is a purchaser provider
+istical point of view and versatile in their applications. split, with the Department of Health and Consumer
+Their usefulness has been proven in public and private Affairs of the Basque Governmentbeing responsible for
+health organisations over a number of years. They are policy making, for public health and for planning and
+able to explain alarge portion of the variability in apop- financing health care. Osakidetza is the only public
+ulation’s use of health services and to provide a forecast provider of health services in the region, including pri-
+estimate of the volume of healthcare resources that each mary care, hospital care (both acute and long-term
+individual will require the following year. The most re- care), specialist outpatient clinics, emergencies, and
+cent versionscombineinformation about diagnoses,pre- mental health. All health professionals in Osakidetza
+scriptions,previouscostanduseofcertainprocedures. are salaried.
+Despite their undeniable appeal, these instruments Primary Care is structured in Primary Care Areas, in
+also have some limitations resulting from their failure to which primary care is provided through one or more
+include other factors that influence health, such as life- Health Centers under criteria designed to achieve a bal-
+style, socio-economic variables and other factors relating ance between optimum accessibility and managerial effi-
+tothesocial environment [11,12]. ciency. There are a total of 1835 doctors working in
+There may also be doubts about the validity and primary care (1544 general practitioners [GPs] and 291
+applicability of these instruments in our setting. Al- pediatricians); they work in teams and act as gatekeepers
+though several studies have demonstrated the ability of for the other levels of care. Each citizen is on the list of
+diagnosis-based case-mixes to retrospectively explain agiven primarycare doctorandnurse[15].
+the use of health resources in Spain [13,14] and other The study population was composed of all persons
+countries, there are few references comparing different over 14 years of age, registered in Osakidetza on 1
+predictive tools in a national system similar to ours. In September 2008. The study period corresponds to two
+addition, the limited development of health databases consecutive 12-month intervals. Data from the first
+for administrative purposes in Spain may pose obsta- year (01 September 2007 to 31 August 2008) were used
+cles to the implementation of risk prediction models. to develop the explanatory variables and those from the
+Thispaper has two objectives. First, to verify the valid- second year (01 September 2008 to 31 August 2009)
+ity of ACG-PM, DCG-HCC and CRG systems in terms for the response variables. A minimum monitoring
+of predicting healthcare costs and identifying in advance period was established in the first year, including only
+those patients that will consume a high level of re- thosepeople that wereassignedtoadoctor in Osakidetza
+sources the following year; and second, to analyse the for at least 6 months, regardless of whether or not they
+potentialimprovementinthepredictive capacityofthese had any contact with the health services (n =1,973,971).
+instruments when variables related to patients’ socio- Of these, 28,182 people did not complete the second
+economicstatusareincorporated. follow-up year due to death (n=18,548), transfer or
+other causes (n=9,634). Those citizens in the study
+Methods population who died during the second year were in-
+Thisisacross-sectionalstudycarriedoutwithinthehealth cluded, whereas those who withdrew for other reasons
+system of the Basque Country (Spain). The Spanish were not. As such, the final population consisted of
+National Health System (SNS) provides universal coverage. 1,964,337.
+
+=== PÁGINA 3 ===
+Oruetaetal.BMCHealthServicesResearch2013,13:269 Page3of9
+http://www.biomedcentral.com/1472-6963/13/269
+Sourcesofinformation outpatientvisits), hospital-at-home servicesanddayhos-
+Case-mix systems are used in the USA to classify the pitals (except the above-mentioned procedures), out-
+population from claim data. Since this information sys- patient rehabilitation, medical transport, prostheses and
+tem is not operative in Spain, data were extracted from other equipment delivered to patients at home. It was
+the available sources. For this study, we obtained per- estimated that the total cost of excluded services
+mission from the Basque Health Service to use the correspondedto28.2%oftheoverallbudget.
+Basque Country population stratification program The deprivation index of the census tract (median
+(PREST) database. PREST uses an opaque identifier to population size=1,200 inhabitants) of residence pro-
+ensure patient confidentiality and contains information posed by the MEDEA project [18] was used as a proxy
+from primary care electronic medical records (PC- of individual socioeconomic position. Five simple indica-
+EMR), minimum basic data set of hospital discharge tors were included in this index (year 2001): Unemploy-
+reports (MBDS) and computerised files from day hospi- ment, low educational level, low educational level in
+tals, emergency departments and specialised outpatient young people (16–29 years), manual workers, and tem-
+offices. These data were as follows: porary workers. The deprivation index was categorised
+inquintiles.
+– Demographicdata:age, sexand census areaof
+residence
+Classificationsystemsforpatients
+– ICD-9-CM codes fordiagnosesfromeach contact
+ACG-PM version 9.0, CRG version 1.6 and DCG-HCC
+withprimarycare,hospitaladmissionsand day
+(models ID#26, ID#69 and ID#71) were used for this
+hospitals. Thelattertwoalsocontained information
+study. A brief description of them can be found as
+onprocedures.Thecoding isdoneinhospitalsby
+Additional file 1:
+clinicaldocumentationspecialists,butinprimary
+carethe doctors themselvesmustperform thistask
+– CRGs[10]isacell-basedmodel inwhich each
+when establishingormodifyingadiagnosis.Amore
+personis assigned toonemutuallyexclusive
+detailed description ofthisprocesscanbefound
+category, basedonclinicalcriteria; thetotalnumber
+elsewhere [16].Inordertoavoidthe possible
+ofCRGsis1,076.Inthisstudy itwasnotpossible to
+inclusion oflong-term diseasesthatwerenot
+addinformationonprescriptions,sincetheBasque
+currently active,weonlyincludedthediseasesthat
+country organisationusesthe WHO ATCsystem,
+were considered reasonforencounter,accordingto
+which isrejectedbytheCRGv1.6software.
+theannotationsofthe physicians,and involved in
+– DCG-HCC[9]are aregression-model.Alldiagnoses
+some clinicalaction,suchascauseofprescription,
+andprescriptionsare classified intoclinically
+newclinical notation orderived visit,duringthe
+homogeneousgroupsthatareemployed topredict
+periodofstudy.
+the costofeach patient.Inthisstudy,117categories
+– Prescriptionsinprimarycare, which are coded
+fordiagnoses and203forprescriptionswere
+automaticallyinthe PC-EMRsaccordingto the
+includedasindependentvariables.
+WorldHealthOrganization(WHO)Anatomical
+– ACG-PM[8]adoptsamixedapproach.Patientsare
+TherapeuticChemical(ATC)system[17].
+categorised inmutuallyexclusive categories,of
+which themodel uses34. Other markersare
+Regarding the cost, this was obtained directly for pri-
+incorporatedalongside them, withthe complete
+mary care prescriptions recorded in PC-EMR. In the
+model comprising 180 variables generatedfrom
+other cases (visits to emergency departments, outpatient
+diagnoses and65 fromprescriptions.
+specialty care and primary care doctors and nurses; lab
+tests and X-rays requested in primary care; some proce-
+dures such as dialysis, radiation therapy or chemother- Statisticalmodels
+apy performed in day hospitals) the number of services From the information obtained with the use of the three
+provided to each patient was multiplied by their stand- case-mixes, several regression models were constructed
+ard cost (the average cost of each service provided to a using the cost of the second year as the outcome vari-
+patient treated in Osakidetza, according to calculations able. To avoid overfitting problems and to confirm that
+made by the aforementioned organisation). The costs of the results do not depend on the sample, a fivefold cross
+hospital stays and major outpatient surgical procedures validation was carried out. Thus, the sample was split
+were calculated according to the weights of their corre- into five random subsamples and model fitting was
+sponding Diagnosis Related Groups (DRGs). Services for performed five times, considering four of these subsam-
+which no information was available were excluded from plesasthetrainingset,andtheremainingoneasthetest
+the cost estimate: Mental Health (both admissions and set, each time. The statistics employed to evaluate and
+
+=== PÁGINA 4 ===
+Oruetaetal.BMCHealthServicesResearch2013,13:269 Page4of9
+http://www.biomedcentral.com/1472-6963/13/269
+compare the performance of the different models were Results
+derivedfrom this cross validation. Of the study population, 51.2% are women and 21.5%
+The coefficient of determination R2 was used to meas- are aged over 65 years. The distribution of the popula-
+ure the explanatory power. First, adjustments were made tion in age and sex groups, and the averages for unique
+to models whose independent variables were the out-of- prescriptions and diagnoses per patient can be found in
+the-box risk scores offereddirectlybythe case-mixdevel- Table 1. More than three quarters of the population had
+opers. Then multiple regression models were recalibrated at least one contact with health services and over 7% re-
+to our population dataset, in which clinical variables quired one ormorehospitalisations per year. The overall
+(groups based on diagnoses or drugs from the case-mix), average annual consultations per patient ranged between
+previous cost and socio-economic variables (deprivation 0.31-0.32 for emergencies, 1.70-1.76 for outpatient spe-
+index) were successively added to the demographic vari- cialty care, 4.29-4.47 for primary care doctors and 1.69-
+ables(ageandsex). 2.09fornursingconsultations.A table inAdditional file 2
+OLS (Ordinary Least Squares) statistical models do thedistributionoftheseaveragesbyagegroup.
+not adequately match the analysed data, as none of the Table 2 shows the results obtained by different linear
+variables follows a normal distribution and addition- regression models in terms of R [2]. While the age and
+ally, they do not take into account the hierarchical na- sex-based models explained 7% of the cost variability,
+ture of the data (patients grouped in lists of primary the out-of-the-box models reached values between
+care doctors, those working in health centres and cen- 13.5% and 20.8%. Regarding those that were re-
+tres clustered in health districts). Therefore, two-part calibrated with our data, the coefficients of determin-
+models and hierarchical models were also used, includ- ation ranged from 0.18 to 0.21 for diagnosis-based
+ing the 3 levels of grouping listed above. Because these models, 0.17-0.18 for prescription-based and 0.21-0.24
+models do not directly provide an R2, their results for the combination of both. In all cases the values of
+were compared with those obtained by OLS using the DCG-HCC models are slightly higher and those of
+MAPE (Mean Absolute Prediction Error), expressed as the CRG models lower, although prescription informa-
+a percentage (dividing the obtained value by the ob- tion could not be used in the latter. When data on the
+served average cost). cost of the previous year is added, differences between
+Inordertocheckthevalidityofthesesystemstoiden- the three systems decreased appreciably.
+tify people that will require high resource consumption Table 3 compares the MAPE of the OLS, two-part and
+the following year, logistic regression models were de- hierarchical models. The two-part model shows the
+veloped in which the dependent variables indicate worst results and the differences between the OLS and
+whether the person belongs to 5% and 1% of highest- hierarchicalmodelsaresmall andinbothdirections.
+consuming patients during the second period. The ex- Withregardtothemodels’capability tocorrectlyiden-
+planatory variables were the same as in the linear tify patients located above the 95th and 99th percentiles,
+models described above and the area under the ROC the results are presented in Tables 4 and 5. The out-of-
+curve was the measure used to evaluate and compare the-box models for the three case mixes produce differ-
+thedifferentmodels. ent AUC values: those for the CRG models are similar
+Table1Distributionofthepopulationinageandsexgroupsanddescriptiveinformationondiagnosesand
+prescriptions
+Men Women Meanunique %Patients Meandrugs Patients
+diagnoses withone prescribed withoneor
+Agegroups N(%) N(%)
+perpatient ormore (uniqueATC moredrugs
+diagnosis codes)per prescribed
+patient
+14-24 104,686(5.33%) 99,969(5.09%) 1.58 52.06% 1.98 65.69%
+25-34 178,767(9.10%) 171,317(8.72%) 1.73 51.97% 2.12 64.46%
+35-44 194,187(9.89%) 187,426(9.54%) 1.93 52.77% 2.20 64.04%
+45-54 164,620(8.38%) 165,997(8.45%) 2.55 58.28% 2.56 67.01%
+55-64 135,889(6.92%) 138,760(7.06%) 4.29 73.33% 3.54 77.06%
+65-74 95,032(4.84%) 107,207(5.46%) 6.54 84.62% 4.63 84.06%
+75-84 67,272(3.42%) 95,343(4.85%) 7.88 86.48% 5.45 85.34%
+85+ 17,091(0.87%) 40,774(2.08%) 6.54 72.44% 4.60 72.38%
+Total 957,544(48.75%) 1,006,793(51.25%) 3.00 63.01% 3.40 70.68%
+
+=== PÁGINA 5 ===
+Oruetaetal.BMCHealthServicesResearch2013,13:269 Page5of9
+http://www.biomedcentral.com/1472-6963/13/269
+Table2Coefficientsofdetermination(R2)forthecase-mixbasedmodelstopredictthehealthcostperpatient
+Demographicvariablesonly ACG-PM CRG DCG-HCC
+Outofthebox Variables:
+A&S+dx+rx+costpercentiles(age<65) 0,167
+A&S+dx+rx+costpercentiles(age65+) 0,164
+A&S+dx 0,135
+A&S+dx+cost 0,181
+A&S+dx+rx+cost 0,208
+Recalibration Variables
+AgeandSex(A&S): 0,071
+A&S+OnlyDx 0,182 0,181 0,213
+A&S+OnlyRx 0,165 - 0,178
+A&S+Dx+Rx 0,211 - 0,236
+A&S+Dx+Rx+costpercentile 0,231 0.218* 0,246
+A&S+Dx+Rx+cost 0,260 0.254* 0,269
+A&S+Dx+Rx+cost+DI 0,260 0.254* 0,269
+*TheCRGmodelsdonotincludeprescriptions.
+Agegroups:14–17;18–34;35–44;45–54;55–64;65–69;70–74;75–79;80–84;85+.
+Costgroupsinpercentiles:0–1;2–10;11–25;26–50;51–75;76–90;91–93;94–95;96–97;98+.
+Dxdiagnoses,Rxprescriptions,DIDeprivationindex.
+to those that use only age and sex and the same applies people with high needs over the next 12 months in an
+to the ACG model for patients over 65; the values from environment other than that for which they were
+the ACG model for younger patients are higher than designed and using other sources of information,
+both of the above, but the highest ofall are derived from namely, a publicly-funded universal coverage system and
+the DCG-HCC models. In the case of the recalibrated in the absence of an information system based on the
+models, the AUC values for the DCG-HCC and ACG- useofclaimdata.
+based models display similar behaviour and the AUC While age and sex can predict 7% of the variability in
+values from CRGmodelsarelower. cost, models that use clinical variables can predict three
+The inclusion of the deprivation index resulted in a times this amount and, when prior costs are added, this
+marginal improvement in the coefficients of determin- value is even higher, reaching 27%. In this case, the ob-
+ation for cost prediction or AUC for identifying patients served increase in the coefficients on addition of the
+with highneeds. deprivation index was very small. Moreover, out-of-the-
+box models would seem to be a reasonable alternative
+Discussion for use in situations such as organisations that serve
+Our study has revealed that the three case-mix systems smallpopulationsorthatlack sufficientdataforselfcali-
+used (ACG-PM, CRG and DCG-HCC) show sufficient bration. DCG-based models provided slightly higher ex-
+capability to predict use of health resources and identify planatory power and the inability to use prescriptions
+Table3MAPE(Meanabsolutepredictionerror)expressedasapercentageoftheaveragecostofdifferentmodels
+basedoncase-mixsystems,usingdifferentregressionmodels
+Linearregression(OLS) Two-part Hierarchicalmodels
+ACG-PM CRG DCG-HCC ACG-PM CRG DCG-HCC ACG-PM CRG DCG-HCC
+Recalibration Variables
+AgeandSex(A&S) 106.80% 109.09% 106.52%
+A&S+OnlyDx 92.36% 96.36% 91.26% 114.59% 104.74% 109.74% 95.27% 95.97% 91.52%
+A&S+OnlyRx 93.57% 91.87% 113.84% 115.74% 93.74% 91.98%
+A&S+Dx+Rx 88.41% 87.02% 114.96% 114.44% 89.87% 87.26%
+A&S+Dx+Rx+costpercentile 85.99% 87.70% 85.05% 98.52% 96.11% 97.92% 86.97% 87.72% 85.37%
+A&S+Dx+Rx+costpercentile+DI 86.02% 87.70% 85.06% 98.49% 96.09% 97.89% 86.97% 87.72% 85.37%
+Dxdiagnoses,Rxprescriptions,DIDeprivationindex.
+
+=== PÁGINA 6 ===
+Oruetaetal.BMCHealthServicesResearch2013,13:269 Page6of9
+http://www.biomedcentral.com/1472-6963/13/269
+Table4Areaunderthereceiveroperatingcharacteristics(ROC)curveofthecase-mixbasedlogisticregressionmodels
+toidentifypatientslocatedabovethe95thpercentileofhealthspending
+Demographicvariablesonly ACG-PM CRG DCG-HCC
+Outofthebox AUC 95%CI AUC 95%CI AUC 95%CI AUC 95%CI
+Variables:
+A&S+dx+rx+costpercentiles(age<65) 0,816 (0.813-0.818)
+A&S+dx+rx+costpercentiles(age65+) 0,761 (0.760-0.764)
+A&S+dx 0,787 (0.786-0.789) 0,824 (0.822-0.825)
+A&S+dx+rx+cost 0,852 (0.851-0.853)
+Recalibration
+Variables:
+A&S(Ageandsex) 0,774 (0.773-0.776)
+A&S+OnlyDx 0,845 (0.844-0.847) 0,797 (0.795-0.798) 0,846 (0.845-0.848)
+A&S+OnlyRx 0,833 (0.831-0.834) 0,837 (0.836-0.838)
+A&S+Dx+Rx 0,847 (0.853-0.856) 0,858 (0.857-0.859)
+A&S+Dx+Rx+costpercentile 0,868 (0.866-0.869) 0.848* (0.847-0.849) 0,868 (0.867-0.869)
+A&S+Dx+Rx+costpercentile+DI 0,868 (0.867-0.869) 0.848* (0.847-0.850) 0,868
+*TheCRGmodelsdonotincludeprescriptions.
+Agegroups:14–17;18–34;35–44;45–54;55–64;65–69;70–74;75–79;80–84;85+.
+Costgroupsinpercentiles:0–1;2–10;11–25;26–50;51–75;76–90;91–93;94–95;96–97;98+.
+Dxdiagnoses,RxPrescriptions,DIDeprivationindex.
+data in the CRG software was a limitation for making similar and are higher than those from CRG. However,
+comparisons with the latter. In this study, the use of regarding the out-of-the-box option, the DCG-HCC
+more complex statistical models than OLS did not pro- models showabetter behaviour.
+videanybenefits. This is the first study to compare three case-mix sys-
+As regards the ability of models to correctly detect tems in an entire geographical area, including some so-
+people that require large amounts of health resources, cial variables. Moreover, unlike other studies conducted
+the ACG-PM and DCG-HCC results are relatively in Europe [19,20], it combines patient information from
+Table5Areaunderthereceiveroperatingcharacteristics(ROC)curveofthecase-mixbasedlogisticregressionmodels
+toidentifypatientslocatedabovethe99thpercentileofhealthspending
+Demographicvariablesonly ACG-PM CRG DCG-HCC
+Outofthebox AUC 95%CI AUC 95%CI AUC 95%CI AUC 95%CI
+Variables:
+A&S+dx+rx+costpercentiles(age<65) 0,852 (0.847-0.857)
+A&S+dx+rx+costpercentiles(age65+) 0,779 (0.774-0.783)
+A&S+dx 0,814 (0.811-0.818) 0,858 (0.8556-0.861)
+A&S+dx+rx+cost 0,882 (0.880-0.885)
+Recalibration
+Variables:
+A&S(Ageandsex) 0,811 (0.809-0.814)
+A&S+OnlyDx 0,882 (0.880-0.884) 0,829 (0.826-0.832) 0,884 (0.882-0.886)
+A&S+OnlyRx 0,862 (0.859-0.864) 0,865 (0.863-0.868)
+A&S+Dx+Rx 0,889 (0.887-0.891) 0,892 (0.890-0.894)
+A&S+Dx+Rx+costpercentile 0,897 (0.895-0.899) 0,869* (0.866-0.871) 0,899 (0.897-0.901)
+A&S+Dx+Rx+costpercentile+DI 0,897 (0.895-0.899) 0,869* (0.866-0.872) 0,899 (0.897-0.902)
+*TheCRGmodelsdonotincludeprescriptions.
+Agegroups:14–17;18–34;35–44;45–54;55–64;65–69;70–74;75–79;80–84;85+.
+Costgroupsinpercentiles:0–1;2–10;11–25;26–50;51–75;76–90;91–93;94–95;96–97;98+.
+Dxdiagnoses,Rxprescriptions,DIDeprivationindex.
+
+=== PÁGINA 7 ===
+Oruetaetal.BMCHealthServicesResearch2013,13:269 Page7of9
+http://www.biomedcentral.com/1472-6963/13/269
+various sources: primary care, hospital admissions and by CGR categories shows a similar predictive ability to
+specialistoutpatientcare. the ACG-PM system, which uses a mixed system of cat-
+However, some limitations should be noted. First, our egories andregression.
+healthcare system has no direct cost-per-patient data; Beyond the predictive capability of the models, other
+these had to be calculated from the standard prices of considerations must be taken into account when
+provided services and in some cases (principally mental assessing a case-mix, such as transparency of their clas-
+health, rehabilitation, hospital at home and some aspects sificationmethods and their abilityto provideuseful in-
+ofdayhospital) theycould notbeobtained. formation from a clinical and not just financial point of
+Moreover,theinformationsourcesusedaresufficiently view. Although some simple methods, such as the
+complete for obtaining information on diagnoses in number of conditions or medications [28,29] have been
+hospitalised patients, but not in patients treated in out- used as a disease burden measure and, in some cases,
+patient specialty care or the hospital emergency depart- to predict mortality, health care costs, number of visits
+ment. With regard to primary care, as is the case or other variables. Nevertheless, models based on these
+elsewhere, in the Basque Country there is a degree of methods would have limited implementation given that
+underreporting of diagnoses and prescriptions in EMRs. they do not provide a comprehensive approach to the
+Also, diagnoses registered only once were accepted, actual population’ burden of diseases. Additionally, any
+which may have meant that some annotation or coding estimation based on such models would be seriously af-
+errors by doctors was overlooked. However, records of fected by the variability in clinical practice patterns
+primary care doctors tend to suffer from a lack of sensi- among clinical practitioners.
+tivity [21] but not specificity, so we do not consider that All three systems, employed in our study, categorise
+this would have exerted a significant effect. In any case, the diagnoses into clinically relevant groups (260 ACG-
+although it is known that the quality of diagnosis [22] PM, 547 CRG and 1,013 DCG) which in turn can easily
+and prescription [23] information does influence results, be collapsed into a smaller number of groups and show
+there is no reason to believe that these issues are im- a sufficient degree of granularity. The use of these
+portant enough to significantly affect our results, espe- groups, instead of all the registered ICD-9-CM codes,
+cially given that a requirement of these adjustment can decrease the influence of the diagnosis coding prac-
+models is their ability to work with imperfect data in the tices and also provide a manageable number of groups
+real world [3,4]. The use of population adjustment sys- to identify patients with a given disease or observe the
+tems requires the application of administrative databases distribution of diseases in population subgroups. The
+and other sources of information containing data col- DCG-HCC and ACG-PM systems also include an add-
+lected for other purposes, whose limitations are known itional method to identify diseases, based on prescrip-
+[24,25] and it is assumed that even in major chronic dis- tions. The records of prescribed medication provide a
+eases, for a proportion of patients receiving diagnoses in list of diseases that are being treated, which in our case
+a year, this information is not repeated in the codes has been particularly useful for obtaining data from pa-
+extractedduringthefollowingyear[3,26]. tients who only visit their primary care doctor to get
+Finally, a third limitation refers to the social variable prescriptions, because their condition is stable or be-
+used (deprivation index) which, given itsecological char- cause their disease is receiving care in outpatient
+acter, may underestimate the contribution of individual specialised care facilities. Moreover, the coding of drugs
+socioeconomiccharacteristics. is carried out automatically, which minimises errors and
+Our results agree with those found by other authors preventsmanipulation byclinicians.
+and support the robustness of these case-mix systems In contrast to USA [30] or other European countries
+[4,6,27]. They display comparable results despite having [31], in a national health system such as the Basque
+been conducted in countries with different types of Country, where the component organisations provide
+health systems, groups of people with different charac- healthcare to all the residents in a geographical area
+teristics to those of the general population or using dif- and the competition between them is very limited, the
+ferent scenarios for analysis, such as truncation of costs hazard of perverse patient selection practices is im-
+above acertainthreshold. Inourcase, notransformation possible. However, risk stratification systems have
+was performed ondata to achieve abetter fit. No patient other applications, such as identification of patients eli-
+was excluded for notbeing a healthcare user and neither gible for case-disease and case-management programs.
+were those who, due to death, did not complete the These interventions are designed to improve the quality
+second year. Although it is commonly accepted that and efficiency of care, especially those who are at risk of
+regression-based models are more flexible and predict having high future care needs. In any case, identification
+better than those that are cell-based [4-6], in our case ofthelattergroupwillbeoflittleinterest,unlesswithinit
+the classification of the population based on diagnoses those patients can be differentiated whose deterioration
+
+=== PÁGINA 8 ===
+Oruetaetal.BMCHealthServicesResearch2013,13:269 Page8of9
+http://www.biomedcentral.com/1472-6963/13/269
+can be avoided or mitigated by proactive actions by those situation is potentially preventable through the imple-
+that are in unmanageable situations. While previous cost mentationofproactiveinterventions.
+displays high explanatory power, it is strongly influenced
+by factorsotherthan healthcare needs [32,33] and,except Additional files
+when used as a complement to clinical variables, it does
+notenabletheidentificationoftargetpopulations. Additionalfile1:Classificationsystemsforpatientsanalysedinthe
+An imperative for the implementation of health study.
+programmes is that the entire population benefit. Al- Additionalfile2:Meanvaluesperpatientofadmissions,specialised
+andprimarycarevisits,byagegroups.
+though case-mix systems use multiple clinical data,
+other variables such as social variables also influence
+Abbreviations
+people’s health and care outcomes. For this reason, a ACG-PM:AdjustedClinicalGroups–predictivemodelling;ATC:Anatomical
+system that considers future care needs based on infor- TherapeuticChemicalsystem.;AUC:Areaundercurve;CRG:ClinicalRisk
+Groups;DCG-HCC:DiagnosticCostGroups/HierarchicalConditionCategories;
+mation from prior use may be unfair if there are social
+HIT:HealthInformationTechnologies;ICD-9-CM:InternationalClassificationof
+groups whose access to health services is less than their
+Diseases,9thRevision,ClinicalModification;MAPE:MeanAbsolutePrediction
+actual need [34]. Consequently, doubts could be raised Error;OLS:OrdinaryLeastSquares;ROC:Receiveroperatingcharacteristic.
+about ethical issues surrounding the implementation of
+Competinginterests
+population stratification, based on the possibility of en-
+Theauthorsdeclarethattheyhavenocompetinginterests.
+gendering subtle discrimination against patients in a
+moreseverestateof deprivation. In ourstudy, inclusion
+Authors’contributions
+Allauthorsparticipatedinthedesignofthestudy.JFOperformedthe
+of the deprivation index did not produce a significant
+validationofdatabases.MMwasresponsibleforstatisticalanalyses.JFO
+difference in the models’ ability, which is in line with wrotethedraftofmanuscript.Allauthorsparticipateininterpretationof
+another study carried out in Canada using administra- data,criticallyreviewedandgavefinalapprovaltothemanuscript.
+tive and survey data to predict the number of doctor
+Authordetails
+visits [35]. In any case, maintaining the social variables 1Osakidetza,BasqueHealthService,Bilbao,Spain.2O+berri,BasqueInstitute
+is justified as a means of ensuring greater equity in pa-
+forHealthcareInnovation,PlazaAsua1,48150,Sondika,Spain.3Department
+ofHealthandConsumerAffairs,BasqueGovernment,Vitoria,Spain.
+tientselection[36].
+This study analysed the predictive ability of models Received:18September2012Accepted:6July2013
+based primarily on diagnoses and prescriptions in the Published:9July2013
+total population over 14 years of age in a geographical
+References
+region. However, in order to implement management 1. BoydCM,FortinM:Futureofmultimorbidityresearch:howshould
+programmes for specific diseases, it would be appropri- understandingofmultimorbidityinformhealthsystemdesign?
+PublicHealthRev2010,32:451–474.
+atetoalsoknowthecapabilityofthesemodelswhenap-
+2. DepartmentofHealthandConsumerAffairsoftheBasqueGovernment:A
+plied to subgroups of patients diagnosed with these strategytotacklethechallengeofchronicityintheBasqueCountry.Vitoria,
+diseases.Furthermore,fromtheimplementationofHealth Spain;2010.Availableat:http://cronicidad.blog.euskadi.net/descargas/plan/
+ChronicityBasqueCountry.pdf.AccessedAugust21,2012.
+Information Technologies (HIT), new data can be ob-
+3. EllisR:RiskadjustmentinHealthcaremarkets.InFinancingHealthCare:
+tained that until now were not accessible [37], such as NewIdeasforaChangingSociety.EditedbyLuM,JonssonE.Weinheim,
+data on following clinical practice guidelines, patient
+RFG:Wiley-VCH;2007:177–219.
+4. WinkelmanR,MehmudS:AComparativeAnalysisofClaims-BasedToolsfor
+treatment adherence, life habits and risk factors, the in-
+HealthRiskAssessment.2007.Availableat:http://www.soa.org/Files/
+corporation of which will allow a better description of Research/Projects/risk-assessmentc.pdf.AccessedJune16,2012.
+thehealthofthepopulationandcouldimprovetheabil- 5. RakovskiCC,RosenAK,WangF,BerlowitzDR:PredictingElderlyatRiskof
+IncreasedFutureHealthcareUse:HowMuchDoesDiagnostic
+ityofpredictivemodels.
+InformationAddtoPriorUtilization?HealthServOutcomesResMethodol
+2002,3:267–277.
+6. WeirS,AwehG,ClarkRE:CaseselectionforaMedicaidchroniccare
+Conclusion
+managementprogram.HealthCareFinancRev2008,30:61–74.
+7. DeSalvoKB,JonesTM,PeabodyJ,McDonaldJ,FihnS,FanV,HeJ,Muntner
+Our study has shown that case-mix systems developed P:Healthcareexpenditurepredictionwithasingleitem,self-rated
+in the U.S. can be used in a publicly financed healthcare healthmeasure.MedCare2009,47(4):440–447.
+8. JohnsHopkinsUniversity,SchoolofPublicHealth:TheJohnsHopkins
+system with universal health insurance such as that of
+UniversityACGCase-MixSystem.Internetaddress:http://www.acg.jhsph.org/
+the Basque Country, to predict consumption of health index.php?option=com_content&view=article&id=46&Itemid=61.Accessed
+resources. Also, the additional use of information from August21,2012.
+9. VeriskHealth’sDxCGDCG_Methodology.Internetaddress:http://www.dxcg.
+diagnosesandprescriptionsmitigatessomeofthelimita-
+com/resources/library.AccessedAugust21,2012.
+tions attributable to the information systems in use and 10. 3M™ClinicalRiskGroupingSoftware.Internetaddress:http://solutions.3m.com/
+produces better results. The use of these systems allows wps/portal/3M/en_US/3M_Health_Information_Systems/HIS/Products/CRG/.
+11. RosenAK,ReidR,BroemelingAM,RakovskiCC:ApplyingaRisk-
+the identification of people at risk of requiring high
+AdjustmentFrameworktoPrimaryCare:CanWeImproveonExisting
+health resource consumption in the future and whose Measures?AnnFamMed2003,1:44–51.
+
+=== PÁGINA 9 ===
+Oruetaetal.BMCHealthServicesResearch2013,13:269 Page9of9
+http://www.biomedcentral.com/1472-6963/13/269
+12. ThomasAJ,EberlyLE,DaveySmithG,NeatonJD:MultipleRiskFactor 36. PanattoniLE,VaithianathanR,AshtonT,LewisGH:Predictiverisk
+InterventionTrial(MRFIT)ResearchGroup.ZIP-code-basedversustract- modellinginhealth:optionsforNewZealandandAustralia.
+basedincomemeasuresaslong-termrisk-adjustedmortalitypredictors. AustHealthRev2011,35:45–51.
+AmJEpidemiol2006,164:586–590. 37. WeinerJP,FowlesJB,ChanKS:Newparadigmsformeasuringclinical
+13. OruetaJF,UrracaJ,BerraondoI,DarpónJ,AurrekoetxeaJJ:Adjusted performanceusingelectronichealthrecords.IntJQualHealthCare2012,
+ClinicalGroups(ACGs)explaintheutilizationofprimarycareinSpain 24:200–205.
+basedoninformationregisteredinthemedicalrecords:across-sectional
+study.HealthPolicy2006,76:38–48. doi:10.1186/1472-6963-13-269
+14. Sicras-MainarA,Navarro-ArtiedaR:GrupodeestudioACG-BSA.Validación Citethisarticleas:Oruetaetal.:PredictiveriskmodellingintheSpanish
+retrospectivadelJohns-HopkinsACGCase-MixSystemenlapoblación population:across-sectionalstudy.BMCHealthServicesResearch
+Española.GacSanit2009,23:228–231. 201313:269.
+15. Nuño-SolinísR,OruetaJF,MateosM:Ananswertochronicityinthe
+BasqueCountry:primarycare-basedpopulationhealthmanagement.
+JAmbulCareManage2012,35:167–173.
+16. OruetaJF,UrracaJ,BerraondoI,DarpónJ:Canprimarycarephysiciansuse
+theICD-9-CM?Anevaluationofthequalityofdiagnosiscodingin
+computerizedmedicalrecords.GacSanit2006,20(3):194–201.Spanish.
+17. TheWHOCollaboratingCentreforDrugStatisticsMethodology:
+InternationallanguagefordrugutilizationresearchATC/DDD.2012.Available
+at:http://www.whocc.no/.AccessedApril18,2012.
+18. Domínguez-BerjónMF,BorrellC,Cano-SerralG,EsnaolaS,NolascoA,
+PasarínMI,RamisR,SaurinaC,Escolar-PujolarA:Construccióndeuníndice
+deprivaciónapartirdedatoscensalesengrandesciudadesespañolas:
+(MEDEAProject).GacSanit2008,22:179–187.
+19. BehrendC,BuchnerF,HappichM,HolleR,ReitmeirP,WasemJ:Risk-
+adjustedcapitationpayments:howwelldoprincipalinpatientdiagnosis-
+basedmodelsworkintheGermansituation?Resultsfromalargedata
+set.EurJHealthEcon2007,8:31–39.
+20. vanKleefRC,vanVlietRC:Improvingriskequalizationusingmultiple-year
+highcostasahealthindicator.MedCare2012,50:140–144.
+21. BarnettK,MercerSW,NorburyM,WattG,WykeS,GuthrieB:Epidemiologyof
+multimorbidityandimplicationsforhealthcare,research,andmedical
+education:across-sectionalstudy.Lancet2012.Epubaheadofprint.
+22. FleishmanJA,CohenJW:Usinginformationonclinicalconditionsto
+predicthigh-costpatients.HealthServRes2010,45:532–552.
+23. KuoRN,DongYH,LiuJP,ChangCH,ShauWY,LaiMS:Predicting
+healthcareutilizationusingapharmacy-basedmetricwiththeWHO’s
+AnatomicTherapeuticChemicalalgorithm.MedCare2011,49:1031–1039.
+24. RileyGF:Administrativeandclaimsrecordsassourcesofhealthcarecost
+data.MedCare2009,47:S51–S55.
+25. LixL,YogendranM,BurchillC,MetgeC,McKeenN,MooreD,BondR:
+DefiningandValidatingChronicDiseases:AnAdministrativeDataApproach.
+Winnipeg:ManitobaCentreforHealthPolicy;2006.
+26. FrognerBK,AndersonGF,CohenRA,AbramsC:Incorporatingnew
+researchintoMedicareriskadjustment.MedCare2011,49:295–300.
+27. MeenanRT,GoodmanMJ,FishmanPA,HornbrookMC,O’Keeffe-RosettiMC,
+BachmanDJ:Usingrisk-adjustmentmodelstoidentifyhigh-costrisks.
+MedCare2003,41:1301–1312.
+28. PerkinsAJ,KroenkeK,UnützerJ,KatonW,WilliamsJWJr,HopeC,Callahan
+CM:Commoncomorbidityscalesweresimilarintheirabilitytopredict
+healthcarecostsandmortality.JClinEpidemiol2004,57:1040–1048.
+29. BrillemanSL,SalisburyC:Comparingmeasuresofmultimorbidityto
+predictoutcomesinprimarycare:acrosssectionalstudy.FamPract
+2013,30(2):172–178.doi:10.1093/fampra/cms060.Epub2012Oct8.
+30. WeinerJP,TrishE,AbramsC,LemkeK:Adjustingforriskselectioninstate
+healthinsuranceexchangeswillbecriticallyimportantandfeasible,but
+noteasy.HealthAff(Millwood)2012,31:306–315.
+31. vandeVenWP,BeckK,VandeVoordeC,WasemJ,ZmoraI:Risk Submit your next manuscript to BioMed Central
+adjustmentandriskselectioninEurope:6yearslater.HealthPolicy2007, and take full advantage of:
+83:162–179.
+32. MonheitAC:Persistenceinhealthexpendituresintheshortrun:
+prevalenceandconsequences.MedCare2003,41:III53–III64. • Convenient online submission
+33. AshAS,ZhaoY,EllisRP,KramerMS:Findingfuturehigh-costcases: • Thorough peer review
+comparingpriorcostversusdiagnosis-basedmethods.HealthServRes • No space constraints or color figure charges
+2001,36:194–206.
+34. AsthanaS,GibsonA:Settinghealthcarecapitationsthroughdiagnosis- • Immediate publication on acceptance
+basedriskadjustment:asuitablemodelfortheEnglishNHS? • Inclusion in PubMed, CAS, Scopus and Google Scholar
+HealthPolicy2011,101:133–139.
+• Research which is freely available for redistribution
+35. SibleyLM,MoineddinR,AghaMM,GlazierRH:Riskadjustmentusing
+administrativedata-basedandsurvey-derivedmethodsforexplaining
+physicianutilization.MedCare2010,48:175–182. Submit your manuscript at
+www.biomedcentral.com/submit
