@@ -99,7 +99,6 @@ a pergunta é sobre o tema.
 
 - Como se calcula o IDRA?
 - Como se decide em que nível da pirâmide de Kaiser fica cada utente?
-- O que tenho de registar em termos de diagnósticos numa urgência hospitalar?
 - O que recomenda a OMS sobre estratificação pelo risco?
 - Em que países é usado o sistema ACG?
 
