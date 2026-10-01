@@ -97,10 +97,65 @@ a pergunta é sobre o tema.
 
 ## Exemplos de perguntas
 
-- Como se calcula o IDRA?
-- Como se decide em que nível da pirâmide de Kaiser fica cada utente?
-- O que recomenda a OMS sobre estratificação pelo risco?
-- Em que países é usado o sistema ACG?
+A skill dá o melhor de si em perguntas que obrigam a cruzar documentos, a distinguir o que
+as fontes dizem do que se pode inferir, ou a transformar um problema da ULS num plano de
+análise. Alguns exemplos:
+
+**IDRA e financiamento**
+
+- O que é o efeito de diluição no cálculo do financiamento pelo IDRA? Como funciona?
+- Se a ULS investir em prevenção e o IDRA descer, o financiamento desce também? O que
+  dizem as fontes sobre isso e o que está previsto para o compensar?
+- De que formas pode o IDRA de uma ULS subir sem que a saúde da população piore, e descer
+  sem que ela melhore?
+- O IDRA da minha ULS desceu de 2024 para 2025 e o Conselho de Administração quer
+  apresentá-lo como ganho em saúde. Que leituras alternativas tenho de excluir primeiro?
+
+**Pirâmide de Kaiser, GRA, GN e NUR**
+
+- Se a população ficar mais saudável, o número de utentes em risco muito alto diminui?
+  Como se definem os cortes de cada nível e o que muda de um ano para o outro?
+- Os relatórios da ACSS dão números diferentes para a pirâmide de Kaiser de 2024. Que
+  versões existem, de onde vem cada uma e em que diferem?
+- O que acontece no modelo a um utente sem diagnósticos registados ou que não usou o SNS?
+  Em que GRA fica, com que peso, e que efeito tem isso na ULS?
+- Qual é a diferença entre o peso relativo do GRA e a probabilidade de internamento a 12
+  meses? O que mede cada um e para que decisões serve?
+- Em que difere a regra portuguesa dos percentis 80 e 95 dos níveis de risco que o
+  software ACG calcula por omissão?
+
+**Usar o BI-ER para responder a um problema da ULS**
+
+- Se quiser estudar reconciliação terapêutica, que variáveis tenho disponíveis no BI-ER e
+  que limitações têm?
+- Quero caracterizar os utilizadores frequentes da urgência (10 ou mais episódios num
+  ano). Que separadores e campos das análises ad-hoc uso, e que utentes ficam de fora?
+- Quero avaliar se um programa de gestão de caso reduziu as urgências e os internamentos.
+  Que campos permitem comparar o antes e o depois, e o que é que eles não medem?
+- Quero identificar idosos frágeis ou com multimorbilidade de alta complexidade para um
+  programa de prevenção de quedas. Que outputs do ACG servem para isso e quais estão
+  disponíveis no BI-ER?
+- Que custos entram no BI-ER, com que preços são calculados e que cuidados ficam de fora?
+
+**Registo e organização**
+
+- Que diagnósticos alimentam a estratificação, de que sistemas vêm e em que classificação
+  estão? O que se perde quando um diagnóstico não é registado na consulta externa ou na
+  urgência?
+- O que compete ao ILER e à equipa local segundo a circular normativa e o relatório do
+  projeto, e em que áreas de trabalho se concentraram as ULS?
+
+**Comparações e enquadramento**
+
+- Porque escolheu Portugal o ACG e não o CRG ou o ICU? Que critérios pesaram e como foi
+  feita a aquisição?
+- Como usam a Suécia e o Minnesota o ACG para ajustar a capitação, e que lições de
+  implementação são relevantes para o modelo das ULS?
+- Que evidência há de que o ACG prevê bem os custos e a utilização fora dos EUA? Compara
+  os estudos de validação que estão na base.
+
+A skill responde com o documento e a página de cada facto e assinala o que é inferência.
+Quando a base não tem a resposta (por exemplo, o valor do contrato do ACG), diz isso.
 
 ## Referências
 
